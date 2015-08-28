@@ -17,10 +17,13 @@ $(MUSTACHE):
 %.docx: %.commonform %.title $(BLANKS) $(COMMONFORM)
 	commonform render --format docx --blanks $(BLANKS) --title "$(shell cat $*.title)" < $*.commonform > $@
 
-.PHONY: test
+.PHONY: clean test
 
 test:
 	@for form in $(FORMS); do \
 		echo $$form; \
 		$(COMMONFORM) lint < $$form && echo 'No structural errors'; \
 	done
+
+clean:
+	git clean -fdx
