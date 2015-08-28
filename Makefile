@@ -5,7 +5,7 @@ BLANKS=blanks.json
 
 all: $(FORMS:.commonform=.docx)
 
-$(CF):
+$(COMMONFORM):
 	npm i --save commonform-cli
 
 $(MUSTACHE):
@@ -19,7 +19,7 @@ $(MUSTACHE):
 
 .PHONY: clean test
 
-test:
+test: $(COMMONFORM)
 	@for form in $(FORMS); do \
 		echo $$form; \
 		$(COMMONFORM) lint < $$form && echo 'No structural errors'; \
@@ -27,3 +27,9 @@ test:
 
 clean:
 	git clean -fdx
+
+share: $(COMMONFORM)
+	@for form in $(FORMS); do \
+		echo $$form; \
+		$(COMMONFORM) share < $$form; \
+	done
