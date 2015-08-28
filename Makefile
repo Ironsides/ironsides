@@ -14,8 +14,8 @@ $(MUSTACHE):
 %.title: %.title-mustache $(BLANKS) $(MUSTACHE)
 	$(MUSTACHE) $(BLANKS) $*.title-mustache > $@
 
-%.docx: %.commonform %.title $(COMMONFORM)
-	commonform render --format docx --title "$(shell cat $*.title)" < $*.commonform > $@
+%.docx: %.commonform %.title $(BLANKS) $(COMMONFORM)
+	commonform render --format docx --blanks $(BLANKS) --title "$(shell cat $*.title)" < $*.commonform > $@
 
 .PHONY: test
 
