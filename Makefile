@@ -11,8 +11,8 @@ $(CF):
 $(MUSTACHE):
 	npm i --save mustache
 
-%.title: %.title-mustache $(BLANKS) $(MUSTACHE)
-	$(MUSTACHE) $(BLANKS) $*.title-mustache > $@
+%.title: %.title-template $(BLANKS) $(MUSTACHE)
+	$(MUSTACHE) $(BLANKS) $*.title-template > $@
 
 %.docx: %.commonform %.title $(BLANKS) $(COMMONFORM)
 	commonform render --format docx --blanks $(BLANKS) --title "$(shell cat $*.title)" < $*.commonform > $@
