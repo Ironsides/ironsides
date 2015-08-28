@@ -3,7 +3,11 @@ COMMONFORM=node_modules/.bin/commonform
 MUSTACHE=node_modules/.bin/mustache
 BLANKS=blanks.json
 
-all: $(FORMS:.commonform=.docx)
+all: docx html
+
+docx: $(FORMS:.commonform=.docx)
+
+html: $(FORMS:.commonform=.html)
 
 $(COMMONFORM):
 	npm i --save commonform/commonform-cli
@@ -16,6 +20,9 @@ $(MUSTACHE):
 
 %.docx: %.commonform %.title $(BLANKS) $(COMMONFORM)
 	commonform render --format docx --blanks $(BLANKS) --title "$(shell cat $*.title)" < $*.commonform > $@
+
+%.html: %.commonform %.title $(BLANKS) $(COMMONFORM)
+	commonform render --format html5 --blanks $(BLANKS) --title "$(shell cat $*.title)" < $*.commonform > $@
 
 .PHONY: clean test
 
