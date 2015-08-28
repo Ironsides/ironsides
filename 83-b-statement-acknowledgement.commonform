@@ -1,0 +1,19 @@
+!! IF YOU WISH TO MAKE A SECTION 83(B) ELECTION, THE FILING OF SUCH ELECTION IS YOUR RESPONSIBILITY.
+
+!! THE FORM FOR MAKING THIS SECTION 83(B) ELECTION IS ATTACHED TO THIS AGREEMENT.
+
+!! YOU MUST FILE THIS FORM WITHIN 30 DAYS OF PURCHASING THE SHARES.
+
+!! YOU (AND NOT THE COMPANY, ANY OF ITS AGENTS OR ANY OTHER PERSON) SHALL BE SOLELY RESPONSIBLE FOR FILING SUCH FORM WITH THE IRS, EVEN IF YOU REQUEST THE COMPANY, ITS AGENTS OR ANY OTHER PERSON TO MAKE THIS FILING ON YOUR BEHALF AND EVEN IF THE COMPANY, ANY OF ITS AGENTS OR ANY OTHER PERSON HAs PREVIOUSLY MADE THIS FILING ON YOUR BEHALF.
+
+!! The election should be filed by mailing a signed election form by certified mail, return receipt requested to the IRS Service Center where you file your tax returns. See www.irs.gov.
+
+\\ The undersigned has entered into a stock purchase agreement with [Company Name], a Delaware corporation (the ""Company""), pursuant to which the undersigned is purchasing __________ shares of Common Stock of the <Company> (the ""Shares""). In connection with the purchase of the <Shares>, the undersigned hereby represents as follows:
+
+    \\ The undersigned has carefully reviewed the stock purchase agreement pursuant to which the undersigned is purchasing the <Shares>.
+
+    \\ The undersigned {{#Tax Advisor}}has consulted, and has been fully advised by, the undersigned's own tax advisor, [Tax Advisor Name], whose business address is [Tax Advisor Address], regarding the federal, state and local tax consequences of purchasing the <Shares>, and particularly regarding the advisability of making elections pursuant to Section 83(b) of the Internal Revenue Code of 1986, as amended (the ""Code"") and pursuant to the corresponding provisions, if any, of applicable state law{{/Tax Advisor}}{{^Tax Advisor}}has knowingly chosen not to consult such a tax advisor regarding the federal, state and local tax consequences of purchasing the <Shares>, and particularly regarding the advisability of making elections pursuant to Section 83(b) of the Internal Revenue Code of 1986, as amended (the ""Code"") and pursuant to the corresponding provisions, if any, of applicable state law{{/Tax Advisor}}.
+
+    \\ The undersigned hereby states that the undersigned has decided {{#Making Election}} to make an election pursuant to Section 83(b) of the <Code>, and is submitting to the <Company>, together with the undersigned's executed stock purchase agreement, an executed form entitled "Election Under Section 83(b) of the Internal Revenue Code of 1986."{{/Making Election}}{{^Making Election}} not to make an election pursuant to Section 83(b) of the <Code>.{{/Making Election}}
+
+    \\ Neither the <Company> nor any subsidiary or representative of the <Company> has made any warranty or representation to the undersigned with respect to the tax consequences of the undersigned's purchase of the <Shares> or of the making or failure to make an election pursuant to Section 83(b) of the <Code> or the corresponding provisions, if any, of applicable state law.
