@@ -6,7 +6,7 @@ BLANKS=blanks.json
 all: $(FORMS:.commonform=.docx)
 
 $(COMMONFORM):
-	npm i --save commonform-cli
+	npm i --save commonform/commonform-cli
 
 $(MUSTACHE):
 	npm i --save mustache
