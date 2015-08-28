@@ -19,10 +19,10 @@ $(MUSTACHE):
 	$(MUSTACHE) $(BLANKS) $*.title-template > $@
 
 %.docx: %.commonform %.title $(BLANKS) $(COMMONFORM)
-	commonform render --format docx --blanks $(BLANKS) --title "$(shell cat $*.title)" < $*.commonform > $@
+	$(COMMONFORM) render --format docx --blanks $(BLANKS) --title "$(shell cat $*.title)" < $*.commonform > $@
 
 %.html: %.commonform %.title $(BLANKS) $(COMMONFORM)
-	commonform render --format html5 --blanks $(BLANKS) --title "$(shell cat $*.title)" < $*.commonform > $@
+	$(COMMONFORM) render --format html5 --blanks $(BLANKS) --title "$(shell cat $*.title)" < $*.commonform > $@
 
 .PHONY: clean test
 
