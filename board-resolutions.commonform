@@ -14,7 +14,7 @@ Resolutions \\ In accordance with Section 141(f) of the Delaware General Corpora
 
     Officers \\ Resolved: That the Chief Executive Officer is authorized to sign and deliver any agreement in the name of the <Company> and to otherwise obligate the <Company> in any respect relating to matters of the business of the <Company>, and to delegate such authority in his or her discretion, within budgets approved by the <Board>.
 
-{{^Certificated Shares}}
+# {{^Certificated Shares}}
 
     Uncertificated Stock \\
 
@@ -22,13 +22,13 @@ Resolutions \\ In accordance with Section 141(f) of the Delaware General Corpora
 
         \\ Resolved further: That the officers are authorized and directed to send a written notice to record owners of shares of uncertificated stock in accordance with the Delaware General Corporation Law (upon the request of such record owner) substantially in the form provided herewith to the <Board> with such changes deemed necessary or advisable by the officers, in consultation with legal counsel.
 
-{{/Certificated Shares}}
+# {{/Certificated Shares}}
 
-{{^Certificated Shares}}
+# {{^Certificated Shares}}
 
     Stock Certificate \\ Resolved: That the stock certificate representing the Common Stock of the <Company> shall be in the form of the stock certificate attached hereto as {Form Of Stock Certificate}, with such appropriate information entered thereon as to the capitalization of the <Company> at the time of issuance and otherwise as may be required by the Delaware General Corporation Law.
 
-{{/Certificated Shares}}
+# {{/Certificated Shares}}
 
     Sale and Issuance of Stock \\
 
@@ -70,7 +70,7 @@ Resolutions \\ In accordance with Section 141(f) of the Delaware General Corpora
 
         \\ Resolved further: That the standard form of corporate banking or financial resolutions of such banks or financial institutions necessary to accomplish the foregoing resolution and showing the persons authorized to draw on such account, are approved and adopted as the resolutions of this <Board>, and the officers are authorized to execute, certify, and deliver a copy thereof to such banks or financial institutions as the resolutions of this <Company>.
 
-    {{#Adopting Stock Plan}}
+# {{#Adopting Stock Plan}}
 
     Adoption of Stock Plan \\
 
@@ -82,7 +82,7 @@ Resolutions \\ In accordance with Section 141(f) of the Delaware General Corpora
 
         \\ Resolved further: That the officers of the <Company>, in consultation with legal counsel, are authorized and directed to take any and all additional actions and file any other documents necessary to carry out the intent and purposes of the foregoing resolutions, including seeking stockholder approval of the <Plan> and qualifying or exempting the issuance of securities under the <Plan> from the registration requirements of the [Title of Securities Law Statute].
 
-    {{/Adopting Stock Plan}}
+# {{/Adopting Stock Plan}}
 
     Ratification \\ Resolved: That all actions taken heretofore by the Incorporator, officers and directors with respect to all matters contemplated by the foregoing resolutions and the transactions contemplated thereby are hereby approved, adopted, ratified and confirmed.
 
@@ -92,9 +92,11 @@ In accordance with the <Company>'s Bylaws, this action may be executed in writin
 
 Initial Stock Issuance Table \\
 
-{{#Stock Purchasers}}
+# {{#Stock Purchasers}}
+
     \\ {{Purchaser}} shall be issued {{Shares}} shares of {{Security}}.
-{{/Stock Purchasers}}
+
+# {{/Stock Purchasers}}
 
 Form(s) Of Stock Purchase Agreement \\ (Attached)
 
