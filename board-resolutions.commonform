@@ -58,17 +58,11 @@ Resolutions \\ In accordance with Section 141(f) of the Delaware General Corpora
 
         \\ Resolved further: That the <Company> elects to deduct currently its organizational expenses, as that term is defined by Section 248 of the Internal Revenue Code of 1986, as amended (the ""Code""), to the maximum extent provided in Section 248 of the <Code> and to amortize the balance of its organizational expenses over a period of one hundred eighty (180) months beginning with the month in which the <Company> begins business; and that the officers are authorized and directed to take such action as necessary to effectuate this election.
 
-    Withholding Taxes \\
+    Withholding Taxes \\ Resolved: That the officers are authorized and directed to consult with the bookkeeper, auditors and attorneys of the <Company> in order to be fully informed as to, and to collect and pay promptly when due, all withholding taxes for which the <Company> may now be (or hereafter become) liable.
 
-        \\ Resolved: That the officers are authorized and directed to consult with the bookkeeper, auditors and attorneys of the <Company> in order to be fully informed as to, and to collect and pay promptly when due, all withholding taxes for which the <Company> may now be (or hereafter become) liable.
+    Qualification to Do Business \\ Resolved: That the officers of the <Company> are authorized to take any and all steps that they deem to be necessary to qualify the <Company> to do business as a foreign corporation in each state that the officers determine such qualification to be necessary or appropriate.
 
-    Qualification to Do Business \\
-
-        \\ Resolved: That the officers of the <Company> are authorized to take any and all steps that they deem to be necessary to qualify the <Company> to do business as a foreign corporation in each state that the officers determine such qualification to be necessary or appropriate.
-
-    Indemnification Agreement \\
-
-        \\ Resolved: That the <Company> shall enter into an Indemnification Agreement substantially in the form attached to these resolutions as {Form Of Indemnification Agreement} with each of the <Company>'s present and future directors and officers.
+    Indemnification Agreement \\ Resolved: That the <Company> shall enter into an Indemnification Agreement substantially in the form attached to these resolutions as {Form Of Indemnification Agreement} with each of the <Company>'s present and future directors and officers.
 
     Management of Fiscal Affairs \\
 
@@ -90,17 +84,17 @@ Resolutions \\ In accordance with Section 141(f) of the Delaware General Corpora
 
     {{/Adopting Stock Plan}}
 
-    Ratification \\
+    Ratification \\ Resolved: That all actions taken heretofore by the Incorporator, officers and directors with respect to all matters contemplated by the foregoing resolutions and the transactions contemplated thereby are hereby approved, adopted, ratified and confirmed.
 
-        \\ Resolved: That all actions taken heretofore by the Incorporator, officers and directors with respect to all matters contemplated by the foregoing resolutions and the transactions contemplated thereby are hereby approved, adopted, ratified and confirmed.
+    Omnibus Resolution \\ Resolved: That each of the officers is authorized and empowered to take all such actions (including, without limitation, soliciting appropriate consents or waivers from stockholders) and to execute and deliver all such documents as may be necessary or advisable to carry out the intent and accomplish the purposes of the foregoing resolutions and to effect any transactions contemplated thereby and the performance of any such actions and the execution and delivery of any such documents shall be conclusive evidence of the approval of the <Board> thereof and all matters relating thereto.
 
-    Omnibus Resolution \\
+In accordance with the <Company>'s Bylaws, this action may be executed in writing, or consented to by electronic transmission, in any number of counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same action.
 
-         \\ Resolved: That each of the officers is authorized and empowered to take all such actions (including, without limitation, soliciting appropriate consents or waivers from stockholders) and to execute and deliver all such documents as may be necessary or advisable to carry out the intent and accomplish the purposes of the foregoing resolutions and to effect any transactions contemplated thereby and the performance of any such actions and the execution and delivery of any such documents shall be conclusive evidence of the approval of the <Board> thereof and all matters relating thereto.
+Initial Stock Issuance Table \\
 
-    In accordance with the <Company>'s Bylaws, this action may be executed in writing, or consented to by electronic transmission, in any number of counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same action.
-
-Initial Stock Issuance Table \\ (Attached)
+{{#Stock Purchasers}}
+    \\ {{Purchaser}} shall be issued {{Shares}} shares of {{Security}}.
+{{/Stock Purchasers}}
 
 Form(s) Of Stock Purchase Agreement \\ (Attached)
 
