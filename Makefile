@@ -9,11 +9,16 @@ docx: $(FORMS:.commonform=.docx)
 
 html: $(FORMS:.commonform=.html)
 
+pdf: $(FORMS:.commonform=.pdf)
+
 $(COMMONFORM):
 	npm i
 
 $(MUSTACHE):
 	npm i
+
+%.pdf: %.docx
+	doc2pdf $<
 
 %.title: %.title-template $(BLANKS) $(MUSTACHE)
 	$(MUSTACHE) $(BLANKS) $*.title-template > $@
