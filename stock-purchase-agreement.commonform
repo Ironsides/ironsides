@@ -1,4 +1,4 @@
-Agreement \\
+\\
 
     \\ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effective Date] by and between [Company Name], a Delaware corporation (the ""Company""), and [Purchaser Name] (""Purchaser"").
 
@@ -116,7 +116,7 @@ Agreement \\
 
     Lock-up Agreement \\ If so requested by the <Company> or the underwriters in connection with the initial public offering of the <Company>'s securities registered under the Securities Act of 1933, as amended, <Purchaser> shall not sell, make any short sale of, loan, grant any option for the purchase of, or otherwise dispose of any securities of the <Company> however or whenever acquired (except for those being registered) without the prior written consent of the <Company> or such underwriters, as the case may be, for 180 days from the effective date of the registration statement, plus such additional period, to the extent required by FINRA rules, up to a maximum of 216 days from the effective date of the registration statement, and <Purchaser> shall execute an agreement reflecting the foregoing as may be requested by the underwriters at the time of such offering.
 
-    Escrow of Unvested Shares \\ For purposes of facilitating the enforcement of the provisions of {Limitations on Transfer}, <Purchaser> agrees to deliver a Stock Power in the form attached to this <Agreement> as Exhibit A executed by <Purchaser> and by <Purchaser>'s spouse (if required for transfer), in blank, and such stock certificate(s), if any, to the Secretary of the <Company>, or the Secretary's designee, to hold such <Shares> (and stock certificate(s), if any) and Stock Power in escrow and to take all such actions and to effectuate all such transfers and/or releases as are required in accordance with the terms of this <Agreement>. <Purchaser> hereby acknowledges that the Secretary of the <Company>, or the Secretary's designee, is so appointed as the escrow holder with the foregoing authorities as a material inducement to make this <Agreement> and that said appointment is coupled with an interest and is accordingly irrevocable. <Purchaser> agrees that said escrow holder shall not be liable to any party hereof (or to any other party). The escrow holder may rely upon any letter, notice or other document executed by any signature purported to be genuine and may resign at any time. <Purchaser> agrees that if the Secretary of the <Company>, or the Secretary's designee, resigns as escrow holder for any or no reason, the Board of Directors of the <Company> shall have the power to appoint a successor to serve as escrow holder pursuant to the terms of this <Agreement>.
+    Escrow of Unvested Shares \\ For purposes of facilitating the enforcement of the provisions of {Limitations on Transfer}, <Purchaser> agrees to deliver a Stock Power in the form attached to this <Agreement> as {Stock Power} executed by <Purchaser> and by <Purchaser>'s spouse (if required for transfer), in blank, and such stock certificate(s), if any, to the Secretary of the <Company>, or the Secretary's designee, to hold such <Shares> (and stock certificate(s), if any) and Stock Power in escrow and to take all such actions and to effectuate all such transfers and/or releases as are required in accordance with the terms of this <Agreement>. <Purchaser> hereby acknowledges that the Secretary of the <Company>, or the Secretary's designee, is so appointed as the escrow holder with the foregoing authorities as a material inducement to make this <Agreement> and that said appointment is coupled with an interest and is accordingly irrevocable. <Purchaser> agrees that said escrow holder shall not be liable to any party hereof (or to any other party). The escrow holder may rely upon any letter, notice or other document executed by any signature purported to be genuine and may resign at any time. <Purchaser> agrees that if the Secretary of the <Company>, or the Secretary's designee, resigns as escrow holder for any or no reason, the Board of Directors of the <Company> shall have the power to appoint a successor to serve as escrow holder pursuant to the terms of this <Agreement>.
 
     Investment and Taxation Representations \\ In connection with the purchase of the Shares, <Purchaser> represents to the <Company> the following:
 
@@ -260,11 +260,7 @@ Agreement \\
 
             \\ sign documents electronically and agrees to participate through an on-line or electronic system established and maintained by the <Company> or a third party designated by the <Company>.
 
-# {{#California}}
-
-        California Corporate Securities Law !! The sale of the securities which are the subject of this <Agreement> has not been qualified with the Commissioner of Business Oversight of the State of California and the issuance of the securities or the payment or receipt of any part of the consideration therefor prior to the qualification is unlawful, unless the sale of securities is exempt from qualification by Section 25100, 25102 or 25105 of the California Corporations Code. The rights of all parties to this <Agreement> are expressly conditioned upon the qualification being obtained, unless the sale is so exempt.
-
-# {{/California}}
+\\ No schedules.
 
 Stock Power \\ See attached.
 

@@ -20,16 +20,16 @@ $(MUSTACHE):
 %.pdf: %.docx
 	doc2pdf $<
 
-%.title: %.title-template $(BLANKS) $(MUSTACHE)
-	$(MUSTACHE) $(BLANKS) $*.title-template > $@
+%.options: %.options-template $(BLANKS) $(MUSTACHE)
+	$(MUSTACHE) $(BLANKS) $*.options-template > $@
 
-%.docx: %.commonform %.title $(BLANKS) $(COMMONFORM) $(MUSTACHE)
+%.docx: %.commonform %.options $(BLANKS) $(COMMONFORM) $(MUSTACHE)
 	$(MUSTACHE) $(BLANKS) $*.commonform | \
-	$(COMMONFORM) render --format docx --number outline --blanks $(BLANKS) --title "$(shell cat $*.title)" > $@
+	$(COMMONFORM) render --format docx --blanks $(BLANKS) $(shell cat $*.options) > $@
 
-%.html: %.commonform %.title $(BLANKS) $(COMMONFORM)
+%.html: %.commonform %.options $(BLANKS) $(COMMONFORM)
 	$(MUSTACHE) $(BLANKS) $*.commonform | \
-	$(COMMONFORM) render --format html5 --blanks $(BLANKS) --title "$(shell cat $*.title)" > $@
+	$(COMMONFORM) render --format html5 --blanks $(BLANKS) $(shell cat $*.options) > $@
 
 .PHONY: clean test variants
 
