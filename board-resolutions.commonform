@@ -102,10 +102,18 @@ Form(s) Of Stock Purchase Agreement \\ (Attached)
 
 Form Of Indemnification Agreement \\ (Attached)
 
+# {{#Adopting Stock Plan}}
+
 Form Of Stock Plan \\ (Attached)
 
 Form Of Option Agreement \\ (Attached)
 
 Form Of Restricted Stock Purchase Agreement \\ (Attached)
 
+# {{/Adopting Stock Plan}}
+
+# {{#Certificated Shares}}
+
 Form Of Stock Certificate \\ (Attached)
+
+# {{/Certificated Shares}}
