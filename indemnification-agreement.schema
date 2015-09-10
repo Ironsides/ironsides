@@ -1,0 +1,5 @@
+{ "Change of Control": [ true, false ],
+  "Information Sharing": [ true, false ],
+  "Third-Party Indemnification": [ true, false ],
+  "Indemnification of Control Person": [ true, false ],
+  "Third-Party Acquisition Threshold Percentage": [ "20%" ] }
