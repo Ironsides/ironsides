@@ -26,7 +26,7 @@
 
 # {{/Certificated Shares}}
 
-# {{^Certificated Shares}}
+# {{#Certificated Shares}}
 
     Stock Certificate \\ Resolved: That the stock certificate representing the Common Stock of the <Company> shall be in the form of the stock certificate attached hereto as {Form Of Stock Certificate}, with such appropriate information entered thereon as to the capitalization of the <Company> at the time of issuance and otherwise as may be required by the Delaware General Corporation Law.
 
