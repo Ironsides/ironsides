@@ -100,7 +100,7 @@ In accordance with the <Company>'s Bylaws, this action may be executed in writin
 
 # {{#Stock Purchasers}}
 
-        {{Purchaser}} \\
+        {{Name}} \\
 
             Shares \\ {{Number of Shares}} shares of {{Security}}
 
