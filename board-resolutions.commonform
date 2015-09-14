@@ -100,13 +100,13 @@ In accordance with the <Company>'s Bylaws, this action may be executed in writin
 
 # /* #Stock Purchasers */
 
-        /* Name */ \\
+        /* &Name */ \\
 
-            Shares \\ /* Number of Shares */ shares of /* Security */
+            Shares \\ /* &Number of Shares */ shares of /* &Security */
 
-            Consideration \\ /* #Paying By Check *//* Total Purchase Price *//* /Paying By Check *//* #Assigning IP */assignment of intellectual property/* /Assigning IP */
+            Consideration \\ /* #Paying By Check *//* &Total Purchase Price *//* /Paying By Check *//* #Assigning IP */assignment of intellectual property/* /Assigning IP */
 
-            Vesting \\ /* Percentage of Shares Subject to Vesting */ of the shares are subject to vesting. /* Cliff Shares */ shall vest on /* Cliff Date */ and /* Vesting Increment */ shall vest monthly thereafter./* #Change of Control */ In the event of a <Change of Control>, /* Acceleration Percentage */ of the shares shall vest on a /* #Double-Trigger Vesting */double trigger basis/* /Double-Trigger Vesting *//* ^Double-Trigger Vesting */single trigger basis/* /Double-Trigger Vesting */./* /Change of Control */
+            Vesting \\ /* &Percentage of Shares Subject to Vesting */ of the shares are subject to vesting. /* &Cliff Shares */ shall vest on /* &Cliff Date */ and /* &Vesting Increment */ shall vest monthly thereafter./* #Change of Control */ In the event of a <Change of Control>, /* &Acceleration Percentage */ of the shares shall vest on a /* #Double-Trigger Vesting */double trigger basis/* /Double-Trigger Vesting *//* ^Double-Trigger Vesting */single trigger basis/* /Double-Trigger Vesting */./* /Change of Control */
 
 # /* /Stock Purchasers */
 
