@@ -14,7 +14,7 @@
 
 # {{/Certificated Shares}}
 
-    Consideration for Shares \\ As consideration for the <Shares>, <Purchaser> will deliver the <Aggregate Purchase Price> by {{#Assigning Assets}}an assignment of certain assets as set forth in the {{#Assigning IP}}Assignment of IP and Other Assets{{/Assigning IP}} {{#Assigning Patent}}Patent Assignment{{/Assigning Patent}} in the form attached to this <Agreement> as {Form Assignment Of IP And Other Assets} {{#Assigning Patent}}and {Form of Patent Assignment},{{/Assigning Patent}}{{/Assigning Assets}} {{#Paying By Check}}check made out to the <Company>{{/Paying By Check}}.
+    Consideration for Shares \\ As consideration for the <Shares>, <Purchaser> will deliver the <Aggregate Purchase Price> by {{#Assigning Assets}}an assignment of certain assets as set forth in the {{#Assigning IP}}Assignment of IP and Other Assets{{/Assigning IP}} {{#Assigning Patent}}Patent Assignment{{/Assigning Patent}} in the form attached to this <Agreement> as {Form of Assignment of IP And Other Assets} {{#Assigning Patent}}and {Form of Patent Assignment},{{/Assigning Patent}}{{/Assigning Assets}} {{#Paying By Check}}check made out to the <Company>{{/Paying By Check}}.
 
     Limitations on Transfer \\ <Purchaser> shall not assign, encumber or dispose of any interest in the <Shares> except to the extent permitted by, and in compliance with the provisions below{{#Transfer Restrictions in Bylaws}}, the transfer restrictions set forth in the <Company>'s Bylaws{{/Transfer Restrictions in Bylaws}} and applicable securities laws.
 
@@ -268,7 +268,7 @@ Acknowledgment and Statement of Decision Regarding Section 83(b) Election \\ See
 
 Election Under Section 83(b) of the Internal Revenue Code of 1986 \\ See attached.
 
-Form of Assignment Of IP And Other Assets \\ See attached.
+Form of Assignment of IP And Other Assets \\ See attached.
 
 Form of Patent Assignment \\ See attached.
 
