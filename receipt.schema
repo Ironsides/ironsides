@@ -1,2 +1,2 @@
-{ "Paid By Check": [ true, false ],
-  "Paid By Assignment": [ true, false ] }
+{ "Paying By Check": [ true, false ],
+  "Paying By Assignment": [ true, false ] }
