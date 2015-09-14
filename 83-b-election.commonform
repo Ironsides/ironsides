@@ -1,3 +1,5 @@
+# {{=/* */=}}
+
 \\ The undersigned taxpayer hereby elects, pursuant to Section 83(b) of the Internal Revenue Code, to include in taxpayer's gross income for the current taxable year, the amount of any compensation taxable to taxpayer in connection with taxpayer's receipt of the property described below:
 
 \\ The name, address, taxpayer identification number and taxable year of the undersigned are as follows:
@@ -26,7 +28,7 @@
 
     \\ The fair market value at the time of transfer, determined without regard to any restriction other than a restriction which by its terms will never lapse, of such property is: [Total Purchase Price].
 
-\\ The amount (if any) paid for such property: {{#Assigning IP}}Paid for with property having a value of [Total Purchase Price] and equivalent to the value of the Shares{{/Assigning IP}}{{#Paying By Check}}[Total Purchase Price]{{/Paying By Check}}.
+\\ The amount (if any) paid for such property: /* #Assigning IP */Paid for with property having a value of [Total Purchase Price] and equivalent to the value of the Shares/* /Assigning IP *//* #Paying By Check */[Total Purchase Price]/* /Paying By Check */.
 
 \\ The undersigned has submitted a copy of this statement to the person for whom the services were performed in connection with the undersigned's receipt of the above-described property. The transferee of such property is the person performing the services in connection with the transfer of said property.
 

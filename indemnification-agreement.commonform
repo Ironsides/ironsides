@@ -1,3 +1,5 @@
+# {{=/* */=}}
+
 \\ This Indemnification Agreement (this ""Agreement"") is made as of [Effective Date], by and between [Company Name], a Delaware corporation (the ""Company""), and [Name] (""Indemnitee"").
 
 Recitals \\ The <Company> and <Indemnitee> recognize the increasing difficulty in obtaining liability insurance for directors, officers and key employees, the significant increases in the cost of such insurance and the general reductions in the coverage of such insurance.  The <Company> and <Indemnitee> further recognize the substantial increase in corporate litigation in general, subjecting directors, officers and key employees to expensive litigation risks at the same time as the availability and coverage of liability insurance has been severely limited.  <Indemnitee> does not regard the current protection available as adequate under the present circumstances, and <Indemnitee> may not be willing to continue to serve in <Indemnitee>'s current capacity with the <Company> without additional protection.  The <Company> desires to attract and retain the services of highly qualified individuals, such as <Indemnitee>, and to indemnify its directors, officers and key employees so as to provide them with the maximum protection permitted by law.
@@ -38,7 +40,7 @@ Indemnification Procedure \\
 
         Determination and Payment \\  Subject to the foregoing, promptly after receipt of a statement requesting payment with respect to the indemnification rights set forth in {Indemnification}, to the extent required by applicable law, the <Company> shall take the steps necessary to authorize such payment in the manner set forth in Section 145 of the Delaware General Corporation Law.  The <Company> shall pay any claims made under this <Agreement>, under any statute, or under any provision of the <Company>'s Certificate of Incorporation or Bylaws providing for indemnification or advancement of <Expenses>, within thirty (30) days after a written request for payment thereof has first been received by the <Company>, and if such claim is not paid in full within such thirty (30) day-period, <Indemnitee> may, but need not, at any time thereafter bring an action against the <Company> in the Delaware Court of Chancery to recover the unpaid amount of the claim and, subject to {Attorneys' Fees}, <Indemnitee> shall also be entitled to be paid for all <Expenses> actually and reasonably incurred by <Indemnitee> in connection with bringing such action.  It shall be a defense to any such action (other than an action brought to enforce a claim for advancement of <Expenses> under {Advancement of Expenses}) that <Indemnitee> has not met the standards of conduct which make it permissible under applicable law for the <Company> to indemnify <Indemnitee> for the amount claimed.  In making a determination with respect to entitlement to indemnification hereunder, the person or persons or entity making such determination shall presume that <Indemnitee> is entitled to indemnification under this <Agreement> and the <Company> shall have the burden of proof to overcome that presumption with clear and convincing evidence to the contrary.  The termination of any <Proceeding> by judgment, order, settlement, conviction, or upon a plea of nolo contendere or its equivalent, shall not, of itself, create a presumption that <Indemnitee> did not act in good faith and in a manner which <Indemnitee> reasonably believed to be in or not opposed to the best interests of the <Company>, or, in the case of a criminal <Proceeding>, that <Indemnitee> had reasonable cause to believe that <Indemnitee>'s conduct was unlawful.  In addition, it is the parties' intention that if the <Company> contests <Indemnitee>'s right to indemnification, the question of <Indemnitee>'s right to indemnification shall be for the court to decide, and neither the failure of the <Company> (including its Board of Directors, any committee or subgroup of the Board of Directors, independent legal counsel, or its stockholders) to have made a determination that indemnification of <Indemnitee> is proper in the circumstances because <Indemnitee> has met the applicable standard of conduct required by applicable law, nor an actual determination by the <Company> (including its Board of Directors, any committee or subgroup of the Board of Directors, independent legal counsel, or its stockholders) that <Indemnitee> has not met such applicable standard of conduct, shall create a presumption that <Indemnitee> has or has not met the applicable standard of conduct.  If any requested determination with respect to entitlement to indemnification hereunder has not been made within ninety (90) days after the final disposition of the <Proceeding>, the requisite determination that <Indemnitee> is entitled to indemnification shall be deemed to have been made.
 
-        # {{#Change of Control}}
+        # /* #Change of Control */
 
         Change of Control \\  Notwithstanding any other provision in this <Agreement>, if a <Change of Control> has occurred, any person or body appointed by the Board of Directors in accordance with applicable law to review the <Company>'s obligations hereunder and under applicable law shall be <Independent Counsel> selected by <Indemnitee> and approved by the <Company> (which approval shall not be unreasonably withheld).  Such counsel, among other things, will render its written opinion to the <Company> and <Indemnitee> as to whether and to what extent <Indemnitee> would be entitled to be indemnified hereunder under applicable law and the <Company> agrees to abide by such opinion.  The <Company> agrees to pay the reasonable fees of the <Independent Counsel> referred to above and to indemnify fully such counsel against any and all expenses (including attorneys' fees), claims, liabilities and damages arising out of or relating to this <Agreement> or its engagement pursuant hereto.  Notwithstanding any other provision of this <Agreement>, the <Company> shall not be required to pay <Expenses> of more than one <Independent Counsel> in connection with all matters concerning a single <Indemnitee>, and such <Independent Counsel> shall be the <Independent Counsel> for any or all other <Indemnitee>s unless
 
@@ -46,7 +48,7 @@ Indemnification Procedure \\
 
             \\ any <Indemnitee> shall provide a written statement setting forth in detail a reasonable objection to such <Independent Counsel> representing other indemnitees under agreements similar to this <Agreement>.
 
-        # {{/Change of Control}}
+        # /* /Change of Control */
 
     Payment Directions \\  To the extent payments are required to be made hereunder, the <Company> shall, in accordance with <Indemnitee>'s request (but without duplication),
 
@@ -86,19 +88,19 @@ Additional Indemnification Rights \\
 
     Interest on Unpaid Amounts \\  If any payment to be made by the <Company> to <Indemnitee> hereunder is delayed by more than ninety (90) days from the date the duly prepared request for such payment is received by the <Company>, interest shall be paid by the <Company> to <Indemnitee> at the legal rate under Delaware law for amounts which the <Company> indemnifies or is obligated to indemnify for the period commencing with the date on which <Indemnitee> actually incurs such <Expense> or pays such judgment, fine or amount in settlement and ending with the date on which such payment is made to <Indemnitee> by the <Company>.
 
-    # {{#Information Sharing}}
+    # /* #Information Sharing */
 
     Information Sharing \\  If <Indemnitee> is the subject of or is implicated in any way during an investigation, whether formal or informal, the <Company> shall share with <Indemnitee> any information the <Company> has furnished to any third parties concerning the investigation provided that, at the time such information is so furnished to such third party, <Indemnitee> continues to serve in one or more capacities giving rise to the <Company>'s indemnification obligations under {Indemnification}.
 
-    # {{/Information Sharing}}
+    # /* /Information Sharing */
 
-    # {{#Third-Party Indemnification}}
+    # /* #Third-Party Indemnification */
 
     Third-Party Indemnification \\  The <Company> hereby acknowledges that <Indemnitee> has or may from time to time obtain certain rights to indemnification, advancement of expenses and/or insurance provided by one or more third parties (each a ""Third-Party Indemnitor"" and collectively, the ""Third-Party Indemnitors"").  The <Company> hereby agrees that it is the indemnitor of first resort (i.e., its obligations to <Indemnitee> are primary and any obligation of the <Third-Party Indemnitors> to advance expenses or to provide indemnification for the same expenses or liabilities incurred by <Indemnitee> are secondary), and that the <Company> will not assert that the <Indemnitee> must seek expense advancement or reimbursement, or indemnification, from any <Third-Party Indemnitor> before the <Company> must perform its expense advancement and reimbursement, and indemnification obligations, under this <Agreement>.  No advancement or payment by the <Third-Party Indemnitors> on behalf of <Indemnitee> with respect to any claim for which <Indemnitee> has sought indemnification from the <Company> shall affect the foregoing.  The <Third-Party Indemnitors> shall be subrogated to the extent of such advancement or payment to all of the rights of recovery which <Indemnitee> would have had against the <Company> if the <Third-Party Indemnitors> had not advanced or paid any amount to or on behalf of <Indemnitee>.  If for any reason a court of competent jurisdiction determines that the <Third-Party Indemnitors> are not entitled to the subrogation rights described in the preceding sentence, the <Third-Party Indemnitors> shall have a right of contribution by the <Company> to the <Third-Party Indemnitors> with respect to any advance or payment by the <Third-Party Indemnitors> to or on behalf of the <Indemnitee>.
 
-    # {{/Third-Party Indemnification}}
+    # /* /Third-Party Indemnification */
 
-    # {{#Indemnification of Control Person}}
+    # /* #Indemnification of Control Person */
 
     Indemnification of Control Person \\  If
 
@@ -110,7 +112,7 @@ Additional Indemnification Rights \\
 
     then the <Control Person> shall be entitled to all of the indemnification rights and remedies under this <Agreement> to the same extent as <Indemnitee>.
 
-    # {{/Indemnification of Control Person}}
+    # /* /Indemnification of Control Person */
 
 Partial Indemnification \\  If <Indemnitee> is entitled under any provision of this <Agreement> to indemnification by the <Company> for some or a portion of the <Expenses>, judgments, fines or amounts paid in settlement, actually and reasonably incurred in connection with a <Proceeding>, but not, however, for the total amount thereof, the <Company> shall nevertheless indemnify <Indemnitee> for the portion of such <Expenses>, judgments, fines and amounts paid in settlement to which <Indemnitee> is entitled.
 
@@ -182,11 +184,11 @@ Defined Terms and Phrases \\  For purposes of this <Agreement>, the following te
 
     \\ ""Expenses"" (each, an ""Expense"") shall include all direct and indirect costs, fees and expenses of any type or nature whatsoever, including all attorneys' fees and costs, retainers, court costs, transcript costs, fees of experts, witness fees, travel expenses, fees of private investigators and professional advisors, duplicating costs, printing and binding costs, telephone charges, postage, delivery service fees, any federal, state, local or foreign taxes imposed on <Indemnitee> as a result of the actual or deemed receipt of any payment under this <Agreement> (including taxes that may be imposed upon the actual or deemed receipt of payments under this <Agreement> with respect to the imposition of federal, state, local or foreign taxes), fax transmission charges, secretarial services and all other disbursements, obligations or expenses in connection with prosecuting, defending, preparing to prosecute or defend, investigating, being or preparing to be a witness in, settlement or appeal of, or otherwise participating in a <Proceeding>.  <Expenses> also shall include any of the forgoing expenses incurred in connection with any appeal resulting from any <Proceeding>, including the principal, premium, security for, and other costs relating to any costs bond, supersedes bond, or other appeal bond or its equivalent.  <Expenses> also shall include any interest, assessment or other charges imposed thereon and costs incurred in preparing statements in support of payment requests hereunder.  <Expenses>, however, shall not include amounts paid in settlement by <Indemnitee> or the amount of judgments or fines against <Indemnitee>.
 
-    # {{#Change of Control}}
+    # /* #Change of Control */
 
     \\ ""Independent Counsel"" means an attorney or firm of attorneys, selected in accordance with the provisions of {Change of Control}, who will not have otherwise performed services for the <Company> or <Indemnitee> within the last three years (other than with respect to matters concerning the rights of <Indemnitee> under this <Agreement>, or of other indemnitees under similar indemnity agreements).
 
-    # {{/Change of Control}}
+    # /* /Change of Control */
 
     \\ ""Person"" shall have the meaning as set forth in Section 13(d) and 14(d) of the Exchange Act as in effect on the date hereof; provided, however, that <Person> shall exclude:
 
@@ -232,14 +234,14 @@ Miscellaneous \\
 
     Company Position \\  The <Company> shall be precluded from asserting, in any <Proceeding> brought for purposes of establishing, enforcing or interpreting any right to indemnification under this <Agreement>, that the procedures and presumptions of this <Agreement> are not valid, binding and enforceable and shall stipulate in any such court that the <Company> is bound by all the provisions of this <Agreement> and is precluded from making any assertion to the contrary.
 
-# {{#Third-Party Indemnification}}
+# /* #Third-Party Indemnification */
 
     Subrogation \\  Subject to {Third-Party Indemnification}, in the event of payment under this <Agreement>, the <Company> shall be subrogated to the extent of such payment to all of the rights of recovery of <Indemnitee>, who shall execute all documents required and shall do all acts that may be necessary to secure such rights and to enable the <Company> to effectively bring suit to enforce such rights.
 
-# {{/Third-Party Indemnification}}
+# /* /Third-Party Indemnification */
 
-# {{^Third-Party Indemnification}}
+# /* ^Third-Party Indemnification */
 
     Subrogation \\  In the event of payment under this <Agreement>, the <Company> shall be subrogated to the extent of such payment to all of the rights of recovery of <Indemnitee>, who shall execute all documents required and shall do all acts that may be necessary to secure such rights and to enable the <Company> to effectively bring suit to enforce such rights.
 
-# {{/Third-Party Indemnification}}
+# /* /Third-Party Indemnification */

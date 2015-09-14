@@ -1,3 +1,5 @@
+# {{=/* */=}}
+
 Corporate Offices \\
 
     Offices \\ In addition to the corporation's registered office set forth in the Certificate of Incorporation, the Board of Directors may at any time establish other offices at any place or places where the corporation is qualified to do business.
@@ -282,7 +284,7 @@ General Matters \\
 
     Fiscal Year \\ The fiscal year of the corporation shall be fixed by resolution of the Board of Directors and may be changed by the Board of Directors.
 
-# {{#Stock Transfer Restrictions}}
+# /* #Stock Transfer Restrictions */
 
     Transfer Restrictions \\
 
@@ -309,7 +311,7 @@ General Matters \\
         # Optional
         # \\ The foregoing transfer restrictions set forth in {Transfer Restrictions} shall not apply to any sale of shares of the corporation's Founders Preferred tock> to the extent such sale is made in accordance with the provisions set forth in the certificate of incorporation in the manner necessary to cause such shares to convert into shares of the Subsequent Preferred Stock (as defined in the certificate of incorporation).
 
-# {{/Stock Transfer Restrictions}}
+# /* /Stock Transfer Restrictions */
 
     Transfer Of Stock \\ Upon receipt by the corporation or the transfer agent of the corporation of proper transfer instructions from the record holder of uncertificated shares or upon surrender to the corporation or the transfer agent of the corporation of a certificate for shares duly endorsed or accompanied by proper evidence of succession, assignation or authority to transfer, it shall be the duty of the corporation to issue a new certificate or, in the case of uncertificated securities and upon request, a notice of issuance of shares, to the person entitled thereto, cancel the old certificate (if any) and record the transaction in its books.
 
