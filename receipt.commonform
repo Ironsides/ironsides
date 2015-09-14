@@ -1,4 +1,2 @@
 \\ [Company Name], a Delaware corporation (the ""Company""), hereby acknowledges receipt of {{#Paid By Check}}a check in the amount of [Check Amount]{{/Paid By Check}}
-{{#Paid By Assignment}}the assignment of certain intellectual property and/or other assets having an aggregate value equal to [Value of Assets]{{/Paid By Assignment}}.
-
-\\ given by [Company Name] as consideration for [Number of Shares] shares of Common Stock of the <Company> recorded on the books of the <Company> as Certificate No. [Stock Certificate Number].
+{{#Paid By Assignment}}the assignment of certain intellectual property and/or other assets having an aggregate value equal to [Total Purchase Price]{{/Paid By Assignment}} given by [Purchaser] as consideration for [Number of Shares] shares of Common Stock of the <Company> recorded on the books of the <Company> as Certificate No. [Stock Certificate Number].
