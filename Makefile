@@ -1,15 +1,24 @@
+BLANKS=blanks.json
 FORMS=$(wildcard *.commonform)
 COMMONFORM=node_modules/.bin/commonform
 MUSTACHE=node_modules/.bin/mustache
-BLANKS=blanks.json
+JSON=node_modules/.bin/json
+FOUNDERS=1 2
+PER_COMPANY=action-of-incorporator board-resolutions bylaws certificate-of-incorporation incorporator-certificate-of-adoption indemnification-agreement indemnification-agreement-resolutions secretary-certificate-of-adption
+PER_FOUNDER=stock-purchase-agreement assignment-of-other-assets stock-power receipt 83-b-election receipt-and-consent 83-b-statement-acknowledgement indemnification-agreement
+FOUNDER=$(foreach form,$(PER_FOUNDER),$(foreach founder,$(FOUNDERS),$(form)-$(founder)))
+PDFS=$(FORMS:.commonform=.pdf) $(FOUNDER:=.pdf)
 
-all:
+all: pdfs.zip
 
-docx: $(FORMS:.commonform=.docx)
+pdfs.zip: pdf
+	zip $@ $(PDFS)
 
-html: $(FORMS:.commonform=.html)
+docx: $(PER_COMPANY:=.docx) $(FOUNDER:=.docx)
 
-pdf: $(FORMS:.commonform=.pdf)
+html: $(PER_COMPANY:=.html) $(FOUNDER:=.html)
+
+pdf: $(PER_COMPANY:=.pdf) $(FOUNDER:=.pdf)
 
 $(COMMONFORM):
 	npm i
@@ -29,6 +38,12 @@ $(JSON):
 
 %.options: %.options-template $(BLANKS) $(MUSTACHE)
 	$(MUSTACHE) $(BLANKS) $*.options-template > $@
+
+%-1.docx: %.commonform %.options 1.json $(COMMONFORM) $(MUSTACHE)
+	$(MUSTACHE) 1.json $*.commonform | $(COMMONFORM) render --format docx --blanks 1.json $(shell cat $*.options) > $@
+
+%-2.docx: %.commonform %.options 2.json $(COMMONFORM) $(MUSTACHE)
+	$(MUSTACHE) 2.json $*.commonform | $(COMMONFORM) render --format docx --blanks 2.json $(shell cat $*.options) > $@
 
 %.docx: %.commonform %.options $(BLANKS) $(COMMONFORM) $(MUSTACHE)
 	$(MUSTACHE) $(BLANKS) $*.commonform | \
