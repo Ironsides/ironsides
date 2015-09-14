@@ -17,8 +17,15 @@ $(COMMONFORM):
 $(MUSTACHE):
 	npm i
 
+$(JSON):
+	npm i
+
 %.pdf: %.docx
 	doc2pdf $<
+
+%.json: $(BLANKS) $(JSON)
+	node -e "var j = require('./$(BLANKS)'); console.log(JSON.stringify(j), '\n', JSON.stringify(j['Stock Purchasers'][$* - 1]))"  | \
+	$(JSON) --merge > $@
 
 %.options: %.options-template $(BLANKS) $(MUSTACHE)
 	$(MUSTACHE) $(BLANKS) $*.options-template > $@
