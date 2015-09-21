@@ -31,22 +31,30 @@ $(JSON):
 %.pdf: %.docx
 	doc2pdf $<
 
-%.json: $(BLANKS) $(JSON)
+%.blanks.json: $(BLANKS) $(JSON)
 	node -e "var j = require('./$(BLANKS)'); console.log(JSON.stringify(j), '\n', JSON.stringify(j['Stock Purchasers'][$* - 1]))"  | \
 	$(JSON) --merge > $@
+
+%-1.sigs.json: 1.blanks.json %.sigs.json $(MUSTACHE)
+	$(MUSTACHE) 1.blanks.json $*.sigs.json > $@
+
+%-2.sigs.json: 2.blanks.json %.sigs.json $(MUSTACHE)
+	$(MUSTACHE) 2.blanks.json $*.sigs.json > $@
 
 %.options: %.options-template $(BLANKS) $(MUSTACHE)
 	$(MUSTACHE) $(BLANKS) $*.options-template > $@
 
-%-1.docx: %.commonform %.options 1.json $(COMMONFORM) $(MUSTACHE)
-	$(MUSTACHE) 1.json $*.commonform | $(COMMONFORM) render --format docx --blanks 1.json $(shell cat $*.options) > $@
+%-1.docx: %.commonform %.options %-1.sigs.json 1.blanks.json $(COMMONFORM) $(MUSTACHE)
+	$(MUSTACHE) 1.blanks.json $*.commonform | \
+	$(COMMONFORM) render --format docx --blanks 1.blanks.json --signatures $*-1.sigs.json $(shell cat $*.options) > $@
 
-%-2.docx: %.commonform %.options 2.json $(COMMONFORM) $(MUSTACHE)
-	$(MUSTACHE) 2.json $*.commonform | $(COMMONFORM) render --format docx --blanks 2.json $(shell cat $*.options) > $@
+%-2.docx: %.commonform %.options %-2.sigs.json 2.blanks.json $(COMMONFORM) $(MUSTACHE)
+	$(MUSTACHE) 2.blanks.json $*.commonform | \
+	$(COMMONFORM) render --format docx --blanks 2.blanks.json --signatures $*-2.sigs.json $(shell cat $*.options) > $@
 
-%.docx: %.commonform %.options $(BLANKS) $(COMMONFORM) $(MUSTACHE)
+%.docx: %.commonform %.options %.sigs.json $(BLANKS) $(COMMONFORM) $(MUSTACHE)
 	$(MUSTACHE) $(BLANKS) $*.commonform | \
-	$(COMMONFORM) render --format docx --blanks $(BLANKS) $(shell cat $*.options) > $@
+	$(COMMONFORM) render --format docx --blanks $(BLANKS) --signatures $*.sigs.json $(shell cat $*.options) > $@
 
 %.html: %.commonform %.options $(BLANKS) $(COMMONFORM)
 	$(MUSTACHE) $(BLANKS) $*.commonform | \
