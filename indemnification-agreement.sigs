@@ -1,0 +1,11 @@
+[ { "header": "The parties have executed this Agreement as of the date set forth above.",
+    "term": "Company",
+    "entities": [
+      { "name": "{{{Company Name}}}",
+        "jurisdiction": "Delaware",
+        "form": "corporation" } ],
+    "information": [ "address" ] },
+  { "header": "The parties have executed this Agreement as of the date set forth above.",
+    "term": "Indemnitee",
+    "information": [ "address", "email" ],
+    "name": "{{{Name}}}" } ]
