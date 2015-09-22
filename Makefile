@@ -35,11 +35,11 @@ $(JSON):
 	node -e "var j = require('./$(BLANKS)'); console.log(JSON.stringify(j), '\n', JSON.stringify(j['Stock Purchasers'][$* - 1]))"  | \
 	$(JSON) --merge > $@
 
-%-1.sigs.json: 1.blanks.json %.sigs.json $(MUSTACHE)
-	$(MUSTACHE) 1.blanks.json $*.sigs.json > $@
+%-1.sigs.json: 1.blanks.json %.sigs $(MUSTACHE)
+	$(MUSTACHE) 1.blanks.json $*.sigs > $@
 
-%-2.sigs.json: 2.blanks.json %.sigs.json $(MUSTACHE)
-	$(MUSTACHE) 2.blanks.json $*.sigs.json > $@
+%-2.sigs.json: 2.blanks.json %.sigs $(MUSTACHE)
+	$(MUSTACHE) 2.blanks.json $*.sigs > $@
 
 %.options: %.options-template $(BLANKS) $(MUSTACHE)
 	$(MUSTACHE) $(BLANKS) $*.options-template > $@
@@ -51,6 +51,9 @@ $(JSON):
 %-2.docx: %.commonform %.options %-2.sigs.json 2.blanks.json $(COMMONFORM) $(MUSTACHE)
 	$(MUSTACHE) 2.blanks.json $*.commonform | \
 	$(COMMONFORM) render --format docx --blanks 2.blanks.json --signatures $*-2.sigs.json $(shell cat $*.options) > $@
+
+%.sigs.json: %.sigs $(BLANKS) $(MUSTACHE)
+	$(MUSTACHE) $(BLANKS) $*.sigs | sed 's/,]/]/' > $@
 
 %.docx: %.commonform %.options %.sigs.json $(BLANKS) $(COMMONFORM) $(MUSTACHE)
 	$(MUSTACHE) $(BLANKS) $*.commonform | \

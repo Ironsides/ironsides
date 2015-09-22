@@ -4,6 +4,7 @@
   "Change of Control": true,
   "Company Name": "NewCo, Inc.",
   "Description of Business": "software the achievement of much good",
+  "Directors": [ "Jane Founder", "Joe Founder", "Adam Advisor" ],
   "Execution Date": "December 30, 2014",
   "Effective Date": "January 1, 2015",
   "Governing Law State": "the State of California",
