@@ -1,0 +1,7 @@
+[ { "header": "The Company executes this receipt as of the date written below.",
+    "term": "Company",
+    "entities": [
+      { "name": "{{{Company Name}}}",
+        "jurisdiction": "Delaware",
+        "form": "corporation" } ],
+    "information": [ "date" ] } ]
