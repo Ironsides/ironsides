@@ -59,6 +59,10 @@ $(JSON):
 	$(MUSTACHE) $(BLANKS) $*.commonform | \
 	$(COMMONFORM) render --format docx --blanks $(BLANKS) --signatures $*.sigs.json $(shell cat $*.options) > $@
 
+%.docx: %.commonform %.options $(BLANKS) $(COMMONFORM) $(MUSTACHE)
+	$(MUSTACHE) $(BLANKS) $*.commonform | \
+	$(COMMONFORM) render --format docx --blanks $(BLANKS) $(shell cat $*.options) > $@
+
 %.html: %.commonform %.options $(BLANKS) $(COMMONFORM)
 	$(MUSTACHE) $(BLANKS) $*.commonform | \
 	$(COMMONFORM) render --format html5 --blanks $(BLANKS) $(shell cat $*.options) > $@
