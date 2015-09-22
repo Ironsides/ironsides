@@ -1,7 +1,7 @@
 {
   "private": true,
   "devDependencies": {
-    "commonform-cli": "commonform/commonform-cli#sigpages",
+    "commonform-cli": "^0.9.0",
     "mustache": "~2.1.3",
     "possible-objects": "~1.0.0"
   },
