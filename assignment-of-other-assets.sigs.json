@@ -1,0 +1,15 @@
+[ { "header": "In witness whereof, the undersigned have executed this Agreement effective as of the date and year first above written.",
+    "term": "Assignor",
+    "information": [ "address", "email" ],
+    "name": "{{{Name}}}" },
+{{#Spouse}}
+  { "header": "In witness whereof, the undersigned have executed this Agreement effective as of the date and year first above written.",
+    "name": "{{{Spouse}}}" },
+{{/Spouse}}
+  { "header": "In witness whereof, the undersigned have executed this Agreement effective as of the date and year first above written.",
+    "term": "Company",
+    "entities": [
+      { "name": "{{{Company Name}}}",
+        "jurisdiction": "Delaware",
+        "form": "corporation" } ],
+    "information": [ "address" ] } ]
