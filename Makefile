@@ -67,9 +67,9 @@ $(JSON):
 	$(MUSTACHE) $(BLANKS) $*.commonform | \
 	$(COMMONFORM) render --format html5 --blanks $(BLANKS) $(shell cat $*.options) > $@
 
-.PHONY: clean test variants
+.PHONY: clean test variants critique
 
-variants:
+variants: $(FORMS)
 	rm -rf variants
 	for form in $(FORMS); do \
 		base=$$(basename $$form .commonform) ; \
@@ -82,6 +82,11 @@ test: variants $(COMMONFORM)
 		echo $$variant; \
 		$(COMMONFORM) lint < $$variant; \
 	done; \
+
+critique: $(FORMS) $(COMMONFORM)
+	for form in $(FORMS); do \
+		$(COMMONFORM) critique < $$form; \
+	done
 
 clean:
 	git clean -fdx
