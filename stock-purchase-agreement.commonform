@@ -1,24 +1,22 @@
-# {{=/* */=}}
-
 \\
 
     \\ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effective Date] by and between [Company Name], a Delaware corporation (the ""Company""), and [Name] (""Purchaser"").
 
-# /* #Certificated Shares */
+# {{#Certificated Shares}}
 
     Sale of Stock \\  Subject to the terms and conditions of this <Agreement>, simultaneously with the execution and delivery of this <Agreement> by the parties or on such other date as the <Company> and <Purchaser> shall agree (the ""Purchase Date""), the <Company> will issue and sell to <Purchaser>, and <Purchaser> agrees to purchase from the <Company>, [Number of Shares] shares of the <Company>'s Common Stock (the ""Shares"") at a purchase price of [Purchase Price] per share for a total purchase price of [Total Purchase Price] (the ""Aggregate Purchase Price""). On the <Purchase Date>, <Purchaser> will deliver the <Aggregate Purchase Price> to the <Company> and the <Company> will enter the <Shares> in <Purchaser>'s name as of such date in the books and records of the <Company> or, if applicable, a duly authorized transfer agent of the <Company>. The <Company> will deliver to <Purchaser> a stock certificate representing the <Shares> as soon as practicable following such date. As used elsewhere herein, the term "<Shares>" refers to all of the <Shares> purchased hereunder and all securities received in connection with the <Shares> pursuant to stock dividends or splits, all securities received in replacement of the <Shares> in a recapitalization, merger, reorganization, exchange or the like, and all new, substituted or additional securities or other property to which <Purchaser> is entitled by reason of <Purchaser>'s ownership of the <Shares>.
 
-# /* /Certificated Shares */
+# {{/Certificated Shares}}
 
-# /* ^Certificated Shares */
+# {{^Certificated Shares}}
 
     Sale of Stock \\  Subject to the terms and conditions of this <Agreement>, simultaneously with the execution and delivery of this <Agreement> by the parties or on such other date as the <Company> and <Purchaser> shall agree (the ""Purchase Date""), the <Company> will issue and sell to <Purchaser>, and <Purchaser> agrees to purchase from the <Company>, [Number of Shares] shares of the <Company>'s Common Stock (the ""Shares"") at a purchase price of [Purchase Price] per share for a total purchase price of [Total Purchase Price] (the ""Aggregate Purchase Price""). On the <Purchase Date>, <Purchaser> will deliver the <Aggregate Purchase Price> to the <Company> and the <Company> will enter the <Shares> in <Purchaser>'s name as of such date in the books and records of the <Company> or, if applicable, a duly authorized transfer agent of the <Company>. The <Company> will deliver to <Purchaser>, upon request, a notice of issuance with respect to the <Shares> as soon as practicable following such date. As used elsewhere herein, the term "<Shares>" refers to all of the <Shares> purchased hereunder and all securities received in connection with the <Shares> pursuant to stock dividends or splits, all securities received in replacement of the <Shares> in a recapitalization, merger, reorganization, exchange or the like, and all new, substituted or additional securities or other property to which <Purchaser> is entitled by reason of <Purchaser>'s ownership of the <Shares>.
 
-# /* /Certificated Shares */
+# {{/Certificated Shares}}
 
-    Consideration for Shares \\ As consideration for the <Shares>, <Purchaser> will deliver the <Aggregate Purchase Price> by /* #Assigning Assets */an assignment of certain assets as set forth in the /* #Assigning IP */Assignment of IP and Other Assets/* /Assigning IP */ /* #Assigning Patent */Patent Assignment/* /Assigning Patent */ in the form attached to this <Agreement> as {Form of Assignment of IP And Other Assets} /* #Assigning Patent */and {Form of Patent Assignment},/* /Assigning Patent *//* /Assigning Assets */ /* #Paying By Check */check made out to the <Company>/* /Paying By Check */.
+    Consideration for Shares \\ As consideration for the <Shares>, <Purchaser> will deliver the <Aggregate Purchase Price> by {{#Assigning Assets}}an assignment of certain assets as set forth in the {{#Assigning IP}}Assignment of IP and Other Assets{{/Assigning IP}} {{#Assigning Patent}}Patent Assignment{{/Assigning Patent}} in the form attached to this <Agreement> as {Form of Assignment of IP And Other Assets} {{#Assigning Patent}}and {Form of Patent Assignment},{{/Assigning Patent}}{{/Assigning Assets}} {{#Paying By Check}}check made out to the <Company>{{/Paying By Check}}.
 
-    Limitations on Transfer \\ <Purchaser> shall not assign, encumber or dispose of any interest in the <Shares> except to the extent permitted by, and in compliance with the provisions below/* #Transfer Restrictions in Bylaws */, the transfer restrictions set forth in the <Company>'s Bylaws/* /Transfer Restrictions in Bylaws */ and applicable securities laws.
+    Limitations on Transfer \\ <Purchaser> shall not assign, encumber or dispose of any interest in the <Shares> except to the extent permitted by, and in compliance with the provisions below{{#Transfer Restrictions in Bylaws}}, the transfer restrictions set forth in the <Company>'s Bylaws{{/Transfer Restrictions in Bylaws}} and applicable securities laws.
 
     Repurchase Option; Vesting \\
 
@@ -36,15 +34,15 @@
 
         \\ [Percentage of Shares Subject to Vesting] of the <Shares> shall initially be subject to the <Repurchase Option> (the ""Vesting Shares""). [Cliff Shares] of the <Vesting Shares> shall be released from the <Repurchase Option> on [Cliff Date], and an additional [Vesting Increment] of the <Vesting Shares> shall be released from the <Repurchase Option> on the [Vesting Date] day of each month thereafter (and if there is no corresponding day, the last day of the month), until all <Vesting Shares> are released from the <Repurchase Option>; provided, however, that such scheduled releases from the <Repurchase Option> shall immediately cease as of the <Termination Date>. Fractional shares shall be rounded to the nearest whole share.
 
-# /* ^Double-Trigger Acceleration */
+# {{^Double-Trigger Acceleration}}
 
         \\ Notwithstanding the foregoing, the vesting of the <Unvested Shares> shall accelerate such that the <Repurchase Option> in {Repurchase Option; Vesting} shall lapse as to [Acceleration Percentage] of the <Unvested Shares>, effective as of immediately prior to consummation of a <Change of Control>. As used in this <Agreement>, ""Change of Control"" means a sale of all or substantially all of the <Company>'s assets other than to an <Excluded Entity> (as defined below), a merger, consolidation or other capital reorganization or business combination transaction of the <Company> with or into another corporation, limited liability company or other entity other than an <Excluded Entity>, or the consummation of a transaction, or series of related transactions, in which any "person" (as such term is used in Sections 13(d) and 14(d) of the <Exchange Act>) becomes the "beneficial owner" (as defined in Rule 13d-3 of the <Exchange Act>), directly or indirectly, of all of the <Company>'s then outstanding voting securities. Notwithstanding the foregoing, a transaction shall not constitute a <Change of Control> if its purpose is to change the jurisdiction of the <Company>'s incorporation, create a holding company that will be owned in substantially the same proportions by the persons who hold the <Company>'s securities immediately before such transaction, or obtain funding for the <Company> in a financing that is approved by the <Company>'s Board of Directors. An ""Excluded Entity"" means a corporation, limited liability company or other entity of which the holders of voting capital stock of the <Company> outstanding immediately prior to such transaction are the direct or indirect holders of voting securities representing at least a majority of the votes entitled to be cast by all of such corporation's, limited liability company's or other entity's voting securities outstanding immediately after such transaction.
 
-# /* /Double-Trigger Acceleration */
+# {{/Double-Trigger Acceleration}}
 
-# /* #Double-Trigger Acceleration */
+# {{#Double-Trigger Acceleration}}
 
-        \\ Notwithstanding the foregoing, if <Purchaser> is terminated without <Cause> (as defined below) by the <Company> (or a successor, if appropriate)/* #Acceleration on Resignation for <Good Reason> */ or resigns for <Good Reason> (as defined below)/* /Acceleration on Resignation for <Good Reason> */ in connection with or following the consummation of a <Change of Control> (as defined below), then the vesting of the <Unvested Shares> shall accelerate such that the <Repurchase Option> in {Repurchase Option; Vesting} shall lapse as to [Acceleration Percentage] of the <Unvested Shares>. The lapse of repurchase rights provided for in the previous sentence shall occur immediately prior to the <Termination Date>./* #Acceleration on Transfer of Employment */ In the case of a sale of all or substantially all of the <Company>'s assets other than to an <Excluded Entity>, if the acquirer of the <Company>'s assets does not agree to assume this <Agreement>, or to substitute an equivalent award or right for this <Agreement>, and <Purchaser> transfers his employment to such acquirer in connection with such asset sale transaction, then any acceleration of vesting that would otherwise occur upon <Purchaser>'s termination shall occur immediately prior to, and contingent upon, the consummation of such asset sale transaction./* /Acceleration on Transfer of Employment */ As used in this <Agreement>, ""Change of Control"" means
+        \\ Notwithstanding the foregoing, if <Purchaser> is terminated without <Cause> (as defined below) by the <Company> (or a successor, if appropriate){{#Acceleration on Resignation for <Good Reason>}} or resigns for <Good Reason> (as defined below){{/Acceleration on Resignation for <Good Reason>}} in connection with or following the consummation of a <Change of Control> (as defined below), then the vesting of the <Unvested Shares> shall accelerate such that the <Repurchase Option> in {Repurchase Option; Vesting} shall lapse as to [Acceleration Percentage] of the <Unvested Shares>. The lapse of repurchase rights provided for in the previous sentence shall occur immediately prior to the <Termination Date>.{{#Acceleration on Transfer of Employment}} In the case of a sale of all or substantially all of the <Company>'s assets other than to an <Excluded Entity>, if the acquirer of the <Company>'s assets does not agree to assume this <Agreement>, or to substitute an equivalent award or right for this <Agreement>, and <Purchaser> transfers his employment to such acquirer in connection with such asset sale transaction, then any acceleration of vesting that would otherwise occur upon <Purchaser>'s termination shall occur immediately prior to, and contingent upon, the consummation of such asset sale transaction.{{/Acceleration on Transfer of Employment}} As used in this <Agreement>, ""Change of Control"" means
 
             \\ a sale of all or substantially all of the <Company>'s assets other than to an <Excluded Entity> (as defined below),
 
@@ -68,7 +66,7 @@
 
                 \\ <Purchaser>'s material breach of any material written agreement between <Purchaser> and the <Company> (including without limitation <Purchaser>'s Confidential Information and Invention Assignment Agreement with the <Company>) and <Purchaser>'s failure to cure such breach within 30 days after receiving written notice thereof.
 
-            For purposes of clarity, a termination without "<Cause>" does not include any termination that occurs as a result of <Purchaser>'s death or disability.  The determination as to whether <Purchaser>'s <Continuous Service Status> has been terminated for <Cause> shall be made in good faith by the <Company> and shall be final and binding on <Purchaser>. The foregoing definition does not in any way limit the <Company>'s ability to terminate <Purchaser>'s employment or consulting relationship at any time, and the term "<Company>" will be interpreted to include any <Subsidiary>, <Parent>, <Affiliate>, or any successor thereto, if appropriate./* #Acceleration on Resignation for <Good Reason> */ As used in this <Agreement>, ""Good Reason"" will mean <Purchaser>'s resignation due to the occurrence of any of the following conditions which occurs without <Purchaser>'s written consent, provided that the requirements regarding advance notice and an opportunity to cure set forth below are satisfied:
+            For purposes of clarity, a termination without "<Cause>" does not include any termination that occurs as a result of <Purchaser>'s death or disability.  The determination as to whether <Purchaser>'s <Continuous Service Status> has been terminated for <Cause> shall be made in good faith by the <Company> and shall be final and binding on <Purchaser>. The foregoing definition does not in any way limit the <Company>'s ability to terminate <Purchaser>'s employment or consulting relationship at any time, and the term "<Company>" will be interpreted to include any <Subsidiary>, <Parent>, <Affiliate>, or any successor thereto, if appropriate.{{#Acceleration on Resignation for <Good Reason>}} As used in this <Agreement>, ""Good Reason"" will mean <Purchaser>'s resignation due to the occurrence of any of the following conditions which occurs without <Purchaser>'s written consent, provided that the requirements regarding advance notice and an opportunity to cure set forth below are satisfied:
 
             \\ a reduction of <Purchaser>'s then current base salary by 10% or more unless such reduction is part of a generalized salary reduction affecting similarly situated employees;
 
@@ -76,9 +74,9 @@
 
             \\ the <Company> conditions <Purchaser>'s continued service with the <Company> on <Purchaser>'s being transferred to a site of employment that would increase <Purchaser>'s one-way commute by more than 35 miles from <Purchaser>'s then principal residence. 
 
-        In order for <Purchaser> to resign for <Good Reason>, <Purchaser> must provide written notice to the <Company> of the existence of the <Good Reason> condition within 60 days of the initial existence of such <Good Reason> condition.  Upon receipt of such notice, the <Company> will have 30 days during which it may remedy the <Good Reason> condition and not be required to provide for the vesting acceleration described herein as a result of such proposed resignation. If the <Good Reason> condition is not remedied within such 30-day period, <Purchaser> may resign based on the <Good Reason> condition specified in the notice effective no later than 30 days following the expiration of the 30-day cure period. /* /Acceleration on Resignation for <Good Reason> */ If <Purchaser> is a <Director> but not an <Employee> or <Consultant> of the <Company> (or a successor, if appropriate) at the time of consummation of the <Change of Control> and <Purchaser> is removed from, or is not reelected to, the Board of Directors of the <Company> (or a successor, as appropriate) in connection with or following the consummation of a <Change of Control>, the vesting of any <Unvested Shares> shall accelerate such that the <Repurchase Option> shall lapse to the same extent as if <Purchaser> had been terminated without <Cause> as described above.
+        In order for <Purchaser> to resign for <Good Reason>, <Purchaser> must provide written notice to the <Company> of the existence of the <Good Reason> condition within 60 days of the initial existence of such <Good Reason> condition.  Upon receipt of such notice, the <Company> will have 30 days during which it may remedy the <Good Reason> condition and not be required to provide for the vesting acceleration described herein as a result of such proposed resignation. If the <Good Reason> condition is not remedied within such 30-day period, <Purchaser> may resign based on the <Good Reason> condition specified in the notice effective no later than 30 days following the expiration of the 30-day cure period. {{/Acceleration on Resignation for <Good Reason>}} If <Purchaser> is a <Director> but not an <Employee> or <Consultant> of the <Company> (or a successor, if appropriate) at the time of consummation of the <Change of Control> and <Purchaser> is removed from, or is not reelected to, the Board of Directors of the <Company> (or a successor, as appropriate) in connection with or following the consummation of a <Change of Control>, the vesting of any <Unvested Shares> shall accelerate such that the <Repurchase Option> shall lapse to the same extent as if <Purchaser> had been terminated without <Cause> as described above.
 
-# /* /Double-Trigger Acceleration */
+# {{/Double-Trigger Acceleration}}
 
     Right of First Refusal \\
 
@@ -104,7 +102,7 @@
 
         Payment \\ Payment of the <Transfer Purchase Price> shall be made, at the election of the <Company> or its assignee(s), in cash (by check), by cancellation of all or a portion of any outstanding indebtedness, or by any combination thereof within 60 days after receipt of the <Notice> or in the manner and at the times mutually agreed to by the <Company> (or its assignee(s)) and the <Holder>.
 
-        Holder's Right to Transfer \\ If any of the <Shares> proposed in the <Notice> to be transferred to a given <Proposed Transferee> are not purchased by the <Company> and/or its assignee(s) as provided in this {Right of First Refusal}, then the <Holder> may sell or otherwise transfer any unpurchased <Shares> to the <Proposed Transferee> at the <Transfer Purchase Price> or at a higher price, provided that such sale or other transfer is consummated within 120 days after the date of the <Notice> and provided further that any such sale or other transfer is effected in accordance with /* #Transfer Restrictions in Bylaws */the transfer restrictions set forth in the <Company>'s Bylaws and/* /Transfer Restrictions in Bylaws */ any applicable securities laws and the <Proposed Transferee> agrees in writing that the provisions of {Limitations on Transfer} shall continue to apply to the <Shares> in the hands of such <Proposed Transferee>. The <Company>, in consultation with its legal counsel, may require the <Holder> to provide an opinion of counsel evidencing compliance with applicable securities laws. If the <Shares> described in the <Notice> are not transferred to the <Proposed Transferee> within such period, or if the <Holder> proposes to change the price or other terms to make them more favorable to the <Proposed Transferee>, a new <Notice> shall be given to the <Company>, and the <Company> and/or its assignees shall again be offered the <Right of First Refusal> before any <Shares> held by the <Holder> may be sold or otherwise transferred.
+        Holder's Right to Transfer \\ If any of the <Shares> proposed in the <Notice> to be transferred to a given <Proposed Transferee> are not purchased by the <Company> and/or its assignee(s) as provided in this {Right of First Refusal}, then the <Holder> may sell or otherwise transfer any unpurchased <Shares> to the <Proposed Transferee> at the <Transfer Purchase Price> or at a higher price, provided that such sale or other transfer is consummated within 120 days after the date of the <Notice> and provided further that any such sale or other transfer is effected in accordance with {{#Transfer Restrictions in Bylaws}}the transfer restrictions set forth in the <Company>'s Bylaws and{{/Transfer Restrictions in Bylaws}} any applicable securities laws and the <Proposed Transferee> agrees in writing that the provisions of {Limitations on Transfer} shall continue to apply to the <Shares> in the hands of such <Proposed Transferee>. The <Company>, in consultation with its legal counsel, may require the <Holder> to provide an opinion of counsel evidencing compliance with applicable securities laws. If the <Shares> described in the <Notice> are not transferred to the <Proposed Transferee> within such period, or if the <Holder> proposes to change the price or other terms to make them more favorable to the <Proposed Transferee>, a new <Notice> shall be given to the <Company>, and the <Company> and/or its assignees shall again be offered the <Right of First Refusal> before any <Shares> held by the <Holder> may be sold or otherwise transferred.
 
         Exception for Certain Family Transfers \\ Anything to the contrary contained in {Right of First Refusal} notwithstanding, the transfer of any or all of the <Shares> during <Purchaser>'s lifetime or on <Purchaser>'s death by will or intestacy to <Purchaser>'s <Immediate Family> or to a trust for the benefit of <Purchaser> or <Purchaser>'s <Immediate Family> shall be exempt from the provisions of {Right of First Refusal}. ""Immediate Family"" as used in this <Agreement> shall mean lineal descendant or antecedent, spouse (or spouse's antecedents), father, mother, brother or sister (or their descendants), stepchild (or their antecedents or descendants), aunt or uncle (or their antecedents or descendants), brother-in-law or sister-in-law (or their antecedents or descendants) and shall include adoptive relationships, or any person sharing <Purchaser>'s household (other than a tenant or an employee). In such case, the transferee or other recipient shall receive and hold the <Shares> so transferred subject to the provisions of {Limitations on Transfer}, and there shall be no further transfer of such <Shares> except in accordance with the terms of {Limitations on Transfer}.
 
@@ -144,31 +142,31 @@
 
             Transfer Restriction Legend !! "The securities referenced herein may be transferred only in accordance with the terms of an agreement between the company and the stockholder, a copy of which is on file with and may be obtained from the secretary of the company at no charge."
 
-# /* #Transfer Restrictions in Bylaws */
+# {{#Transfer Restrictions in Bylaws}}
 
-    # /* #Transfer Restrictions in Stock Plan */
+    # {{#Transfer Restrictions in Stock Plan}}
 
             !! "The transfer of securities referenced herein is subject to restrictions requiring approval of the company pursuant to and in accordance with the company's bylaws and stock plan, copies of which may be obtained upon written request to the company at its principal place of business. The company shall not register or otherwise recognize or give effect to any purported transfer of shares of stock that does not comply with the company's bylaws and stock plan."
 
-    # /* /Transfer Restrictions in Stock Plan */
+    # {{/Transfer Restrictions in Stock Plan}}
 
-    # /* ^Transfer Restrictions in Stock Plan */
+    # {{^Transfer Restrictions in Stock Plan}}
 
             !! "The transfer of securities referenced herein is subject to restrictions requiring approval of the company pursuant to and in accordance with the company's bylaws, copies of which may be obtained upon written request to the company at its principal place of business. The company shall not register or otherwise recognize or give effect to any purported transfer of shares of stock that does not comply with the company's bylaws."
 
-    # /* /Transfer Restrictions in Stock Plan */
+    # {{/Transfer Restrictions in Stock Plan}}
 
-# /* /Transfer Restrictions in Bylaws */
+# {{/Transfer Restrictions in Bylaws}}
 
-# /* #Transfer Restrictions in Stock Plan */
+# {{#Transfer Restrictions in Stock Plan}}
 
-    # /* ^Transfer Restrictions in Bylaws */
+    # {{^Transfer Restrictions in Bylaws}}
 
             !! "The transfer of securities referenced herein is subject to restrictions requiring approval of the company pursuant to and in accordance with the company's stock plan, copies of which may be obtained upon written request to the company at its principal place of business. The company shall not register or otherwise recognize or give effect to any purported transfer of shares of stock that does not comply with the company's stock plan."
 
-    # /* /Transfer Restrictions in Bylaws */
+    # {{/Transfer Restrictions in Bylaws}}
 
-# /* /Transfer Restrictions in Stock Plan */
+# {{/Transfer Restrictions in Stock Plan}}
 
         Stop-Transfer Notices \\ <Purchaser> agrees that, in order to ensure compliance with the restrictions referred to herein, the <Company> may issue appropriate "stop transfer" instructions to its transfer agent, if any, and that, if the <Company> transfers its own securities, it may make appropriate notations to the same effect in its own records.
 
@@ -188,11 +186,11 @@
 
         After such time and upon <Purchaser>'s request, a new stock certificate or, in the case of uncertificated securities, notice of issuance, for the remaining <Shares>, shall be issued without the legend specified in {Transfer Restriction Legend} and delivered to <Purchaser>.
 
-# /* ^Certificated Shares */
+# {{^Certificated Shares}}
 
     Required Notices \\ <Purchaser> acknowledges that the <Shares> are issued and shall be held subject to all the provisions of {Restrictive Legends and Stop-Transfer Orders}, the Certificate of Incorporation and the Bylaws of the <Company> and any amendments thereto, copies of which are on file at the principal office of the <Company>. A statement of all of the rights, preferences, privileges and restrictions granted to or imposed upon the respective classes and/or series of shares of stock of the <Company> and upon the holders thereof may be obtained by any stockholder upon request and without charge, at the principal office of the <Company>, and the <Company> will furnish any stockholder, upon request and without charge, a copy of such statement. <Purchaser> acknowledges that the provisions of {Restrictive Legends and Stop-Transfer Orders} shall constitute the notices required by Sections 151(f) and 202(a) of the Delaware General Corporation Law and the <Purchaser> hereby expressly waives the requirement of Section 151(f) of the Delaware General Corporation Law that it receive the written notice provided for in Sections 151(f) and 202(a) of the Delaware General Corporation Law within a reasonable time after the issuance of the <Shares>.
 
-# /* /Certificated Shares */
+# {{/Certificated Shares}}
 
     No Employment Rights \\ Nothing in this <Agreement> shall affect in any manner whatsoever the right or power of the <Company>, or a parent, subsidiary or affiliate of the <Company>, to terminate <Purchaser>'s employment or consulting relationship, for any reason, with or without cause.
 
@@ -270,13 +268,13 @@ Acknowledgment and Statement of Decision Regarding Section 83(b) Election \\ See
 
 Election Under Section 83(b) of the Internal Revenue Code of 1986 \\ See attached.
 
-/* #Assigning IP */
+{{#Assigning IP}}
 Form of Assignment of IP And Other Assets \\ See attached.
-/* /Assigning IP */
+{{/Assigning IP}}
 
-/* #Assigning Patent */
+{{#Assigning Patent}}
 Form of Patent Assignment \\ See attached.
-/* /Assigning Patent */
+{{/Assigning Patent}}
 
 Rule 506(d)(1)(i) to (viii) under the Securities Act of 1933, as amended \\ See attached.
 
