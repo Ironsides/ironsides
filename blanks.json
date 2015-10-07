@@ -16,7 +16,12 @@
   "Indemnification of Control Person": false,
   "Information Sharing": true,
   "List of Directors": "Jane Founder, Joe Founder, and Adam Advisor",
-  "List of Officers": "Jane Founrder, as President and Chief Executive Officer, and Joe Founder as Chief Financial Officer and Secretary",
+  "President": "Jane Founder",
+  "Other Officers": [
+    { "Office": "Chief Financial Officer",
+      "Name": "Joe Founder" } ],
+  "Secretary": "Joe Founder",
+  "Chief Executive Officer": "Jane Founder",
   "Number of Directors": "3",
   "Par Value": "$0.0001",
   "Registered Agent Address": "456 7th Street",

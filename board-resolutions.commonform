@@ -1,92 +1,130 @@
-\\ In accordance with Section 141(f) of the Delaware General Corporation Law and the Bylaws of [Company Name], a Delaware corporation (the ""Company""), the undersigned, constituting all the members of the <Company>'s Board of Directors (the ""Board""), take the following actions and adopt the following resolutions by unanimous written consent without a meeting:
+The undersigned are all the members of the board of directors (""Board"") of [Company Name], a Delaware corporation (""Company"").
 
-    Incorporator \\ Resolved: That every action taken or authorized with respect to the <Company> by the Incorporator of the <Company> is ratified and the Incorporator is discharged from any further liabilities or duties with respect to the <Company> and the <Company> further agrees to indemnify and hold harmless the Incorporator from any liability incurred in the past or the future with respect to organizing the <Company>.
+\\ The <Board> takes the following actions without a meeting:
 
-    Minute Book \\ Resolved: That the <Company> shall maintain as part of its corporate records a book, in electronic or physical form, entitled "Minute Book" which shall include, but not be limited to,
+    Incorporator \\ The <Board> ratifies every action about the <Company> taken or authorized by the incorporator of the <Company> (""Incorporator""). <Incorporator> is discharged from all further liabilities or duties with respect to the <Company>. The <Company> agrees to indemnify and hold harmless <Incorporator> from any liability incurred in the past or the future with respect to organizing the <Company>.
 
-        \\ a record of its Certificate of Incorporation and amendments to its Certificate of Incorporation,
+    Officers \\ The following people are elected officers of the <Company> (""Officers""):
+    {{{Chief Executive Officer}}} is elected President and Chief Executive Officer (""Chief Executive Officer"").
+    {{{Secretary}}} is elected Secretary (""Secretary"").
+    #{{#Other Officers}}
+    {{{Name}}} is elected {{{Office}}}.
+    #{{/Other Officers}}
+    The <Officers> serve at the <Board>'s pleasure.
 
-        \\ its Bylaws and amendments to its Bylaws, and
+    Authority \\ The <Chief Executive Officer> is authorized to sign and deliver any agreement in the name of the <Company> and to otherwise obligate the <Company> in any respect relating to matters of the business of the <Company>. The Chief Executive Officer may delegate that authority in their discretion, within budgets approved by the <Board>.
 
-        \\ minutes of all meetings of its directors and of its stockholders with the time and place of holding, whether regular or special (and if special how authorized), the notice given of the meeting, the number of shares present or represented at stockholders' meetings, and the proceedings of the meetings.
+    Minute Book \\
+    # See Delaware General Corporation Law 142
+    The <Secretary> shall record the proceedings of the meetings of the stockholders and directors of the <Company> in a book to be kept for that purpose (""Minute Book"").
+    # See Delaware General Corporation Law 141(f)
+    The <Secretary> shall maintain the <Minute Book> in electronic form.
+    The <Secretary> shall include the following in the <Minute Book>:
 
-    Election of Officers \\ Resolved: That the following people are elected as officers of the <Company> to the offices written opposite their respective names, to serve at the pleasure of the <Board>: [List of Officers].
+        \\ the <Company>'s certificate of incorporation and all amendments
 
-    Officers \\ Resolved: That the Chief Executive Officer is authorized to sign and deliver any agreement in the name of the <Company> and to otherwise obligate the <Company> in any respect relating to matters of the business of the <Company>, and to delegate such authority in his or her discretion, within budgets approved by the <Board>.
+        \\ the <Company>'s bylaws and all amendments
+
+        \\ all consents to actions taken by the <Board> without meeting
+
+        \\ all consents to actions taken by the stockholders without meeting
+
+        \\ minutes of all <Board> meetings
+
+        \\ minutes of all stockholder meetings
+
+        # See Delaware General Corporation Law 174(a)
+        \\ any dissent of a director of the <Company> from an act or resolution of the <Board>
+
+    The <Secretary> shall include all the following in minutes of <Board> and stockholders meetings:
+
+        \\ the time and place of the meeting
+
+        \\ whether the meeting was a special meeting or a regular meeting
+
+        \\ if the meeting was a special meeting, how the special meeting was authorized
+
+        \\ a copy of the notice of the meeting
+
+        \\ if the meeting was a stockholders meeting, the number of shares represented at the meeting
 
 # {{^Certificated Shares}}
 
     Uncertificated Stock \\
 
-        \\ Resolved: That the shares of the <Company> shall be uncertificated, provided that the <Company> may issue certificated shares for some or all of any or all classes or series of its stock if deemed advisable and in the best interests of the <Company> by the officers, in consultation with legal counsel.
+        \\ The shares of the <Company> shall be uncertificated. But the <Company> may issue stock certificates for some or all of any or all classes or series of its stock if deemed advisable and in the best interests of the <Company> by the officers, in consultation with legal counsel.
 
-        \\ Resolved further: That the officers are authorized and directed to send a written notice to record owners of shares of uncertificated stock in accordance with the Delaware General Corporation Law (on the request of such record owner) substantially in the form provided with these resolutions to the <Board> with such changes deemed necessary or advisable by the officers, in consultation with legal counsel.
+        \\ The officers are authorized and directed to send a written notice to record owners of shares of uncertificated stock in accordance with the Delaware General Corporation Law (on the request of such record owner) substantially in the form provided with these resolutions to the <Board> with such changes deemed necessary or advisable by the officers, in consultation with legal counsel.
 
 # {{/Certificated Shares}}
 
 # {{#Certificated Shares}}
 
-    Stock Certificate \\ Resolved: That the stock certificate representing the Common Stock of the <Company> shall be in the form of the stock certificate attached to these resolutions as {Form Of Stock Certificate}, with such appropriate information entered on the certificate about the capitalization of the <Company> at the time of issuance and otherwise as may be required by the Delaware General Corporation Law.
+    Stock Certificate \\ The stock certificate representing the Common Stock of the <Company> shall be in the form of the stock certificate attached to these resolutions as {Form Of Stock Certificate}, with such appropriate information entered on the certificate about the capitalization of the <Company> at the time of issuance and otherwise as may be required by the Delaware General Corporation Law.
 
 # {{/Certificated Shares}}
 
     Sale and Issuance of Stock \\
 
-        \\ Resolved: That the officers are authorized to sell and issue on behalf of the <Company> the shares of stock indicated in {Initial Stock Issuance Table} (the ""Shares"") to the purchasers listed (each a ""Purchaser"") in the amounts and subject to the vesting provisions specified opposite the <Purchaser>'s name, at the price per share written in {Initial Stock Issuance Table}, which the <Board> determines to be the fair value of such <Shares> as of the date of these resolutions, and in exchange for the consideration written in {Initial Stock Issuance Table}, which the <Board> determines to have a value equal to the fair value of the <Shares>.
+        \\ The officers are authorized to sell and issue on behalf of the <Company> the shares of stock (""Shares"") according to {Initial Stock Issuance Table} (""Issuance Table""). The <Board> determines that the price per share written in the <Issuance Table>) is the fair value of the <Shares>. The <Board> determines that the value of the consideration for the <Shares> described by the <Issuance Table> is equal to the fair value of the <Shares>.
 
-        \\ Resolved further: That each stock sale authorized in the above resolution shall be made pursuant to a stock purchase agreement in substantially the form attached to these resolutions as {Form(s) Of Stock Purchase Agreement}.
+        \\ The <Company> shall sell the <Shares> via stock purchase agreements (each a ""Stock Purchase Agreement"") in substantially the form attached as {Form(s) Of Stock Purchase Agreement}.
 
-        \\ Resolved further: That, on the <Company>'s receipt of a fully executed stock purchase agreement and the consideration provided for by the agreement, the <Company> is authorized and directed to issue the <Shares>.
+        \\ The <Board> authorizes the <Company> to issue the <Shares> to be sold via each <Stock Purchaser Agreement> on receipt of the signed <Stock Purchaser Agreement> and  the consideration for the <Shares>.
 
-        \\ Resolved further: That it is desirable and in the best interest of the <Company> that its securities be qualified or registered for sale in various states; that the President or any Vice President and the Secretary or any Assistant Secretary are authorized to determine the states in which appropriate action shall be taken to qualify or register for sale all or such part of the securities of the <Company> as said officers may deem advisable; that said officers are authorized to perform on behalf of the <Company> any such acts as they deem necessary or advisable to comply with the applicable laws of any such states, and in connection with compliance to execute and file all requisite papers and documents, including, but not limited to, applications, reports, surety bonds, irrevocable consents and appointments of attorneys for service of process; and the execution by such officers of any such paper or document or the doing by them of any act in connection with the foregoing matters shall conclusively establish their authority from the <Company> and the approval and ratification by the <Company> of the papers and documents so executed and the action so taken.
+        \\ It is advisable and in the best interest of the <Company> that:
 
-        \\ Resolved further: That the stock sales authorized in the above resolution shall be conducted to qualify for the exemption from applicable state requirements regarding registration of the sale of securities.
+            \\ the <Company>'s securities be qualified or registered for sale in various states
+            \\ the <Chief Executive Officer> and the <Secretary> are authorized to determine the states in which appropriate action shall be taken to qualify or register for sale all or such part of the securities of the <Company> as said officers may deem advisable
+            \\ said <Chief Executive Officer> and <Secretary> are authorized to perform on behalf of the <Company> any such acts as they deem necessary or advisable to comply with the applicable laws of any such states
+            \\ the <Chief Executive Officer> and <Secretary> are authorized, connection with compliance, to execute and file all requisite papers and documents, including, but not limited to, applications, reports, surety bonds, irrevocable consents and appointments of attorneys for service of process
+            \\ the execution by the <Chief Executive Officer> and <Secretary> of any such paper or document or the doing by them of any act in connection with the foregoing matters shall conclusively establish their authority from the <Company> and the approval and ratification by the <Company> of the papers and documents so executed and the action so taken.
 
-        \\ Resolved further: That the officers and their designees or agents are authorized and directed to
+        \\ The stock sales authorized in the above resolution shall be conducted to qualify for the exemption from applicable state requirements regarding registration of the sale of securities.
 
-            \\ execute and file a form of notification advising the [State Securities Law Authority] of the issuance of the <Shares> pursuant to [State Securities Law Reference] and
+        \\ The <Officers> and their designees or agents are authorized and directed to execute and file a form of notification advising the [State Securities Law Authority] of the issuance of the <Shares> pursuant to [State Securities Law Reference].
 
-            \\ irrevocably appoint the California Commissioner of Business Oversight as agent for service of process for the <Company> in connection with the issuance of the <Shares>.
+        \\ The <Officers> and their designees or agents are authorized and directed to irrevocably appoint the California Commissioner of Business Oversight as agent for service of process for the <Company> in connection with the issuance of the <Shares>.
 
-    Employer Identification Number \\ Resolved: That the officers are authorized and directed to apply for an employer identification number on IRS Form SS-4, unless the Incorporator of the <Company> has previously made such application.
+    Employer Identification Number \\ The officers are authorized and directed to apply for an employer identification number on IRS Form SS-4, unless the Incorporator of the <Company> has previously made such application.
 
-    Fiscal Year \\ Resolved: That the fiscal year of the <Company> shall end on December 31 of each year.
+    Fiscal Year \\ The fiscal year of the <Company> shall end on December 31 of each year.
 
     Incorporation Expenses \\
 
-        \\ Resolved: That the officers are authorized and directed to pay the expenses of incorporation and organization of the <Company> and the expenses incurred in the formation of the <Company>.
+        \\ The officers are authorized and directed to pay the expenses of incorporation and organization of the <Company> and the expenses incurred in the formation of the <Company>.
 
-        \\ Resolved further: That the <Company> elects to deduct currently its organizational expenses, as that term is defined by Section 248 of the Internal Revenue Code of 1986, as amended (the ""Code""), to the maximum extent provided in Section 248 of the <Code> and to amortize the balance of its organizational expenses over a period of one hundred eighty (180) months beginning with the month in which the <Company> begins business; and that the officers are authorized and directed to take such action as needed to effectuate this election.
+        \\ The <Company> elects to deduct currently its organizational expenses, as that term is defined by Section 248 of the Internal Revenue Code of 1986, as amended (the ""Code""), to the maximum extent provided in Section 248 of the <Code> and to amortize the balance of its organizational expenses over a period of one hundred eighty (180) months beginning with the month in which the <Company> begins business; and that the officers are authorized and directed to take such action as needed to effectuate this election.
 
-    Withholding Tax \\ Resolved: That the officers are authorized and directed to consult with the bookkeeper, auditors and attorneys of the <Company> to be fully informed about, and to collect and pay promptly when due, all withholding tax for which the <Company> may now be (or later become) liable.
+    Withholding Tax \\ The officers are authorized and directed to consult with the bookkeeper, auditors and attorneys of the <Company> to be fully informed about, and to collect and pay promptly when due, all withholding tax for which the <Company> may now be (or later become) liable.
 
-    Qualification to Do Business \\ Resolved: That the officers of the <Company> are authorized to take any steps they deem necessary to qualify the <Company> to do business as a foreign corporation in each state that the officers determine such qualification to be necessary or appropriate.
+    Qualification to Do Business \\ The officers of the <Company> are authorized to take any steps they deem necessary to qualify the <Company> to do business as a foreign corporation in each state that the officers determine such qualification to be necessary or appropriate.
 
-    Indemnification Agreement \\ Resolved: That the <Company> shall enter into an Indemnification Agreement substantially in the form attached to these resolutions as {Form Of Indemnification Agreement} with each of the <Company>'s present and future directors and officers.
+    Indemnification Agreement \\ The <Company> shall enter into an Indemnification Agreement substantially in the form attached to these resolutions as {Form Of Indemnification Agreement} with each of the <Company>'s present and future directors and officers.
 
     Management of Fiscal Affairs \\
 
-        \\ Resolved: That the officers of the <Company> are authorized and directed, in their discretion, to select and designate from time to time one or more banks or other financial institutions as a depository of funds of the <Company>, and that the proper officers are authorized to open and maintain, in the name of the <Company>, a checking, savings, safe deposit, payroll or other account or accounts with said depository.
+        \\ The officers of the <Company> are authorized and directed, in their discretion, to select and designate from time to time one or more banks or other financial institutions as a depository of funds of the <Company>, and that the proper officers are authorized to open and maintain, in the name of the <Company>, a checking, savings, safe deposit, payroll or other account or accounts with said depository.
 
-        \\ Resolved further: That the standard form of corporate banking or financial resolutions of such banks or financial institutions necessary to accomplish the foregoing resolution and showing the people authorized to draw on such account, are approved and adopted as the resolutions of this <Board>, and the officers are authorized to execute, certify, and deliver a copy of those resolutions to such banks or financial institutions as the resolutions of this <Company>.
+        \\ The standard form of corporate banking or financial resolutions of such banks or financial institutions necessary to accomplish the foregoing resolution and showing the people authorized to draw on such account, are approved and adopted as the resolutions of this <Board>, and the officers are authorized to execute, certify, and deliver a copy of those resolutions to such banks or financial institutions as the resolutions of this <Company>.
 
 # {{#Adopting Stock Plan}}
 
     Adoption of Stock Plan \\
 
-        \\ Resolved: That the [Stock Plan Name] (the ""Plan""), in substantially the form attached to there resolutions as {Form Of Stock Plan}, is adopted and [Stock Plan Pool Size] shares of the <Company>'s Common Stock are reserved for issuance pursuant to the <Plan>.
+        \\ The [Stock Plan Name] (the ""Plan""), in substantially the form attached to there resolutions as {Form Of Stock Plan}, is adopted and [Stock Plan Pool Size] shares of the <Company>'s Common Stock are reserved for issuance pursuant to the <Plan>.
 
-        \\ Resolved further: That the <Plan> shall continue for 10 years from the effective date of these resolutions unless terminated earlier pursuant to its terms.
+        \\ The <Plan> shall continue for 10 years from the effective date of these resolutions unless terminated earlier pursuant to its terms.
 
-        \\ Resolved further: That the forms of stock option agreement and restricted stock purchase agreement, in substantially the forms attached to these resolutions as {Form Of Option Agreement} and {Form Of Option Agreement}, respectively, are approved for purposes of documenting awards granted under the <Plan>, with such modifications or amendments to each form, or any individual agreement, as may be approved by the officers of the <Company>, or any of them individually, provided that any such changes do not individually, or in the aggregate, have a material financial, legal, tax or accounting impact on the <Company> or any of its affiliates.
+        \\ The forms of stock option agreement and restricted stock purchase agreement, in substantially the forms attached to these resolutions as {Form Of Option Agreement} and {Form Of Option Agreement}, respectively, are approved for purposes of documenting awards granted under the <Plan>, with such modifications or amendments to each form, or any individual agreement, as may be approved by the officers of the <Company>, or any of them individually, provided that any such changes do not individually, or in the aggregate, have a material financial, legal, tax or accounting impact on the <Company> or any of its affiliates.
 
-        \\ Resolved further: That the officers of the <Company>, in consultation with legal counsel, are authorized and directed to take any additional actions and file any other documents necessary to carry out the intent and purposes of the foregoing resolutions, including seeking stockholder approval of the <Plan> and qualifying or exempting the issuance of securities under the <Plan> from the registration requirements of the [Title of Securities Law Statute].
+        \\ The officers of the <Company>, in consultation with legal counsel, are authorized and directed to take any additional actions and file any other documents necessary to carry out the intent and purposes of the foregoing resolutions, including seeking stockholder approval of the <Plan> and qualifying or exempting the issuance of securities under the <Plan> from the registration requirements of the [Title of Securities Law Statute].
 
 # {{/Adopting Stock Plan}}
 
-    Ratification \\ Resolved: That all actions previously taken by the Incorporator, officers and directors with respect to all matters contemplated by the above resolutions and the transactions contemplated by those resolutions are approved, adopted, ratified and confirmed.
+    Ratification \\ All actions previously taken by the Incorporator, officers and directors with respect to all matters contemplated by the above resolutions and the transactions contemplated by those resolutions are approved, adopted, ratified and confirmed.
 
-    Omnibus Resolution \\ Resolved: That each of the officers is authorized and empowered to take all such actions (including, without limitation, soliciting appropriate consents or waivers from stockholders) and to execute and deliver all such documents as may be necessary or advisable to carry out the intent and accomplish the purposes of the foregoing resolutions and to effect any transactions contemplated by those resolutions and the performance of any such actions and the execution and delivery of any such documents shall be conclusive evidence of the approval of the <Board> of those actions and all related matters.
+    Omnibus Resolution \\ Each of the officers is authorized and empowered to take all such actions (including, without limitation, soliciting appropriate consents or waivers from stockholders) and to execute and deliver all such documents as may be necessary or advisable to carry out the intent and accomplish the purposes of the foregoing resolutions and to effect any transactions contemplated by those resolutions and the performance of any such actions and the execution and delivery of any such documents shall be conclusive evidence of the approval of the <Board> of those actions and all related matters.
 
 In accordance with the <Company>'s Bylaws, this action may be executed in writing, or consented to by electronic transmission, in any number of counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same action.
 
