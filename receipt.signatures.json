@@ -1,7 +1,9 @@
 [ { "header": "The Company executes this receipt as of the date written below.",
     "term": "Company",
     "entities": [
-      { "name": "{{{Company Name}}}",
+      { "name": "[Company Name]",
         "jurisdiction": "Delaware",
-        "form": "corporation" } ],
+        "form": "corporation",
+        "by": "Chief Executive Officer" } ],
+    "name": "[Name]",
     "information": [ "date" ] } ]

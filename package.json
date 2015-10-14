@@ -1,11 +1,6 @@
 {
   "private": true,
   "devDependencies": {
-    "commonform-cli": "^0.9.0",
-    "mustache": "~2.1.3",
-    "possible-objects": "~1.0.0"
-  },
-  "dependencies": {
-    "json": "^9.0.3"
+    "commonform-cli": "^0.9.0"
   }
 }

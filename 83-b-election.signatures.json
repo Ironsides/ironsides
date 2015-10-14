@@ -1,0 +1,6 @@
+[ { "headering": "The undersigned executes this Election Under Section 83(b) of the Internal Revenue Code of 1986 as of the date written below.",
+    "name": "[Name]",
+    "term": "Purchaser",
+    "information": [ "address" ] },
+  { "header": "The undersigned spouse of the Purchaser countersigns this Acknowledgment and Statement of Decision as of the date written next to the Purchaser's signature.",
+    "name": "[Spouse]" } ]

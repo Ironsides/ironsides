@@ -1,5 +1,0 @@
-[
-{{#Directors}}
-  { "header": "The undersigned, constituting all the directors of {{{Company Name}}}, hereby take this action by unanimous written consent.",
-    "information": [ "date" ],
-    "name": "{{{.}}}" },{{/Directors}}]

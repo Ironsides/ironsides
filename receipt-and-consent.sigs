@@ -1,9 +1,0 @@
-[
-  { "header": "The Purchaser executes this receipt and consent as of the date written below.",
-    "term": "Purchaser",
-    "name": "{{{Name}}}",
-    "information": [ "date" ] }
-{{#Spouse}}
-, { "header": "Purchaser's spouse executes this receipt and consent as of the date written beside Purchaser's signature." }
-{{/Spouse}}
-]

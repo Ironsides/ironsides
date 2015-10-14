@@ -1,0 +1,6 @@
+[ { "header": "The undersigned executes this Acknowledgment and Statement of Decision as of the date written below.",
+    "term": "Purchaser",
+    "name": "[Name]",
+    "information": [ "address", "date" ] },
+  { "header": "The undersigned spouse of the Purchaser countersigns this Acknowledgment and Statement of Decision as of the date written next to the Purchaser's signature.",
+    "name": "[Spouse]" } ]

@@ -1,3 +1,4 @@
 [ { "header": "The Holder executes this Stock Power as of the date written below.",
     "term": "Holder",
+    "name": "[Name]",
     "information": [ "address", "date", "email" ] } ]
