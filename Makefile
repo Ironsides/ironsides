@@ -10,8 +10,6 @@ FOUNDER=$(foreach form,$(PER_FOUNDER),$(foreach founder,$(FOUNDERS),$(form)-$(fo
 
 all: $(PER_COMPANY:=.docx) $(FOUNDER:=.docx)
 
-html: $(PER_COMPANY:=.html) $(FOUNDER:=.html)
-
 $(COMMONFORM):
 	npm i
 
@@ -48,9 +46,6 @@ $(JSON):
 
 %.docx: %.commonform %.options $(BLANKS) $(COMMONFORM) $(MUSTACHE)
 	$(COMMONFORM) render --format docx --blanks $(BLANKS) $(shell cat $*.options) < $< > $@
-
-%.html: %.commonform %.options $(BLANKS) $(COMMONFORM)
-	$(COMMONFORM) render --format html5 --blanks $(BLANKS) $(shell cat $*.options) < $< > $@
 
 .PHONY: lint critique clean
 
