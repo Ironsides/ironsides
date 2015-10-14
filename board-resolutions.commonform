@@ -14,21 +14,11 @@
 
     Officers \\ Resolved: That the Chief Executive Officer is authorized to sign and deliver any agreement in the name of the <Company> and to otherwise obligate the <Company> in any respect relating to matters of the business of the <Company>, and to delegate such authority in his or her discretion, within budgets approved by the <Board>.
 
-# {{^Certificated Shares}}
-
     Uncertificated Stock \\
 
         \\ Resolved: That the shares of the <Company> shall be uncertificated, provided that the <Company> may issue certificated shares for some or all of any or all classes or series of its stock if deemed advisable and in the best interests of the <Company> by the officers, in consultation with legal counsel.
 
         \\ Resolved further: That the officers are authorized and directed to send a written notice to record owners of shares of uncertificated stock in accordance with the Delaware General Corporation Law (upon the request of such record owner) substantially in the form provided herewith to the <Board> with such changes deemed necessary or advisable by the officers, in consultation with legal counsel.
-
-# {{/Certificated Shares}}
-
-# {{#Certificated Shares}}
-
-    Stock Certificate \\ Resolved: That the stock certificate representing the Common Stock of the <Company> shall be in the form of the stock certificate attached hereto as {Form Of Stock Certificate}, with such appropriate information entered thereon as to the capitalization of the <Company> at the time of issuance and otherwise as may be required by the Delaware General Corporation Law.
-
-# {{/Certificated Shares}}
 
     Sale and Issuance of Stock \\
 
@@ -70,20 +60,6 @@
 
         \\ Resolved further: That the standard form of corporate banking or financial resolutions of such banks or financial institutions necessary to accomplish the foregoing resolution and showing the persons authorized to draw on such account, are approved and adopted as the resolutions of this <Board>, and the officers are authorized to execute, certify, and deliver a copy thereof to such banks or financial institutions as the resolutions of this <Company>.
 
-# {{#Adopting Stock Plan}}
-
-    Adoption of Stock Plan \\
-
-        \\ Resolved: That the [Stock Plan Name] (the ""Plan""), in substantially the form attached hereto as {Form Of Stock Plan}, is hereby adopted and [Stock Plan Pool Size] shares of the <Company>'s Common Stock are reserved for issuance pursuant to the <Plan>.
-
-        \\ Resolved further: That the <Plan> shall continue for 10 years from the effective date of these resolutions unless terminated earlier pursuant to its terms.
-
-        \\ Resolved further: That the forms of stock option agreement and restricted stock purchase agreement, in substantially the forms attached hereto as {Form Of Option Agreement} and {Form Of Option Agreement}, respectively, are hereby approved for purposes of documenting awards granted under the <Plan>, with such modifications or amendments to each form, or any individual agreement, as may be approved by the officers of the <Company>, or any of them individually, provided that any such changes do not individually, or in the aggregate, have a material financial, legal, tax or accounting impact on the <Company> or any of its affiliates.
-
-        \\ Resolved further: That the officers of the <Company>, in consultation with legal counsel, are authorized and directed to take any and all additional actions and file any other documents necessary to carry out the intent and purposes of the foregoing resolutions, including seeking stockholder approval of the <Plan> and qualifying or exempting the issuance of securities under the <Plan> from the registration requirements of the [Title of Securities Law Statute].
-
-# {{/Adopting Stock Plan}}
-
     Ratification \\ Resolved: That all actions taken heretofore by the Incorporator, officers and directors with respect to all matters contemplated by the foregoing resolutions and the transactions contemplated thereby are hereby approved, adopted, ratified and confirmed.
 
     Omnibus Resolution \\ Resolved: That each of the officers is authorized and empowered to take all such actions (including, without limitation, soliciting appropriate consents or waivers from stockholders) and to execute and deliver all such documents as may be necessary or advisable to carry out the intent and accomplish the purposes of the foregoing resolutions and to effect any transactions contemplated thereby and the performance of any such actions and the execution and delivery of any such documents shall be conclusive evidence of the approval of the <Board> thereof and all matters relating thereto.
@@ -94,36 +70,8 @@ In accordance with the <Company>'s Bylaws, this action may be executed in writin
 
 \\
 
-    Initial Stock Issuance Table \\
-
-# {{#Stock Purchasers}}
-
-        {{&Name}} \\
-
-            Shares \\ {{&Number of Shares}} shares of {{&Security}}
-
-            Consideration \\ {{#Paying By Check}}{{&Total Purchase Price}}{{/Paying By Check}}{{#Assigning IP}}assignment of intellectual property{{/Assigning IP}}
-
-            Vesting \\ {{&Percentage of Shares Subject to Vesting}} of the shares are subject to vesting. {{&Cliff Shares}} shall vest on {{&Cliff Date}} and {{&Vesting Increment}} shall vest monthly thereafter.{{#Change of Control}} In the event of a <Change of Control>, {{&Acceleration Percentage}} of the shares shall vest on a {{#Double-Trigger Vesting}}double trigger basis{{/Double-Trigger Vesting}}{{^Double-Trigger Vesting}}single trigger basis{{/Double-Trigger Vesting}}.{{/Change of Control}}
-
-# {{/Stock Purchasers}}
+    Initial Stock Issuance Table \\ [List of stock purchasers with number of shares, form of consideration, and vesting terms for each.]
 
 Form(s) Of Stock Purchase Agreement \\ (Attached)
 
 Form Of Indemnification Agreement \\ (Attached)
-
-# {{#Adopting Stock Plan}}
-
-Form Of Stock Plan \\ (Attached)
-
-Form Of Option Agreement \\ (Attached)
-
-Form Of Restricted Stock Purchase Agreement \\ (Attached)
-
-# {{/Adopting Stock Plan}}
-
-# {{#Certificated Shares}}
-
-Form Of Stock Certificate \\ (Attached)
-
-# {{/Certificated Shares}}
