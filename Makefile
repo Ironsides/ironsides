@@ -8,16 +8,9 @@ PER_COMPANY=action-of-incorporator board-resolutions bylaws certificate-of-incor
 PER_FOUNDER=stock-purchase-agreement assignment-of-other-assets stock-power receipt 83-b-election receipt-and-consent 83-b-statement-acknowledgement indemnification-agreement
 FOUNDER=$(foreach form,$(PER_FOUNDER),$(foreach founder,$(FOUNDERS),$(form)-$(founder)))
 
-all: pdfs.zip
-
-pdfs.zip: pdf
-	zip $@ *.pdf
-
-docx: $(PER_COMPANY:=.docx) $(FOUNDER:=.docx)
+all: $(PER_COMPANY:=.docx) $(FOUNDER:=.docx)
 
 html: $(PER_COMPANY:=.html) $(FOUNDER:=.html)
-
-pdf: $(PER_COMPANY:=.pdf) $(FOUNDER:=.pdf)
 
 $(COMMONFORM):
 	npm i
@@ -27,9 +20,6 @@ $(MUSTACHE):
 
 $(JSON):
 	npm i
-
-%.pdf: %.docx
-	doc2pdf $<
 
 %.blanks.json: $(BLANKS) $(JSON)
 	node -e "var j = require('./$(BLANKS)'); console.log(JSON.stringify(j), '\n', JSON.stringify(j['Stock Purchasers'][$* - 1]))"  | \
