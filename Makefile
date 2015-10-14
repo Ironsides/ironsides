@@ -45,54 +45,38 @@ $(JSON):
 	$(MUSTACHE) $(BLANKS) $*.options-template > $@
 
 %-1.docx: %.commonform %.options %-1.sigs.json 1.blanks.json $(COMMONFORM) $(MUSTACHE)
-	$(MUSTACHE) 1.blanks.json $*.commonform | \
-	$(COMMONFORM) render --format docx --blanks 1.blanks.json --signatures $*-1.sigs.json $(shell cat $*.options) > $@
+	$(COMMONFORM) render --format docx --blanks 1.blanks.json --signatures $*-1.sigs.json $(shell cat $*.options) < $< > $@
 
 %-2.docx: %.commonform %.options %-2.sigs.json 2.blanks.json $(COMMONFORM) $(MUSTACHE)
-	$(MUSTACHE) 2.blanks.json $*.commonform | \
-	$(COMMONFORM) render --format docx --blanks 2.blanks.json --signatures $*-2.sigs.json $(shell cat $*.options) > $@
+	$(COMMONFORM) render --format docx --blanks 2.blanks.json --signatures $*-2.sigs.json $(shell cat $*.options) < $< > $@
 
 %.sigs.json: %.sigs $(BLANKS) $(MUSTACHE)
 	$(MUSTACHE) $(BLANKS) $*.sigs | sed 's/,]/]/' > $@
 
 %.docx: %.commonform %.options %.sigs.json $(BLANKS) $(COMMONFORM) $(MUSTACHE)
-	$(MUSTACHE) $(BLANKS) $*.commonform | \
-	$(COMMONFORM) render --format docx --blanks $(BLANKS) --signatures $*.sigs.json $(shell cat $*.options) > $@
+	$(COMMONFORM) render --format docx --blanks $(BLANKS) --signatures $*.sigs.json $(shell cat $*.options) < $< > $@
 
 %.docx: %.commonform %.options $(BLANKS) $(COMMONFORM) $(MUSTACHE)
-	$(MUSTACHE) $(BLANKS) $*.commonform | \
-	$(COMMONFORM) render --format docx --blanks $(BLANKS) $(shell cat $*.options) > $@
+	$(COMMONFORM) render --format docx --blanks $(BLANKS) $(shell cat $*.options) < $< > $@
 
 %.html: %.commonform %.options $(BLANKS) $(COMMONFORM)
-	$(MUSTACHE) $(BLANKS) $*.commonform | \
-	$(COMMONFORM) render --format html5 --blanks $(BLANKS) $(shell cat $*.options) > $@
+	$(COMMONFORM) render --format html5 --blanks $(BLANKS) $(shell cat $*.options) < $< > $@
 
-.PHONY: clean test variants critique
+.PHONY: lint critique clean
 
-variants: $(FORMS)
-	rm -rf variants
+lint: $(FORMS) $(COMMONFORM)
 	for form in $(FORMS); do \
-		base=$$(basename $$form .commonform) ; \
-		node generate-variants.js $$base; \
-	done
-
-test: variants $(COMMONFORM)
-	for variant in variants/* ; do \
 		echo ; \
-		echo $$variant; \
-		$(COMMONFORM) lint < $$variant; \
+		echo $$form; \
+		$(COMMONFORM) lint < $$form; \
 	done; \
 
 critique: $(FORMS) $(COMMONFORM)
 	for form in $(FORMS); do \
+		echo ; \
+		echo $$form \ ;
 		$(COMMONFORM) critique < $$form; \
 	done
 
 clean:
 	git clean -fdx
-
-share: variants $(COMMONFORM)
-	for variant in variants/* ; do \
-		echo $$variant; \
-		$(COMMONFORM) share < $$variant; \
-	done
