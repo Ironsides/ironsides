@@ -1,10 +1,17 @@
 FORMS=$(wildcard *.commonform)
 COMMONFORM=node_modules/.bin/commonform
+DOCX=$(FORMS:.commonform=.docx)
+PDF=$(FORMS:.commonform=.pdf)
 
-all: $(FORMS:.commonform=.docx)
+all: $(DOCX)
+
+pdf: $(PDF)
 
 $(COMMONFORM):
 	npm i
+
+%.pdf: %.docx
+	doc2pdf $<
 
 %.docx: %.commonform %.options %.signatures.json $(COMMONFORM)
 	$(COMMONFORM) render --format docx --signatures $*.signatures.json $(shell cat $*.options) < $< > $@
@@ -29,4 +36,4 @@ critique: $(FORMS) $(COMMONFORM)
 	done
 
 clean:
-	rm -rf *.docx
+	rm -rf $(DOCX) $(PDF)
