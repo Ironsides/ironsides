@@ -1,4 +1,6 @@
 [ { "header": "The Holder executes this Stock Power as of the date written below.",
     "term": "Holder",
     "name": "[Name]",
-    "information": [ "address", "date", "email" ] } ]
+    "information": [ "address", "date", "email" ] },
+  { "header": "The undersigned spouse of the Holder countersigns this Stock Power as of the date written next to the Holder's signature.",
+    "name": "[Spouse]" } ]
