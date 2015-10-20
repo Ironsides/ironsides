@@ -31,7 +31,7 @@ lint: $(FORMS) $(COMMONFORM)
 critique: $(FORMS) $(COMMONFORM)
 	for form in $(FORMS); do \
 		echo ; \
-		echo $$form \ ;
+		echo $$form ; \
 		$(COMMONFORM) critique < $$form; \
 	done
 
