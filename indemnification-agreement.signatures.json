@@ -1,4 +1,4 @@
-[ { "header": "The parties have executed this Agreement as of the date set forth above.",
+[ { "header": "The parties have executed this Agreement as of the date written above.",
     "term": "Company",
     "entities": [
       { "name": "[Company Name]",
@@ -7,7 +7,7 @@
         "by": "Chief Executive Officer" } ],
     "name": "[Name]",
     "information": [ "address" ] },
-  { "header": "The parties have executed this Agreement as of the date set forth above.",
+  { "header": "The parties have executed this Agreement as of the date written above.",
     "term": "Indemnitee",
     "information": [ "address", "email" ],
     "name": "[Name]" } ]

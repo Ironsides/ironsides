@@ -1,8 +1,8 @@
 [ { "term": "Purchaser",
     "information": [ "address" ],
     "name": "[Purchaser]",
-    "header": "The parties have executed this Common Stock Purchase Agreement as of the date first set forth above." },
-  { "header": "I, [Spouse], spouse of [Purchaser], have read and hereby approve the foregoing Common Stock Purchase Agreement. In consideration of the Company's granting my spouse the right to purchase the Shares as set forth in the Common Stock Purchase Agreement, I hereby agree to be bound irrevocably by the Agreement and further agree that any community property or other such interest that I may have in the Shares shall hereby be similarly bound by the Common Stock Purchase Agreement. I hereby appoint my spouse as my attorney-in-fact with respect to any amendment or exercise or waiver of any rights under the Common Stock Purchase Agreement.",
+    "header": "The parties have executed this Common Stock Purchase Agreement as of the date first written above." },
+  { "header": "I, [Spouse], spouse of [Purchaser], have read and hereby approve the foregoing Common Stock Purchase Agreement. In consideration of the Company's granting my spouse the right to purchase the Shares as described in the Common Stock Purchase Agreement, I hereby agree to be bound irrevocably by the Agreement and further agree that any community property or other such interest that I may have in the Shares shall hereby be similarly bound by the Common Stock Purchase Agreement. I hereby appoint my spouse as my attorney-in-fact with respect to any amendment or exercise or waiver of any rights under the Common Stock Purchase Agreement.",
     "name": "[Spouse]" },
   { "term": "Company",
     "entities": [
@@ -11,4 +11,4 @@
         "jurisdiction": "Delaware",
         "by": "Chief Executive Officer" } ],
     "information": [ "address", "email" ],
-    "header": "The parties have executed this Common Stock Purchase Agreement as of the date first set forth above." } ]
+    "header": "The parties have executed this Common Stock Purchase Agreement as of the date first written above." } ]
