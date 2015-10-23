@@ -188,27 +188,16 @@ Attorneys' Fees \\  In the event that any <Proceeding> is instituted by <Indemni
 
 Miscellaneous \\
 
-    Governing Law \\  The validity, interpretation, construction and performance of this <Agreement>, and all acts and transactions pursuant to this <Agreement> and the rights and obligations of the parties to this <Agreement> shall be governed, construed and interpreted in accordance with the laws of the state of Delaware, without giving effect to principles of conflicts of law.
+    include(shared/governing-law.commonform)
 
     Entire Agreement; Binding Effect \\  Without limiting any of the rights of <Indemnitee> described in {Nonexclusivity}, this <Agreement> states the entire agreement and understanding of the parties relating to the subject matter of this <Agreement> and merges all prior discussions and supersedes any and all previous agreements between them covering the subject matter of this <Agreement>. The indemnification provided under this <Agreement> applies with respect to events occurring before or after the effective date of this <Agreement>, and shall continue to apply even after <Indemnitee> has ceased to serve the <Company> in any and all indemnified capacities.
 
-    Amendments and Waivers \\  No modification of or amendment to this <Agreement>, nor any waiver of any rights under this <Agreement>, shall be effective unless in writing signed by the parties to this <Agreement>. No delay or failure to require performance of any provision of this <Agreement> shall constitute a waiver of that provision as to that or any other instance.
-
-    Successors and Assigns \\  This <Agreement> shall be binding upon the <Company> and its successors (including any direct or indirect successor by purchase, merger, consolidation or otherwise to all or substantially all of the business and/or assets of the <Company>) and assigns, and inure to the benefit of <Indemnitee> and <Indemnitee>'s heirs, executors, administrators, legal representatives and assigns. The <Company> shall require and cause any successor (whether direct or indirect by purchase, merger, consolidation or otherwise) to all or substantially all of the business and/or assets of the <Company>, by written agreement in form and substance satisfactory to <Indemnitee>, expressly to assume and agree to perform this <Agreement> in the same manner and to the same extent that the <Company> would be required to perform if no such succession had taken place.
-
-    Notices \\  Any notice, demand or request required or permitted to be given under this <Agreement> shall be in writing and shall be deemed sufficient when delivered personally or by overnight courier or sent by email, or 48 hours after being deposited in the U.S. mail as certified or registered mail with postage prepaid, addressed to the party to be notified at such party's address as written on the signature page, as subsequently modified by written notice, or if no address is specified on the signature page, at the most recent address recorded in the <Company>'s books and records.
-
-    Severability \\  If one or more provisions of this <Agreement> are held to be unenforceable under applicable law, the parties agree to renegotiate such provision in good faith. In the event that the parties cannot reach a mutually agreeable and enforceable replacement for such provision, then
-
-        \\ such provision shall be excluded from this <Agreement>,
-
-        \\ the balance of this <Agreement> shall be interpreted as if such provision were so excluded and
-
-        \\ the balance of this <Agreement> shall be enforceable in accordance with its terms.
-
-    Construction \\  This <Agreement> is the result of negotiations between and has been reviewed by each of the parties to this <Agreement> and their respective counsel, if any; accordingly, this <Agreement> shall be deemed to be the product of all of the parties to this <Agreement>, and no ambiguity shall be construed in favor of or against any one of the parties to this <Agreement>.
-
-    Counterparts \\  This <Agreement> may be executed in any number of counterparts, each of which when so executed and delivered shall be deemed an original, and all of which together shall constitute one and the same agreement. Execution of a facsimile copy will have the same force and effect as execution of an original, and a facsimile signature will be deemed an original and valid signature.
+    include(shared/amendments-and-waivers.commonform)
+    include(shared/successors-and-assigns.commonform)
+    include(shared/notices.commonform)
+    include(shared/severability.commonform)
+    include(shared/construction.commonform)
+    include(shared/counterparts.commonform)
 
     No Employment Rights \\  Nothing contained in this <Agreement> is intended to create in <Indemnitee> any right to continued employment.
 

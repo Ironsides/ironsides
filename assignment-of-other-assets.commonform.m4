@@ -1,4 +1,4 @@
-This Assignment of IP and Other Assets (this ""Agreement"") is made and entered into effective as of [Effective Date] (this ""Effective Date"") by and between [Company Name], a Delaware corporation (the ""Company""), and [Name] (the ""Assignor"")
+This Assignment of IP and Other Assets (this ""Agreement"") is made and entered into effective as of [Effective Date] (this ""Effective Date"") by and between [Company Name], a Delaware corporation (the ""Company""), and [Name] (the ""Assignor"").
 
 Recitals \\
 
@@ -16,11 +16,11 @@ Certain Definitions \\ As used in this <Agreement>, the following capitalized te
 
         \\ any derivative work of the <Technology> (as defined in Section 101 of the U.S. Copyright Act);
 
-        \\ all improvements, modifications, alterations, adaptations, enhancements and new versions of the <Technology> (each a ""Technology Derivative""); and
+        \\ all improvements, changes, alterations, adaptations, enhancements and new versions of the <Technology> (each a ""Technology Derivative""); and
 
         \\ all technology, inventions, products or other items that, directly or indirectly, incorporate, or are derived from, any part of the <Technology> or any <Technology Derivative>.
 
-    \\ ""Intellectual Property Rights"" means, collectively, all worldwide patents, patent rights, copyrights, moral rights, trade names, trademarks, service marks, domain names, as well as registrations and applications for all of those things, as well as trade secrets, know-how, mask work rights, rights in trade dress and packaging, goodwill and all other intellectual property rights and proprietary rights relating in any way to the <Technology>, any <Derivative> or any <Embodiment>, whether arising under the laws of the United States of America or the laws of any other state, country or jurisdiction.
+    \\ ""Intellectual Property Rights"" means, collectively, all worldwide patents, patent rights, copyrights, moral rights, trade names, trademarks, service marks, domain names, as well as registrations and applications for all those things, as well as trade secrets, know-how, mask work rights, rights in trade dress and packaging, goodwill and all other intellectual property rights and proprietary rights relating in any way to the <Technology>, any <Derivative> or any <Embodiment>, whether arising under the laws of the United States of America or the laws of any other state, country or jurisdiction.
 
     \\ ""Embodiment"" means all documentation, drafts, papers, designs, schematics, diagrams, models, prototypes, source and object code (in any form or format and for all hardware platforms), computer-stored data, diskettes, manuscripts and other items describing all or any part of the <Technology>, any <Derivative>, any <Intellectual Property Rights> or any related information and information in which all of any part of the <Technology>, any <Derivative>, any <Intellectual Property Rights> or such information is described, embodied, recorded or stored.
 
@@ -38,28 +38,15 @@ Assignment \\
 
 Assignor Representations and Warranties \\ The <Assignor> represents and warrants to the <Company> that to the best of <Assignor>'s knowledge the <Assignor> is the owner, inventor and/or author of, and can grant exclusive right, title and interest in and to, each of the <Assigned Assets> transferred by the <Assignor> under this <Agreement> and that none of the <Assigned Assets> are subject to any dispute, claim, prior license or other agreement, assignment, lien or rights of any third party, or any other rights that might interfere with the <Company>'s use, or exercise of ownership of, any of the <Assigned Assets>. The <Assignor> further represents and warrants to the <Company> that to the best of <Assignor>'s knowledge the <Assigned Assets> are free of any claim of any prior employer or third party client of the <Assignor> or any school, university or other institution the <Assignor> attended, and that the <Assignor> is not aware of any claims by any third party to any rights of any kind in or to any of the <Assigned Assets>. The <Assignor> agrees to immediately notify the <Company> upon becoming aware of any such claims.
 
-Reimbursement of Expenses \\ The <Company> shall as promptly as practicable, reimburse the <Assignor> for the <Assignor>'s actual out-of-pocket costs reasonably incurred with respect to <Assignor>'s acquisition and maintenance of the <Assigned Assets>.
+Reimbursement of Expenses \\ The <Company> shall as promptly as practical, reimburse the <Assignor> for the <Assignor>'s actual out-of-pocket costs reasonably incurred with respect to <Assignor>'s acquisition and maintenance of the <Assigned Assets>.
 
 Miscellaneous \\
 
-    Governing Law \\ The validity, interpretation, construction and performance of this <Agreement>, and all acts and transactions pursuant to this <Agreement> and the rights and obligations of the parties to this <Agreement> shall be governed, construed and interpreted in accordance with the laws of the [Governing Law State], without giving effect to principles of conflicts of law.
-
-    Entire Agreement \\ This <Agreement> states the entire agreement and understanding of the parties relating to the subject matter of this <Agreement> and supersedes all prior or contemporaneous discussions, understandings and agreements, whether oral or written, between them relating to the subject matter of this <Agreement>.
-
-    Amendments and Waivers \\ No modification of or amendment to this <Agreement>, nor any waiver of any rights under this <Agreement>, shall be effective unless in writing signed by the parties to this <Agreement>. No delay or failure to require performance of any provision of this <Agreement> shall constitute a waiver of that provision as to that or any other instance.
-
-    Successors and Assigns \\ Except as otherwise provided in this <Agreement>, this <Agreement>, and the rights and obligations of the parties to this <Agreement>, will be binding upon and inure to the benefit of their respective successors, assigns, heirs, executors, administrators and legal representatives. The <Company> may assign any of its rights and obligations under this <Agreement>. No other party to this <Agreement> may assign, whether voluntarily or by operation of law, any of its rights and obligations under this <Agreement>, except with the prior written consent of the <Company>.
-
-    Notices \\ Any notice, demand or request required or permitted to be given under this <Agreement> shall be in writing and shall be deemed sufficient when delivered personally or by overnight courier or sent by email, or 48 hours after being deposited in the U.S. mail as certified or registered mail with postage prepaid, addressed to the party to be notified at such party's address as written on the signature page, as subsequently modified by written notice, or if no address is specified on the signature page, at the most recent address recorded in the <Company>'s books and records.
-
-    Severability \\ If one or more provisions of this <Agreement> are held to be unenforceable under applicable law, the parties agree to renegotiate such provision in good faith. In the event that the parties cannot reach a mutually agreeable and enforceable replacement for such provision, then
-
-        \\ such provision shall be excluded from this <Agreement>,
-
-        \\ the balance of the <Agreement> shall be interpreted as if such provision were so excluded and
-
-        \\ the balance of the <Agreement> shall be enforceable in accordance with its terms.
-
-    Construction \\ This <Agreement> is the result of negotiations between and has been reviewed by each of the parties to this <Agreement> and their respective counsel, if any; accordingly, this <Agreement> shall be deemed to be the product of all of the parties to this <Agreement>, and no ambiguity shall be construed in favor of or against any one of the parties to this <Agreement>.
-
-    Counterparts \\ This <Agreement> may be executed in any number of counterparts, each of which when so executed and delivered shall be deemed an original, and all of which together shall constitute one and the same agreement. Execution of a facsimile copy will have the same force and effect as execution of an original, and a facsimile signature will be deemed an original and valid signature.
+    include(shared/governing-law.commonform)
+    include(shared/entire-agreement.commonform)
+    include(shared/amendments-and-waivers.commonform)
+    include(shared/successors-and-assigns.commonform)
+    include(shared/notices.commonform)
+    include(shared/severability.commonform)
+    include(shared/construction.commonform)
+    include(shared/counterparts.commonform)

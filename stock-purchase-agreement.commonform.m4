@@ -180,27 +180,14 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
     Miscellaneous \\
 
-        Governing Law \\ The validity, interpretation, construction and performance of this <Agreement>, and all acts and transactions pursuant to this <Agreement> and the rights and obligations of the parties to this <Agreement> shall be governed, construed and interpreted in accordance with the laws of the state of [Governing Law State], without giving effect to principles of conflicts of law. For purposes of litigating any dispute that may arise directly or indirectly from this <Agreement>, the parties hereby submit and consent to the exclusive jurisdiction of [State for Litigation] and agree that any such litigation shall be conducted only in the courts of [State for Litigation] or the federal courts of the United States located in [State for Litigation] and no other courts.
-
-        Entire Agreement \\ This <Agreement> states the entire agreement and understanding of the parties relating to the subject matter of this <Agreement> and supersedes all prior or contemporaneous discussions, understandings and agreements, whether oral or written, between them relating to the subject matter of this <Agreement>.
-
-        Amendments and Waivers \\ No change or amendment to this <Agreement>, nor any waiver of any rights under this <Agreement>, shall be effective unless in writing signed by the parties to this <Agreement>. No delay or failure to require performance of any provision of this <Agreement> shall constitute a waiver of that provision for that or any other instance.
-
-        Successors and Assigns \\ Except as otherwise provided in this <Agreement>, this <Agreement>, and the rights and obligations of the parties to this <Agreement>, will be binding on and inure to the benefit of their respective successors, assigns, heirs, executors, administrators and legal representatives. The <Company> may assign any of its rights and obligations under this <Agreement>. No other party to this <Agreement> may assign, whether voluntarily or by operation of law, any of its rights and obligations under this <Agreement>, except with the prior written consent of the <Company>.
-
-        Notices \\ Any notice, demand or request required or allowed by this <Agreement> shall be in writing and shall be deemed sufficient when delivered personally or by overnight courier or sent by email, or 48 hours after being deposited in the U.S. mail as certified or registered mail with postage prepaid, addressed to the party to be notified at such party's address as written on the signature page, as subsequently modified by written notice, or if no address is specified on the signature page, at the most recent address recorded in the <Company>'s books and records.
-
-        Severability \\ If one or more provisions of this <Agreement> are held to be unenforceable under applicable law, the parties agree to renegotiate such provision in good faith. If the parties cannot reach a mutually agreeable and enforceable replacement for such provision, then
-
-            \\ such provision shall be excluded from this <Agreement>,
-
-            \\ the balance of the <Agreement> shall be interpreted as if such provision were so excluded and
-
-            \\ the balance of the <Agreement> shall be enforceable in accordance with its terms.
-
-        Construction \\ This <Agreement> is the result of negotiations between and has been reviewed by each of the parties to this <Agreement> and their respective counsel, if any; accordingly, this <Agreement> shall be deemed to be the product of all the parties to this <Agreement>, and no ambiguity shall be construed for or against any one of the parties to this <Agreement>.
-
-        Counterparts \\ This <Agreement> may be executed in any number of counterparts, each of which when so executed and delivered shall be deemed an original, and all of which together shall constitute one and the same agreement. Execution of a facsimile copy will have the same force and effect as execution of an original, and a facsimile signature will be deemed an original and valid signature.
+        include(shared/governing-law.commonform)
+        include(shared/entire-agreement.commonform)
+        include(shared/amendments-and-waivers.commonform)
+        include(shared/successors-and-assigns.commonform)
+        include(shared/notices.commonform)
+        include(shared/severability.commonform)
+        include(shared/construction.commonform)
+        include(shared/counterparts.commonform)
 
         Electronic Delivery \\ The <Company> may, in its sole discretion, decide to deliver any documents related to this <Agreement> or any notices required by applicable law or the <Company>'s Certificate of Incorporation or Bylaws by email or any other electronic means. <Purchaser> hereby consents to
 

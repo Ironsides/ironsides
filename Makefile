@@ -1,4 +1,4 @@
-FORMS=$(wildcard *.commonform)
+FORMS=$(wildcard *.commonform) stock-purchase-agreement.commonform assignment-of-other-assets.commonform indemnification-agreement.commonform
 COMMONFORM=node_modules/.bin/commonform
 DOCX=$(FORMS:.commonform=.docx)
 PDF=$(FORMS:.commonform=.pdf)
@@ -18,6 +18,9 @@ $(COMMONFORM):
 
 %.docx: %.commonform %.options $(COMMONFORM)
 	$(COMMONFORM) render --format docx $(shell cat $*.options) < $< > $@
+
+%.commonform: %.commonform.m4
+	m4 < $< > $@
 
 .PHONY: lint critique clean
 
