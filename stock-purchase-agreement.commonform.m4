@@ -180,14 +180,14 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
     Miscellaneous \\
 
-        include(shared/governing-law.commonform)
-        include(shared/entire-agreement.commonform)
-        include(shared/amendments-and-waivers.commonform)
-        include(shared/successors-and-assigns.commonform)
-        include(shared/notices.commonform)
-        include(shared/severability.commonform)
-        include(shared/construction.commonform)
-        include(shared/counterparts.commonform)
+        include(governing-law.commonform)
+        include(entire-agreement.commonform)
+        include(amendments-and-waivers.commonform)
+        include(successors-and-assigns.commonform)
+        include(notices.commonform)
+        include(severability.commonform)
+        include(construction.commonform)
+        include(counterparts.commonform)
 
         Electronic Delivery \\ The <Company> may, in its sole discretion, decide to deliver any documents related to this <Agreement> or any notices required by applicable law or the <Company>'s Certificate of Incorporation or Bylaws by email or any other electronic means. <Purchaser> hereby consents to
 

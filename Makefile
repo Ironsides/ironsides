@@ -20,7 +20,7 @@ $(COMMONFORM):
 	$(COMMONFORM) render --format docx $(shell cat $*.options) < $< > $@
 
 %.commonform: %.commonform.m4
-	m4 < $< > $@
+	m4 -I includes < $< > $@
 
 .PHONY: lint critique clean
 

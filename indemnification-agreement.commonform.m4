@@ -188,16 +188,16 @@ Attorneys' Fees \\  In the event that any <Proceeding> is instituted by <Indemni
 
 Miscellaneous \\
 
-    include(shared/governing-law.commonform)
+    include(governing-law.commonform)
 
     Entire Agreement; Binding Effect \\  Without limiting any of the rights of <Indemnitee> described in {Nonexclusivity}, this <Agreement> states the entire agreement and understanding of the parties relating to the subject matter of this <Agreement> and merges all prior discussions and supersedes any and all previous agreements between them covering the subject matter of this <Agreement>. The indemnification provided under this <Agreement> applies with respect to events occurring before or after the effective date of this <Agreement>, and shall continue to apply even after <Indemnitee> has ceased to serve the <Company> in any and all indemnified capacities.
 
-    include(shared/amendments-and-waivers.commonform)
-    include(shared/successors-and-assigns.commonform)
-    include(shared/notices.commonform)
-    include(shared/severability.commonform)
-    include(shared/construction.commonform)
-    include(shared/counterparts.commonform)
+    include(amendments-and-waivers.commonform)
+    include(successors-and-assigns.commonform)
+    include(notices.commonform)
+    include(severability.commonform)
+    include(construction.commonform)
+    include(counterparts.commonform)
 
     No Employment Rights \\  Nothing contained in this <Agreement> is intended to create in <Indemnitee> any right to continued employment.
 
