@@ -1,4 +1,5 @@
-FORMS=$(wildcard *.commonform) stock-purchase-agreement.commonform assignment-of-other-assets.commonform indemnification-agreement.commonform
+TEMPLATES=$(wildcard *.commonform.m4)
+FORMS=$(TEMPLATES:.commonform.m4=.commonform)
 COMMONFORM=node_modules/.bin/commonform
 DOCX=$(FORMS:.commonform=.docx)
 PDF=$(FORMS:.commonform=.pdf)
@@ -39,4 +40,4 @@ critique: $(FORMS) $(COMMONFORM)
 	done
 
 clean:
-	rm -rf $(DOCX) $(PDF)
+	rm -rf $(DOCX) $(PDF) $(FORMS)
