@@ -168,7 +168,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
     !! <Purchaser> (and not the <Company>, its agents or any other person) will be solely responsible for appropriately filing such form with the IRS, even if <Purchaser> requests the <Company>, its agents or any other person make this filing on <Purchaser>'s behalf.
 
-    \\ <Purchaser> agrees that <Purchaser> will sign and deliver to the <Company> with this <Agreement> a copy of the acknowledgment and statement (the ""Acknowledgment"") attached as {Acknowledgment and Statement of Decision Regarding Section 83(b) Election} and, if <Purchaser> decides to make an <83(b) Election>, a copy of the <83(b) Election>, attached as {Election Under Section 83(b) of the Internal Revenue Code of 1986}.
+    \\ <Purchaser> agrees that <Purchaser> will sign and deliver to the <Company> with this <Agreement> a copy of the acknowledgment and statement attached as {Acknowledgment and Statement of Decision Regarding Section 83(b) Election} and, if <Purchaser> decides to make an <83(b) Election>, a copy of the <83(b) Election>, attached as {Election Under Section 83(b) of the Internal Revenue Code of 1986}.
 
     Defined Terms \\
 
