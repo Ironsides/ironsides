@@ -46,7 +46,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
                 \\ <Purchaser>'s having been convicted of, or having plead guilty or no contest to, any crime that results in, or is reasonably expected to result in material harm to the business or reputation of the <Company>; or
 
-                \\ <Purchaser>'s material breach of any material written agreement between <Purchaser> and the <Company> (including without limitation <Purchaser>'s Confidential Information and Invention Assignment Agreement with the <Company>) and <Purchaser>'s failure to cure such breach within 30 days after receiving written notice of that material breach.
+                \\ <Purchaser>'s material breach of any material written agreement between <Purchaser> and the <Company>, such as any Confidential Information and Invention Assignment Agreement with the <Company>, and <Purchaser>'s failure to cure such breach within 30 days after receiving written notice of that material breach.
 
             For purposes of clarity, a termination without <Cause> does not include any termination that occurs as a result of <Purchaser>'s death or disability. The determination of whether <Purchaser>'s <Continuous Service Status> has been terminated for <Cause> will be made in good faith by the <Company> and will be final and binding on <Purchaser>. The definition of <Cause> does not in any way limit the <Company>'s ability to terminate <Purchaser>'s employment or consulting relationship at any time, and the term <Company> will be interpreted to include any <Subsidiary>, <Parent>, <Affiliate>, or any successor to such a <Subsidiary>, <Parent> or <Affiliate>, if appropriate. As used in this <Agreement>, ""Good Reason"" will mean <Purchaser>'s resignation due to the occurrence of any of the following conditions which occurs without <Purchaser>'s written consent, provided that the requirements regarding advance notice and an chance to cure found below are satisfied:
 
@@ -74,7 +74,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             \\ the number of <Shares> to be transferred to each <Proposed Transferee>;
 
-            \\ the terms and conditions of each proposed sale or transfer, including (without limitation) the purchase price for such <Shares> (the ""Transfer Purchase Price""); and
+            \\ the terms and conditions of each proposed sale or transfer, including the purchase price for such <Shares> (the ""Transfer Purchase Price""); and
 
             \\ the <Holder>'s offer shall offer to the <Company> or its assignee(s) to purchase the <Shares> at the <Transfer Purchase Price> and on the same terms (or terms as similar as reasonably possible).
 
