@@ -86,7 +86,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         Holder's Right to Transfer \\
 
-            \\ The <Holder> may sell or otherwise transfer any unpurchased <Shares>, subject to all of the following conditions:
+            \\ The <Holder> may sell or otherwise transfer any unpurchased <Shares>, subject to all the following conditions:
 
                 \\ The <Shares> are not purchased by the <Company> and/or its assignee(s) under {Right of First Refusal}.
 
