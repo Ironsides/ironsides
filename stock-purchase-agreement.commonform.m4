@@ -1,4 +1,4 @@
-This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effective Date] by and between [Company Name], a Delaware corporation (the ""Company""), and [Name] (""Purchaser"").
+This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effective Date] between [Company Name], a Delaware corporation (the ""Company""), and [Name] (""Purchaser"").
 
 \\
 
