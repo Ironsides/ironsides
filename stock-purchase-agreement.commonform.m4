@@ -188,7 +188,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \\ ""Director"" means a member of the Board of Directors of the <Company>.
 
-        \\ ""Disability"" means "disability" within the meaning of Section 22(e)(3) of the <Code>.
+        \\ ""Disability"" means a condition causing a person to considered to be "permanently and totally disabled" under Section 22(e)(3) of the <Code>.
 
         \\ ""Employee"" means any person employed by the <Company>, or any <Parent>, <Subsidiary> or <Affiliate>, with the status of employment determined by considering such factors as are deemed appropriate by the Board of Directors of the <Company> in its sole discretion, subject to any legal requirements, including requirements of the <Code>. The payment by the <Company> of a director's fee will not be enough to constitute "employment" of such director by the <Company> or any <Parent>, <Subsidiary> or <Affiliate>.
 
