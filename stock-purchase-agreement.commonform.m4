@@ -34,61 +34,42 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         Vesting Schedule Stops on Termination \\ No <Vesting Shares> will <Vest> under {Vesting Schedule} on or after the date of <Termination>.
 
-        Acceleration \\ If <Purchaser> is terminated without <Cause> by the <Company> (or a successor, if appropriate) or resigns for <Good Reason> in connection with or following the consummation of a <Change of Control>, then the vesting of the <Unvested Shares> will accelerate such that the <Repurchase Option> in {Vesting} will lapse for [Acceleration Percentage] of the <Unvested Shares>. The lapse of repurchase rights provided for in the previous sentence will occur immediately before the <Termination Date>. In the case of a sale of all or substantially all the <Company>'s assets other than to an <Excluded Entity>, if the acquirer of the <Company>'s assets does not agree to assume this <Agreement>, or to substitute an equivalent award or right for this <Agreement>, and <Purchaser> transfers his employment to such acquirer in connection with such asset sale transaction, then any acceleration of vesting that would otherwise occur on <Purchaser>'s termination will occur immediately before, and contingent on, the consummation of such asset sale transaction. As used in this <Agreement>, ""Change of Control"" means
+        Acceleration \\
 
-            \\ a sale of all or substantially all the <Company>'s assets other than to an <Excluded Entity>,
+            \\ ""Acceleration Event"" means any of:
 
-            \\ a merger, consolidation or other capital reorganization or business combination transaction of the <Company> with or into another corporation, limited liability company or other entity other than an <Excluded Entity>, or
+                \\ <Purchaser>'s <Continuous Service Status> terminates, other than as a result of <Purchaser>'s death or <Disability>, and the <Company> determines in good faith that there was no <Good Reason to Terminate>.
 
-            \\ the consummation of a transaction, or series of related transactions, in which any "person" (as such term is used in Sections 13(d) and 14(d) of the <Exchange Act>) becomes the "beneficial owner" (as defined in Rule 13d-3 of the <Exchange Act>), directly or indirectly, of all the <Company>'s then outstanding voting securities. However, a transaction will not constitute a <Change of Control> if its purpose is to
+                # TODO Resigns from what?
+                # TODO ... and as a result CSS terminates ...
+                \\ In connection with or following a <Change of Control>:
+                    \\ <Purchaser> gives written notice to the <Company> of a <Good Reason to Resign> within 60 calendar days of when it happens (""Resignation Notice""),
+                    \\ the <Company> does not act to remove the <Good Reason to Resign> within 30 calendar days of receiving <Resignation Notice>, and
+                    \\ <Purchaser> resigns effective no later than 60 calendar days after giving <Resignation Notice>.
 
-                \\ change the jurisdiction of the <Company>'s incorporation,
+                \\ <Purchaser> is a <Director> of, but neither an <Employee> nor a <Consultant> of, the <Company> or its successor on consummation of a <Change of Control> and <Purchaser> is removed from, or is not reelected to, the Board of Directors of the <Company> or its successor in connection with or following the <Change of Control>.
 
-                \\ create a holding company that will be owned in substantially the same proportions by the those who hold the <Company>'s securities immediately before such transaction, or
+            Accelerated Vesting \\ [Acceleration Percentage] of then <Unvested Shares> (""Accelerated Shares""), rounded up to the nearest whole share, will <Vest> on any <Acceleration Event>. In case of an <Asset Sale>, if the acquirer of the <Company>'s assets does not agree to assume this <Agreement>, or to substitute an equivalent award or right for this <Agreement>, and <Purchaser> transfers <Purchaser>'s employment to the acquirer in connection with the <Asset Sale>, then <Accelerated Shares> will <Vest> immediately before, and contingent on, the consummation of the <Asset Sale>. Otherwise, <Accelerated Shares> will <Vest> immediately before the date of the <Acceleration Event>.
 
-                \\ obtain funding for the <Company> in a financing that is approved by the <Company>'s Board of Directors.
+        Repurchase Option Terms \\
 
-            An ""Excluded Entity"" means a corporation, limited liability company or other entity of which the holders of voting capital stock of the <Company> outstanding immediately before such transaction are the direct or indirect holders of voting securities representing at least a majority of the votes entitled to be cast by all of such corporation's, limited liability company's or other entity's voting securities outstanding immediately after such transaction. As used in this <Agreement>, ""Cause"" for the <Company> (or a successor, if appropriate) to terminate <Purchaser>'s employment will exist under the following conditions
+            Exercise Price \\ The exercise price of the <Repurchase Option> will be the <Original Price Per Share>, adjusted for any stock splits, stock dividends, and the like, multiplied by the number of <Unvested Shares> for which the <Repurchase Option> is exercised (the ""Repurchase Price"").
 
-                \\ <Purchaser>'s willful and continued failure to substantially perform <Purchaser>'s duties to the <Company> after there has been delivered to <Purchaser> by the <Company>'s Board of Directors a written demand for substantial performance and chance to cure which states in detail the specific respects in which the <Company>'s Board of Directors believes that <Purchaser> has not substantially performed <Purchaser>'s duties;
+            Expiration \\ The <Repurchase Option> will expire at 23:59 San Francisco time on the date that is [Repurchase Option Days] calendar days after the date of <Termination> (the ""Repurchase Option Expiration Date"").
 
-                \\ <Purchaser> having committed willful fraud, willful misconduct, dishonesty or other intentional action in any such case which is materially injurious to the <Company>;
-
-                \\ <Purchaser>'s having been convicted of, or having plead guilty or no contest to, any crime that results in, or is reasonably expected to result in material harm to the business or reputation of the <Company>; or
-
-                \\ <Purchaser>'s material breach of any material written agreement between <Purchaser> and the <Company>, such as any Confidential Information and Invention Assignment Agreement with the <Company>, and <Purchaser>'s failure to cure such breach within 30 days after receiving written notice of that material breach.
-
-            For purposes of clarity, a termination without <Cause> does not include any termination that occurs as a result of <Purchaser>'s death or <Disability>. The determination of whether <Purchaser>'s <Continuous Service Status> has been terminated for <Cause> will be made in good faith by the <Company> and will be final and binding on <Purchaser>. The definition of <Cause> does not in any way limit the <Company>'s ability to terminate <Purchaser>'s employment or consulting relationship at any time, and the term <Company> will be interpreted to include any <Subsidiary>, <Parent>, <Affiliate>, or any successor to such a <Subsidiary>, <Parent> or <Affiliate>, if appropriate.
-
-            \\ As used in this <Agreement>, ""Good Reason"" means <Purchaser>'s resignation due to the occurrence of any of the following conditions which occurs without <Purchaser>'s written consent:
-
-                \\ a reduction of <Purchaser>'s then current base salary by 10% or more unless such reduction is part of a generalized salary reduction affecting similarly situated employees;
-
-                \\ a change in <Purchaser>'s position with the <Company> that materially reduces <Purchaser>'s duties, level of authority or responsibility; or
-
-                \\ the <Company> conditions <Purchaser>'s continued service with the <Company> on <Purchaser>'s being transferred to a site of employment that would increase <Purchaser>'s one-way commute by more than 35 miles from <Purchaser>'s then principal residence. 
-
-            \\ In order for <Purchaser> to resign for <Good Reason>, <Purchaser> must provide written notice to the <Company> of the existence of the <Good Reason> condition within 60 days of the initial existence of such <Good Reason> condition. On receipt of such notice, the <Company> will have 30 days during which it may remedy the <Good Reason> condition and not be required to provide for the vesting acceleration described in this <Agreement> as a result of such proposed resignation. If the <Good Reason> condition is not remedied within such 30-day period, <Purchaser> may resign based on the <Good Reason> condition specified in the notice effective no later than 30 days following the expiration of the 30-day cure period. If <Purchaser> is a <Director> but not an <Employee> or <Consultant> of the <Company> (or a successor, if appropriate) on consummation of the <Change of Control> and <Purchaser> is removed from, or is not reelected to, the Board of Directors of the <Company> (or a successor, as appropriate) in connection with or following the consummation of a <Change of Control>, the vesting of any <Unvested Shares> will accelerate such that the <Repurchase Option> will lapse to the same extent as if <Purchaser> had been terminated without <Cause> as described above.
-
-        Option Terms \\
-
-             Exercise Price \\ The exercise price of the <Repurchase Option> will be <Original Price Per Share>, adjusted for any stock splits, stock dividends, and the like, time the number of <Unvested Shares> for which the <Repurchase Option> is exercised (the ""Repurchase Option Exercise Price"").
-
-             Expiration \\ The <Repurchase Option> will expire at 23:59 San Francisco time on the date that is [Repurchase Option Days] calendar days after the date of <Termination> (the ""Repurchase Option Expiration Date"").
-
-            Automatic Exercise \\ Unless the <Company> gives <Purchaser> notice that it does not intend to exercise its <Repurchase Option> for some or all <Unvested Shares> prior to the <Repurchase Option Expiration Date> (a ""No-Repurchase Notice""), the <Company> will be deemed to exercise the <Repurchase Option> for all <Unvested Shares> on the <Repurchase Option Expiration Date> (""Automatic Exercise""). The <Company> may give <Purchaser> notice that <Automatic Exercise> will occur as of any earlier date, or for only some part of the <Unvested Shares>. On <Automatic Exercise>, the <Company> will become the legal and beneficial owner of the <Unvested Shares> for which the <Repurchase Option> is exercised, will have all rights and interest in and related to those <Unvested Shares>, and will have the right to transfer them to its own name without further <Purchaser> action.
+            Automatic Exercise \\ Unless the <Company> gives <Purchaser> notice that it does not intend to exercise its <Repurchase Option> for some or all <Unvested Shares> prior to the <Repurchase Option Expiration Date>, the <Company> will be deemed to exercise the <Repurchase Option> for all <Unvested Shares> on the <Repurchase Option Expiration Date> (""Automatic Repurchase""). The <Company> may give <Purchaser> notice that <Automatic Repurchase> will occur as of any earlier date, or for only some part of the <Unvested Shares>. On <Automatic Repurchase>, the <Company> will become the legal and beneficial owner of the <Unvested Shares> for which the <Repurchase Option> is exercised, will have all rights and interest in and related to those <Unvested Shares>, and will have the right to transfer them to its own name without further <Purchaser> action.
 
             Payment of Exercise Price \\
 
-                Payment Methods \\ The <Company> shall pay the <Repurchase Option Exercise Price> in one of these ways:
+                Payment Methods \\ The <Company> shall pay the <Repurchase Price> in one of these ways:
 
-                    \\ The <Company> may deliver a check for the <Repurchase Option Exercise Price> to <Purchaser>.
+                    \\ The <Company> may deliver a check for the <Repurchase Price> to <Purchaser>.
 
-                    \\ If <Purchaser> is indebted to the <Company>, the <Company> may cancel <Purchaser>'s debt in the amount of the <Repurchase Option Exercise Price>.
+                    \\ If <Purchaser> is indebted to the <Company>, the <Company> may cancel <Purchaser> debt in the amount of the <Repurchase Price>.
 
-                    \\ The <Company> may pay by check and cancellation of debt that add up to the <Repurchase Option Exercise Price>.
+                    \\ The <Company> may deliver a check and cancel debt in combined amount equal to the <Repurchase Price>.
 
-                Automatic Debt Cancellation \\ If <Purchaser> is indebted to the <Company> on <Automatic Exercise> and the <Company> does not otherwise pay the <Repurchase Option Exercise Price>, an amount of <Purchaser>'s debt equal to the <Repurchase Option Exercise Price> will be deemed canceled as of the date of <Automatic Exercise>.
+                Automatic Debt Cancellation \\ If <Purchaser> is indebted to the <Company> on <Automatic Repurchase> and the <Company> does not otherwise pay the <Repurchase Price>, an amount of <Purchaser>'s debt equal to the <Repurchase Price> will be deemed canceled as of the date of <Automatic Repurchase>.
 
     Right of First Refusal \\ Subject to {Exception for Some Family Transfers}:
 
@@ -204,6 +185,41 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \\ ""Affiliate"" means an entity other than a <Subsidiary> which, together with the <Company>, is under common control of a third person or entity.
 
+        \\ ""Asset Sale"" means the <Company> sells all or substantially all the <Company>'s assets to other than an <Excluded Entity>.
+
+        \\ ""Business Entity"" means corporation, limited liability company, or other legal entity.
+
+        # TODO: Check "employment" (what about consultants?)
+        \\ ""Good Reason to Terminate"" means any of the these:
+
+            \\ <Purchaser>'s willfully fails to substantially perform <Purchaser>'s duties to the <Company> after:
+
+                \\ receipt of written demand for substantial performance from the <Company>'s Board of Directors that states in detail the specific ways the Board of Directors believes <Purchaser> has not substantially performed <Purchaser>'s duties; and
+                \\ a chance to provide that substantial performance which states in detail the specific respects in which the <Company>'s Board of Directors believes that <Purchaser> has not substantially performed <Purchaser>'s duties.
+
+            \\ <Purchaser> commits willful fraud, willful misconduct, dishonesty,or any other intentional act that materially injures the <Company>.
+
+            \\ <Purchaser>'s is convicted of, or pleads guilty or no contest to, any crime that materially harms, or is reasonably expected to materially harm, the business or reputation of the <Company>.
+
+            \\ <Purchaser>'s materially breaches any material written agreement between <Purchaser> and the <Company>, such as a Confidential Information and Invention Assignment Agreement, and fails to cure that breach in 30 days after receiving written notice of the breach.
+
+        \\ ""Change of Control"" means any of these:
+
+            \\ <Asset Sale>
+
+            \\ The <Company> merges, consolidates, or changes, by other capital reorganization or business combination transaction, with or into into another <Business Entity> other than an <Excluded Entity>.
+
+            \\ Any transaction or series of related transactions are consummated in which any "person" (as used in Sections 13(d) and 14(d) of the <Exchange Act>) becomes the "beneficial owner" (as defined in Rule 13d-3 of the <Exchange Act>), directly or indirectly, of all the <Company>'s then outstanding voting securities. 
+
+        However, a transaction will not constitute a <Change of Control> if its purpose is to:
+
+            \\ change the jurisdiction of the <Company>'s incorporation,
+
+            \\ create a holding company owned in substantially the same proportions by the those who hold the <Company>'s securities immediately before the transaction, or
+
+            \\ obtain funding for the <Company> in a financing approved by the <Company>'s Board of Directors.
+
+
         \\ ""Consultant"" means any person, including an advisor but not an <Employee>, who is engaged by the <Company>, or any <Parent>, <Subsidiary> or <Affiliate>, to render services (other than capital-raising services) and is compensated for such services, and any <Director> whether compensated for such services or not.
 
         \\ ""Continuous Service Status"" means the absence of any interruption or termination of service as an <Employee> or <Consultant>. <Continuous Service Status> as an <Employee> or <Consultant> will not be considered interrupted or terminated in the case of:
@@ -222,13 +238,26 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \\ ""Employee"" means any person employed by the <Company>, or any <Parent>, <Subsidiary> or <Affiliate>, with the status of employment determined by considering such factors as are deemed appropriate by the Board of Directors of the <Company> in its sole discretion, subject to any legal requirements, including requirements of the <Code>. The payment by the <Company> of a director's fee will not be enough to constitute "employment" of such director by the <Company> or any <Parent>, <Subsidiary> or <Affiliate>.
 
+        \\ ""Excluded Entity"" means a <Business Entity> of which the holders of voting capital stock of the <Company> outstanding immediately before a transaction are the direct or indirect holders of voting securities representing at least a majority of the votes entitled to be cast by all of that <Business Entity>'s voting securities outstanding immediately after the transaction.
+
+        \\ ""Good Reason to Resign"" means any of these that happen without <Purchaser>'s written consent:
+
+            # TODO: Check "Company" versus successor, etc.
+            \\ The <Company> reduces <Purchaser>'s base salary by 10% or more, unless that reduction is part of a general salary reduction affecting other, similarly situated employees.
+
+            \\ The <Company> changes <Purchaser>'s position with the <Company> in a way that materially reduces <Purchaser>'s duties, level of authority, or responsibility.
+
+            \\ The <Company> conditions <Purchaser>'s continued service with the <Company> on transfer to a place of work that would increase <Purchaser>'s one-way commute from <Purchaser>'s principal residence at the time by more than 35 miles.
+
         \\ ""Parent"" means any corporation (other than the <Company>) in an unbroken chain of corporations ending with the <Company> if each of the corporations other than the <Company> owns stock possessing 50% or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
 
         \\ ""Subsidiary"" means any corporation (other than the <Company>) in an unbroken chain of corporations beginning with the <Company> if each of the corporations other than the last corporation in the unbroken chain owns stock possessing 50% or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
 
-        \\ ""Termination"" means the termination of <Purchaser>'s <Continuous Services Status>, voluntarily or involuntarily, for any reason (including death or <Disability>), and with or without <Cause>.
+        \\ ""Termination"" means the termination of <Purchaser>'s <Continuous Service Status>, voluntarily or involuntarily, for any reason (including death or <Disability>), and with or without <Good Reason to Terminate>.
 
     Miscellaneous \\
+
+        Termination at Will \\ No part of this <Agreement> limits the ability of the <Company> (or any <Company> <Subsidiary>, <Parent>, <Affiliate> or their successor, as appropriate) to terminate <Purchaser>'s employment or consulting relationship at any time.
 
         include(includes/governing-law.commonform)
         include(includes/entire-agreement.commonform)
