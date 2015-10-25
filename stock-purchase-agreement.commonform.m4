@@ -58,65 +58,49 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             Automatic Repurchase \\ Unless the <Company> gives <Purchaser> notice that it does not intend to exercise its <Repurchase Option> for some or all <Unvested Shares> prior to the <Repurchase Option Expiration Date>, the <Company> will be deemed to exercise the <Repurchase Option> for all <Unvested Shares> on the <Repurchase Option Expiration Date> (""Automatic Repurchase""). The <Company> may give <Purchaser> notice that <Automatic Repurchase> will occur as of any earlier date, or for only some part of the <Unvested Shares>. On <Automatic Repurchase>, the <Company> will become the legal and beneficial owner of the <Unvested Shares> for which the <Repurchase Option> is exercised, will have all rights and interest in and related to those <Unvested Shares>, and will have the right to transfer them to its own name without further <Purchaser> action.
 
-            Payment of Repurchase Price \\
+            Payment of Repurchase Price \\ The <Company> shall pay the <Repurchase Price> by <Check and Cancelled Debt>. If <Purchaser> is indebted to the <Company> on <Automatic Repurchase> and the <Company> does not otherwise pay the <Repurchase Price>, an amount of <Purchaser>'s debt equal to the <Repurchase Price> will be deemed canceled as of the date of <Automatic Repurchase>.
 
-                Payment Methods \\ The <Company> shall pay the <Repurchase Price> in one of these ways:
+    # TODO refactor this condition out
+    Right of First Refusal \\ Subject to {Exception for Family Transfers}:
 
-                    \\ The <Company> may deliver a check for the <Repurchase Price> to <Purchaser>.
+        \\ The <Company> will have a right of first refusal to purchase any <Covered Securities> (""Right of First Refusal""). Neither <Purchaser> nor any other holder of <Covered Securities> subject to this <Agreement> (""Holder"") shall sell or otherwise transfer <Covered Securities>, for a price, by gift, by operation of law, or otherwise, except under {Exercise of Right of First Refusal} or {Holder's Right to Transfer}.
 
-                    \\ If <Purchaser> is indebted to the <Company>, the <Company> may cancel <Purchaser> debt in the amount of the <Repurchase Price>.
+        Notice of Proposed Transfer \\ Each <Holder> shall give the <Company> notice of any intent to sell or otherwise transfer <Covered Securities> (""Proposed Transfer Notice""). The <Holder> shall state in the <Proposed Transfer Notice>:
 
-                    \\ The <Company> may deliver a check and cancel debt in combined amount equal to the <Repurchase Price>.
+            \\ the name of each proposed transferee (""Proposed Transferee"");
 
-                Automatic Debt Cancellation \\ If <Purchaser> is indebted to the <Company> on <Automatic Repurchase> and the <Company> does not otherwise pay the <Repurchase Price>, an amount of <Purchaser>'s debt equal to the <Repurchase Price> will be deemed canceled as of the date of <Automatic Repurchase>.
+            \\ the number and type of <Covered Securities> to be transferred to each <Proposed Transferee> (""Proposed Transfer Securities"");
 
-    Right of First Refusal \\ Subject to {Exception for Some Family Transfers}:
+            \\ the purchase price of each proposed transfer (the ""Transfer Purchase Price""); and
 
-        \\ Before any <Covered Securities> held by <Purchaser> or any transferee of <Purchaser> (either being sometimes referred to in this <Agreement> as the ""Holder"") may be sold or otherwise transferred (including transfer by gift or operation of law), the <Company> or its assignee(s) will have a right of first refusal to purchase the <Covered Securities> on the terms and conditions of this {Right of First Refusal} (the ""Right of First Refusal""), which the <Company> may either
+            \\ the other terms and conditions of each proposed transfer (""Proposed Transfer Terms"").
 
-            \\ exercise its <Right of First Refusal> and purchase the <Covered Securities> as forth in {Right of First Refusal} or
+        # TODO Define ""Notice""
+        Exercise of Right of First Refusal \\ At any time within 30 calendar days after receipt of a <Proposed Transfer Notice>, the <Company> may elect to purchase any or all the <Covered Securities> the <Holder> intends to transfer, at the <Transfer Purchase Price> and on the <Proposed Transfer Terms> (or terms as similar as possible), by giving notice to the <Holder>. If the <Transfer Purchase Price> consists of no legal "consideration" (for example, in the case of a gift), the purchase price will be the fair market value of the <Covered Securities> as of the date of purchase, determined in good faith by the <Company>'s Board of Directors. If the <Transfer Purchase Price> includes non-cash property, the cash value of the non-cash property will be determined by the <Company>'s Board of Directors in good faith.
 
-            \\ reject to exercise its <Right of First Refusal> and let the transfer of the <Covered Securities> to the <Proposed Transferee>.
-
-        Notice of Proposed Transfer \\ The <Holder> of the <Covered Securities> shall deliver to the <Company> a written notice (the ""Notice"") stating:
-
-            \\ the <Holder>'s intent to sell or otherwise transfer such <Covered Securities>;
-
-            \\ the name of each proposed purchaser or other transferee (""Proposed Transferee"");
-
-            \\ the number of <Covered Securities> to be transferred to each <Proposed Transferee>;
-
-            \\ the terms and conditions of each proposed sale or transfer, including the purchase price for such <Covered Securities> (the ""Transfer Purchase Price""); and
-
-            \\ the <Holder>'s offer shall offer to the <Company> or its assignee(s) to purchase the <Covered Securities> at the <Transfer Purchase Price> and on the same terms (or terms as similar as reasonably possible).
-
-        Exercise of Right of First Refusal \\ At any time within 30 days after receipt of the <Notice>, the <Company> and/or its assignee(s) may, by giving written notice to the <Holder>, elect to purchase any or all the <Covered Securities> proposed to be transferred to any one or more of the <Proposed Transferee>s, at the <Transfer Purchase Price>. If the <Transfer Purchase Price> consists of no legal "consideration" (for example, in the case of a gift), the purchase price will be the fair market value of the <Covered Securities> as determined in good faith by the <Company>'s Board of Directors. If the <Transfer Purchase Price> includes non-cash property, the cash value of the non-cash property will be determined by the <Company>'s Board of Directors in good faith.
-
-        Payment \\ The <Company> or its assignee(s) shall pay the <Transfer Purchase Price>, at their election, in cash (by check), by cancellation of all or a portion of any outstanding debt, or by any combination of cash and cancellation of debt within 60 days after receipt of the <Notice> or in the manner and when agreed by the <Company> (or its assignee(s)) and the <Holder>.
+        Payment \\ The <Company> shall pay the <Transfer Purchase Price> by <Check and Cancelled Debt> within 60 calendar days of receipt of <Proposed Transfer Notice>.
 
         Holder's Right to Transfer \\
 
-            \\ The <Holder> may sell or otherwise transfer any unpurchased <Covered Securities>, subject to all the following conditions:
+            \\ A <Holder> may sell or otherwise transfer any unpurchased <Proposed Transfer Securities>, subject to all the following conditions:
 
-                \\ The <Covered Securities> are not purchased by the <Company> and/or its assignee(s) under {Right of First Refusal}.
+                \\ The <Proposed Transfer Securities> are not purchased by the <Company> under {Exercise of Right of First Refusal}.
 
-                \\ The <Covered Securities> are sold to the <Proposed Transferee> at the <Transfer Purchase Price> or a higher price.
+                \\ The <Proposed Transfer Securities> are sold to the <Proposed Transferee> on the <Proposed Transfer Terms> and for no less than the <Transfer Purchase Price>.
 
-                \\ The transfer is consummated within 120 days after the date of <Notice>.
+                \\ The transfer is consummated before 23:59 San Francisco time on the date that is 120 calendar days after the <Company> receives <Proposed Transfer Notice> (""Transfer Deadline"").
 
-                \\ The transfer is effected in compliance with securities laws.
+                \\ The <Proposed Transferee> agrees in writing that {Limits on Transfer} will continue to apply to the <Proposed Transfer Securities>.
 
-                \\ The <Proposed Transferee> agrees in writing that the provisions of {Limits on Transfer} will continue to apply to the <Covered Securities> in the hands of such <Proposed Transferee>.
+                \\ The transfer complies with securities laws, and if the <Company>, in consultation with legal counsel, requires a legal opinion that the transfer complies with securities laws, <Holder> provides delivers such an opinion to the <Company> before transferring.
 
-                \\ If the <Company>, in consultation with its legal counsel, so requires, <Holder> provides an opinion of legal counsel evidencing compliance with securities laws.
+            \\ If <Proposed Transfer Securities> described in <Proposed Transfer Notice> are not transferred to a <Proposed Transferee> before their <Transfer Deadline>, but the <Holder> still intends to sell the <Proposed Transfer Securities>, or whenever a <Holder> proposes price or other terms more favorable to a <Proposed Transferee>, the <Holder> shall give new <Proposed Transfer Notice>, and {Right of First Refusal} shall apply to that proposed transfer as if the new <Proposed Transfer Notice> were the first <Proposed Transfer Notice> for the transfer.
 
-            \\ If the <Covered Securities> described in the <Notice> are not transferred to the <Proposed Transferee> within such period, or if the <Holder> proposes to change the price or other terms to make them more favorable to the <Proposed Transferee>, a new <Notice> shall be given to the <Company>, and the <Company> and/or its assignees shall again be offered the <Right of First Refusal> before any <Covered Securities> held by the <Holder> may be sold or otherwise transferred.
+        Exception for Family Transfers \\ Transfers of any or all the <Covered Securities> during <Purchaser>'s lifetime, or on <Purchaser>'s death by will or intestacy, to <Purchaser>'s <Immediate Family> or to a trust for the benefit of <Purchaser> or <Purchaser>'s <Immediate Family>, will be exempt from {Right of First Refusal}. Recipients of <Covered Securities> by such transfers will receive and hold the transferred <Covered Securities> subject to, and there will be no further transfer of such <Covered Securities> except under, {Limits on Transfer}.
 
-        Exception for Some Family Transfers \\ The transfer of any or all the <Covered Securities> during <Purchaser>'s lifetime or on <Purchaser>'s death by will or intestacy to <Purchaser>'s <Immediate Family> or to a trust for the benefit of <Purchaser> or <Purchaser>'s <Immediate Family> will be exempt from the provisions of {Right of First Refusal}. ""Immediate Family"" as used in this <Agreement> means lineal descendant or antecedent, spouse (or spouse's antecedents), father, mother, brother or sister (or their descendants), stepchild (or their antecedents or descendants), aunt or uncle (or their antecedents or descendants), brother-in-law or sister-in-law (or their antecedents or descendants) and includes adoptive relationships, or any person sharing <Purchaser>'s household (other than a tenant or an employee). In such case, the transferee or other recipient will receive and hold the <Covered Securities> so transferred subject to the provisions of {Limits on Transfer}, and there will be no further transfer of such <Covered Securities> except as permitted under {Limits on Transfer}.
+    Company's Right to Purchase on Involuntary Transfer \\ If, at any time after the date of this <Agreement>, of any transfer by operation of law or other involuntary transfer (including divorce or intestate transfer on death, but excluding transfer on death by will (to any transferee) or a transfer to <Immediate Family> as described by {Exception for Family Transfers}) of all or a portion of the <Covered Securities> by the record holder of those <Covered Securities>, the <Company> will have the right to purchase any or all the <Covered Securities> transferred at the fair market value of the <Covered Securities> on the date of transfer (as determined by the <Company> in its sole discretion). On such a transfer, the <Holder> shall promptly notify the Secretary of the <Company> of such transfer. The right to purchase such <Covered Securities> shall be provided to the <Company> for a period of 30 days following receipt by the <Company> of written notice from the <Holder>.
 
-    Company's Right to Purchase on Involuntary Transfer \\ If, at any time after the date of this <Agreement>, of any transfer by operation of law or other involuntary transfer (including divorce or intestate transfer on death, but excluding transfer on death by will (to any transferee) or a transfer to <Immediate Family> as described by {Exception for Some Family Transfers}) of all or a portion of the <Covered Securities> by the record holder of those <Covered Securities>, the <Company> will have the right to purchase any or all the <Covered Securities> transferred at the fair market value of the <Covered Securities> on the date of transfer (as determined by the <Company> in its sole discretion). On such a transfer, the <Holder> shall promptly notify the Secretary of the <Company> of such transfer. The right to purchase such <Covered Securities> shall be provided to the <Company> for a period of 30 days following receipt by the <Company> of written notice from the <Holder>.
-
-    Assignment \\ The right of the <Company> to purchase any part of the <Covered Securities> may be assigned in whole or in part to any holder or holders of capital stock of the <Company> or other people or organizations.
+    Assignment of Company Purchase Rights \\ The <Company> may assign all or part of any <Company> right to purchase <Covered Securities>, such as the <Repurchase Option>, <Right of First Refusal>, and <Involuntary Purchase Right>, for any number of <Covered Securities> and any proposed transfer, to any number of other parties.
 
     Restrictions Binding on Transferees \\ All transferees of <Covered Securities> or any interest in the <Covered Securities> will receive and hold such <Covered Securities> or interest subject to the provisions of this <Agreement>, including, as applicable, the <Repurchase Option>. Any sale or transfer of the <Covered Securities> will be void unless the provisions of this <Agreement> are satisfied.
 
@@ -188,6 +172,16 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \\ ""Business Entity"" means corporation, limited liability company, or other legal entity.
 
+        \\ ""Check and Cancelled Debt"" means a payer shall pay an amount in any of these ways, as it chooses:
+
+            \\ The payer may deliver a check.
+
+            \\ If the payee is indebted to the payer, the payer may cancel payee's debt in the amount of the amount to be paid.
+
+            \\ The payer may both deliver a check and cancel payee debt in combined amount equal to the amount to be paid.
+
+            \\ The payer may pay when and as otherwise agreed with the payee.
+
         \\ ""Change of Control"" means any of these:
 
             \\ <Asset Sale>
@@ -246,6 +240,9 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
             \\ <Purchaser>'s is convicted of, or pleads guilty or no contest to, any crime that materially harms, or is reasonably expected to materially harm, the business or reputation of the <Company>.
 
             \\ <Purchaser>'s materially breaches any material written agreement between <Purchaser> and the <Company>, such as a Confidential Information and Invention Assignment Agreement, and fails to cure that breach in 30 days after receiving written notice of the breach.
+
+        # TODO review selective inclusion of antecedents and descendants
+        \\ ""Immediate Family"" means lineal descendants and antecedents, spouses (and spouses' antecedents), fathers, mothers, brothers and sisters (and their descendants), stepchildren (and their antecedents and descendants), aunts and uncles (and their antecedents and descendants), brothers-in-law and sisters-in-law (and their antecedents and descendants), and includes adoptive relations, and any person sharing <Purchaser>'s household (other than tenants and employees).
 
         \\ ""Parent"" means any corporation (other than the <Company>) in an unbroken chain of corporations ending with the <Company> if each of the corporations other than the <Company> owns stock possessing 50% or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
 
