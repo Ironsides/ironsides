@@ -147,33 +147,33 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \\ <Purchaser> understands that <Purchaser> may suffer adverse tax consequences as a result of <Purchaser>'s purchase or disposition of <Covered Securities>. <Purchaser> has consulted with all the tax advisers <Purchaser> deems advisable in connection with the purchase or disposition of the <Shares>. <Purchaser> is not relying on the <Company> for any tax advice.
 
-    Restrictive Legends and Stop-Transfer Orders \\
+    Restrictive Legends and Stop-Transfer Notices \\
 
-        Legends \\ Any stock certificate or, in the case of uncertificated securities, any notice of issuance, for the <Covered Securities>, will bear the following legends (as well as any legends required by state and federal corporate and securities laws):
+        Legends \\ Any stock certificate or, in the case of uncertificated securities, any notice of issuance, for the <Covered Securities>, will bear the following legends, in addition to any legends required by law:
 
-            Unregistered Securities Legend !! "The securities referenced herein have not been registered under the Securities Act of 1933, and have been acquired for investment and not with a view to, or in connection with, the sale or distribution thereof. No such sale or distribution may be effected without an effective registration statement related thereto or an opinion of counsel in a form satisfactory to the company that such registration is not required under the Securities Act of 1933."
+            Unregistered Securities Legend \\ "The referenced securities have not been registered under the Securities Act of 1933, and have been acquired for investment and not with a view to, or in connection with, sale or distribution. No sale or distribution is permitted without an effective registration statement for the securities or an opinion of legal counsel, satisfactory to the company, that such registration is not required under the Securities Act of 1933."
 
-            Transfer Restriction Legend !! "The securities referenced herein may be transferred only in accordance with the terms of an agreement between the company and the stockholder, a copy of which is on file with and may be obtained from the secretary of the company at no charge."
+            Transfer Restriction Legend \\ "The referenced securities may be transferred only in accordance with an agreement between the company and the stockholder, a copy of which is on file with the Secretary of the company, who will provide a copy on request free of charge."
 
-        Stop-Transfer Notices \\ <Purchaser> agrees that, to ensure compliance with the restrictions referred to in this <Agreement>, the <Company> may issue appropriate "stop transfer" instructions to its transfer agent, if any, and that, if the <Company> transfers its own securities, it may make appropriate notations to the same effect in its own stock ledger and list of shareholders.
+        Stop-Transfer Notices \\ <Purchaser> agrees that, to ensure compliance with the restrictions of <Agreement>, the <Company> may issue appropriate "stop transfer" instructions to its transfer agent, if any, and that, if the <Company> transfers its own securities, it may make appropriate notations to the same effect in its own stock ledger and list of shareholders (""Stop-Transfer Notices"").
 
-        Refusal to Transfer \\ The <Company> will not be required
+        Refusal to Transfer \\ The <Company> will not be required to:
 
-            \\ to transfer on its books any <Covered Securities> that have been sold or otherwise transferred in violation of any of the provisions of this <Agreement> or
+            \\ transfer on its books any <Covered Securities> that have been sold or otherwise transferred in violation of any of the provisions of this <Agreement>; or
 
-            \\ to treat as owner of such <Covered Securities> or to accord the right to vote or pay dividends to any purchaser or other transferee to whom such <Covered Securities> will have been so transferred.
+            \\ treat any purchaser or other transferee who received <Covered Securities> in violation of this <Agreement> as the owner of those <Covered Securities>, or to accord them rights to vote or receive dividends.
 
-        Legend and Notice Removal \\ When all the following events have occurred, the <Covered Securities> then held by <Purchaser> will no longer be subject to the legend specified in {Transfer Restriction Legend} and the <Company> will remove any stop-transfer notices associated with the transfer restrictions imposed by this <Agreement>:
+        Legend and Notice Removal \\ <Covered Securities> will no longer be subject to the legend specified in {Transfer Restriction Legend}, and the <Company> will remove <Stop-Transfer Notices> made under this <Agreement>, when all of the following have occurred:
 
-            \\ the termination of the <Right of First Refusal>;
+            \\ The <Right of First Refusal> has terminated.
 
-            \\ the expiration or exercise in full of the <Repurchase Option>; and
+            \\ The <Company> has fully exercised the <Repurchase Option>, or the <Repurchase Option> has expired.
 
-            \\ the expiration or termination of the lock-up provisions of {Lock-up Agreement} (and of any agreement entered under {Lock-up Agreement}).
+            \\ The restrictions of {Lock-up Agreement} and any <Lock-Up Agreement> have expired.
 
-        After such time and on <Purchaser>'s request, a new stock certificate or, in the case of uncertificated securities, notice of issuance, for the remaining <Covered Securities>, shall be issued without the legend specified in {Transfer Restriction Legend} and delivered to <Purchaser>.
+        When a <Holder>'s <Covered Securities> are no longer subject to the legend, the <Holder> may request that the <Company> issue a new stock certificate (or notice of issuance, for uncertificated shares) for those <Covered Securities> without the legend, and the <Company> shall do so.
 
-    Required Notices \\ <Purchaser> acknowledges that the <Covered Securities> are issued and will be held subject to all the provisions of {Restrictive Legends and Stop-Transfer Orders}, the Certificate of Incorporation and the Bylaws of the <Company> and any amendments to the Certificate of Incorporation and Bylaws of the <Company>, copies of which are on file at the principal office of the <Company>. A statement of all the rights, preferences, privileges and restrictions granted to or imposed on the respective classes and/or series of shares of stock of the <Company> and on the holders of those classes and/or series may be obtained by any stockholder on request and without charge, at the principal office of the <Company>, and the <Company> will furnish any stockholder, on request and without charge, a copy of such statement. <Purchaser> acknowledges that the provisions of {Restrictive Legends and Stop-Transfer Orders} will constitute the notices required by Sections 151(f) and 202(a) of the Delaware General Corporation Law and the <Purchaser> hereby expressly waives the requirement of Section 151(f) of the Delaware General Corporation Law that it receive the written notice provided for in Sections 151(f) and 202(a) of the Delaware General Corporation Law within a reasonable time after the issuance of the <Covered Securities>.
+    Required Notices \\ <Purchaser> acknowledges that the <Covered Securities> are issued and will be held subject to all the provisions of {Restrictive Legends and Stop-Transfer Notices} and the <Company>'s <Governing Documents>. Copies of the <Governing Documents> are on file with the Secretary of the <Company>. The <Company> will provide a statement of the powers, designations, preferences, and relative, participating, optional, or other special rights of each class or series of stock of the <Company> and the qualifications, limitations, or restrictions of such preferences and/or rights, as well as a copy of that statement, to any stockholder on request and without charge at the principal office of the <Company>. <Purchaser> acknowledges that the provisions of {Restrictive Legends and Stop-Transfer Notices} will constitute the notices required by Sections 151(f) and 202(a) of the Delaware General Corporation Law (""DGCL""). <Purchaser> waives the requirement of <DGCL> section 151(f) that it receive the written notice provided for in <DGCL> sections 151(f) and 202(a) within a reasonable time after the issuance of <Covered Securities>.
 
     No Employment Rights \\ Nothing in this <Agreement> will affect in any manner whatsoever the right or power of the <Company>, or a parent, subsidiary or <Affiliate> of the <Company>, to terminate <Purchaser>'s employment or consulting relationship, for any reason, with or without cause.
 
@@ -271,6 +271,8 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
             \\ <Purchaser>'s is convicted of, or pleads guilty or no contest to, any crime that materially harms, or is reasonably expected to materially harm, the business or reputation of the <Company>.
 
             \\ <Purchaser>'s materially breaches any material written agreement between <Purchaser> and the <Company>, such as a Confidential Information and Invention Assignment Agreement, and fails to cure that breach in 30 days after receiving written notice of the breach.
+
+        \\ ""Governing Documents"" means the <Company>'s certificate of incorporation and bylaws, which may be amended in the future.
 
         # TODO review selective inclusion of antecedents and descendants
         \\ ""Immediate Family"" means lineal descendants and antecedents, spouses (and spouses' antecedents), fathers, mothers, brothers and sisters (and their descendants), stepchildren (and their antecedents and descendants), aunts and uncles (and their antecedents and descendants), brothers-in-law and sisters-in-law (and their antecedents and descendants), and includes adoptive relations, and any person sharing <Purchaser>'s household (other than tenants and employees).
