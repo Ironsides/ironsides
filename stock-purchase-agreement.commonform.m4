@@ -246,15 +246,20 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
             \\ any natural person, including any adviser, but not any <Employee>, engaged by the <Company>, or any <Parent>, <Subsidiary> or <Affiliate>, to render services other than capital-raising services, who is compensated for those services; and
             \\ any <Director> whether compensated for service as a <Director> or not.
 
-        \\ ""Continuous Service Status"" means the absence of any interruption or termination of service as an <Employee> or <Consultant>. <Continuous Service Status> as an <Employee> or <Consultant> will not be considered interrupted or terminated in the case of:
+        \\ ""Continuous Service Status"" means the absence of any interruption or termination of service as an <Employee> or <Consultant>. <Continuous Service Status> as an <Employee> or <Consultant> will not be considered interrupted or terminated by:
 
-            \\ <Company> approved sick leave;
+            \\ <Company>-approved sick leave;
 
-            \\ military leave;
+            \\ military leave; or
 
-            \\ any other honest and genuine leave of absence approved by the <Company>,
+            \\ any other honest and genuine leave of absence approved by the <Board> or the chief executive officer of the <Company>,
 
-        when that leave is for a period of not more than ninety (90) days, unless reemployment on the expiration of such leave is guaranteed by contract or statute, or unless provided otherwise under a written <Company> policy. Also, <Continuous Service Status> as an <Employee> or <Consultant> will not be considered interrupted or terminated in the case of a transfer between locations of the <Company> or between the <Company>, its <Parent>s, Subsidiaries or <Affiliate>s, or their respective successors, or a change in status from an <Employee> to a <Consultant> or from a <Consultant> to an <Employee>.
+        when that leave is for a period of not more than ninety (90) days, unless:
+
+            \\ reemployment after leave is guaranteed by contract or statute; or
+            \\ provided otherwise under a written <Company> policy.
+
+        <Continuous Service Status> as an <Employee> or <Consultant> will not be considered interrupted or terminated in the case of a transfer between locations of the <Company> or between the <Company>, its <Parent>s, <Subsidiary>, or <Affiliate>, or their successors, or a transition from <Employee> to <Consultant> or from <Consultant> to <Employee>.
 
         \\ ""Director"" means a member of the <Board>.
 
