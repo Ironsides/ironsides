@@ -2,15 +2,32 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
 \\ The parties agree:
 
-    Sale of Stock \\  Subject to the terms and conditions of this <Agreement>, simultaneously with entering into this <Agreement> by the parties or on such other date as the <Company> and <Purchaser> may agree (the ""Purchase Date""), the <Company> will issue and sell to <Purchaser>, and <Purchaser> agrees to purchase from the <Company>, [Number of Shares] shares of the <Company>'s Common Stock (the ""Shares"") at a purchase price of [Purchase Price] per share for a total purchase price of [Total Purchase Price] (the ""Aggregate Purchase Price""). On the <Purchase Date>, <Purchaser> will deliver the <Aggregate Purchase Price> to the <Company> and the <Company> will enter the <Shares> in <Purchaser>'s name as of such date in the <Company>'s stock ledger and list of stockholders (as described by section 220(b)(1) of the Delaware General Corporation Law), or, if applicable, with an authorized transfer agent of the <Company>. The <Company> will deliver to <Purchaser>, on request, a notice of issuance with respect to the <Shares> as soon as practical following such date. As used elsewhere in this <Agreement>, the term <Shares> refers to all <Shares> purchased under this <Agreement> and all securities received in connection with the <Shares> as a result of stock dividends or splits, all securities received in replacement of the <Shares> in a recapitalization, merger, reorganization, exchange or the like, and all new, substituted or additional securities or other property to which <Purchaser> is entitled by reason of <Purchaser>'s ownership of the <Shares>.
+    Stock Sale \\
 
-    Payment for Shares \\ In exchange for the <Shares>, <Purchaser> will deliver the <Aggregate Purchase Price> by an assignment of assets as described in the Assignment of IP and Other Assets in the form attached to this <Agreement> as {Form of Assignment of IP And Other Assets}.
+        Purchase and Sale \\ Subject to the terms and conditions of this <Agreement>, on the date of the this <Agreement> or on another date agreed on by the parties (the ""Purchase Date""), the <Company> shall issue and sell to <Purchaser>, and <Purchaser> shall purchase from the <Company>, [Number of Shares] shares of the <Company>'s Common Stock (the ""Shares"").
 
-    Limits on Transfer \\ <Purchaser> shall not assign, encumber or dispose of any interest in the <Shares> except to the extent allowed by, and in compliance with, this <Agreement> and securities laws.
+        Purchase Price \\ On the <Purchase Date>, <Purchaser> shall pay [Purchase Price] per share for the <Shares>, for a total purchase price of [Total Purchase Price] (the ""Total Purchase Price""). <Purchaser> shall pay the <Total Purchase Price> by entering into the agreement attached as {IP Assignment Form}, by which <Purchaser> assigns assets to the <Company>.
+
+        Record of Ownership \\ On the <Purchase Date>, <Company> shall list the <Shares> in <Purchaser>'s name as of the <Purchase Date> in the <Company>'s stock ledger and list of stockholders, or with the authorized transfer of the <Company> if it has one. On <Purchaser>'s request, the <Company> shall give <Purchaser> a written notice of issuance for the <Shares>.
+
+    Limits on Transfer \\
+
+        \\ As used elsewhere in this <Agreement>, ""Covered Securities"" means
+
+            \\ the <Shares>,
+
+            \\ all securities received in connection with <Covered Securities> as a result of stock dividends or splits,
+
+            \\ all securities received in replacement of <Covered Securities> in a recapitalization, merger, reorganization, exchange or the like, and
+
+            \\ all new, substituted or additional securities or other property to which holders of <Covered Securities> are entitled as owners of those securities.
+
+        \\ <Purchaser> shall not assign, encumber or dispose of any interest in <Covered Securities> except to the extent allowed by, and in compliance with, this <Agreement> and securities laws.
+
 
     Repurchase Option; Vesting \\
 
-        \\ On voluntary or involuntary termination of <Purchaser>'s <Continuous Service Status> for any reason (including death or <Disability>), with or without cause, the <Company> will on the date of such termination (the ""Termination Date"") have an irrevocable, exclusive option (the ""Repurchase Option"") for a period of [Repurchase Period Months] months from such date to repurchase all or any portion of the Unvested <Shares> held by <Purchaser> as of the <Termination Date> at the original purchase price per Share (adjusted for any stock splits, stock dividends and the like) specified in {Sale of Stock}. As used in this <Agreement>, ""Unvested Shares"" means <Shares> that have not yet been released from the <Repurchase Option>.
+        \\ On voluntary or involuntary termination of <Purchaser>'s <Continuous Service Status> for any reason (including death or <Disability>), with or without cause, the <Company> will on the date of such termination (the ""Termination Date"") have an irrevocable, exclusive option (the ""Repurchase Option"") for a period of [Repurchase Period Months] months from such date to repurchase all or any portion of the <Unvested Shares> held by <Purchaser> as of the <Termination Date> at the original purchase price per Share (adjusted for any stock splits, stock dividends and the like) specified in {Stock Sale}. As used in this <Agreement>, ""Unvested Shares"" means <Covered Securities> that have not yet been released from the <Repurchase Option>.
 
         Automatic Exercise \\ Unless the <Company> notifies <Purchaser> within [Repurchase Period Months] months from the <Termination Date> that it does not intend to exercise its <Repurchase Option> with respect to some or all the <Unvested Shares> (a ""No-Exercise Notice""), the <Repurchase Option> will be deemed exercised by the <Company> as of the end of such [Repurchase Period Months]-month period following such <Termination Date>. The <Company> may notify <Purchaser> that it will exercise its <Repurchase Option> as of a date before the end of such [Repurchase Period Months]-month period. Unless <Purchaser> receives a <No-Exercise Notice>, entry into this <Agreement> by <Purchaser> constitutes written notice to <Purchaser> of the <Company>'s intent to exercise its <Repurchase Option> with respect to all <Unvested Shares> to which such <Repurchase Option> applies. The <Company>, at its choice, may satisfy its payment obligation to <Purchaser> with respect to exercise of the <Repurchase Option> by either
 
@@ -62,55 +79,55 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
     Right of First Refusal \\ Subject to {Exception for Some Family Transfers}:
 
-        \\ Before any <Shares> held by <Purchaser> or any transferee of <Purchaser> (either being sometimes referred to in this <Agreement> as the ""Holder"") may be sold or otherwise transferred (including transfer by gift or operation of law), the <Company> or its assignee(s) will have a right of first refusal to purchase the <Shares> on the terms and conditions of this {Right of First Refusal} (the ""Right of First Refusal""), which the <Company> may either
+        \\ Before any <Covered Securities> held by <Purchaser> or any transferee of <Purchaser> (either being sometimes referred to in this <Agreement> as the ""Holder"") may be sold or otherwise transferred (including transfer by gift or operation of law), the <Company> or its assignee(s) will have a right of first refusal to purchase the <Covered Securities> on the terms and conditions of this {Right of First Refusal} (the ""Right of First Refusal""), which the <Company> may either
 
-            \\ exercise its <Right of First Refusal> and purchase the <Shares> as forth in {Right of First Refusal} or
+            \\ exercise its <Right of First Refusal> and purchase the <Covered Securities> as forth in {Right of First Refusal} or
 
-            \\ reject to exercise its <Right of First Refusal> and let the transfer of the <Shares> to the <Proposed Transferee>.
+            \\ reject to exercise its <Right of First Refusal> and let the transfer of the <Covered Securities> to the <Proposed Transferee>.
 
-        Notice of Proposed Transfer \\ The <Holder> of the <Shares> shall deliver to the <Company> a written notice (the ""Notice"") stating:
+        Notice of Proposed Transfer \\ The <Holder> of the <Covered Securities> shall deliver to the <Company> a written notice (the ""Notice"") stating:
 
-            \\ the <Holder>'s intent to sell or otherwise transfer such <Shares>;
+            \\ the <Holder>'s intent to sell or otherwise transfer such <Covered Securities>;
 
             \\ the name of each proposed purchaser or other transferee (""Proposed Transferee"");
 
-            \\ the number of <Shares> to be transferred to each <Proposed Transferee>;
+            \\ the number of <Covered Securities> to be transferred to each <Proposed Transferee>;
 
-            \\ the terms and conditions of each proposed sale or transfer, including the purchase price for such <Shares> (the ""Transfer Purchase Price""); and
+            \\ the terms and conditions of each proposed sale or transfer, including the purchase price for such <Covered Securities> (the ""Transfer Purchase Price""); and
 
-            \\ the <Holder>'s offer shall offer to the <Company> or its assignee(s) to purchase the <Shares> at the <Transfer Purchase Price> and on the same terms (or terms as similar as reasonably possible).
+            \\ the <Holder>'s offer shall offer to the <Company> or its assignee(s) to purchase the <Covered Securities> at the <Transfer Purchase Price> and on the same terms (or terms as similar as reasonably possible).
 
-        Exercise of Right of First Refusal \\ At any time within 30 days after receipt of the <Notice>, the <Company> and/or its assignee(s) may, by giving written notice to the <Holder>, elect to purchase any or all the <Shares> proposed to be transferred to any one or more of the <Proposed Transferee>s, at the <Transfer Purchase Price>. If the <Transfer Purchase Price> consists of no legal "consideration" (for example, in the case of a gift), the purchase price will be the fair market value of the <Shares> as determined in good faith by the <Company>'s Board of Directors. If the <Transfer Purchase Price> includes non-cash property, the cash value of the non-cash property will be determined by the <Company>'s Board of Directors in good faith.
+        Exercise of Right of First Refusal \\ At any time within 30 days after receipt of the <Notice>, the <Company> and/or its assignee(s) may, by giving written notice to the <Holder>, elect to purchase any or all the <Covered Securities> proposed to be transferred to any one or more of the <Proposed Transferee>s, at the <Transfer Purchase Price>. If the <Transfer Purchase Price> consists of no legal "consideration" (for example, in the case of a gift), the purchase price will be the fair market value of the <Covered Securities> as determined in good faith by the <Company>'s Board of Directors. If the <Transfer Purchase Price> includes non-cash property, the cash value of the non-cash property will be determined by the <Company>'s Board of Directors in good faith.
 
         Payment \\ The <Company> or its assignee(s) shall pay the <Transfer Purchase Price>, at their election, in cash (by check), by cancellation of all or a portion of any outstanding debt, or by any combination of cash and cancellation of debt within 60 days after receipt of the <Notice> or in the manner and when agreed by the <Company> (or its assignee(s)) and the <Holder>.
 
         Holder's Right to Transfer \\
 
-            \\ The <Holder> may sell or otherwise transfer any unpurchased <Shares>, subject to all the following conditions:
+            \\ The <Holder> may sell or otherwise transfer any unpurchased <Covered Securities>, subject to all the following conditions:
 
-                \\ The <Shares> are not purchased by the <Company> and/or its assignee(s) under {Right of First Refusal}.
+                \\ The <Covered Securities> are not purchased by the <Company> and/or its assignee(s) under {Right of First Refusal}.
 
-                \\ The <Shares> are sold to the <Proposed Transferee> at the <Transfer Purchase Price> or a higher price.
+                \\ The <Covered Securities> are sold to the <Proposed Transferee> at the <Transfer Purchase Price> or a higher price.
 
                 \\ The transfer is consummated within 120 days after the date of <Notice>.
 
                 \\ The transfer is effected in compliance with securities laws.
 
-                \\ The <Proposed Transferee> agrees in writing that the provisions of {Limits on Transfer} will continue to apply to the <Shares> in the hands of such <Proposed Transferee>.
+                \\ The <Proposed Transferee> agrees in writing that the provisions of {Limits on Transfer} will continue to apply to the <Covered Securities> in the hands of such <Proposed Transferee>.
 
                 \\ If the <Company>, in consultation with its legal counsel, so requires, <Holder> provides an opinion of legal counsel evidencing compliance with securities laws.
 
-            \\ If the <Shares> described in the <Notice> are not transferred to the <Proposed Transferee> within such period, or if the <Holder> proposes to change the price or other terms to make them more favorable to the <Proposed Transferee>, a new <Notice> shall be given to the <Company>, and the <Company> and/or its assignees shall again be offered the <Right of First Refusal> before any <Shares> held by the <Holder> may be sold or otherwise transferred.
+            \\ If the <Covered Securities> described in the <Notice> are not transferred to the <Proposed Transferee> within such period, or if the <Holder> proposes to change the price or other terms to make them more favorable to the <Proposed Transferee>, a new <Notice> shall be given to the <Company>, and the <Company> and/or its assignees shall again be offered the <Right of First Refusal> before any <Covered Securities> held by the <Holder> may be sold or otherwise transferred.
 
-        Exception for Some Family Transfers \\ The transfer of any or all the <Shares> during <Purchaser>'s lifetime or on <Purchaser>'s death by will or intestacy to <Purchaser>'s <Immediate Family> or to a trust for the benefit of <Purchaser> or <Purchaser>'s <Immediate Family> will be exempt from the provisions of {Right of First Refusal}. ""Immediate Family"" as used in this <Agreement> means lineal descendant or antecedent, spouse (or spouse's antecedents), father, mother, brother or sister (or their descendants), stepchild (or their antecedents or descendants), aunt or uncle (or their antecedents or descendants), brother-in-law or sister-in-law (or their antecedents or descendants) and includes adoptive relationships, or any person sharing <Purchaser>'s household (other than a tenant or an employee). In such case, the transferee or other recipient will receive and hold the <Shares> so transferred subject to the provisions of {Limits on Transfer}, and there will be no further transfer of such <Shares> except as permitted under {Limits on Transfer}.
+        Exception for Some Family Transfers \\ The transfer of any or all the <Covered Securities> during <Purchaser>'s lifetime or on <Purchaser>'s death by will or intestacy to <Purchaser>'s <Immediate Family> or to a trust for the benefit of <Purchaser> or <Purchaser>'s <Immediate Family> will be exempt from the provisions of {Right of First Refusal}. ""Immediate Family"" as used in this <Agreement> means lineal descendant or antecedent, spouse (or spouse's antecedents), father, mother, brother or sister (or their descendants), stepchild (or their antecedents or descendants), aunt or uncle (or their antecedents or descendants), brother-in-law or sister-in-law (or their antecedents or descendants) and includes adoptive relationships, or any person sharing <Purchaser>'s household (other than a tenant or an employee). In such case, the transferee or other recipient will receive and hold the <Covered Securities> so transferred subject to the provisions of {Limits on Transfer}, and there will be no further transfer of such <Covered Securities> except as permitted under {Limits on Transfer}.
 
-    Company's Right to Purchase on Involuntary Transfer \\ If, at any time after the date of this <Agreement>, of any transfer by operation of law or other involuntary transfer (including divorce or intestate transfer on death, but excluding transfer on death by will (to any transferee) or a transfer to <Immediate Family> as described by {Exception for Some Family Transfers}) of all or a portion of the <Shares> by the record holder of those <Shares>, the <Company> will have the right to purchase any or all the <Shares> transferred at the fair market value of the <Shares> on the date of transfer (as determined by the <Company> in its sole discretion). On such a transfer, the <Holder> shall promptly notify the Secretary of the <Company> of such transfer. The right to purchase such <Shares> shall be provided to the <Company> for a period of 30 days following receipt by the <Company> of written notice from the <Holder>.
+    Company's Right to Purchase on Involuntary Transfer \\ If, at any time after the date of this <Agreement>, of any transfer by operation of law or other involuntary transfer (including divorce or intestate transfer on death, but excluding transfer on death by will (to any transferee) or a transfer to <Immediate Family> as described by {Exception for Some Family Transfers}) of all or a portion of the <Covered Securities> by the record holder of those <Covered Securities>, the <Company> will have the right to purchase any or all the <Covered Securities> transferred at the fair market value of the <Covered Securities> on the date of transfer (as determined by the <Company> in its sole discretion). On such a transfer, the <Holder> shall promptly notify the Secretary of the <Company> of such transfer. The right to purchase such <Covered Securities> shall be provided to the <Company> for a period of 30 days following receipt by the <Company> of written notice from the <Holder>.
 
-    Assignment \\ The right of the <Company> to purchase any part of the <Shares> may be assigned in whole or in part to any holder or holders of capital stock of the <Company> or other people or organizations.
+    Assignment \\ The right of the <Company> to purchase any part of the <Covered Securities> may be assigned in whole or in part to any holder or holders of capital stock of the <Company> or other people or organizations.
 
-    Restrictions Binding on Transferees \\ All transferees of <Shares> or any interest in the <Shares> will receive and hold such <Shares> or interest subject to the provisions of this <Agreement>, including, as applicable, the <Repurchase Option>. Any sale or transfer of the <Shares> will be void unless the provisions of this <Agreement> are satisfied.
+    Restrictions Binding on Transferees \\ All transferees of <Covered Securities> or any interest in the <Covered Securities> will receive and hold such <Covered Securities> or interest subject to the provisions of this <Agreement>, including, as applicable, the <Repurchase Option>. Any sale or transfer of the <Covered Securities> will be void unless the provisions of this <Agreement> are satisfied.
 
-    Termination of Rights \\ The <Right of First Refusal> granted the <Company> by {Right of First Refusal} and the right to repurchase the <Shares> on involuntary transfer granted the <Company> by {Company's Right to Purchase on Involuntary Transfer} will terminate on the first sale of Common Stock of the <Company> to the general public pursuant to a registration statement filed with and declared effective by the Securities and Exchange Commission under the Securities Act of 1933 (the ""Securities Act"") (other than a registration statement relating solely to the issuance of Common Stock pursuant to a business combination or an employee incentive or benefit plan) or any transfer or conversion of <Shares> made pursuant to a statutory merger or statutory consolidation of the <Company> with or into another corporation or corporations if the common stock of the surviving corporation or any direct or indirect parent corporation of the other corporation or corporations is registered under the Securities Exchange Act of 1934 (the ""Exchange Act"").
+    Termination of Rights \\ The <Right of First Refusal> granted the <Company> by {Right of First Refusal} and the right to repurchase the <Covered Securities> on involuntary transfer granted the <Company> by {Company's Right to Purchase on Involuntary Transfer} will terminate on the first sale of Common Stock of the <Company> to the general public pursuant to a registration statement filed with and declared effective by the Securities and Exchange Commission under the Securities Act of 1933 (the ""Securities Act"") (other than a registration statement relating solely to the issuance of Common Stock pursuant to a business combination or an employee incentive or benefit plan) or any transfer or conversion of <Covered Securities> made pursuant to a statutory merger or statutory consolidation of the <Company> with or into another corporation or corporations if the common stock of the surviving corporation or any direct or indirect parent corporation of the other corporation or corporations is registered under the Securities Exchange Act of 1934 (the ""Exchange Act"").
 
     Lock-up Agreement \\ If so requested by the <Company> or the underwriters in connection with the initial public offering of the <Company>'s securities registered under the <Securities Act>, <Purchaser> shall not sell, make any short sale of, loan, grant any option for the purchase of, or otherwise dispose of any securities of the <Company> however or whenever acquired (except for those being registered) without the prior written consent of the <Company> or such underwriters, as the case may be, for 180 days from the effective date of the registration statement, plus such additional period, to the extent required by FINRA rules, up to a maximum of 216 days from the effective date of the registration statement, and <Purchaser> shall enter into any agreement reflecting that restriction requested by the underwriters at the time of such offering.
 
@@ -134,7 +151,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
     Restrictive Legends and Stop-Transfer Orders \\
 
-        Legends \\ Any stock certificate or, in the case of uncertificated securities, any notice of issuance, for the <Shares>, will bear the following legends (as well as any legends required by state and federal corporate and securities laws):
+        Legends \\ Any stock certificate or, in the case of uncertificated securities, any notice of issuance, for the <Covered Securities>, will bear the following legends (as well as any legends required by state and federal corporate and securities laws):
 
             Unregistered Securities Legend !! "The securities referenced herein have not been registered under the Securities Act of 1933, and have been acquired for investment and not with a view to, or in connection with, the sale or distribution thereof. No such sale or distribution may be effected without an effective registration statement related thereto or an opinion of counsel in a form satisfactory to the company that such registration is not required under the Securities Act of 1933."
 
@@ -144,11 +161,11 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         Refusal to Transfer \\ The <Company> will not be required
 
-            \\ to transfer on its books any <Shares> that have been sold or otherwise transferred in violation of any of the provisions of this <Agreement> or
+            \\ to transfer on its books any <Covered Securities> that have been sold or otherwise transferred in violation of any of the provisions of this <Agreement> or
 
-            \\ to treat as owner of such <Shares> or to accord the right to vote or pay dividends to any purchaser or other transferee to whom such <Shares> will have been so transferred.
+            \\ to treat as owner of such <Covered Securities> or to accord the right to vote or pay dividends to any purchaser or other transferee to whom such <Covered Securities> will have been so transferred.
 
-        Legend and Notice Removal \\ When all the following events have occurred, the <Shares> then held by <Purchaser> will no longer be subject to the legend specified in {Transfer Restriction Legend} and the <Company> will remove any stop-transfer notices associated with the transfer restrictions imposed by this <Agreement>:
+        Legend and Notice Removal \\ When all the following events have occurred, the <Covered Securities> then held by <Purchaser> will no longer be subject to the legend specified in {Transfer Restriction Legend} and the <Company> will remove any stop-transfer notices associated with the transfer restrictions imposed by this <Agreement>:
 
             \\ the termination of the <Right of First Refusal>;
 
@@ -156,9 +173,9 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             \\ the expiration or termination of the lock-up provisions of {Lock-up Agreement} (and of any agreement entered under {Lock-up Agreement}).
 
-        After such time and on <Purchaser>'s request, a new stock certificate or, in the case of uncertificated securities, notice of issuance, for the remaining <Shares>, shall be issued without the legend specified in {Transfer Restriction Legend} and delivered to <Purchaser>.
+        After such time and on <Purchaser>'s request, a new stock certificate or, in the case of uncertificated securities, notice of issuance, for the remaining <Covered Securities>, shall be issued without the legend specified in {Transfer Restriction Legend} and delivered to <Purchaser>.
 
-    Required Notices \\ <Purchaser> acknowledges that the <Shares> are issued and will be held subject to all the provisions of {Restrictive Legends and Stop-Transfer Orders}, the Certificate of Incorporation and the Bylaws of the <Company> and any amendments to the Certificate of Incorporation and Bylaws of the <Company>, copies of which are on file at the principal office of the <Company>. A statement of all the rights, preferences, privileges and restrictions granted to or imposed on the respective classes and/or series of shares of stock of the <Company> and on the holders of those classes and/or series may be obtained by any stockholder on request and without charge, at the principal office of the <Company>, and the <Company> will furnish any stockholder, on request and without charge, a copy of such statement. <Purchaser> acknowledges that the provisions of {Restrictive Legends and Stop-Transfer Orders} will constitute the notices required by Sections 151(f) and 202(a) of the Delaware General Corporation Law and the <Purchaser> hereby expressly waives the requirement of Section 151(f) of the Delaware General Corporation Law that it receive the written notice provided for in Sections 151(f) and 202(a) of the Delaware General Corporation Law within a reasonable time after the issuance of the <Shares>.
+    Required Notices \\ <Purchaser> acknowledges that the <Covered Securities> are issued and will be held subject to all the provisions of {Restrictive Legends and Stop-Transfer Orders}, the Certificate of Incorporation and the Bylaws of the <Company> and any amendments to the Certificate of Incorporation and Bylaws of the <Company>, copies of which are on file at the principal office of the <Company>. A statement of all the rights, preferences, privileges and restrictions granted to or imposed on the respective classes and/or series of shares of stock of the <Company> and on the holders of those classes and/or series may be obtained by any stockholder on request and without charge, at the principal office of the <Company>, and the <Company> will furnish any stockholder, on request and without charge, a copy of such statement. <Purchaser> acknowledges that the provisions of {Restrictive Legends and Stop-Transfer Orders} will constitute the notices required by Sections 151(f) and 202(a) of the Delaware General Corporation Law and the <Purchaser> hereby expressly waives the requirement of Section 151(f) of the Delaware General Corporation Law that it receive the written notice provided for in Sections 151(f) and 202(a) of the Delaware General Corporation Law within a reasonable time after the issuance of the <Covered Securities>.
 
     No Employment Rights \\ Nothing in this <Agreement> will affect in any manner whatsoever the right or power of the <Company>, or a parent, subsidiary or <Affiliate> of the <Company>, to terminate <Purchaser>'s employment or consulting relationship, for any reason, with or without cause.
 
@@ -223,7 +240,7 @@ Acknowledgment and Statement of Decision Regarding Section 83(b) Election \\ See
 
 Election Under Section 83(b) of the Internal Revenue Code of 1986 \\ See attached.
 
-Form of Assignment of IP And Other Assets \\ See attached.
+IP Assignment Form \\ See attached.
 
 Rule 506(d)(1)(i) to (viii) under the Securities Act of 1933 \\ See attached.
 
