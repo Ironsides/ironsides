@@ -207,7 +207,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \\ ""Acquisition by a Public Company"" any transfer or conversion of <Covered Securities> made pursuant to a statutory merger or statutory consolidation of the <Company> with or into another <Business Entity> if securities of the surviving <Business Entity> or any direct or indirect <Parent> of the <Business Entity> is registered under the <Exchange Act>.
 
-        \\ ""Affiliate"" means an entity other than a <Subsidiary> which, together with the <Company>, is under common control of a third person or entity.
+        \\ ""Affiliate"" means a <Business Entity>, other than a <Subsidiary>, that, together with the <Company>, is under common control of a third <Person>.
 
         \\ ""Asset Sale"" means the <Company> sells all or substantially all the <Company>'s assets to other than an <Excluded Entity>.
 
@@ -302,6 +302,8 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
         \\ ""IRS"" means the Internal Revenue Service.
 
         \\ ""Parent"" means any corporation (other than the <Company>) in an unbroken chain of corporations ending with the <Company> if each of the corporations other than the <Company> owns stock possessing 50% or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
+
+        \\ ""Person"" means a natural person or <Business Entity>.
 
         \\ ""Securities Act"" means the Securities Act of 1933.
 
