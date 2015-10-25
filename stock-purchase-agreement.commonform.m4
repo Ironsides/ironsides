@@ -265,7 +265,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \\ ""Disability"" means a condition causing a person to considered to be "permanently and totally disabled" under Section 22(e)(3) of the <Tax Code>.
 
-        \\ ""Employee"" means any person employed by the <Company>, or any <Parent>, <Subsidiary> or <Affiliate>, with the status of employment determined by considering such factors as are deemed appropriate by the <Board> in its sole discretion, subject to any legal requirements, including requirements of the <Tax Code>. The payment by the <Company> of a director's fee will not be enough to constitute "employment" of such director by the <Company> or any <Parent>, <Subsidiary> or <Affiliate>.
+        \\ ""Employee"" means any natural person employed by the <Company> or any <Parent>, <Subsidiary>, or <Affiliate> of the <Company>. The <Board> will determine whether any natural person is employed by considering whatever factors it decides are appropriate in its sole discretion, but subject to any legal requirements, such as those of the <Tax Code>. Payment of a director's fee will not alone establish that a natural person is employed.
 
         \\ ""Exchange Act"" means the Securities Exchange Act of 1934.
 
