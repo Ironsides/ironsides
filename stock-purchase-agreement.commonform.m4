@@ -116,7 +116,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
     Assignment of Company Purchase Rights \\ The <Company> may assign all or part of any <Company> right to purchase <Covered Securities>, such as the <Repurchase Option>, <Right of First Refusal>, and <Involuntary Transfer Option>, for any number of <Covered Securities> and any proposed transfer, to any number of other parties.
 
-    Termination of Rights \\ The <Right of First Refusal> granted the <Company> by {Right of First Refusal} and the right to repurchase the <Covered Securities> on involuntary transfer granted the <Company> by {Company's Right to Purchase on Involuntary Transfer} will terminate on the first sale of Common Stock of the <Company> to the general public pursuant to a registration statement filed with and declared effective by the Securities and Exchange Commission under the Securities Act of 1933 (the ""Securities Act"") (other than a registration statement relating solely to the issuance of Common Stock pursuant to a business combination or an employee incentive or benefit plan) or any transfer or conversion of <Covered Securities> made pursuant to a statutory merger or statutory consolidation of the <Company> with or into another corporation or corporations if the common stock of the surviving corporation or any direct or indirect parent corporation of the other corporation or corporations is registered under the Securities Exchange Act of 1934 (the ""Exchange Act"").
+    Termination of Company Purchase Rights \\ The <Right of First Refusal> and any <Involuntary Transfer Option> will terminate on the first <Initial Public Offering> or <Acquisition by a Public Company>.
 
     Lock-up Agreement \\ If so requested by the <Company> or the underwriters in connection with the initial public offering of the <Company>'s securities registered under the <Securities Act>, <Purchaser> shall not sell, make any short sale of, loan, grant any option for the purchase of, or otherwise dispose of any securities of the <Company> however or whenever acquired (except for those being registered) without the prior written consent of the <Company> or such underwriters, as the case may be, for 180 days from the effective date of the registration statement, plus such additional period, to the extent required by FINRA rules, up to a maximum of 216 days from the effective date of the registration statement, and <Purchaser> shall enter into any agreement reflecting that restriction requested by the underwriters at the time of such offering.
 
@@ -178,6 +178,8 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
     Defined Terms \\
 
+        \\ ""Acquisition by a Public Company"" any transfer or conversion of <Covered Securities> made pursuant to a statutory merger or statutory consolidation of the <Company> with or into another corporation or corporations if the common stock of the surviving corporation or any direct or indirect parent corporation of the other corporation or corporations is registered under the <Exchange Act>.
+
         \\ ""Affiliate"" means an entity other than a <Subsidiary> which, together with the <Company>, is under common control of a third person or entity.
 
         \\ ""Asset Sale"" means the <Company> sells all or substantially all the <Company>'s assets to other than an <Excluded Entity>.
@@ -230,6 +232,8 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \\ ""Employee"" means any person employed by the <Company>, or any <Parent>, <Subsidiary> or <Affiliate>, with the status of employment determined by considering such factors as are deemed appropriate by the <Board> in its sole discretion, subject to any legal requirements, including requirements of the <Code>. The payment by the <Company> of a director's fee will not be enough to constitute "employment" of such director by the <Company> or any <Parent>, <Subsidiary> or <Affiliate>.
 
+        \\ ""Exchange Act"" means the Securities Exchange Act of 1934.
+
         \\ ""Excluded Entity"" means a <Business Entity> of which the holders of voting capital stock of the <Company> outstanding immediately before a transaction are the direct or indirect holders of voting securities representing at least a majority of the votes entitled to be cast by all of that <Business Entity>'s voting securities outstanding immediately after the transaction.
 
         \\ ""Fair Market Value"" means the fair market value as determined in good faith by the <Board>.
@@ -262,9 +266,13 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
         # TODO review selective inclusion of antecedents and descendants
         \\ ""Immediate Family"" means lineal descendants and antecedents, spouses (and spouses' antecedents), fathers, mothers, brothers and sisters (and their descendants), stepchildren (and their antecedents and descendants), aunts and uncles (and their antecedents and descendants), brothers-in-law and sisters-in-law (and their antecedents and descendants), and includes adoptive relations, and any person sharing <Purchaser>'s household (other than tenants and employees).
 
+        \\ ""Initial Public Offering"" means sale of Common Stock of the <Company> to the general public pursuant to a registration statement filed with and declared effective by the Securities and Exchange Commission under the <Securities Act>, other than a registration statement relating solely to the issuance of Common Stock pursuant to a business combination or an employee incentive or benefit plan.
+
         \\ ""Involuntary Transfer"" means a transfer of <Covered Securities> by operation of law or other involuntary transfer, such as due to divorce or intestate transfer on death, but not any <Family Transfer>.
 
         \\ ""Parent"" means any corporation (other than the <Company>) in an unbroken chain of corporations ending with the <Company> if each of the corporations other than the <Company> owns stock possessing 50% or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
+
+        \\ ""Securities Act"" means the Securities Act of 1933.
 
         \\ ""Subsidiary"" means any corporation (other than the <Company>) in an unbroken chain of corporations beginning with the <Company> if each of the corporations other than the last corporation in the unbroken chain owns stock possessing 50% or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
 
