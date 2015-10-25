@@ -205,7 +205,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
     Defined Terms \\
 
-        \\ ""Acquisition by a Public Company"" any transfer or conversion of <Covered Securities> made pursuant to a statutory merger or statutory consolidation of the <Company> with or into another corporation or corporations if the common stock of the surviving corporation or any direct or indirect parent corporation of the other corporation or corporations is registered under the <Exchange Act>.
+        \\ ""Acquisition by a Public Company"" any transfer or conversion of <Covered Securities> made pursuant to a statutory merger or statutory consolidation of the <Company> with or into another <Business Entity> if securities of the surviving <Business Entity> or any direct or indirect <Parent> of the <Business Entity> is registered under the <Exchange Act>.
 
         \\ ""Affiliate"" means an entity other than a <Subsidiary> which, together with the <Company>, is under common control of a third person or entity.
 
