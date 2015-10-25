@@ -241,7 +241,10 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             \\ obtain funding for the <Company> in a financing approved by the <Board>.
 
-        \\ ""Consultant"" means any person, including an adviser but not an <Employee>, who is engaged by the <Company>, or any <Parent>, <Subsidiary> or <Affiliate>, to render services (other than capital-raising services) and is compensated for such services, and any <Director> whether compensated for such services or not.
+        \\ ""Consultant"" means
+
+            \\ any natural person, including any adviser, but not any <Employee>, engaged by the <Company>, or any <Parent>, <Subsidiary> or <Affiliate>, to render services other than capital-raising services, who is compensated for those services; and
+            \\ any <Director> whether compensated for service as a <Director> or not.
 
         \\ ""Continuous Service Status"" means the absence of any interruption or termination of service as an <Employee> or <Consultant>. <Continuous Service Status> as an <Employee> or <Consultant> will not be considered interrupted or terminated in the case of:
 
