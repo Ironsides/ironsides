@@ -50,17 +50,17 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
                 \\ <Purchaser> is a <Director> of, but neither an <Employee> nor a <Consultant> of, the <Company> or its successor on consummation of a <Change of Control> and <Purchaser> is removed from, or is not reelected to, the <Board> in connection with or following the <Change of Control>.
 
-            Accelerated Vesting \\ [Acceleration Percentage] of then <Unvested Shares> (""Accelerated Shares""), rounded up to the nearest whole share, will <Vest> on any <Acceleration Event>. In case of an <Asset Sale>, if the acquirer of the <Company>'s assets does not agree to assume this <Agreement>, or to substitute an equivalent award or right for this <Agreement>, and <Purchaser> transfers <Purchaser>'s employment to the acquirer in connection with the <Asset Sale>, then <Accelerated Shares> will <Vest> immediately before, and contingent on, the consummation of the <Asset Sale>. Otherwise, <Accelerated Shares> will <Vest> immediately before the date of the <Acceleration Event>.
+            Accelerated Vesting \\ [Acceleration Percentage] of then <Unvested Shares> (""Accelerated Shares""), rounded up to the nearest whole share, will <Vest> on any <Acceleration Event>. In case of an <Asset Sale>, if the acquirer of the <Company>'s assets does not agree to assume this <Agreement>, or to substitute an equal award or right for this <Agreement>, and <Purchaser> transfers <Purchaser>'s employment to the acquirer in connection with the <Asset Sale>, then <Accelerated Shares> will <Vest> immediately before, and contingent on, the consummation of the <Asset Sale>. Otherwise, <Accelerated Shares> will <Vest> immediately before the date of the <Acceleration Event>.
 
         Repurchase Option Terms \\
 
             \\ The exercise price of the <Repurchase Option> will be the <Original Price Per Share>, adjusted for any stock splits, stock dividends, and the like, multiplied by the number of <Unvested Shares> for which the <Repurchase Option> is exercised (the ""Repurchase Price"").
 
-            \\ The <Repurchase Option> will expire at 23:59 San Francisco time on the date that is [Repurchase Option Days] calendar days after the date of <Termination> (the ""Repurchase Option Expiration Date"").
+            \\ The <Repurchase Option> will expire at 23:59 San Francisco time on the date [Repurchase Option Days] calendar days after the date of <Termination> (the ""Repurchase Option Expiration Date"").
 
-            \\ The <Company> may exercise the <Repurchase Option> at any time prior to the <Repurchase Option Expiration Date>.
+            \\ The <Company> may exercise the <Repurchase Option> at any time before the <Repurchase Option Expiration Date>.
 
-            \\ Unless the <Company> gives <Purchaser> notice that it does not intend to exercise its <Repurchase Option> for some or all <Unvested Shares> prior to the <Repurchase Option Expiration Date>, the <Company> will be deemed to exercise the <Repurchase Option> for all <Unvested Shares> on the <Repurchase Option Expiration Date> (""Automatic Repurchase""). The <Company> may give <Purchaser> notice that <Automatic Repurchase> will occur as of any earlier date, or for only some part of the <Unvested Shares>. On <Automatic Repurchase>, the <Company> will become the legal and beneficial owner of the <Unvested Shares> for which the <Repurchase Option> is exercised, will have all rights and interest in and related to those <Unvested Shares>, and will have the right to transfer them to its own name without further <Purchaser> action.
+            \\ Unless the <Company> gives <Purchaser> notice that it does not intend to exercise its <Repurchase Option> for some or all <Unvested Shares> before the <Repurchase Option Expiration Date>, the <Company> will be deemed to exercise the <Repurchase Option> for all <Unvested Shares> on the <Repurchase Option Expiration Date> (""Automatic Repurchase""). The <Company> may give <Purchaser> notice that <Automatic Repurchase> will occur as of any earlier date, or for only some part of the <Unvested Shares>. On <Automatic Repurchase>, the <Company> will become the legal and beneficial owner of the <Unvested Shares> for which the <Repurchase Option> is exercised, will have all rights and interest in and related to those <Unvested Shares>, and will have the right to transfer them to its own name without further <Purchaser> action.
 
             \\ The <Company> shall pay the <Repurchase Price> by <Check and Cancelled Debt>. If <Purchaser> is indebted to the <Company> on <Automatic Repurchase> and the <Company> does not otherwise pay the <Repurchase Price>, an amount of <Purchaser>'s debt equal to the <Repurchase Price> will be deemed canceled as of the date of <Automatic Repurchase>.
 
@@ -92,7 +92,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
                 \\ The <Proposed Transfer Securities> are sold to the <Proposed Transferee> on the <Proposed Transfer Terms> and for no less than the <Transfer Purchase Price>.
 
-                \\ The transfer is consummated before 23:59 San Francisco time on the date that is 120 calendar days after the <Company> receives <Proposed Transfer Notice> (""Transfer Deadline"").
+                \\ The transfer is consummated before 23:59 San Francisco time on the date 120 calendar days after the <Company> receives <Proposed Transfer Notice> (""Transfer Deadline"").
 
                 \\ The <Proposed Transferee> agrees in writing that {Limits on Transfer} will continue to apply to the <Proposed Transfer Securities>.
 
@@ -106,13 +106,13 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \\ Any <Holder> shall give the Secretary of the <Company> prompt notice of any <Involuntary Transfer> (""Involuntary Transfer Notice"").
 
-        \\ Upon any <Involuntary Transfer>, the <Company> will have an irrevocable and exclusive option (an ""Involuntary Transfer Option"") to repurchase all or any portion of the <Covered Securities> transferred.
+        \\ on any <Involuntary Transfer>, the <Company> will have an irrevocable and exclusive option (an ""Involuntary Transfer Option"") to repurchase all or any portion of the <Covered Securities> transferred.
 
         \\ The exercise price of an <Involuntary Transfer Option> will be the <Fair Market Value> of the <Covered Securities> on the date of the <Involuntary Transfer>.
 
-        \\ An <Involuntary Transfer Option> will expire at 23:59 San Francisco time on the date that is 30 calendar days after the date corresponding <Involuntary Transfer Notice> was received.
+        \\ An <Involuntary Transfer Option> will expire at 23:59 San Francisco time on the date 30 calendar days after the date corresponding <Involuntary Transfer Notice> was received.
 
-        \\ The <Company> may exercise an <Involuntary Transfer Option> at any time prior to its expiration date.
+        \\ The <Company> may exercise an <Involuntary Transfer Option> any time before its expiration date.
 
     Assignment of Company Purchase Rights \\ The <Company> may assign all or part of any <Company> right to purchase <Covered Securities>, such as the <Repurchase Option>, <Right of First Refusal>, and <Involuntary Transfer Option>, for any number of <Covered Securities> and any proposed transfer, to any number of other parties.
 
@@ -135,11 +135,11 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \\ <Purchaser> understands that sales of securities like the <Shares> and other <Covered Securities> are regulated by complex state and federal laws, such as the <Securities Act>, <Exchange Act>, and related rules. <Purchaser> understands that illegal sales of securities carry severe civil and criminal penalties.
 
-        \\ <Purchaser> understands that <Covered Securities> have not been registered under the <Securities Act>, that the <Company> is instead relying on an exemption from registration, and that the exemption depends on the honesty and genuineness of <Purchaser>'s investment intent, as expressed in this <Agreement>, among other factors.
+        \\ <Purchaser> understands that <Covered Securities> have not been registered under the <Securities Act>, that the <Company> is instead relying on an exemption from registration, and that the exemption depends on the honesty and genuineness of <Purchaser>'s investment intent, as expressed in this <Agreement>, and other factors.
 
-        \\ <Purchaser> understands that <Covered Securities> must be held indefinitely unless and until they are registered under the <Securities Act> or an exemption from registration becomes available. <Purchaser> understands that the <Company> is under no obligation to register any securities.
+        \\ <Purchaser> understands that <Covered Securities> must be held indefinitely unless they are registered under the <Securities Act> or an exemption from registration becomes available. <Purchaser> understands that the <Company> is under no obligation to register any securities.
 
-        \\ <Purchaser> is familiar with Rule 144 under the <Securities Act>, which allows limited public resale of some "restricted securities" in non-public offerings on certain conditions, among them that the issuer be subject to reporting requirements of the <Exchange Act>, that holders hold securities for given time periods before resale, volume restrictions, and brokered transaction requirements. <Purchaser> understands the <Company> gives no assurance that any <Covered Securities> will ever be eligible for resale under Rule 144.
+        \\ <Purchaser> is familiar with Rule 144 under the <Securities Act>, which allows limited public resale of some "restricted securities" in non-public offerings on certain conditions, such as that the issuer be subject to reporting requirements of the <Exchange Act>, that holders hold securities for given time periods before resale, volume restrictions, and brokered transaction requirements. <Purchaser> understands the <Company> gives no assurance that any <Covered Securities> will ever be eligible for resale under Rule 144.
 
         \\ <Purchaser> understands that if any requirement of Rule 144 is not satisfied, legal resale of <Covered Securities> will require registration under the <Securities Act>, compliance with Regulation A, or some other registration exemption. <Purchaser> understands that, despite the fact that Rule 144 is not exclusive, the staff of the Securities and Exchange Commission has opined that those proposing to sell private placement securities other than in a registered offering and other than under Rule 144 will have a substantial burden of proof in establishing that an exemption from registration is available, and that such sellers and their respective brokers who participate in such transactions do so at their own risk.
 
@@ -163,7 +163,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             \\ treat any purchaser or other transferee who received <Covered Securities> in violation of this <Agreement> as the owner of those <Covered Securities>, or to accord them rights to vote or receive dividends.
 
-        Legend and Notice Removal \\ <Covered Securities> will no longer be subject to the legend specified in {Transfer Restriction Legend}, and the <Company> will remove <Stop-Transfer Notices> made under this <Agreement>, when all of the following have occurred:
+        Legend and Notice Removal \\ <Covered Securities> will no longer be subject to the legend specified in {Transfer Restriction Legend}, and the <Company> will remove <Stop-Transfer Notices> made under this <Agreement>, when all the following have occurred:
 
             \\ The <Right of First Refusal> has terminated.
 
@@ -237,7 +237,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             \\ create a holding company owned in substantially the same proportions by the those who hold the <Company>'s securities immediately before the transaction; or
 
-            \\ obtain funding for the <Company> in a financing approved by the <Board>.
+            \\ fund the <Company> in a financing approved by the <Board>.
 
         \\ ""Company Corporate Family"" means the <Company> or any <Parent>, <Affiliate>, <Subsidiary>, or their successors.
 
@@ -272,7 +272,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \\ ""Exchange Act"" means the Securities Exchange Act of 1934.
 
-        \\ ""Excluded Entity"" means, for a transaction, any <Business Entity> that, immediately after the transaction, will be in <Majority Control> of <Persons> who held capital stock of the <Company> immediately before the transaction. ""Majority Control"" means ownership of securities of a <Business Entity> that represent a majority of votes entitled to be cast by all outstanding voting securities of that <Business Entity>.
+        \\ ""Excluded Entity"" means, for a transaction, any <Business Entity> that, immediately after the transaction, will be in <Voting Control> of <Persons> who held capital stock of the <Company> immediately before the transaction. ""Voting Control"" means ownership of securities of a <Business Entity> that represent most of the votes entitled to be cast by all outstanding voting securities of that <Business Entity>.
 
         \\ ""Fair Market Value"" means fair market value as determined in good faith by the <Board>.
 
@@ -285,14 +285,14 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             \\ <Employer> changes <Purchaser>'s position in a way that materially reduces <Purchaser>'s duties, level of authority, or responsibility.
 
-            \\ <Employer> conditions <Purchaser>'s continued service with the <Company Corporate Family> on transfer to a place of work that would increase <Purchaser>'s one-way commute from <Purchaser>'s principal residence at the time by more than 35 miles.
+            \\ <Employer> conditions <Purchaser>'s continued service with the <Company Corporate Family> on transfer to a place of work that would increase <Purchaser>'s one-way commute from <Purchaser>'s principal residence by more than 35 miles.
 
         # TODO: Check "employment" (what about consultants?)
         \\ ""Good Reason to Terminate"" means any of the these:
 
-            \\ <Purchaser> willfully fails to substantially perform <Purchaser>'s duties after:
+            \\ <Purchaser> willfully fails to substantially do <Purchaser>'s duties after:
 
-                \\ receipt of written demand for substantial performance from the board of directors of <Purchaser>'s <Employer> that states in detail the specific ways the board believes <Purchaser> has not substantially performed <Purchaser>'s duties; and
+                \\ receipt of written demand for substantial performance from the board of directors of <Purchaser>'s <Employer> that states in detail the specific ways the board believes <Purchaser> has not substantially done <Purchaser>'s duties; and
 
                 \\ a chance to provide that substantial performance.
 
@@ -338,7 +338,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
         include(includes/construction.commonform)
         include(includes/counterparts.commonform)
 
-        Electronic Delivery \\ The <Company> may, in its sole discretion, deliver documents related to this <Agreement> and any notices required by law or the <Company>'s <Governing Documents> to <Purchaser> by e-mail or other electronic means. <Purchaser> hereby consents to
+        Electronic Delivery \\ The <Company> may, in its sole discretion, deliver documents related to this <Agreement> and any notices required by law or the <Company>'s <Governing Documents> to <Purchaser> by e-mail or other electronic means. <Purchaser> consents to:
 
             \\ conduct business electronically;
 
