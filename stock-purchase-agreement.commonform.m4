@@ -139,7 +139,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         Burden of Proof \\ <Purchaser> further understands that if all the requirements of Rule 144 are not satisfied, registration under the <Securities Act>, compliance with Regulation A, or some other registration exemption will be required; and that, despite the fact that Rule 144 is not exclusive, the Staff of the Securities and Exchange Commission has expressed its opinion that those proposing to sell private placement securities other than in a registered offering and otherwise than under Rule 144 will have a substantial burden of proof in establishing that an exemption from registration is available for such offers or sales, and that such sellers and their respective brokers who participate in such transactions do so at their own risk.
 
-        \\ <Purchaser> represents that <Purchaser> is not subject to any of the "Bad Actor" disqualifications described in Rule 506(d)(1)(i) to (viii) under the <Securities Act> (attached as {Rule 506(d)(1)(i) to (viii) under the Securities Act of 1933}).
+        \\ <Purchaser> represents that <Purchaser> has reviewed, and is not subject to, any of the "Bad Actor" disqualifications described in Rule 506(d)(1)(i) through (viii) under the <Securities Act>.
 
         \\ <Purchaser> understands that <Purchaser> may suffer adverse tax consequences as a result of <Purchaser>'s purchase or disposition of the <Shares>. <Purchaser> represents that <Purchaser> has consulted any tax consultants <Purchaser> deems advisable in connection with the purchase or disposition of the <Shares> and that <Purchaser> is not relying on the <Company> for any tax advice.
 
@@ -284,8 +284,6 @@ Acknowledgment and Statement of Decision Regarding Section 83(b) Election \\ See
 Election Under Section 83(b) of the Internal Revenue Code of 1986 \\ See attached.
 
 IP Assignment Form \\ See attached.
-
-Rule 506(d)(1)(i) to (viii) under the Securities Act of 1933 \\ See attached.
 
 Receipt \\ See attached.
 
