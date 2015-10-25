@@ -227,17 +227,17 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \\ ""Change of Control"" means any of these:
 
-            \\ <Asset Sale>
+            \\ An <Asset Sale>.
 
-            \\ The <Company> merges, consolidates, or changes, by other capital reorganization or business combination transaction, with or into into another <Business Entity> other than an <Excluded Entity>.
+            \\ The <Company> merges, consolidates, or changes, by other capital reorganization or business combination transaction, with or into into another <Business Entity>, other than an <Excluded Entity>.
 
-            \\ Any transaction or series of related transactions are consummated in which any "person" (as used in Sections 13(d) and 14(d) of the <Exchange Act>) becomes the "beneficial owner" (as defined in Rule 13d-3 of the <Exchange Act>), directly or indirectly, of all the <Company>'s then outstanding voting securities. 
+            \\ Any transaction or series of related transactions are consummated in which any "person" (as used in Sections 13(d) and 14(d) of the <Exchange Act>) becomes the "beneficial owner" (as defined in Rule 13d-3 of the <Exchange Act>), directly or indirectly, of all the <Company>'s then outstanding voting securities.
 
         However, a transaction will not constitute a <Change of Control> if its purpose is to:
 
-            \\ change the jurisdiction of the <Company>'s incorporation,
+            \\ change the jurisdiction of the <Company>'s incorporation;
 
-            \\ create a holding company owned in substantially the same proportions by the those who hold the <Company>'s securities immediately before the transaction, or
+            \\ create a holding company owned in substantially the same proportions by the those who hold the <Company>'s securities immediately before the transaction; or
 
             \\ obtain funding for the <Company> in a financing approved by the <Board>.
 
