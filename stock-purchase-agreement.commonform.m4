@@ -269,7 +269,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \\ ""Exchange Act"" means the Securities Exchange Act of 1934.
 
-        \\ ""Excluded Entity"" means a <Business Entity> of which the holders of voting capital stock of the <Company> outstanding immediately before a transaction are the direct or indirect holders of voting securities representing at least a majority of the votes entitled to be cast by all of that <Business Entity>'s voting securities outstanding immediately after the transaction.
+        \\ ""Excluded Entity"" means, for a transaction, any <Business Entity> that, immediately after the transaction, will be in <Majority Control> of <Persons> who held capital stock of the <Company> immediately before the transaction. ""Majority Control"" means ownership of securities of a <Business Entity> that represent a majority of votes entitled to be cast by all outstanding voting securities of that <Business Entity>.
 
         \\ ""Fair Market Value"" means the fair market value as determined in good faith by the <Board>.
 
@@ -311,7 +311,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \\ ""Parent"" means any corporation (other than the <Company>) in an unbroken chain of corporations ending with the <Company> if each of the corporations other than the <Company> owns stock possessing 50% or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
 
-        \\ ""Person"" means a natural person or <Business Entity>.
+        \\ ""Person"" (plural, ""Persons"") means a natural person or <Business Entity>.
 
         \\ ""Securities Act"" means the Securities Act of 1933.
 
