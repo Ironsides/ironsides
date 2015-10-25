@@ -46,19 +46,21 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
                     \\ <Purchaser> resigns effective no later than 60 calendar days after giving <Resignation Notice>, and
                     \\ <Purchaser>'s <Continuous Service Status> terminates on resignation.
 
-                \\ <Purchaser> is a <Director> of, but neither an <Employee> nor a <Consultant> of, the <Company> or its successor on consummation of a <Change of Control> and <Purchaser> is removed from, or is not reelected to, the Board of Directors of the <Company> or its successor in connection with or following the <Change of Control>.
+                \\ <Purchaser> is a <Director> of, but neither an <Employee> nor a <Consultant> of, the <Company> or its successor on consummation of a <Change of Control> and <Purchaser> is removed from, or is not reelected to, the <Board> in connection with or following the <Change of Control>.
 
             Accelerated Vesting \\ [Acceleration Percentage] of then <Unvested Shares> (""Accelerated Shares""), rounded up to the nearest whole share, will <Vest> on any <Acceleration Event>. In case of an <Asset Sale>, if the acquirer of the <Company>'s assets does not agree to assume this <Agreement>, or to substitute an equivalent award or right for this <Agreement>, and <Purchaser> transfers <Purchaser>'s employment to the acquirer in connection with the <Asset Sale>, then <Accelerated Shares> will <Vest> immediately before, and contingent on, the consummation of the <Asset Sale>. Otherwise, <Accelerated Shares> will <Vest> immediately before the date of the <Acceleration Event>.
 
         Repurchase Option Terms \\
 
-            Repurchase Price \\ The exercise price of the <Repurchase Option> will be the <Original Price Per Share>, adjusted for any stock splits, stock dividends, and the like, multiplied by the number of <Unvested Shares> for which the <Repurchase Option> is exercised (the ""Repurchase Price"").
+            \\ The exercise price of the <Repurchase Option> will be the <Original Price Per Share>, adjusted for any stock splits, stock dividends, and the like, multiplied by the number of <Unvested Shares> for which the <Repurchase Option> is exercised (the ""Repurchase Price"").
 
-            Expiration \\ The <Repurchase Option> will expire at 23:59 San Francisco time on the date that is [Repurchase Option Days] calendar days after the date of <Termination> (the ""Repurchase Option Expiration Date"").
+            \\ The <Repurchase Option> will expire at 23:59 San Francisco time on the date that is [Repurchase Option Days] calendar days after the date of <Termination> (the ""Repurchase Option Expiration Date"").
 
-            Automatic Repurchase \\ Unless the <Company> gives <Purchaser> notice that it does not intend to exercise its <Repurchase Option> for some or all <Unvested Shares> prior to the <Repurchase Option Expiration Date>, the <Company> will be deemed to exercise the <Repurchase Option> for all <Unvested Shares> on the <Repurchase Option Expiration Date> (""Automatic Repurchase""). The <Company> may give <Purchaser> notice that <Automatic Repurchase> will occur as of any earlier date, or for only some part of the <Unvested Shares>. On <Automatic Repurchase>, the <Company> will become the legal and beneficial owner of the <Unvested Shares> for which the <Repurchase Option> is exercised, will have all rights and interest in and related to those <Unvested Shares>, and will have the right to transfer them to its own name without further <Purchaser> action.
+            \\ The <Company> may exercise the <Repurchase Option> at any time prior to the <Repurchase Option Expiration Date>.
 
-            Payment of Repurchase Price \\ The <Company> shall pay the <Repurchase Price> by <Check and Cancelled Debt>. If <Purchaser> is indebted to the <Company> on <Automatic Repurchase> and the <Company> does not otherwise pay the <Repurchase Price>, an amount of <Purchaser>'s debt equal to the <Repurchase Price> will be deemed canceled as of the date of <Automatic Repurchase>.
+            \\ Unless the <Company> gives <Purchaser> notice that it does not intend to exercise its <Repurchase Option> for some or all <Unvested Shares> prior to the <Repurchase Option Expiration Date>, the <Company> will be deemed to exercise the <Repurchase Option> for all <Unvested Shares> on the <Repurchase Option Expiration Date> (""Automatic Repurchase""). The <Company> may give <Purchaser> notice that <Automatic Repurchase> will occur as of any earlier date, or for only some part of the <Unvested Shares>. On <Automatic Repurchase>, the <Company> will become the legal and beneficial owner of the <Unvested Shares> for which the <Repurchase Option> is exercised, will have all rights and interest in and related to those <Unvested Shares>, and will have the right to transfer them to its own name without further <Purchaser> action.
+
+            \\ The <Company> shall pay the <Repurchase Price> by <Check and Cancelled Debt>. If <Purchaser> is indebted to the <Company> on <Automatic Repurchase> and the <Company> does not otherwise pay the <Repurchase Price>, an amount of <Purchaser>'s debt equal to the <Repurchase Price> will be deemed canceled as of the date of <Automatic Repurchase>.
 
     # TODO refactor this condition out
     Right of First Refusal \\ Subject to {Exception for Family Transfers}:
@@ -76,7 +78,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
             \\ the other terms and conditions of each proposed transfer (""Proposed Transfer Terms"").
 
         # TODO Define ""Notice""
-        Exercise of Right of First Refusal \\ At any time within 30 calendar days after receipt of a <Proposed Transfer Notice>, the <Company> may elect to purchase any or all the <Covered Securities> the <Holder> intends to transfer, at the <Transfer Purchase Price> and on the <Proposed Transfer Terms> (or terms as similar as possible), by giving notice to the <Holder>. If the <Transfer Purchase Price> consists of no legal "consideration" (for example, in the case of a gift), the purchase price will be the fair market value of the <Covered Securities> as of the date of purchase, determined in good faith by the <Company>'s Board of Directors. If the <Transfer Purchase Price> includes non-cash property, the cash value of the non-cash property will be determined by the <Company>'s Board of Directors in good faith.
+        Exercise of Right of First Refusal \\ At any time within 30 calendar days after receipt of a <Proposed Transfer Notice>, the <Company> may elect to purchase any or all the <Covered Securities> the <Holder> intends to transfer, at the <Transfer Purchase Price> and on the <Proposed Transfer Terms> (or terms as similar as possible), by giving notice to the <Holder>. If the <Transfer Purchase Price> consists of no legal "consideration" (for example, in the case of a gift), the purchase price will be the <Fair Market Value> of the <Covered Securities> as of the date of purchase. If the <Transfer Purchase Price> includes non-cash property, the cash value of the non-cash property will be its <Fair Market Value> as of the date of purchase.
 
         Payment \\ The <Company> shall pay the <Transfer Purchase Price> by <Check and Cancelled Debt> within 60 calendar days of receipt of <Proposed Transfer Notice>.
 
@@ -96,11 +98,21 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             \\ If <Proposed Transfer Securities> described in <Proposed Transfer Notice> are not transferred to a <Proposed Transferee> before their <Transfer Deadline>, but the <Holder> still intends to sell the <Proposed Transfer Securities>, or whenever a <Holder> proposes price or other terms more favorable to a <Proposed Transferee>, the <Holder> shall give new <Proposed Transfer Notice>, and {Right of First Refusal} shall apply to that proposed transfer as if the new <Proposed Transfer Notice> were the first <Proposed Transfer Notice> for the transfer.
 
-        Exception for Family Transfers \\ Transfers of any or all the <Covered Securities> during <Purchaser>'s lifetime, or on <Purchaser>'s death by will or intestacy, to <Purchaser>'s <Immediate Family> or to a trust for the benefit of <Purchaser> or <Purchaser>'s <Immediate Family>, will be exempt from {Right of First Refusal}. Recipients of <Covered Securities> by such transfers will receive and hold the transferred <Covered Securities> subject to, and there will be no further transfer of such <Covered Securities> except under, {Limits on Transfer}.
+        Exception for Family Transfers \\ Any <Family Transfer> will be exempt from {Right of First Refusal}. Recipients of <Covered Securities> by <Family Transfer> will receive and hold transferred <Covered Securities> subject to, and there will be no further transfer of such <Covered Securities> except under, {Limits on Transfer}.
 
-    Company's Right to Purchase on Involuntary Transfer \\ If, at any time after the date of this <Agreement>, of any transfer by operation of law or other involuntary transfer (including divorce or intestate transfer on death, but excluding transfer on death by will (to any transferee) or a transfer to <Immediate Family> as described by {Exception for Family Transfers}) of all or a portion of the <Covered Securities> by the record holder of those <Covered Securities>, the <Company> will have the right to purchase any or all the <Covered Securities> transferred at the fair market value of the <Covered Securities> on the date of transfer (as determined by the <Company> in its sole discretion). On such a transfer, the <Holder> shall promptly notify the Secretary of the <Company> of such transfer. The right to purchase such <Covered Securities> shall be provided to the <Company> for a period of 30 days following receipt by the <Company> of written notice from the <Holder>.
+    Company's Right to Purchase on Involuntary Transfer \\
 
-    Assignment of Company Purchase Rights \\ The <Company> may assign all or part of any <Company> right to purchase <Covered Securities>, such as the <Repurchase Option>, <Right of First Refusal>, and <Involuntary Purchase Right>, for any number of <Covered Securities> and any proposed transfer, to any number of other parties.
+        \\ Any <Holder> shall give the Secretary of the <Company> prompt notice of any <Involuntary Transfer> (""Involuntary Transfer Notice"").
+
+        \\ Upon any <Involuntary Transfer>, the <Company> will have an irrevocable and exclusive option (an ""Involuntary Transfer Option"") to repurchase all or any portion of the <Covered Securities> transferred.
+
+        \\ The exercise price of an <Involuntary Transfer Option> will be the <Fair Market Value> of the <Covered Securities> on the date of the <Involuntary Transfer>.
+
+        \\ An <Involuntary Transfer Option> will expire at 23:59 San Francisco time on the date that is 30 calendar days after the date corresponding <Involuntary Transfer Notice> was received.
+
+        \\ The <Company> may exercise an <Involuntary Transfer Option> at any time prior to its expiration date.
+
+    Assignment of Company Purchase Rights \\ The <Company> may assign all or part of any <Company> right to purchase <Covered Securities>, such as the <Repurchase Option>, <Right of First Refusal>, and <Involuntary Transfer Option>, for any number of <Covered Securities> and any proposed transfer, to any number of other parties.
 
     Restrictions Binding on Transferees \\ All transferees of <Covered Securities> or any interest in the <Covered Securities> will receive and hold such <Covered Securities> or interest subject to the provisions of this <Agreement>, including, as applicable, the <Repurchase Option>. Any sale or transfer of the <Covered Securities> will be void unless the provisions of this <Agreement> are satisfied.
 
@@ -108,7 +120,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
     Lock-up Agreement \\ If so requested by the <Company> or the underwriters in connection with the initial public offering of the <Company>'s securities registered under the <Securities Act>, <Purchaser> shall not sell, make any short sale of, loan, grant any option for the purchase of, or otherwise dispose of any securities of the <Company> however or whenever acquired (except for those being registered) without the prior written consent of the <Company> or such underwriters, as the case may be, for 180 days from the effective date of the registration statement, plus such additional period, to the extent required by FINRA rules, up to a maximum of 216 days from the effective date of the registration statement, and <Purchaser> shall enter into any agreement reflecting that restriction requested by the underwriters at the time of such offering.
 
-    Escrow of Unvested Shares \\ For purposes of facilitating the enforcement of the provisions of {Limits on Transfer}, <Purchaser> agrees to deliver a Stock Power in the form attached to this <Agreement> as {Stock Power} signed by <Purchaser> and <Purchaser>'s spouse (if required for transfer), in blank, and such stock certificate(s), if any, to the Secretary of the <Company>, or the Secretary's designee, to hold such <Shares> (and stock certificate(s), if any) and Stock Power in escrow and to take all such actions and to effectuate all such transfers and/or releases as are required under this <Agreement>. <Purchaser> hereby acknowledges that the Secretary of the <Company>, or the Secretary's designee, is so appointed as the escrow holder with the these authorities as a material inducement to make this <Agreement> and that appointment is coupled with an interest and is accordingly irrevocable. <Purchaser> agrees that escrow holder will not be liable to any party to this <Agreement> (or to any other party). The escrow holder may rely on any letter, notice or other document with a signature purported to be genuine and may resign at any time. <Purchaser> agrees that if the Secretary of the <Company>, or the Secretary's designee, resigns as escrow holder for any reason, the Board of Directors of the <Company> will have the power to appoint a successor to serve as escrow holder under this <Agreement>.
+    Escrow of Unvested Shares \\ For purposes of facilitating the enforcement of the provisions of {Limits on Transfer}, <Purchaser> agrees to deliver a Stock Power in the form attached to this <Agreement> as {Stock Power} signed by <Purchaser> and <Purchaser>'s spouse (if required for transfer), in blank, and such stock certificate(s), if any, to the Secretary of the <Company>, or the Secretary's designee, to hold such <Shares> (and stock certificate(s), if any) and Stock Power in escrow and to take all such actions and to effectuate all such transfers and/or releases as are required under this <Agreement>. <Purchaser> hereby acknowledges that the Secretary of the <Company>, or the Secretary's designee, is so appointed as the escrow holder with the these authorities as a material inducement to make this <Agreement> and that appointment is coupled with an interest and is accordingly irrevocable. <Purchaser> agrees that escrow holder will not be liable to any party to this <Agreement> (or to any other party). The escrow holder may rely on any letter, notice or other document with a signature purported to be genuine and may resign at any time. <Purchaser> agrees that if the Secretary of the <Company>, or the Secretary's designee, resigns as escrow holder for any reason, the <Board> will have the power to appoint a successor to serve as escrow holder under this <Agreement>.
 
     Investment and Taxation Representations \\ In connection with the purchase of the <Shares>, <Purchaser> represents to the <Company> the following:
 
@@ -170,6 +182,8 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \\ ""Asset Sale"" means the <Company> sells all or substantially all the <Company>'s assets to other than an <Excluded Entity>.
 
+        \\ ""Board"" means the Board of Directors of the <Company> or its successor.
+
         \\ ""Business Entity"" means corporation, limited liability company, or other legal entity.
 
         \\ ""Check and Cancelled Debt"" means a payer shall pay an amount in any of these ways, as it chooses:
@@ -196,7 +210,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             \\ create a holding company owned in substantially the same proportions by the those who hold the <Company>'s securities immediately before the transaction, or
 
-            \\ obtain funding for the <Company> in a financing approved by the <Company>'s Board of Directors.
+            \\ obtain funding for the <Company> in a financing approved by the <Board>.
 
         \\ ""Consultant"" means any person, including an advisor but not an <Employee>, who is engaged by the <Company>, or any <Parent>, <Subsidiary> or <Affiliate>, to render services (other than capital-raising services) and is compensated for such services, and any <Director> whether compensated for such services or not.
 
@@ -210,13 +224,17 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         when that leave is for a period of not more than ninety (90) days, unless reemployment on the expiration of such leave is guaranteed by contract or statute, or unless provided otherwise under a written <Company> policy. Also, <Continuous Service Status> as an <Employee> or <Consultant> will not be considered interrupted or terminated in the case of a transfer between locations of the <Company> or between the <Company>, its <Parent>s, Subsidiaries or <Affiliate>s, or their respective successors, or a change in status from an <Employee> to a <Consultant> or from a <Consultant> to an <Employee>.
 
-        \\ ""Director"" means a member of the Board of Directors of the <Company>.
+        \\ ""Director"" means a member of the <Board>.
 
         \\ ""Disability"" means a condition causing a person to considered to be "permanently and totally disabled" under Section 22(e)(3) of the <Code>.
 
-        \\ ""Employee"" means any person employed by the <Company>, or any <Parent>, <Subsidiary> or <Affiliate>, with the status of employment determined by considering such factors as are deemed appropriate by the Board of Directors of the <Company> in its sole discretion, subject to any legal requirements, including requirements of the <Code>. The payment by the <Company> of a director's fee will not be enough to constitute "employment" of such director by the <Company> or any <Parent>, <Subsidiary> or <Affiliate>.
+        \\ ""Employee"" means any person employed by the <Company>, or any <Parent>, <Subsidiary> or <Affiliate>, with the status of employment determined by considering such factors as are deemed appropriate by the <Board> in its sole discretion, subject to any legal requirements, including requirements of the <Code>. The payment by the <Company> of a director's fee will not be enough to constitute "employment" of such director by the <Company> or any <Parent>, <Subsidiary> or <Affiliate>.
 
         \\ ""Excluded Entity"" means a <Business Entity> of which the holders of voting capital stock of the <Company> outstanding immediately before a transaction are the direct or indirect holders of voting securities representing at least a majority of the votes entitled to be cast by all of that <Business Entity>'s voting securities outstanding immediately after the transaction.
+
+        \\ ""Fair Market Value"" means the fair market value as determined in good faith by the <Board>.
+
+        \\ ""Family Transfer"" means a transfer of <Covered Securities> during <Purchaser>'s lifetime, or on <Purchaser>'s death by will or intestacy, to <Purchaser>'s <Immediate Family> or to a trust for the benefit of <Purchaser> or <Purchaser>'s <Immediate Family>.
 
         \\ ""Good Reason to Resign"" means any of these that happen without <Purchaser>'s written consent:
 
@@ -232,8 +250,8 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             \\ <Purchaser>'s willfully fails to substantially perform <Purchaser>'s duties to the <Company> after:
 
-                \\ receipt of written demand for substantial performance from the <Company>'s Board of Directors that states in detail the specific ways the Board of Directors believes <Purchaser> has not substantially performed <Purchaser>'s duties; and
-                \\ a chance to provide that substantial performance which states in detail the specific respects in which the <Company>'s Board of Directors believes that <Purchaser> has not substantially performed <Purchaser>'s duties.
+                \\ receipt of written demand for substantial performance from the <Board> that states in detail the specific ways the <Board> believes <Purchaser> has not substantially performed <Purchaser>'s duties; and
+                \\ a chance to provide that substantial performance which states in detail the specific respects in which the <Board> believes that <Purchaser> has not substantially performed <Purchaser>'s duties.
 
             \\ <Purchaser> commits willful fraud, willful misconduct, dishonesty,or any other intentional act that materially injures the <Company>.
 
@@ -243,6 +261,8 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         # TODO review selective inclusion of antecedents and descendants
         \\ ""Immediate Family"" means lineal descendants and antecedents, spouses (and spouses' antecedents), fathers, mothers, brothers and sisters (and their descendants), stepchildren (and their antecedents and descendants), aunts and uncles (and their antecedents and descendants), brothers-in-law and sisters-in-law (and their antecedents and descendants), and includes adoptive relations, and any person sharing <Purchaser>'s household (other than tenants and employees).
+
+        \\ ""Involuntary Transfer"" means a transfer of <Covered Securities> by operation of law or other involuntary transfer, such as due to divorce or intestate transfer on death, but not any <Family Transfer>.
 
         \\ ""Parent"" means any corporation (other than the <Company>) in an unbroken chain of corporations ending with the <Company> if each of the corporations other than the <Company> owns stock possessing 50% or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
 
