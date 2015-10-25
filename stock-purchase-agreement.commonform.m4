@@ -175,7 +175,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
     Required Notices \\ <Purchaser> acknowledges that the <Covered Securities> are issued and will be held subject to all the provisions of {Restrictive Legends and Stop-Transfer Notices} and the <Company>'s <Governing Documents>. Copies of the <Governing Documents> are on file with the Secretary of the <Company>. The <Company> will provide a statement of the powers, designations, preferences, and relative, participating, optional, or other special rights of each class or series of stock of the <Company> and the qualifications, limitations, or restrictions of such preferences and/or rights, as well as a copy of that statement, to any stockholder on request and without charge at the principal office of the <Company>. <Purchaser> acknowledges that the provisions of {Restrictive Legends and Stop-Transfer Notices} will constitute the notices required by Sections 151(f) and 202(a) of the Delaware General Corporation Law (""DGCL""). <Purchaser> waives the requirement of <DGCL> section 151(f) that it receive the written notice provided for in <DGCL> sections 151(f) and 202(a) within a reasonable time after the issuance of <Covered Securities>.
 
-    No Employment Rights \\ Nothing in this <Agreement> will affect in any manner whatsoever the right or power of the <Company>, or a parent, subsidiary or <Affiliate> of the <Company>, to terminate <Purchaser>'s employment or consulting relationship, for any reason, with or without cause.
+    No Employment Rights \\ Nothing in this <Agreement> will affect any right of the <Company>, or a <Parent>, <Subsidiary> or <Affiliate> of the <Company>, to terminate <Purchaser>'s employment at will.
 
     Section 83(b) Election \\
 
