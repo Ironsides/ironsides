@@ -338,13 +338,16 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
         include(includes/construction.commonform)
         include(includes/counterparts.commonform)
 
-        Electronic Delivery \\ The <Company> may, in its sole discretion, decide to deliver any documents related to this <Agreement> or any notices required by law or the <Company>'s Certificate of Incorporation or Bylaws by email or any other electronic means. <Purchaser> hereby consents to
+        Electronic Delivery \\ The <Company> may, in its sole discretion, deliver documents related to this <Agreement> and any notices required by law or the <Company>'s <Governing Documents> to <Purchaser> by e-mail or other electronic means. <Purchaser> hereby consents to
 
-            \\ conduct business electronically
+            \\ conduct business electronically;
 
-            \\ receive such documents and notices by such electronic delivery and
+            \\ receive such documents and notices by electronic means; and
 
-            \\ sign documents electronically and agrees to participate through an on-line or electronic system established and maintained by the <Company> or a third party designated by the <Company>.
+            \\ sign documents electronically.
+
+        # TODO double-check
+        <Purchaser> further agrees to participate through an on-line or electronic system established and maintained by the <Company> or a third party designated by the <Company>.
 
 \\ No schedules.
 
