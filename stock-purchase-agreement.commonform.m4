@@ -52,13 +52,13 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         Repurchase Option Terms \\
 
-            Exercise Price \\ The exercise price of the <Repurchase Option> will be the <Original Price Per Share>, adjusted for any stock splits, stock dividends, and the like, multiplied by the number of <Unvested Shares> for which the <Repurchase Option> is exercised (the ""Repurchase Price"").
+            Repurchase Price \\ The exercise price of the <Repurchase Option> will be the <Original Price Per Share>, adjusted for any stock splits, stock dividends, and the like, multiplied by the number of <Unvested Shares> for which the <Repurchase Option> is exercised (the ""Repurchase Price"").
 
             Expiration \\ The <Repurchase Option> will expire at 23:59 San Francisco time on the date that is [Repurchase Option Days] calendar days after the date of <Termination> (the ""Repurchase Option Expiration Date"").
 
-            Automatic Exercise \\ Unless the <Company> gives <Purchaser> notice that it does not intend to exercise its <Repurchase Option> for some or all <Unvested Shares> prior to the <Repurchase Option Expiration Date>, the <Company> will be deemed to exercise the <Repurchase Option> for all <Unvested Shares> on the <Repurchase Option Expiration Date> (""Automatic Repurchase""). The <Company> may give <Purchaser> notice that <Automatic Repurchase> will occur as of any earlier date, or for only some part of the <Unvested Shares>. On <Automatic Repurchase>, the <Company> will become the legal and beneficial owner of the <Unvested Shares> for which the <Repurchase Option> is exercised, will have all rights and interest in and related to those <Unvested Shares>, and will have the right to transfer them to its own name without further <Purchaser> action.
+            Automatic Repurchase \\ Unless the <Company> gives <Purchaser> notice that it does not intend to exercise its <Repurchase Option> for some or all <Unvested Shares> prior to the <Repurchase Option Expiration Date>, the <Company> will be deemed to exercise the <Repurchase Option> for all <Unvested Shares> on the <Repurchase Option Expiration Date> (""Automatic Repurchase""). The <Company> may give <Purchaser> notice that <Automatic Repurchase> will occur as of any earlier date, or for only some part of the <Unvested Shares>. On <Automatic Repurchase>, the <Company> will become the legal and beneficial owner of the <Unvested Shares> for which the <Repurchase Option> is exercised, will have all rights and interest in and related to those <Unvested Shares>, and will have the right to transfer them to its own name without further <Purchaser> action.
 
-            Payment of Exercise Price \\
+            Payment of Repurchase Price \\
 
                 Payment Methods \\ The <Company> shall pay the <Repurchase Price> in one of these ways:
 
