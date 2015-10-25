@@ -189,20 +189,6 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \\ ""Business Entity"" means corporation, limited liability company, or other legal entity.
 
-        # TODO: Check "employment" (what about consultants?)
-        \\ ""Good Reason to Terminate"" means any of the these:
-
-            \\ <Purchaser>'s willfully fails to substantially perform <Purchaser>'s duties to the <Company> after:
-
-                \\ receipt of written demand for substantial performance from the <Company>'s Board of Directors that states in detail the specific ways the Board of Directors believes <Purchaser> has not substantially performed <Purchaser>'s duties; and
-                \\ a chance to provide that substantial performance which states in detail the specific respects in which the <Company>'s Board of Directors believes that <Purchaser> has not substantially performed <Purchaser>'s duties.
-
-            \\ <Purchaser> commits willful fraud, willful misconduct, dishonesty,or any other intentional act that materially injures the <Company>.
-
-            \\ <Purchaser>'s is convicted of, or pleads guilty or no contest to, any crime that materially harms, or is reasonably expected to materially harm, the business or reputation of the <Company>.
-
-            \\ <Purchaser>'s materially breaches any material written agreement between <Purchaser> and the <Company>, such as a Confidential Information and Invention Assignment Agreement, and fails to cure that breach in 30 days after receiving written notice of the breach.
-
         \\ ""Change of Control"" means any of these:
 
             \\ <Asset Sale>
@@ -218,7 +204,6 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
             \\ create a holding company owned in substantially the same proportions by the those who hold the <Company>'s securities immediately before the transaction, or
 
             \\ obtain funding for the <Company> in a financing approved by the <Company>'s Board of Directors.
-
 
         \\ ""Consultant"" means any person, including an advisor but not an <Employee>, who is engaged by the <Company>, or any <Parent>, <Subsidiary> or <Affiliate>, to render services (other than capital-raising services) and is compensated for such services, and any <Director> whether compensated for such services or not.
 
@@ -248,6 +233,20 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
             \\ The <Company> changes <Purchaser>'s position with the <Company> in a way that materially reduces <Purchaser>'s duties, level of authority, or responsibility.
 
             \\ The <Company> conditions <Purchaser>'s continued service with the <Company> on transfer to a place of work that would increase <Purchaser>'s one-way commute from <Purchaser>'s principal residence at the time by more than 35 miles.
+
+        # TODO: Check "employment" (what about consultants?)
+        \\ ""Good Reason to Terminate"" means any of the these:
+
+            \\ <Purchaser>'s willfully fails to substantially perform <Purchaser>'s duties to the <Company> after:
+
+                \\ receipt of written demand for substantial performance from the <Company>'s Board of Directors that states in detail the specific ways the Board of Directors believes <Purchaser> has not substantially performed <Purchaser>'s duties; and
+                \\ a chance to provide that substantial performance which states in detail the specific respects in which the <Company>'s Board of Directors believes that <Purchaser> has not substantially performed <Purchaser>'s duties.
+
+            \\ <Purchaser> commits willful fraud, willful misconduct, dishonesty,or any other intentional act that materially injures the <Company>.
+
+            \\ <Purchaser>'s is convicted of, or pleads guilty or no contest to, any crime that materially harms, or is reasonably expected to materially harm, the business or reputation of the <Company>.
+
+            \\ <Purchaser>'s materially breaches any material written agreement between <Purchaser> and the <Company>, such as a Confidential Information and Invention Assignment Agreement, and fails to cure that breach in 30 days after receiving written notice of the breach.
 
         \\ ""Parent"" means any corporation (other than the <Company>) in an unbroken chain of corporations ending with the <Company> if each of the corporations other than the <Company> owns stock possessing 50% or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
 
