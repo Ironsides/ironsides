@@ -24,6 +24,8 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \\ <Purchaser> shall not assign, encumber, or dispose of any interest in <Covered Securities> except to the extent allowed by, and in compliance with, both this <Agreement> and securities laws.
 
+        \\ All recipients of <Covered Securities> or any interest in <Covered Securities> will receive and hold such <Covered Securities> and interests subject to the provisions of this <Agreement>, such as the <Repurchase Option>. Any sale or other transfer of the <Covered Securities> in violation of this <Agreement> is void.
+
     Vesting \\
 
         Repurchase Option \\ On <Termination>, the <Company> will have an irrevocable and exclusive option (the ""Repurchase Option"") to repurchase all or any portion of the <Shares> held by <Purchaser> as of <Termination> that have not yet been released from the <Repurchase Option> (""Unvested Shares""). [Shares Subject to Vesting] of the <Shares> will start subject to the <Repurchase Option> (the ""Vesting Shares"").
@@ -113,8 +115,6 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
         \\ The <Company> may exercise an <Involuntary Transfer Option> at any time prior to its expiration date.
 
     Assignment of Company Purchase Rights \\ The <Company> may assign all or part of any <Company> right to purchase <Covered Securities>, such as the <Repurchase Option>, <Right of First Refusal>, and <Involuntary Transfer Option>, for any number of <Covered Securities> and any proposed transfer, to any number of other parties.
-
-    Restrictions Binding on Transferees \\ All transferees of <Covered Securities> or any interest in the <Covered Securities> will receive and hold such <Covered Securities> or interest subject to the provisions of this <Agreement>, including, as applicable, the <Repurchase Option>. Any sale or transfer of the <Covered Securities> will be void unless the provisions of this <Agreement> are satisfied.
 
     Termination of Rights \\ The <Right of First Refusal> granted the <Company> by {Right of First Refusal} and the right to repurchase the <Covered Securities> on involuntary transfer granted the <Company> by {Company's Right to Purchase on Involuntary Transfer} will terminate on the first sale of Common Stock of the <Company> to the general public pursuant to a registration statement filed with and declared effective by the Securities and Exchange Commission under the Securities Act of 1933 (the ""Securities Act"") (other than a registration statement relating solely to the issuance of Common Stock pursuant to a business combination or an employee incentive or benefit plan) or any transfer or conversion of <Covered Securities> made pursuant to a statutory merger or statutory consolidation of the <Company> with or into another corporation or corporations if the common stock of the surviving corporation or any direct or indirect parent corporation of the other corporation or corporations is registered under the Securities Exchange Act of 1934 (the ""Exchange Act"").
 
