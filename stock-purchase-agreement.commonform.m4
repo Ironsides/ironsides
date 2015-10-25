@@ -271,7 +271,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \\ ""Excluded Entity"" means, for a transaction, any <Business Entity> that, immediately after the transaction, will be in <Majority Control> of <Persons> who held capital stock of the <Company> immediately before the transaction. ""Majority Control"" means ownership of securities of a <Business Entity> that represent a majority of votes entitled to be cast by all outstanding voting securities of that <Business Entity>.
 
-        \\ ""Fair Market Value"" means the fair market value as determined in good faith by the <Board>.
+        \\ ""Fair Market Value"" means fair market value as determined in good faith by the <Board>.
 
         \\ ""Family Transfer"" means a transfer of <Covered Securities> during <Purchaser>'s lifetime, or on <Purchaser>'s death by will or intestacy, to <Purchaser>'s <Immediate Family> or to a trust for the benefit of <Purchaser> or <Purchaser>'s <Immediate Family>.
 
