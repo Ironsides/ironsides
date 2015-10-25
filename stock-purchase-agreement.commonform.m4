@@ -129,7 +129,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \\ <Escrow Holder> will not be liable to any party to this <Agreement> (or to any other party). The <Escrow Holder> may rely on any letter, notice, or other document with a purportedly genuine signature, and may resign at any time. If the <Escrow Holder> resigns, the <Board> may appoint a new new escrow holder.
 
-    Purchaser Statements \\ <Purchaser> states that all the following are true:
+    Purchaser Statements about Securities and Tax \\ <Purchaser> states that all the following are true:
 
         \\ <Purchaser> is aware of the <Company>'s business affairs and financial condition and has enough information about the <Company> to make an informed and knowledgeable decision to purchase the <Shares>. <Purchaser> is purchasing the <Shares> only for investment and for <Purchaser>'s own account, not with a view to, or for resale in connection with, any "distribution" of <Covered Securities> under the <Securities Act> or state law. <Purchaser> does not intend to transfer any <Covered Securities>.
 
@@ -179,11 +179,29 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
     Section 83(b) Election \\
 
-        \\ <Purchaser> understands that Section 83(a) of the Internal Revenue Code of 1986 (the ""Code""), taxes as ordinary income the difference between the amount paid for the <Shares> and the fair market value of the <Shares> as of the date any <restriction>s on the <Shares> lapse. In this context, ""restriction"" means the right of the <Company> to purchase the <Shares> back under the <Repurchase Option> described in {Vesting}. <Purchaser> understands that <Purchaser> may elect to be taxed when the <Shares> are purchased, rather than when and as the <Repurchase Option> expires, by filing an election under Section 83(b) (an ""83(b) Election"") of the <Code> with the Internal Revenue Service within 30 days from the date of purchase. Even if the fair market value of the <Shares> on entry into this <Agreement> equals the amount paid for the <Shares>, the election must be made to avoid income under Section 83(a) in the future. <Purchaser> understands that failure to file such an election on time may have bad tax consequences for <Purchaser>. <Purchaser> further understands that an additional copy of such election form should be filed with <Purchaser>'s federal income tax return for the calendar year in which the date of this <Agreement> falls. <Purchaser> acknowledges that this is only a summary of the effect of United States federal income taxation with respect to purchase of the <Shares> under this <Agreement>, does not purport to be complete, and is not intended or written to be used, and cannot be used, for the purposes of avoiding taxpayer penalties. <Purchaser> further acknowledges that the <Company> has directed <Purchaser> to seek independent advice regarding the provisions of the <Code>, the income tax laws of any municipality, state or foreign country in which <Purchaser> may reside, and the tax consequences of <Purchaser>'s death, and <Purchaser> has consulted, and has been fully advised by, <Purchaser>'s own tax advisor regarding such tax laws and tax consequences or has knowingly chosen not to consult such a tax advisor. <Purchaser> further acknowledges that neither the <Company> nor any subsidiary or representative of the <Company> has made any warranty or representation to <Purchaser> with respect to the tax consequences of <Purchaser>'s purchase of the <Shares> or of the making or failure to make an <83(b) Election>.
+        Purchaser Statements about 83(b) \\ <Purchaser> states that all the following are true:
 
-    !! <Purchaser> (and not the <Company>, its agents or any other person) will be solely responsible for appropriately filing such form with the IRS, even if <Purchaser> requests the <Company>, its agents or any other person make this filing on <Purchaser>'s behalf.
+            \\ <Purchaser> understands that Section 83(a) of the Internal Revenue Code of 1986 (the ""Tax Code"") taxes the difference between the amount paid for the <Shares> and the fair market value of the <Covered Securities> as of the date they <Vest> as ordinary income.
 
-    \\ <Purchaser> agrees that <Purchaser> will sign and deliver to the <Company> with this <Agreement> a copy of the acknowledgment and statement attached as {Acknowledgment and Statement of Decision Regarding Section 83(b) Election} and, if <Purchaser> decides to make an <83(b) Election>, a copy of the <83(b) Election>, attached as {Election Under Section 83(b) of the Internal Revenue Code of 1986}.
+            \\ <Purchaser> understands that <Purchaser> may elect to be taxed when the <Shares> are purchased, rather than when they <Vest>, by filing an election under Section 83(b) of the <Tax Code> (an ""83(b) Election"") with the <IRS> within 30 days from the date of purchase.
+            \\ <Purchaser> understands that even if the fair market value of the <Shares> on the <Purchase Date> equals the <Total Purchase Price>, an <83(b) Election> must be made to avoid income under Section 83(a) in the future.
+
+            \\ <Purchaser> understands that failure to file an <83(b) Election> on time may have severe tax consequences for <Purchaser>.
+
+            \\ <Purchaser> understands that an additional copy of any <83(b) Election> should be filed with <Purchaser>'s federal income tax return for the calendar year encompassing the <Purchase Date>.
+
+            \\ <Purchaser> acknowledges that this is only a summary of the effect of United States federal income taxation on purchase of the <Shares>. The summary is incomplete, and will not help <Purchaser> avoid any tax penalties.
+
+            \\ <Purchaser> acknowledges that the <Company> has directed <Purchaser> to seek independent advice about the <Tax Code>, other tax laws that apply where <Purchaser> lives, and the tax consequences of <Purchaser>'s death.
+
+            \\ <Purchaser> has consulted, and has been fully advised by, <Purchaser>'s own tax adviser regarding an <83(b) Election> and other tax laws and consequences, or has knowingly decided not to consult a tax adviser.
+
+            \\ <Purchaser> acknowledges that neither the <Company> nor any <Subsidiary>, <Affiliate>, <Parent>, or representative of the <Company> has made or will be accountable for any statement or advice to <Purchaser> about the tax consequences of <Purchaser>'s purchase of the <Shares> or <Purchaser>'s decision to make an <83(b) Election>.
+
+
+        !! <Purchaser>, not the <Company> or any other, will be solely responsible for appropriately filing an <83(b) Election> with the <IRS>, even if <Purchaser> asks the <Company> or any other file on <Purchaser>'s behalf.
+
+        \\ <Purchaser> shall sign and deliver to the <Company> with this <Agreement> a copy of the acknowledgment and statement attached as {83(b) Acknowledgment and Statement} and, if <Purchaser> decides to make an <83(b) Election>, a copy of the <83(b) Election>, attached as {83(b) Election}.
 
     Defined Terms \\
 
@@ -223,7 +241,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             \\ obtain funding for the <Company> in a financing approved by the <Board>.
 
-        \\ ""Consultant"" means any person, including an advisor but not an <Employee>, who is engaged by the <Company>, or any <Parent>, <Subsidiary> or <Affiliate>, to render services (other than capital-raising services) and is compensated for such services, and any <Director> whether compensated for such services or not.
+        \\ ""Consultant"" means any person, including an adviser but not an <Employee>, who is engaged by the <Company>, or any <Parent>, <Subsidiary> or <Affiliate>, to render services (other than capital-raising services) and is compensated for such services, and any <Director> whether compensated for such services or not.
 
         \\ ""Continuous Service Status"" means the absence of any interruption or termination of service as an <Employee> or <Consultant>. <Continuous Service Status> as an <Employee> or <Consultant> will not be considered interrupted or terminated in the case of:
 
@@ -237,9 +255,9 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \\ ""Director"" means a member of the <Board>.
 
-        \\ ""Disability"" means a condition causing a person to considered to be "permanently and totally disabled" under Section 22(e)(3) of the <Code>.
+        \\ ""Disability"" means a condition causing a person to considered to be "permanently and totally disabled" under Section 22(e)(3) of the <Tax Code>.
 
-        \\ ""Employee"" means any person employed by the <Company>, or any <Parent>, <Subsidiary> or <Affiliate>, with the status of employment determined by considering such factors as are deemed appropriate by the <Board> in its sole discretion, subject to any legal requirements, including requirements of the <Code>. The payment by the <Company> of a director's fee will not be enough to constitute "employment" of such director by the <Company> or any <Parent>, <Subsidiary> or <Affiliate>.
+        \\ ""Employee"" means any person employed by the <Company>, or any <Parent>, <Subsidiary> or <Affiliate>, with the status of employment determined by considering such factors as are deemed appropriate by the <Board> in its sole discretion, subject to any legal requirements, including requirements of the <Tax Code>. The payment by the <Company> of a director's fee will not be enough to constitute "employment" of such director by the <Company> or any <Parent>, <Subsidiary> or <Affiliate>.
 
         \\ ""Exchange Act"" means the Securities Exchange Act of 1934.
 
@@ -281,6 +299,8 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \\ ""Involuntary Transfer"" means a transfer of <Covered Securities> by operation of law or other involuntary transfer, such as due to divorce or intestate transfer on death, but not any <Family Transfer>.
 
+        \\ ""IRS"" means the Internal Revenue Service.
+
         \\ ""Parent"" means any corporation (other than the <Company>) in an unbroken chain of corporations ending with the <Company> if each of the corporations other than the <Company> owns stock possessing 50% or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
 
         \\ ""Securities Act"" means the Securities Act of 1933.
@@ -314,9 +334,9 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
 Stock Power \\ See attached.
 
-Acknowledgment and Statement of Decision Regarding Section 83(b) Election \\ See attached.
+83(b) Acknowledgment and Statement \\ See attached.
 
-Election Under Section 83(b) of the Internal Revenue Code of 1986 \\ See attached.
+83(b) Election \\ See attached.
 
 IP Assignment Form \\ See attached.
 
