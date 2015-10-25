@@ -4,7 +4,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
     Stock Sale \\
 
-        Purchase and Sale \\ Subject to the terms and conditions of this <Agreement>, on the date of the this <Agreement> or on another date agreed on by the parties (the ""Purchase Date""), the <Company> shall issue and sell to <Purchaser>, and <Purchaser> shall purchase from the <Company>, [Number of Shares] shares of the <Company>'s Common Stock (the ""Shares"").
+        Purchase and Sale \\ Subject to the terms and conditions of this <Agreement>, on the date of the this <Agreement> or on another date agreed on by the parties (the ""Purchase Date""), the <Company> shall issue and sell to <Purchaser>, and <Purchaser> shall purchase from the <Company>, [Number of Shares] shares of the <Company>'s common stock (the ""Shares"").
 
         Purchase Price \\ On the <Purchase Date>, <Purchaser> shall pay [Purchase Price] per share for the <Shares> (the ""Original Price Per Share""), for a total purchase price of [Total Purchase Price] (the ""Total Purchase Price""). <Purchaser> shall pay the <Total Purchase Price> by entering into the agreement attached as {IP Assignment Form}, by which <Purchaser> assigns assets to the <Company>.
 
@@ -175,8 +175,6 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
     Required Notices \\ <Purchaser> acknowledges that the <Covered Securities> are issued and will be held subject to all the provisions of {Restrictive Legends and Stop-Transfer Notices} and the <Company>'s <Governing Documents>. Copies of the <Governing Documents> are on file with the Secretary of the <Company>. The <Company> will provide a statement of the powers, designations, preferences, and relative, participating, optional, or other special rights of each class or series of stock of the <Company> and the qualifications, limitations, or restrictions of such preferences and/or rights, as well as a copy of that statement, to any stockholder on request and without charge at the principal office of the <Company>. <Purchaser> acknowledges that the provisions of {Restrictive Legends and Stop-Transfer Notices} will constitute the notices required by Sections 151(f) and 202(a) of the Delaware General Corporation Law (""DGCL""). <Purchaser> waives the requirement of <DGCL> section 151(f) that it receive the written notice provided for in <DGCL> sections 151(f) and 202(a) within a reasonable time after the issuance of <Covered Securities>.
 
-    No Employment Rights \\ Nothing in this <Agreement> will affect any right of the <Company>, or a <Parent>, <Subsidiary> or <Affiliate> of the <Company>, to terminate <Purchaser>'s employment at will.
-
     Section 83(b) Election \\
 
         Purchaser Statements about 83(b) \\ <Purchaser> states that all the following are true:
@@ -241,25 +239,28 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             \\ obtain funding for the <Company> in a financing approved by the <Board>.
 
+        \\ ""Company Corporate Family"" means the <Company> or any <Parent>, <Affiliate>, <Subsidiary>, or their successors.
+
         \\ ""Consultant"" means
 
             \\ any natural person, including any adviser, but not any <Employee>, engaged by the <Company>, or any <Parent>, <Subsidiary> or <Affiliate>, to render services other than capital-raising services, who is compensated for those services; and
             \\ any <Director> whether compensated for service as a <Director> or not.
 
-        \\ ""Continuous Service Status"" means the absence of any interruption or termination of service as an <Employee> or <Consultant>. <Continuous Service Status> as an <Employee> or <Consultant> will not be considered interrupted or terminated by:
+        \\ ""Continuous Service Status"" means the absence of any interruption or termination of service as an <Employee> or <Consultant> to the <Company Corporate Family>. <Continuous Service Status> as an <Employee> or <Consultant> will not be considered interrupted or terminated by:
 
-            \\ <Company>-approved sick leave;
+            \\ sick leave approved by the <Employer>'s board of directors or chief executive officer;
 
             \\ military leave; or
 
-            \\ any other honest and genuine leave of absence approved by the <Board> or the chief executive officer of the <Company>,
+            \\ any other honest and genuine leave of absence approved by the board of directors or chief executive officer of the <Employer>
 
         when that leave is for a period of not more than ninety (90) days, unless:
 
             \\ reemployment after leave is guaranteed by contract or statute; or
-            \\ provided otherwise under a written <Company> policy.
 
-        <Continuous Service Status> as an <Employee> or <Consultant> will not be considered interrupted or terminated in the case of a transfer between locations of the <Company> or between the <Company>, its <Parent>s, <Subsidiary>, or <Affiliate>, or their successors, or a transition from <Employee> to <Consultant> or from <Consultant> to <Employee>.
+            \\ provided otherwise under a written <Employer> policy.
+
+        <Continuous Service Status> as an <Employee> or <Consultant> will not be considered interrupted or terminated in the case of a transfer between places of work of or members of the <Company Corporate Family>, or a transition from <Employee> to <Consultant> or from <Consultant> to <Employee>.
 
         \\ ""Director"" means a member of the <Board>.
 
@@ -267,61 +268,66 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \\ ""Employee"" means any natural person employed by the <Company> or any <Parent>, <Subsidiary>, or <Affiliate> of the <Company>. The <Board> will determine whether any natural person is employed by considering whatever factors it decides are appropriate in its sole discretion, but subject to any legal requirements, such as those of the <Tax Code>. Payment of a director's fee will not alone establish that a natural person is employed.
 
+        \\ ""Employer"" means the member of the <Company Corporate Family> an <Employee> or <Consultant> is serving.
+
         \\ ""Exchange Act"" means the Securities Exchange Act of 1934.
 
         \\ ""Excluded Entity"" means, for a transaction, any <Business Entity> that, immediately after the transaction, will be in <Majority Control> of <Persons> who held capital stock of the <Company> immediately before the transaction. ""Majority Control"" means ownership of securities of a <Business Entity> that represent a majority of votes entitled to be cast by all outstanding voting securities of that <Business Entity>.
 
         \\ ""Fair Market Value"" means fair market value as determined in good faith by the <Board>.
 
-        \\ ""Family Transfer"" means a transfer of <Covered Securities> during <Purchaser>'s lifetime, or on <Purchaser>'s death by will or intestacy, to <Purchaser>'s <Immediate Family> or to a trust for the benefit of <Purchaser> or <Purchaser>'s <Immediate Family>.
+        \\ ""Family Transfer"" means a transfer of <Covered Securities> during <Purchaser>'s lifetime, or on <Purchaser>'s death by will or intestacy, either to <Purchaser>'s <Immediate Family>, or to a trust for the benefit of <Purchaser> or <Purchaser>'s <Immediate Family>.
 
-        \\ ""Good Reason to Resign"" means any of these that happen without <Purchaser>'s written consent:
+        \\ ""Good Reason to Resign"" means any of the following that happen without <Purchaser>'s written consent:
 
             # TODO: Check "Company" versus successor, etc.
-            \\ The <Company> reduces <Purchaser>'s base salary by 10% or more, unless that reduction is part of a general salary reduction affecting other, similarly situated employees.
+            \\ <Employer> reduces <Purchaser>'s base salary by 10% or more, unless that reduction is part of a general salary reduction affecting other, similarly situated employees.
 
-            \\ The <Company> changes <Purchaser>'s position with the <Company> in a way that materially reduces <Purchaser>'s duties, level of authority, or responsibility.
+            \\ <Employer> changes <Purchaser>'s position in a way that materially reduces <Purchaser>'s duties, level of authority, or responsibility.
 
-            \\ The <Company> conditions <Purchaser>'s continued service with the <Company> on transfer to a place of work that would increase <Purchaser>'s one-way commute from <Purchaser>'s principal residence at the time by more than 35 miles.
+            \\ <Employer> conditions <Purchaser>'s continued service with the <Company Corporate Family> on transfer to a place of work that would increase <Purchaser>'s one-way commute from <Purchaser>'s principal residence at the time by more than 35 miles.
 
         # TODO: Check "employment" (what about consultants?)
         \\ ""Good Reason to Terminate"" means any of the these:
 
-            \\ <Purchaser>'s willfully fails to substantially perform <Purchaser>'s duties to the <Company> after:
+            \\ <Purchaser> willfully fails to substantially perform <Purchaser>'s duties after:
 
-                \\ receipt of written demand for substantial performance from the <Board> that states in detail the specific ways the <Board> believes <Purchaser> has not substantially performed <Purchaser>'s duties; and
-                \\ a chance to provide that substantial performance which states in detail the specific respects in which the <Board> believes that <Purchaser> has not substantially performed <Purchaser>'s duties.
+                \\ receipt of written demand for substantial performance from the board of directors of <Purchaser>'s <Employer> that states in detail the specific ways the board believes <Purchaser> has not substantially performed <Purchaser>'s duties; and
 
-            \\ <Purchaser> commits willful fraud, willful misconduct, dishonesty,or any other intentional act that materially injures the <Company>.
+                \\ a chance to provide that substantial performance.
 
-            \\ <Purchaser>'s is convicted of, or pleads guilty or no contest to, any crime that materially harms, or is reasonably expected to materially harm, the business or reputation of the <Company>.
+            \\ <Purchaser> commits willful fraud, misconduct, dishonesty, or any other intentional act that materially injures a member of the <Company Corporate Family>.
 
-            \\ <Purchaser>'s materially breaches any material written agreement between <Purchaser> and the <Company>, such as a Confidential Information and Invention Assignment Agreement, and fails to cure that breach in 30 days after receiving written notice of the breach.
+            \\ <Purchaser> is convicted of, pleads guilty to, or pleads no contest to, any crime that materially harms, or is reasonably expected to materially harm, the business or reputation of the <Company>.
 
-        \\ ""Governing Documents"" means the <Company>'s certificate of incorporation and bylaws, which may be amended in the future.
+            \\ <Purchaser> materially breaches any written agreement between <Purchaser> and the <Company>, such as a Confidential Information and Invention Assignment Agreement, and fails to cure that breach in 30 days after receiving written notice of the breach.
+
+        \\ ""Governing Documents"" means the <Company>'s certificate of incorporation and bylaws.
 
         # TODO review selective inclusion of antecedents and descendants
         \\ ""Immediate Family"" means lineal descendants and antecedents, spouses (and spouses' antecedents), fathers, mothers, brothers and sisters (and their descendants), stepchildren (and their antecedents and descendants), aunts and uncles (and their antecedents and descendants), brothers-in-law and sisters-in-law (and their antecedents and descendants), and includes adoptive relations, and any person sharing <Purchaser>'s household (other than tenants and employees).
 
-        \\ ""Initial Public Offering"" means sale of Common Stock of the <Company> to the general public pursuant to a registration statement filed with and declared effective by the Securities and Exchange Commission under the <Securities Act>, other than a registration statement relating solely to the issuance of Common Stock pursuant to a business combination or an employee incentive or benefit plan.
+        \\ ""Initial Public Offering"" means sale of common stock of the <Company> to the general public pursuant to a registration statement declared effective by the Securities and Exchange Commission under the <Securities Act>, other than a registration statement relating solely to the issuance of common stock pursuant to a business combination, employee incentive plan, or employee benefit plan.
 
         \\ ""Involuntary Transfer"" means a transfer of <Covered Securities> by operation of law or other involuntary transfer, such as due to divorce or intestate transfer on death, but not any <Family Transfer>.
 
         \\ ""IRS"" means the Internal Revenue Service.
 
+        # TODO why only corporations?
         \\ ""Parent"" means any corporation (other than the <Company>) in an unbroken chain of corporations ending with the <Company> if each of the corporations other than the <Company> owns stock possessing 50% or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
 
         \\ ""Person"" (plural, ""Persons"") means a natural person or <Business Entity>.
 
         \\ ""Securities Act"" means the Securities Act of 1933.
 
+        # TODO why only corporations?
         \\ ""Subsidiary"" means any corporation (other than the <Company>) in an unbroken chain of corporations beginning with the <Company> if each of the corporations other than the last corporation in the unbroken chain owns stock possessing 50% or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
 
-        \\ ""Termination"" means the termination of <Purchaser>'s <Continuous Service Status>, voluntarily or involuntarily, for any reason (including death or <Disability>), and with or without <Good Reason to Terminate>.
+        \\ ""Termination"" means voluntary or involuntary termination of <Purchaser>'s <Continuous Service Status> for any reason (including death or <Disability>), with or without <Good Reason to Terminate>.
 
     Miscellaneous \\
 
-        Termination at Will \\ No part of this <Agreement> limits the ability of the <Company> (or any <Company> <Subsidiary>, <Parent>, <Affiliate> or their successor, as appropriate) to terminate <Purchaser>'s employment or consulting relationship at any time.
+        Termination at Will \\ No part of this <Agreement> limits the ability of <Purchaser>'s <Employer> to terminate <Purchaser>'s employment at will.
 
         include(includes/governing-law.commonform)
         include(includes/entire-agreement.commonform)
