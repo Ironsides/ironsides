@@ -219,7 +219,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             \\ The payer may deliver a check.
 
-            \\ If the payee is indebted to the payer, the payer may cancel payee's debt in the amount of the amount to be paid.
+            \\ If the payee is indebted to the payer, the payer may cancel an amount of payee's equal to the amount to be paid.
 
             \\ The payer may both deliver a check and cancel payee debt in combined amount equal to the amount to be paid.
 
