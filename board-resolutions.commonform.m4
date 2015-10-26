@@ -1,6 +1,6 @@
 \\ Per Section 141(f) of the Delaware General Corporation Law and the bylaws of [Company Name], a Delaware corporation (the ""Company""), the undersigned, all the members of the <Company>'s Board of Directors (the ""Board""), take the following actions and adopt the following resolutions by unanimous written consent, without a meeting:
 
-    Incorporator \\ Every action taken or authorized with respect to the <Company> by the Incorporator of the <Company> is ratified and the Incorporator is discharged from any further liabilities or duties with respect to the <Company> and the <Company> further agrees to indemnify and hold the Incorporator harmless from any liability incurred in the past or the future with respect to organizing the <Company>.
+    Incorporator \\ Every action taken or authorized with respect to the <Company> by the incorporator of the <Company> is ratified and the incorporator is discharged from any further liabilities or duties with respect to the <Company> and the <Company> further agrees to indemnify and hold the incorporator harmless from any liability incurred in the past or the future with respect to organizing the <Company>.
 
     Minute Book \\ The <Company> shall maintain as part of its corporate records a book, in electronic or physical form, entitled "Minute Book" which shall include, but not be limited to,
 
@@ -38,7 +38,7 @@
 
             \\ irrevocably appoint the California Commissioner of Business Oversight as agent for service of process for the <Company> in connection with the issuance of the <Shares>.
 
-    Employer Identification Number \\ That the officers are authorized and directed to apply for an employer identification number on IRS Form SS-4, unless the Incorporator of the <Company> has previously made such application.
+    Employer Identification Number \\ That the officers are authorized and directed to apply for an employer identification number on IRS Form SS-4, unless the incorporator of the <Company> has previously made such application.
 
     Fiscal Year \\ The fiscal year of the <Company> shall end on December 31 of each year.
 
@@ -60,7 +60,7 @@
 
         \\ Resolved further: That the standard form of corporate banking or financial resolutions of such banks or financial institutions necessary to accomplish the resolutions under {Management of Fiscal Affairs} and showing the people authorized to draw on such account, are approved and adopted as the resolutions of this <Board>, and the officers are authorized to sign, certify, and deliver a copy of those resolutions to such banks or financial institutions as the resolutions of this <Company>.
 
-    Ratification \\ Resolved: That all actions taken before the date of these resolutions by the Incorporator, officers and directors with respect to all matters contemplated by the resolutions and the transactions contemplated by those resolutions are approved, adopted, ratified and confirmed.
+    Ratification \\ Resolved: That all actions taken before the date of these resolutions by the incorporator, officers and directors with respect to all matters contemplated by the resolutions and the transactions contemplated by those resolutions are approved, adopted, ratified and confirmed.
 
     Omnibus Resolution \\ Resolved: That each of the officers is authorized and empowered to take all such actions (like soliciting appropriate consents or waivers from stockholders) and to sign and deliver all such documents as may be necessary or advisable to carry out the intent and accomplish the purposes of these resolutions and to effect any transactions contemplated by those resolutions. Any such actions, including signature and delivery of documents, shall be conclusive evidence of the approval of the <Board> of those documents and all matters relating to those documents.
 
