@@ -1,4 +1,4 @@
-\\ Per Section 141(f) of the Delaware General Corporation Law and the Bylaws of [Company Name], a Delaware corporation (the ""Company""), the undersigned, constituting all the members of the <Company>'s Board of Directors (the ""Board""), take the following actions and adopt the following resolutions by unanimous written consent without a meeting:
+\\ Per Section 141(f) of the Delaware General Corporation Law and the bylaws of [Company Name], a Delaware corporation (the ""Company""), the undersigned, constituting all the members of the <Company>'s Board of Directors (the ""Board""), take the following actions and adopt the following resolutions by unanimous written consent without a meeting:
 
     Incorporator \\ Every action taken or authorized with respect to the <Company> by the Incorporator of the <Company> is ratified and the Incorporator is discharged from any further liabilities or duties with respect to the <Company> and the <Company> further agrees to indemnify and hold the Incorporator harmless from any liability incurred in the past or the future with respect to organizing the <Company>.
 
@@ -6,7 +6,7 @@
 
         \\ a record of its Certificate of Incorporation and amendments to its Certificate of Incorporation
 
-        \\ its Bylaws and amendments to its Bylaws, and
+        \\ its bylaws and amendments to its bylaws, and
 
         \\ minutes of all meetings of its directors and of its stockholders with the time and place of holding, whether regular or special (and if special how authorized), the notice of the meeting given, the number of shares present or represented at stockholders' meetings, and the proceedings of the meetings.
 
@@ -64,7 +64,7 @@
 
     Omnibus Resolution \\ Resolved: That each of the officers is authorized and empowered to take all such actions (like soliciting appropriate consents or waivers from stockholders) and to sign and deliver all such documents as may be necessary or advisable to carry out the intent and accomplish the purposes of these resolutions and to effect any transactions contemplated by those resolutions. Any such actions, including signature and delivery of documents, shall be conclusive evidence of the approval of the <Board> of those documents and all matters relating to those documents.
 
-Per the <Company>'s Bylaws, this action may be signed in writing, or consented to by electronic transmission, in any number of counterparts, each of which when so signed shall be deemed to be an original and all of which taken together shall constitute one and the same action.
+Per the <Company>'s bylaws, this action may be signed in writing, or consented to by electronic transmission, in any number of counterparts, each of which when so signed shall be deemed to be an original and all of which taken together shall constitute one and the same action.
 
 # Schedules
 
