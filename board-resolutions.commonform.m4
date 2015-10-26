@@ -1,4 +1,4 @@
-\\ Per Section 141(f) of the Delaware General Corporation Law and the bylaws of [Company Name], a Delaware corporation (the ""Company""), the undersigned, constituting all the members of the <Company>'s Board of Directors (the ""Board""), take the following actions and adopt the following resolutions by unanimous written consent without a meeting:
+\\ Per Section 141(f) of the Delaware General Corporation Law and the bylaws of [Company Name], a Delaware corporation (the ""Company""), the undersigned, all the members of the <Company>'s Board of Directors (the ""Board""), take the following actions and adopt the following resolutions by unanimous written consent, without a meeting:
 
     Incorporator \\ Every action taken or authorized with respect to the <Company> by the Incorporator of the <Company> is ratified and the Incorporator is discharged from any further liabilities or duties with respect to the <Company> and the <Company> further agrees to indemnify and hold the Incorporator harmless from any liability incurred in the past or the future with respect to organizing the <Company>.
 
