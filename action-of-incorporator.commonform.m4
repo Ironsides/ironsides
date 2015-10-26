@@ -1,11 +1,13 @@
-\\ The undersigned, being the sole Incorporator of [Company Name], a Delaware corporation (the ""Company""), hereby adopts the following resolutions pursuant to Section 108 of the Delaware General Corporation Law with respect to the initial organization of the corporation:
+\\ The undersigned, sole incorporator of [Company Name], a Delaware corporation (the ""Company""), adopts the following resolutions under Section 108 of the Delaware General Corporation Law with respect to the initial organization of the corporation:
 
 Adoption of Bylaws \\
 
-    \\ Resolved: That the Bylaws attached to this Action by Incorporator are hereby adopted as the Bylaws of the <Company>.
+    \\ The attached bylaws are adopted as the bylaws of the <Company> (the ""Bylaws"").
 
-    \\ Resolved further: That the Secretary of the <Company> is hereby authorized and directed to execute a certificate of the adoption of the Bylaws and insert it in the <Company>'s Minute Book and that the officers of the <Company> are ordered to maintain a copy of such Bylaws in the principal office of the <Company> for the transaction of its business open for inspection by the stockholders at all reasonable times during office hours.
+    \\ The Secretary of the <Company> is authorized and directed to sign a certificate of adoption of the <Bylaws> and insert it in the <Company>'s minute book.
 
-Board of Directors \\ Resolved: That the following individuals are hereby elected as directors of the <Company>, to serve as directors until their successors are duly elected and qualified: [List of Directors].
+    \\ The officers of the <Company> are ordered to maintain a copy of the <Bylaws> at the principal office of the <Company> for the transaction of its business, open for inspection by the stockholders at all reasonable times during business hours.
 
-\\ This Action of Incorporator shall be filed in the Minute Book of the <Company> and shall be effective as of the date first written above.
+Board of Directors \\ The following individuals are elected as directors of the <Company>, to serve as directors until their successors are elected and qualified: [List of Directors].
+
+Record \\ The Secretary of the <Company> is ordered to file a copy of this action of incorporator in the minute book of the <Company>.
