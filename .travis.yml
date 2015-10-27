@@ -1,5 +1,5 @@
 ---
 language: "node_js"
 node_js: "stable"
-script: "make test"
+script: "make lint"
 sudo: false
