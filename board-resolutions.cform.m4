@@ -1,4 +1,4 @@
-\\ Per Section 141(f) of the Delaware General Corporation Law and the bylaws of [Company Name], a Delaware corporation (the ""Company""), the undersigned, all the members of the <Company>'s Board of Directors (the ""Board""), take the following actions and adopt the following resolutions by unanimous written consent, without a meeting. Per the <Company>'s bylaws, this action may be signed in writing or consented to by electronic transmission, in any number of counterparts.
+\\ The undersigned directors of [Company Name], a Delaware corporation (the ""Company""), all the member of the <Company>'s board of directors (the ""Board""), take the following actions and adopt the following resolutions by unanimous written consent under section 141(f) of the Delaware General Corporation Law and the bylaws of the <Company>.
 
     Incorporator \\ The <Board> ratifies every action taken or authorized regarding the <Company> by its incorporator (the ""Incorporator""). The <Board> discharges the <Incorporator> from any further liability or duties regarding the <Company>. The <Company> will indemnify and hold the <Incorporator> harmless from any liability incurred in the past or the future related to organizing the <Company>.
 
@@ -18,7 +18,7 @@
 
     Sale and Issuance of Stock \\
 
-        \\ The <Officers> are authorized to sell and issue shares of the <Company>'s common stock (""Shares"") on behalf of the <Company>, as described in {Stock Sale Table} (the ""Stock Sale Table""). The <Officers> will make each such sale (a ""Sale"") for the number <Shares>, to the purchaser, for the price, and on the vesting terms listed on the <Stock Sale Table>, by entering into a stock purchase agreement in the corresponding form attached as {Forms Of Stock Purchase Agreement}.
+        \\ The <Officers> are authorized to sell and issue shares of the <Company>'s common stock (""Shares"") on behalf of the <Company>, as described in {Stock Sale Table} (the ""Stock Sale Table""). The <Officers> will make each such sale (a ""Sale"") for the number <Shares>, to the purchaser, for the price, and on the vesting terms listed on the <Stock Sale Table>, by entering into a stock purchase agreement in the corresponding form attached as {Forms of Stock Purchase Agreement}.
 
         \\ The <Company> is authorized and directed to issue the <Shares> on receipt of a fully signed stock purchase agreement, as well as all the legal "consideration" to be given in exchange for the <Shares> under that agreement.
 
@@ -52,7 +52,7 @@
 
     Qualifications to Do Business \\ The <Officers> of the <Company> are authorized to take any steps they decide are necessary to qualify the <Company> to do business as a foreign corporation in each state the <Officers> think necessary or appropriate.
 
-    Indemnification Agreements \\ The <Company> will enter into an indemnification agreement substantially in the form attached as {Form Of Indemnification Agreement} with each of the <Company>'s present and future directors and officers.
+    Indemnification Agreements \\ include(includes/indem-agreements.cform)
 
     Management of Fiscal Affairs \\
 
@@ -68,12 +68,10 @@
         \\ effect any transactions contemplated by these resolutions.
     Any of those actions will be conclusive evidence of the approval of the <Board> of those documents and all matters relating to those documents.
 
-# Schedules
-
 \\
 
     Stock Sale Table \\ [List of stock purchasers with number of shares, exchanged property, and vesting terms for each.]
 
-Forms Of Stock Purchase Agreement \\ See attached.
+Forms of Stock Purchase Agreement \\ See attached.
 
-Form Of Indemnification Agreement \\ See attached.
+Form of Indemnification Agreement \\ See attached.
