@@ -1,8 +1,8 @@
-TEMPLATES=$(wildcard *.commonform.m4)
-FORMS=$(TEMPLATES:.commonform.m4=.commonform)
+TEMPLATES=$(wildcard *.cform.m4)
+FORMS=$(TEMPLATES:.cform.m4=.cform)
 COMMONFORM=node_modules/.bin/commonform
-DOCX=$(FORMS:.commonform=.docx)
-PDF=$(FORMS:.commonform=.pdf)
+DOCX=$(FORMS:.cform=.docx)
+PDF=$(FORMS:.cform=.pdf)
 
 all: $(DOCX)
 
@@ -14,13 +14,13 @@ $(COMMONFORM):
 %.pdf: %.docx
 	doc2pdf $<
 
-%.docx: %.commonform %.options %.signatures.json $(COMMONFORM)
+%.docx: %.cform %.options %.signatures.json $(COMMONFORM)
 	$(COMMONFORM) render --format docx --signatures $*.signatures.json $(shell cat $*.options) < $< > $@
 
-%.docx: %.commonform %.options $(COMMONFORM)
+%.docx: %.cform %.options $(COMMONFORM)
 	$(COMMONFORM) render --format docx $(shell cat $*.options) < $< > $@
 
-%.commonform: %.commonform.m4
+%.cform: %.cform.m4
 	m4 < $< > $@
 
 .PHONY: lint critique clean

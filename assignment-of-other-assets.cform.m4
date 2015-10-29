@@ -42,11 +42,11 @@ Reimbursement of Expenses \\ The <Company> shall as promptly as practical, reimb
 
 Miscellaneous \\
 
-    include(includes/governing-law.commonform)
-    include(includes/entire-agreement.commonform)
-    include(includes/amendments-and-waivers.commonform)
-    include(includes/successors-and-assigns.commonform)
-    include(includes/notices.commonform)
-    include(includes/severability.commonform)
-    include(includes/construction.commonform)
-    include(includes/counterparts.commonform)
+    include(includes/governing-law.cform)
+    include(includes/entire-agreement.cform)
+    include(includes/amendments-and-waivers.cform)
+    include(includes/successors-and-assigns.cform)
+    include(includes/notices.cform)
+    include(includes/severability.cform)
+    include(includes/construction.cform)
+    include(includes/counterparts.cform)
