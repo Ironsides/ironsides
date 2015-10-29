@@ -14,8 +14,8 @@ $(COMMONFORM):
 %.pdf: %.docx
 	doc2pdf $<
 
-%.docx: %.cform %.options %.signatures.json $(COMMONFORM)
-	$(COMMONFORM) render --format docx --signatures $*.signatures.json $(shell cat $*.options) < $< > $@
+%.docx: %.cform %.options %.sigs.json $(COMMONFORM)
+	$(COMMONFORM) render --format docx --signatures $*.sigs.json $(shell cat $*.options) < $< > $@
 
 %.docx: %.cform %.options $(COMMONFORM)
 	$(COMMONFORM) render --format docx $(shell cat $*.options) < $< > $@
