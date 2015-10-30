@@ -1,4 +1,4 @@
-This Assignment of IP and Other Assets (""Agreement"") is dated [Effective Date] (""Effective Date"") between [Company Name], a Delaware corporation (""Company""), and [Name] (""Assignor""). The parties agree as follows.
+This Assignment of IP and Other Assets (""Agreement"") is dated [Effective Date] between [Company Name], a Delaware corporation (""Company""), and [Name] (""Assignor""). The parties agree as follows.
 
 Background \\
     \\ <Company> is in the business of [Description of Business] (""Company Business"").
