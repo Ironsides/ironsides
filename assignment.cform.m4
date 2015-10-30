@@ -18,8 +18,6 @@ Assignment \\ The <Assignor> makes the following assignments (the ""Assignments"
         \\ all rights to seek <Legal Compensation> for <Infringement> of <Company-Related IP>
         \\ all other rights <Assignor> has in <Company-Related IP>
 
-        # TODO Review successors and assigns default rules
-
     Assignment of Other Equipment \\ As of the <Effective Date>, <Assignor> assigns all <Company-Related Equipment> to <Company>.
 
     \\ ""Company-Related Equipment"" means <Equipment> that meets all the following criteria immediately before this <Agreement>.
