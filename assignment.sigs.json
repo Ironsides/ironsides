@@ -1,15 +1,12 @@
-[ { "header": "In witness whereof, the undersigned have executed this Agreement effective as of the date and year first above written.",
+[ { "header": "The parties are signing this Assignment of IP and Other Assets as of the date stated in its introductory clause.",
     "term": "Assignor",
-    "information": [ "address", "email" ],
-    "name": "[Name]" },
-  { "header": "In witness whereof, the undersigned have executed this Agreement effective as of the date and year first above written.",
-    "name": "[Spouse]" },
-  { "header": "In witness whereof, the undersigned have executed this Agreement effective as of the date and year first above written.",
+    "information": [ "address", "email" ] },
+  { "header": "I, [Spouse's Name], spouse of [Assignor's Name], have read and approve this Assignment of IP and Other Assets.",
+    "information": [ "date" ] },
+  { "header": "The parties are signing this Assignment of IP and Other Assets as of the date stated in its introductory clause.",
     "term": "Company",
     "entities": [
       { "name": "[Company Name]",
         "jurisdiction": "Delaware",
-        "form": "corporation",
-        "by": "Chief Executive Officer" } ],
-    "name": "[Name]",
-    "information": [ "address" ] } ]
+        "form": "corporation" } ],
+    "information": [ "address", "email" ] } ]
