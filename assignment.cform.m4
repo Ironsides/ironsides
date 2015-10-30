@@ -53,8 +53,7 @@ Company Action on Assignor's Behalf \\
 
     \\ ""Legal Action"" means any legal action or claim, ignoring the historical distinction between action "in law" and "in equity".
 
-Further Steps \\ <Assignor> shall do everything <Company> believes reasonably necessary to make and confirm the <Assignments>. For example, <Assignor> shall sign and deliver any additional documents needed to confirm the assignment. <Company> shall provide all necessary documentation.
-# TODO notice requirement
+Further Steps \\ <Assignor> shall do everything <Company> believes reasonably necessary to make and confirm the <Assignments>. For example, <Assignor> shall sign and deliver any additional documents needed to confirm the assignment. <Company> shall give <Assignor> notice that action is required and provide all necessary documentation.
 
 Assignor Statements for Company \\ <Assignor> states that all of the following are true, to the best of <Assignor>'s knowledge, as of the <Effective Date>:
 
