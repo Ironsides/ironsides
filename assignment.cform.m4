@@ -2,19 +2,19 @@ This Assignment of IP and Other Assets (this ""Agreement"") is dated [Effective 
 
 Background \\
 
-    \\ Before entering into this <Agreement>, <Assignor> developed technology and intellectual property on behalf of the <Company> and developed or acquired other tangible personal property, as further described below, which relate to the <Company>'s actual and proposed business associated with [Description of Business] (the ""Company's Business"");
+    \\ Before entering into this <Agreement>, <Assignor> developed technology and intellectual property on behalf of <Company> and developed or acquired other tangible personal property, as further described below, which relate to <Company>'s actual and proposed business associated with [Description of Business] (the ""Company's Business"");
 
-    \\ The <Company> is in the business of [Description of Business] (the ""Company's Business"").
+    \\ <Company> is in the business of [Description of Business] (the ""Company's Business"").
 
     \\ <Assignor> has developed technology and intellectual property related to the <Company's Business>.
 
     \\ <Assignor> has developed and acquired other property, also related to the <Company's Business>.
 
-    \\ <Assignor> is assigning those assets to the <Company> in exchange for shares of stock in the <Company>.
+    \\ <Assignor> is assigning those assets to <Company> in exchange for shares of stock in <Company>.
 
 Assignment \\ The <Assignor> makes the following assignments (the ""Assignments""):
 
-    Assignment of IP \\ As of the <Effective Date>, <Assignor> assigns all of <Assignor>'s rights in the <Company-Related IP> to the <Company>. Those rights include:
+    Assignment of IP \\ As of the <Effective Date>, <Assignor> assigns all of <Assignor>'s rights in the <Company-Related IP> to <Company>. Those rights include:
 
         \\ ownership of the <Company-Related IP>
 
@@ -26,7 +26,7 @@ Assignment \\ The <Assignor> makes the following assignments (the ""Assignments"
 
         # TODO Review successors and assigns default rules
 
-    Assignment of Other Property \\ As of the <Effective Date>, <Assignor> assigns all <Equipment> that meet all of the following criteria, as of immediately before entering into this <Agreement>, to the <Company>:
+    Assignment of Other Property \\ As of the <Effective Date>, <Assignor> assigns all <Equipment> that meet all of the following criteria, as of immediately before entering into this <Agreement>, to <Company>:
 
         \\ <Assignor> owned the <Equipment>.
 
@@ -51,11 +51,11 @@ Assignment \\ The <Assignor> makes the following assignments (the ""Assignments"
 
     for <Infringement>.
 
-    \\ <Assignor> hereby appoints the <Company> the attorney-in-fact of <Assignor>, with full power of substitution on behalf of <Assignor> to demand and receive any of the <Company-Related IP> and to give receipts and releases for the same, to institute and prosecute in the name of <Assignor>, but for the benefit of the <Company>, any legal or equitable proceedings the <Company> deems proper in order to enforce any rights in the <Company-Related IP> and to defend or compromise any legal or equitable proceedings relating to the <Company-Related IP> as the <Company> shall deem advisable. <Assignor> hereby declares that the appointment made and powers granted hereby are coupled with an interest and shall be irrevocable by <Assignor>.
+    \\ <Assignor> hereby appoints <Company> the attorney-in-fact of <Assignor>, with full power of substitution on behalf of <Assignor> to demand and receive any of the <Company-Related IP> and to give receipts and releases for the same, to institute and prosecute in the name of <Assignor>, but for the benefit of <Company>, any legal or equitable proceedings <Company> deems proper in order to enforce any rights in the <Company-Related IP> and to defend or compromise any legal or equitable proceedings relating to the <Company-Related IP> as <Company> shall deem advisable. <Assignor> hereby declares that the appointment made and powers granted hereby are coupled with an interest and shall be irrevocable by <Assignor>.
 
 Company Can Act on Assignor's Behalf \\
 
-    Actions Company Can Take \\ <Assignor> gives the <Company> the right to do the following on <Assignor>'s behalf, as the <Company> decides:
+    Actions Company Can Take \\ <Assignor> gives <Company> the right to do the following on <Assignor>'s behalf, as <Company> decides:
 
         \\ demand <Company-Related IP> from others
 
@@ -67,11 +67,11 @@ Company Can Act on Assignor's Behalf \\
 
         \\ defend against or settle any <Legal Action> concerning <Company-Related IP>
 
-    Substitution \\ The <Company> may substitute another in its place to take action under {Company Can Act on Assignor's Behalf}.
+    Substitution \\ <Company> may substitute another in its place to take action under {Company Can Act on Assignor's Behalf}.
 
     \\ ""Legal Action"" means any legal action or claim, ignoring the historical distinction between action "in law" and "in equity".
 
-Further Steps \\ <Assignor> shall do everything the <Company> believes reasonably necessary to make and confirm the <Assignments>. For example, <Assignor> shall sign and deliver any additional documents needed to confirm the assignment. The <Company> shall provide all necessary documentation.
+Further Steps \\ <Assignor> shall do everything <Company> believes reasonably necessary to make and confirm the <Assignments>. For example, <Assignor> shall sign and deliver any additional documents needed to confirm the assignment. <Company> shall provide all necessary documentation.
 
 Assignor Statements for Company \\ <Assignor> states that all of the following are true, to the best of <Assignor>'s knowledge, as of the <Effective Date>:
 
@@ -104,7 +104,7 @@ Miscellaneous \\
 
 Definitions \\ In this <Agreement>:
 
-    \\ ""Technology"" means all inventions, technology, ideas, concepts, processes, business plans, documentation, financial projections, models, and any other items authored, conceived, invented, developed, or designed by <Assignor> not already owned by the <Company>.
+    \\ ""Technology"" means all inventions, technology, ideas, concepts, processes, business plans, documentation, financial projections, models, and any other items authored, conceived, invented, developed, or designed by <Assignor> not already owned by <Company>.
 
     \\ ""Derivative"" means:
         \\ any <Copyright Derivative>
