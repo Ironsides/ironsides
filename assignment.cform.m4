@@ -1,4 +1,4 @@
-This Assignment of IP and Other Assets (this ""Agreement"") is made and entered into effective as of [Effective Date] (this ""Effective Date"") by and between [Company Name], a Delaware corporation (the ""Company""), and [Name] (the ""Assignor"").
+This Assignment of IP and Other Assets (this ""Agreement"") is dated [Effective Date] (this ""Effective Date"") between [Company Name], a Delaware corporation (the ""Company""), and [Name] (the ""Assignor""). The parties agree as follows.
 
 Recitals \\
 
