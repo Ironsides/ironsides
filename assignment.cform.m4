@@ -24,19 +24,58 @@ Certain Definitions \\ As used in this <Agreement>, the following capitalized te
 
     \\ ""Business Assets"" means all business and marketing plans, worldwide marketing rights, software, customer and supplier lists, price lists, mailing lists, customer and supplier records and other confidential or proprietary information relating to the <Technology>, as well as all computers, office equipment and other tangible personal property owned (i.e., not leased) by <Assignor> immediately before the execution and delivery of this <Agreement> and primarily used in or otherwise primarily related to the <Business>.
 
-    \\ ""Assets"" refers to the <Technology>, all <Derivative>s, all <Intellectual Property Rights>, all <Embodiment>s and <Business Assets>, collectively.
 
-Assignment \\
+Assignment \\ As of the <Effective Date>, <Assignor> assigns all of <Assignor>'s rights in the <Company-Related IP> to the <Company>. Those rights include:
 
-    \\ <Assignor> sells, transfers, assigns, and conveys, to the <Company>, and its successors and assigns, <Assignor>'s entire right, title and interest in and to the <Assets> and all rights of action, power and benefit belonging to or accruing from the <Assets> including the right to undertake proceedings to recover past and future damages and claim all other relief in respect of any acts of infringement, whether such acts shall have been committed before or after the date of this assignment, the same to be held and enjoyed by said <Company>, for its own use and benefit and the use and benefit of its successors, legal representatives and assigns, as fully and entirely as the same would have been held and enjoyed by <Assignor>, had this assignment not been made.
+    \\ ownership of the <Company-Related IP>
 
-    \\ <Assignor> hereby appoints the <Company> the attorney-in-fact of <Assignor>, with full power of substitution on behalf of <Assignor> to demand and receive any of the <Assets> and to give receipts and releases for the same, to institute and prosecute in the name of <Assignor>, but for the benefit of the <Company>, any legal or equitable proceedings the <Company> deems proper in order to enforce any rights in the <Assets> and to defend or compromise any legal or equitable proceedings relating to the <Assets> as the <Company> shall deem advisable. <Assignor> hereby declares that the appointment made and powers granted hereby are coupled with an interest and shall be irrevocable by <Assignor>.
+    \\ all rights to take <Legal Action> for <Infringement>
 
-    \\ <Assignor> hereby agrees that <Assignor> and <Assignor>'s successors and assigns will do, execute, acknowledge and deliver, or will cause to be done, executed, acknowledged and delivered such further acts, documents, or instruments confirming the conveyance of any of the <Assets> to the <Company> as the <Company> shall reasonably deem necessary, provided that the <Company> shall provide all necessary documentation to <Assignor>.
+    \\ all rights to seek <Legal Compensation> for <Infringement>
 
-Assignor Representations and Warranties \\ <Assignor> represents and warrants to the <Company> that to the best of <Assignor>'s knowledge <Assignor> is the owner, inventor and/or author of, and can grant exclusive right, title and interest in and to, each of the <Assets> transferred by <Assignor> under this <Agreement> and that none of the <Assets> are subject to any dispute, claim, previous license or other agreement, assignment, lien or rights of any third party, or any other rights that might interfere with the <Company>'s use, or exercise of ownership of, any of the <Assets>. <Assignor> further represents and warrants to the <Company> that to the best of <Assignor>'s knowledge the <Assets> are free of any claim of any previous employer or third party client of <Assignor> or any school, university or other institution <Assignor> attended, and that <Assignor> is not aware of any claims by any third party to any rights of any kind in or to any of the <Assets>. <Assignor> agrees to immediately notify the <Company> upon becoming aware of any such claims.
+    \\ all other rights <Assignor> has in the <Company-Related IP>
 
-Reimbursement of Expenses \\ The <Company> shall as promptly as practical, reimburse <Assignor> for <Assignor>'s actual out-of-pocket costs reasonably incurred with respect to <Assignor>'s acquisition and maintenance of the <Assets>.
+    # TODO Review successors and assigns default rules
+
+    \\ ""Company-Related IP"" means the <Technology>, all <Derivative>s, all <Intellectual Property Rights>, all <Embodiment>s, and <Business Assets>.
+
+    \\ ""Infringement"" means infringement of the <Company-Related IP>, before or after the <Effective Date>.
+
+    \\ ""Legal Compensation"" means:
+
+        \\ money damages
+
+        \\ injunctions and other court orders
+
+        \\ any other compensation or benefits a court might award
+
+    for <Infringement>.
+
+    \\ <Assignor> hereby appoints the <Company> the attorney-in-fact of <Assignor>, with full power of substitution on behalf of <Assignor> to demand and receive any of the <Company-Related IP> and to give receipts and releases for the same, to institute and prosecute in the name of <Assignor>, but for the benefit of the <Company>, any legal or equitable proceedings the <Company> deems proper in order to enforce any rights in the <Company-Related IP> and to defend or compromise any legal or equitable proceedings relating to the <Company-Related IP> as the <Company> shall deem advisable. <Assignor> hereby declares that the appointment made and powers granted hereby are coupled with an interest and shall be irrevocable by <Assignor>.
+
+Company Can Act on Assignor's Behalf \\
+
+    Actions Company Can Take \\ <Assignor> gives the <Company> the right to do the following on <Assignor>'s behalf, as the <Company> decides:
+
+        \\ demand <Company-Related IP> from others
+
+        \\ receive <Company-Related IP> from others
+
+        \\ give receipts and releases for <Company-Related IP> received
+
+        \\ take <Legal Action> to enforce rights in <Company-Related IP>
+
+        \\ defend against or settle any <Legal Action> concerning <Company-Related IP>
+
+    Substitution \\ The <Company> may substitute another in its place to take action under {Company Can Act on Assignor's Behalf}.
+
+    \\ ""Legal Action"" means any legal action, ignoring the historical distinction between action "in law" and "in equity".
+
+Further Steps \\ <Assignor> shall do everything the <Company> believes reasonably necessary to make and confirm the assignment under {Assignment}. For example, <Assignor> shall sign and deliver any additional documents needed to confirm the assignment. The <Company> shall provide all necessary documentation.
+
+Assignor Representations and Warranties \\ <Assignor> represents and warrants to the <Company> that to the best of <Assignor>'s knowledge <Assignor> is the owner, inventor and/or author of, and can grant exclusive right, title and interest in and to, each of the <Company-Related IP> transferred by <Assignor> under this <Agreement> and that none of the <Company-Related IP> are subject to any dispute, claim, previous license or other agreement, assignment, lien or rights of any third party, or any other rights that might interfere with the <Company>'s use, or exercise of ownership of, any of the <Company-Related IP>. <Assignor> further represents and warrants to the <Company> that to the best of <Assignor>'s knowledge the <Company-Related IP> are free of any claim of any previous employer or third party client of <Assignor> or any school, university or other institution <Assignor> attended, and that <Assignor> is not aware of any claims by any third party to any rights of any kind in or to any of the <Company-Related IP>. <Assignor> agrees to immediately notify the <Company> upon becoming aware of any such claims.
+
+Reimbursement of Expenses \\ The <Company> shall as promptly as practical, reimburse <Assignor> for <Assignor>'s actual out-of-pocket costs reasonably incurred with respect to <Assignor>'s acquisition and maintenance of the <Company-Related IP>.
 
 Miscellaneous \\
 
