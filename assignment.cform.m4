@@ -1,12 +1,10 @@
 This Assignment of IP and Other Assets (this ""Agreement"") is dated [Effective Date] (this ""Effective Date"") between [Company Name], a Delaware corporation (the ""Company""), and [Name] (the ""Assignor""). The parties agree as follows.
 
-Recitals \\
+Background \\
 
-    \\ Prior to the <Effective Date>, the <Assignor> has developed certain technology and intellectual property on behalf of the <Company> and has developed or acquired other tangible personal property, as further described below, which relate to the <Company>'s actual and proposed business associated with [Description of Business] (the ""Business"");
+    \\ Before the <Effective Date>, the <Assignor> has developed certain technology and intellectual property on behalf of the <Company> and has developed or acquired other tangible personal property, as further described below, which relate to the <Company>'s actual and proposed business associated with [Description of Business] (the ""Business"");
 
     \\ The <Assignor> desires such technology and intellectual property and other tangible personal property to be assigned to and owned by the <Company>, in exchange for the shares of the <Company>'s capital stock issued by the <Company> to the <Assignor> on or shortly after the <Effective Date>;
-
-    \\ Now therefore, in consideration of the foregoing and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties to this <Agreement> hereby agree as follows:
 
 Certain Definitions \\ As used in this <Agreement>, the following capitalized terms will have the meanings given below:
 
@@ -24,7 +22,7 @@ Certain Definitions \\ As used in this <Agreement>, the following capitalized te
 
     \\ ""Embodiment"" means all documentation, drafts, papers, designs, schematics, diagrams, models, prototypes, source and object code (in any form or format and for all hardware platforms), computer-stored data, diskettes, manuscripts and other items describing all or any part of the <Technology>, any <Derivative>, any <Intellectual Property Rights> or any related information and information in which all or any part of the <Technology>, any <Derivative>, any <Intellectual Property Rights> or such information is described, embodied, recorded or stored.
 
-    \\ ""Business Assets"" means all business and marketing plans, worldwide marketing rights, software, customer and supplier lists, price lists, mailing lists, customer and supplier records and other confidential or proprietary information relating to the <Technology>, as well as all computers, office equipment and other tangible personal property owned (i.e., not leased) by <Assignor> immediately prior to the execution and delivery of this <Agreement> and primarily used in or otherwise primarily related to the <Business>.
+    \\ ""Business Assets"" means all business and marketing plans, worldwide marketing rights, software, customer and supplier lists, price lists, mailing lists, customer and supplier records and other confidential or proprietary information relating to the <Technology>, as well as all computers, office equipment and other tangible personal property owned (i.e., not leased) by <Assignor> immediately before the execution and delivery of this <Agreement> and primarily used in or otherwise primarily related to the <Business>.
 
     \\ ""Assigned Assets"" refers to the <Technology>, all <Derivative>s, all <Intellectual Property Rights>, all <Embodiment>s and <Business Assets>, collectively.
 
@@ -36,7 +34,7 @@ Assignment \\
 
     \\ The <Assignor> hereby agrees that the <Assignor> and the <Assignor>'s successors and assigns will do, execute, acknowledge and deliver, or will cause to be done, executed, acknowledged and delivered such further acts, documents, or instruments confirming the conveyance of any of the <Assigned Assets> to the <Company> as the <Company> shall reasonably deem necessary, provided that the <Company> shall provide all necessary documentation to the <Assignor>.
 
-Assignor Representations and Warranties \\ The <Assignor> represents and warrants to the <Company> that to the best of <Assignor>'s knowledge the <Assignor> is the owner, inventor and/or author of, and can grant exclusive right, title and interest in and to, each of the <Assigned Assets> transferred by the <Assignor> under this <Agreement> and that none of the <Assigned Assets> are subject to any dispute, claim, prior license or other agreement, assignment, lien or rights of any third party, or any other rights that might interfere with the <Company>'s use, or exercise of ownership of, any of the <Assigned Assets>. The <Assignor> further represents and warrants to the <Company> that to the best of <Assignor>'s knowledge the <Assigned Assets> are free of any claim of any prior employer or third party client of the <Assignor> or any school, university or other institution the <Assignor> attended, and that the <Assignor> is not aware of any claims by any third party to any rights of any kind in or to any of the <Assigned Assets>. The <Assignor> agrees to immediately notify the <Company> upon becoming aware of any such claims.
+Assignor Representations and Warranties \\ The <Assignor> represents and warrants to the <Company> that to the best of <Assignor>'s knowledge the <Assignor> is the owner, inventor and/or author of, and can grant exclusive right, title and interest in and to, each of the <Assigned Assets> transferred by the <Assignor> under this <Agreement> and that none of the <Assigned Assets> are subject to any dispute, claim, previous license or other agreement, assignment, lien or rights of any third party, or any other rights that might interfere with the <Company>'s use, or exercise of ownership of, any of the <Assigned Assets>. The <Assignor> further represents and warrants to the <Company> that to the best of <Assignor>'s knowledge the <Assigned Assets> are free of any claim of any previous employer or third party client of the <Assignor> or any school, university or other institution the <Assignor> attended, and that the <Assignor> is not aware of any claims by any third party to any rights of any kind in or to any of the <Assigned Assets>. The <Assignor> agrees to immediately notify the <Company> upon becoming aware of any such claims.
 
 Reimbursement of Expenses \\ The <Company> shall as promptly as practical, reimburse the <Assignor> for the <Assignor>'s actual out-of-pocket costs reasonably incurred with respect to <Assignor>'s acquisition and maintenance of the <Assigned Assets>.
 
