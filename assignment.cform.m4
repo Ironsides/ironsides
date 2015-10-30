@@ -1,81 +1,66 @@
-This Assignment of IP and Other Assets (this ""Agreement"") is dated [Effective Date] (this ""Effective Date"") between [Company Name], a Delaware corporation (the ""Company""), and [Name] (the ""Assignor""). The parties agree as follows.
+This Assignment of IP and Other Assets (""Agreement"") is dated [Effective Date] (""Effective Date"") between [Company Name], a Delaware corporation (""Company""), and [Name] (""Assignor""). The parties agree as follows.
 
 Background \\
 
-    \\ Before entering into this <Agreement>, <Assignor> developed technology and intellectual property on behalf of <Company> and developed or acquired other tangible personal property, as further described below, which relate to <Company>'s actual and proposed business associated with [Description of Business] (the ""Company's Business"");
+    \\ <Company> is in the business of [Description of Business] (""Company Business"").
 
-    \\ <Company> is in the business of [Description of Business] (the ""Company's Business"").
+    \\ <Assignor> has developed technology and intellectual property related to <Company Business>.
 
-    \\ <Assignor> has developed technology and intellectual property related to the <Company's Business>.
-
-    \\ <Assignor> has developed and acquired other property, also related to the <Company's Business>.
+    \\ <Assignor> has developed and acquired other property, also related to <Company Business>.
 
     \\ <Assignor> is assigning those assets to <Company> in exchange for shares of stock in <Company>.
 
 Assignment \\ The <Assignor> makes the following assignments (the ""Assignments""):
 
-    Assignment of IP \\ As of the <Effective Date>, <Assignor> assigns all of <Assignor>'s rights in the <Company-Related IP> to <Company>. Those rights include:
-
-        \\ ownership of the <Company-Related IP>
-
-        \\ all rights to take <Legal Action> for <Infringement>
-
-        \\ all rights to seek <Legal Compensation> for <Infringement>
-
-        \\ all other rights <Assignor> has in the <Company-Related IP>
+    Assignment of IP \\ As of the <Effective Date>, <Assignor> assigns all of <Assignor>'s rights in <Company-Related IP> to <Company>. Those rights include:
+        \\ ownership of <Company-Related IP>
+        \\ all rights to take <Legal Action> for <Infringement> of <Company-Related IP>
+        \\ all rights to seek <Legal Compensation> for <Infringement> of <Company-Related IP>
+        \\ all other rights <Assignor> has in <Company-Related IP>
 
         # TODO Review successors and assigns default rules
 
-    Assignment of Other Property \\ As of the <Effective Date>, <Assignor> assigns all <Equipment> that meet all of the following criteria, as of immediately before entering into this <Agreement>, to <Company>:
+    Assignment of Other Equipment \\ As of the <Effective Date>, <Assignor> assigns all <Company-Related Equipment> to <Company>.
 
-        \\ <Assignor> owned the <Equipment>.
-
-        \\ The <Equipment> were primarily used in or related to the <Company's Business>.
+    \\ ""Company-Related Equipment"" means <Equipment> that meets all the following criteria immediately before this <Agreement>.
+        \\ <Assignor> alone owned the <Equipment>. Joint ownership, part ownership, and leases do not count.
+        \\ The <Equipment> was primarily used in or related to <Company Business>.
 
     \\ ""Company-Related IP"" means all of:
-        \\ <Technology> relating to the <Company's Business> (the ""Company Technology"")
-        \\ every <Derivative> of the <Company Technology>
-        \\ all <Intellectual Property Rights> relating in any way to the <Company Technology>
+        \\ all <Intellectual Property Rights> in <Technology> relating to <Company Business> (""Company Technology"")
+        \\ every <Derivative> of any <Company Technology>
+        \\ all <Intellectual Property Rights> in any <Company Technology>
         \\ every <Embodiment> of any <Company Technology>
-        \\ all <Business Assets> relating in any way to the <Company's Business>
+        \\ all <Intellectual Property Rights> in <Business Assets> relating to <Company Business>
 
-    \\ ""Infringement"" means infringement of the <Company-Related IP>, before or after the <Effective Date>.
+    \\ ""Infringement"" means infringement before or after the <Effective Date>.
 
     \\ ""Legal Compensation"" means:
-
         \\ money damages
+        \\ "equitable remedies" like injunctions and court orders
+        \\ any other compensation, benefits, or procedural privileges a court might award
 
-        \\ injunctions and other court orders
+Company Action on Assignor's Behalf \\
 
-        \\ any other compensation or benefits a court might award
+    Scope of Authority \\ <Assignor> gives <Company> the right to do the following on <Assignor>'s behalf with respect to <Company-Related IP> and <Company-Related Equipment> (""Assigned Assets""), as <Company> decides:
+        \\ <Company> may demand <Assigned Assets> from others.
+        \\ <Company> may receive <Assigned Assets> from others.
+        \\ <Company> may give receipts and releases for <Assigned Assets> received.
+        \\ <Company> may take <Legal Action> to enforce rights in <Assigned Assets>.
+        \\ <Company> may defend against or settle any <Legal Action> involving <Assigned Assets>.
 
-    for <Infringement>.
+    Substitution \\ <Company> may substitute another in its place to take action under {Scope of Authority}.
 
-    \\ <Assignor> hereby appoints <Company> the attorney-in-fact of <Assignor>, with full power of substitution on behalf of <Assignor> to demand and receive any of the <Company-Related IP> and to give receipts and releases for the same, to institute and prosecute in the name of <Assignor>, but for the benefit of <Company>, any legal or equitable proceedings <Company> deems proper in order to enforce any rights in the <Company-Related IP> and to defend or compromise any legal or equitable proceedings relating to the <Company-Related IP> as <Company> shall deem advisable. <Assignor> hereby declares that the appointment made and powers granted hereby are coupled with an interest and shall be irrevocable by <Assignor>.
-
-Company Can Act on Assignor's Behalf \\
-
-    Actions Company Can Take \\ <Assignor> gives <Company> the right to do the following on <Assignor>'s behalf, as <Company> decides:
-
-        \\ demand <Company-Related IP> from others
-
-        \\ receive <Company-Related IP> from others
-
-        \\ give receipts and releases for <Company-Related IP> received
-
-        \\ take <Legal Action> to enforce rights in <Company-Related IP>
-
-        \\ defend against or settle any <Legal Action> concerning <Company-Related IP>
-
-    Substitution \\ <Company> may substitute another in its place to take action under {Company Can Act on Assignor's Behalf}.
+    Legal Intent \\ <Company> and <Assignor> intend {Scope of Authority} and {Substitution} to appoint <Company> as <Assignor>'s "attorney in fact" with "full right of substitution", as those terms of art are understood in law.
 
     \\ ""Legal Action"" means any legal action or claim, ignoring the historical distinction between action "in law" and "in equity".
 
 Further Steps \\ <Assignor> shall do everything <Company> believes reasonably necessary to make and confirm the <Assignments>. For example, <Assignor> shall sign and deliver any additional documents needed to confirm the assignment. <Company> shall provide all necessary documentation.
+# TODO notice requirement
 
 Assignor Statements for Company \\ <Assignor> states that all of the following are true, to the best of <Assignor>'s knowledge, as of the <Effective Date>:
 
-    \\ <Assignor> is the owner and either inventor or author of all the <Company-Related IP>.
+    \\ <Assignor> is the owner and either inventor or author of all <Company-Related IP>.
 
     \\ <Assignor> has all rights needed to make the <Assignments>.
 
@@ -87,7 +72,7 @@ Assignor Statements for Company \\ <Assignor> states that all of the following a
 
     \\ No employer, client, educational institution, or other organization <Assignor> has been affiliated with has any claim on any <Company-Related IP>.
 
-    \\ No one else has claimed any rights in the <Company-Related IP>
+    \\ No one else has claimed any rights in <Company-Related IP>
 
 Reimburse Expenses \\ <Company> shall reimburse <Assignor> for reasonable out-of-pocket expenses incurred in connection with making the <Assignments>.
 
