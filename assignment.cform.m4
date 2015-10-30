@@ -2,9 +2,15 @@ This Assignment of IP and Other Assets (this ""Agreement"") is dated [Effective 
 
 Background \\
 
-    \\ Before the <Effective Date>, <Assignor> has developed certain technology and intellectual property on behalf of the <Company> and has developed or acquired other tangible personal property, as further described below, which relate to the <Company>'s actual and proposed business associated with [Description of Business] (the ""Company's Business"");
+    \\ Before entering into this <Agreement>, <Assignor> developed technology and intellectual property on behalf of the <Company> and developed or acquired other tangible personal property, as further described below, which relate to the <Company>'s actual and proposed business associated with [Description of Business] (the ""Company's Business"");
 
-    \\ <Assignor> desires such technology and intellectual property and other tangible personal property to be assigned to and owned by the <Company>, in exchange for the shares of the <Company>'s capital stock issued by the <Company> to <Assignor> on or shortly after the <Effective Date>;
+    \\ The <Company> is in the business of [Description of Business] (the ""Company's Business"").
+
+    \\ <Assignor> has developed technology and intellectual property related to the <Company's Business>.
+
+    \\ <Assignor> has developed and acquired other property, also related to the <Company's Business>.
+
+    \\ <Assignor> is assigning those assets to the <Company> in exchange for shares of stock in the <Company>.
 
 Assignment \\ The <Assignor> makes the following assignments (the ""Assignments""):
 
