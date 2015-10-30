@@ -3,5 +3,6 @@
 **.pdf
 **.html
 **.cform
+!includes/*.cform
 **.zip
 variants
