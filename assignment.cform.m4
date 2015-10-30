@@ -2,42 +2,36 @@ This Assignment of IP and Other Assets (this ""Agreement"") is dated [Effective 
 
 Background \\
 
-    \\ Before the <Effective Date>, <Assignor> has developed certain technology and intellectual property on behalf of the <Company> and has developed or acquired other tangible personal property, as further described below, which relate to the <Company>'s actual and proposed business associated with [Description of Business] (the ""Business"");
+    \\ Before the <Effective Date>, <Assignor> has developed certain technology and intellectual property on behalf of the <Company> and has developed or acquired other tangible personal property, as further described below, which relate to the <Company>'s actual and proposed business associated with [Description of Business] (the ""Company's Business"");
 
     \\ <Assignor> desires such technology and intellectual property and other tangible personal property to be assigned to and owned by the <Company>, in exchange for the shares of the <Company>'s capital stock issued by the <Company> to <Assignor> on or shortly after the <Effective Date>;
 
-Certain Definitions \\ As used in this <Agreement>, the following capitalized terms will have the meanings given below:
+Assignment \\ The <Assignor> makes the following assignments (the ""Assignments""):
 
-    \\ ""Technology"" means all inventions, technology, ideas, concepts, processes, business plans, documentation, financial projections, models and any other items, authored, conceived, invented, developed or designed by <Assignor> relating to the technology or <Business> of the <Company> that is not otherwise owned by the <Company>.
+    Assignment of IP \\ As of the <Effective Date>, <Assignor> assigns all of <Assignor>'s rights in the <Company-Related IP> to the <Company>. Those rights include:
 
-    \\ ""Derivative"" means:
+        \\ ownership of the <Company-Related IP>
 
-        \\ any derivative work of the <Technology> (as defined in Section 101 of the U.S. Copyright Act);
+        \\ all rights to take <Legal Action> for <Infringement>
 
-        \\ all improvements, changes, alterations, adaptations, enhancements and new versions of the <Technology> (each a ""Technology Derivative""); and
+        \\ all rights to seek <Legal Compensation> for <Infringement>
 
-        \\ all technology, inventions, products or other items that, directly or indirectly, incorporate, or are derived from, any part of the <Technology> or any <Technology Derivative>.
+        \\ all other rights <Assignor> has in the <Company-Related IP>
 
-    \\ ""Intellectual Property Rights"" means, collectively, all worldwide patents, patent rights, copyrights, moral rights, trade names, trademarks, service marks, domain names, as well as registrations and applications for all those things, as well as trade secrets, know-how, mask work rights, rights in trade dress and packaging, goodwill and all other intellectual property rights and proprietary rights relating in any way to the <Technology>, any <Derivative> or any <Embodiment>, whether arising under the laws of the United States of America or the laws of any other state, country or jurisdiction.
+        # TODO Review successors and assigns default rules
 
-    \\ ""Embodiment"" means all documentation, drafts, papers, designs, schematics, diagrams, models, prototypes, source and object code (in any form or format and for all hardware platforms), computer-stored data, diskettes, manuscripts and other items describing all or any part of the <Technology>, any <Derivative>, any <Intellectual Property Rights> or any related information and information in which all or any part of the <Technology>, any <Derivative>, any <Intellectual Property Rights> or such information is described, embodied, recorded or stored.
+    Assignment of Other Property \\ As of the <Effective Date>, <Assignor> assigns all <Equipment> that meet all of the following criteria, as of immediately before entering into this <Agreement>, to the <Company>:
 
-    \\ ""Business Assets"" means all business and marketing plans, worldwide marketing rights, software, customer and supplier lists, price lists, mailing lists, customer and supplier records and other confidential or proprietary information relating to the <Technology>, as well as all computers, office equipment and other tangible personal property owned (i.e., not leased) by <Assignor> immediately before the execution and delivery of this <Agreement> and primarily used in or otherwise primarily related to the <Business>.
+        \\ <Assignor> owned the <Equipment>.
 
+        \\ The <Equipment> were primarily used in or related to the <Company's Business>.
 
-Assignment \\ As of the <Effective Date>, <Assignor> assigns all of <Assignor>'s rights in the <Company-Related IP> to the <Company>. Those rights include:
-
-    \\ ownership of the <Company-Related IP>
-
-    \\ all rights to take <Legal Action> for <Infringement>
-
-    \\ all rights to seek <Legal Compensation> for <Infringement>
-
-    \\ all other rights <Assignor> has in the <Company-Related IP>
-
-    # TODO Review successors and assigns default rules
-
-    \\ ""Company-Related IP"" means the <Technology>, all <Derivative>s, all <Intellectual Property Rights>, all <Embodiment>s, and <Business Assets>.
+    \\ ""Company-Related IP"" means all of:
+        \\ <Technology> relating to the <Company's Business> (the ""Company Technology"")
+        \\ every <Derivative> of the <Company Technology>
+        \\ all <Intellectual Property Rights> relating in any way to the <Company Technology>
+        \\ every <Embodiment> of any <Company Technology>
+        \\ all <Business Assets> relating in any way to the <Company's Business>
 
     \\ ""Infringement"" means infringement of the <Company-Related IP>, before or after the <Effective Date>.
 
@@ -69,13 +63,27 @@ Company Can Act on Assignor's Behalf \\
 
     Substitution \\ The <Company> may substitute another in its place to take action under {Company Can Act on Assignor's Behalf}.
 
-    \\ ""Legal Action"" means any legal action, ignoring the historical distinction between action "in law" and "in equity".
+    \\ ""Legal Action"" means any legal action or claim, ignoring the historical distinction between action "in law" and "in equity".
 
-Further Steps \\ <Assignor> shall do everything the <Company> believes reasonably necessary to make and confirm the assignment under {Assignment}. For example, <Assignor> shall sign and deliver any additional documents needed to confirm the assignment. The <Company> shall provide all necessary documentation.
+Further Steps \\ <Assignor> shall do everything the <Company> believes reasonably necessary to make and confirm the <Assignments>. For example, <Assignor> shall sign and deliver any additional documents needed to confirm the assignment. The <Company> shall provide all necessary documentation.
 
-Assignor Representations and Warranties \\ <Assignor> represents and warrants to the <Company> that to the best of <Assignor>'s knowledge <Assignor> is the owner, inventor and/or author of, and can grant exclusive right, title and interest in and to, each of the <Company-Related IP> transferred by <Assignor> under this <Agreement> and that none of the <Company-Related IP> are subject to any dispute, claim, previous license or other agreement, assignment, lien or rights of any third party, or any other rights that might interfere with the <Company>'s use, or exercise of ownership of, any of the <Company-Related IP>. <Assignor> further represents and warrants to the <Company> that to the best of <Assignor>'s knowledge the <Company-Related IP> are free of any claim of any previous employer or third party client of <Assignor> or any school, university or other institution <Assignor> attended, and that <Assignor> is not aware of any claims by any third party to any rights of any kind in or to any of the <Company-Related IP>. <Assignor> agrees to immediately notify the <Company> upon becoming aware of any such claims.
+Assignor Statements for Company \\ <Assignor> states that all of the following are true, to the best of <Assignor>'s knowledge, as of the <Effective Date>:
 
-Reimbursement of Expenses \\ The <Company> shall as promptly as practical, reimburse <Assignor> for <Assignor>'s actual out-of-pocket costs reasonably incurred with respect to <Assignor>'s acquisition and maintenance of the <Company-Related IP>.
+    \\ <Assignor> is the owner and either inventor or author of all the <Company-Related IP>.
+
+    \\ <Assignor> has all rights needed to make the <Assignments>.
+
+    \\ No <Company-Related IP> is subject to any <Legal Action>
+
+    \\ No <Company-Related IP> is subject to any contract, license, or any other assignment.
+
+    \\ No one else has any lien on or other right to any <Company-Related IP> that will interfere with or limit <Company>'s new rights by the <Assignments>.
+
+    \\ No employer, client, educational institution, or other organization <Assignor> has been affiliated with has any claim on any <Company-Related IP>.
+
+    \\ No one else has claimed any rights in the <Company-Related IP>
+
+Reimburse Expenses \\ <Company> shall reimburse <Assignor> for reasonable out-of-pocket expenses incurred in connection with making the <Assignments>.
 
 Miscellaneous \\
 
@@ -87,3 +95,57 @@ Miscellaneous \\
     include(includes/severability.cform)
     include(includes/construction.cform)
     include(includes/counterparts.cform)
+
+Definitions \\ In this <Agreement>:
+
+    \\ ""Technology"" means all inventions, technology, ideas, concepts, processes, business plans, documentation, financial projections, models, and any other items authored, conceived, invented, developed, or designed by <Assignor> not already owned by the <Company>.
+
+    \\ ""Derivative"" means:
+        \\ any <Copyright Derivative>
+        \\ of a <Technology>, any <Technology Derivative>
+        \\ of a <Technology>, any technology, invention, product, or other item directly or indirectly incorporating or deriving from any part of that <Technology> or any <Technology Derivative> of that <Technology>.
+
+    \\ ""Technology Derivative"" means an improvement, change, alteration, adaptation, enhancement or new version.
+
+    \\ ""Copyright Derivative"" has the same meaning "derivative work" under the U.S. Copyright Act.
+
+    \\ ""Intellectual Property Rights"" means all:
+        \\ patents
+        \\ patent rights
+        \\ copyrights
+        \\ mask work rights
+        \\ moral rights
+        \\ trade names
+        \\ trademarks
+        \\ service marks
+        \\ rights in trade dress and packaging
+        \\ trade secrets
+        \\ know-how
+        \\ goodwill
+        \\ Internet-based service accounts and account names
+        \\ domain names
+        \\ intellectual property rights and proprietary rights
+        \\ registrations and applications for <Intellectual Property Rights>
+    under the laws of the United States and any other state, country, or jurisdiction.
+
+    \\ ""Embodiment"" means
+        \\ documentation
+        \\ drafts
+        \\ papers
+        \\ designs
+        \\ schematics
+        \\ diagrams
+        \\ models
+        \\ prototypes
+        \\ <Computer Code>
+        \\ computer-stored data
+        \\ computer storage media
+        \\ manuscripts
+        \\ other items
+    describing, embodying, recording, or storing all or any part of a <Technology>, any <Derivative>, any <Intellectual Property Rights> or related information.
+
+    \\ ""Computer Code"" means computer code and software configuration, whether in source, script, or compiled form, for any software or hardware platform and stored in any format.
+
+    \\ ""Business Assets"" means all business and marketing plans, worldwide marketing rights, third-party software, customer and supplier lists, price lists, mailing lists, customer and supplier records, and other confidential or proprietary information.
+
+    \\ ""Equipment"" means computers, office equipment, and other personal property.
