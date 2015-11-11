@@ -4,7 +4,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
     Stock Sale \\
 
-        Purchase and Sale \\ Subject to the terms and conditions of this <Agreement>, on the date of the this <Agreement> or on another date agreed on by the parties (the ""Purchase Date""), the <Company> shall issue and sell to <Purchaser>, and <Purchaser> shall purchase from the <Company>, [Number of Shares] shares of the <Company>'s common stock (the ""Shares"").
+        Purchase and Sale \\ Subject to the terms and conditions of this <Agreement>, on the date of this <Agreement> or on another date agreed on by the parties (the ""Purchase Date""), the <Company> shall issue and sell to <Purchaser>, and <Purchaser> shall purchase from the <Company>, [Number of Shares] shares of the <Company>'s common stock (the ""Shares"").
 
         Purchase Price \\ On the <Purchase Date>, <Purchaser> shall pay [Purchase Price] per share for the <Shares> (the ""Original Price Per Share""), for a total purchase price of [Total Purchase Price] (the ""Total Purchase Price""). <Purchaser> shall pay the <Total Purchase Price> by entering into the agreement attached as {IP Assignment Form}, by which <Purchaser> assigns assets to the <Company>.
 
