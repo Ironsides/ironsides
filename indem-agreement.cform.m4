@@ -1,8 +1,16 @@
-This Indemnification Agreement (this ""Agreement"") between [Company Name], a Delaware corporation (the ""Company""), and [Indemnitee Name] (""Indemnitee"") is dated as of [Effective Date] (the ""Effective Date"").
+This Indemnification Agreement (this ""Agreement"") between [Company Name], a Delaware corporation (the ""Company""), and [Indemnitee Name] (""Indemnitee"") is dated as of [Effective Date] (the ""Effective Date""). The parties agree as follows:
 
-    \ Recitals \ The <Company> and <Indemnitee> recognize the increasing difficulty in obtaining liability insurance for directors, officers and key employees, the significant increases in the cost of such insurance and the general reductions in the coverage of such insurance. The <Company> and <Indemnitee> further recognize the substantial increase in corporate litigation in general, subjecting directors, officers and key employees to expensive litigation risks at the same time as the availability and coverage of liability insurance has been severely limited. <Indemnitee> does not regard the current protection available as adequate under the present circumstances, and <Indemnitee> may not be willing to continue to serve in <Indemnitee>'s current capacity with the <Company> without additional protection. The <Company> desires to attract and retain the services of highly qualified individuals, such as <Indemnitee>, and to indemnify its directors, officers and key employees so as to provide them with the maximum protection permitted by law.
+    \ Background \
 
-    \ Agreement \ In consideration of the mutual promises made in this <Agreement>, and for other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the <Company> and <Indemnitee> hereby agree as follows:
+        \\ Companies increasingly have difficulty buying liability insurance for directors, officers, and key employees.
+
+        \\ While the coverage provided by such insurance decreases, its cost increases significantly.
+
+        \\ Corporate litigation is happening more and more frequently, subjecting directors, officers, and key employees of companies to greater risk of expensive lawsuits.
+
+        \\ <Indemnitee> does not think their current protection against that risk suffices, and might not remain willing to serve in their current capacity with the <Company> without additional protection.
+
+        \\ Attracting and retaining highly qualified individuals like <Indemnitee> benefits the <Company>. Accordingly, indemnifying directors, officers, and key employees of the <Company>, like <Indemnitee>, to the maximum extent permitted by law, also benefits the <Company>.
 
     \ Indemnification \
 
