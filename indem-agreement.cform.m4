@@ -88,9 +88,9 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
                 \ Fees and Indemnification of Change of Control Counsel \ The <Company> shall pay the reasonable fees of <Change of Control Counsel>. The <Company> shall indemnify <Change of Control Counsel> for expenses (including attorneys' fees), claims, liabilities, and damages relating to this <Agreement> or <Change of Control Counsel>'s engagement under this <Agreement>.
 
                 # TODO Revisit multiple rights to appoint counsel
-                \ One Change of Control Counsel \ This <Agreement> does not require the <Company> to pay fees of more than one <Independent Counsel> for matters concerning a single <Indemnitee>. <Change of Control Counsel> shall be <Independent Counsel> for all <Company> indemnitees unless either of the following occur:
+                \ One Change of Control Counsel \ This <Agreement> does not require the <Company> to pay fees of more than one <Independent Counsel> for matters concerning a single <Indemnitee>. <Change of Control Counsel> serve in that capacity for all <Company> indemnitees unless either of the following occur:
 
-                \\ The <Company> determines otherwise.
+                \\ The <Company> decides to pay for additional <Independent Counsel>.
 
                 \\ Any <Company> indemnitee provides a detailed, written objection to <Change of Control Counsel> representing other indemnitees under agreements similar to this <Agreement>.
 
