@@ -97,9 +97,9 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
         # TODO Revisit multiple rights to appoint counsel
         \ One Change of Control Counsel \ This <Agreement> does not require the <Company> to pay fees of more than one <Independent Counsel> for matters concerning a single <Indemnitee>. <Change of Control Counsel> serve in that capacity for all <Company> indemnitees unless either of the following occur:
 
-        \\ The <Company> decides to pay for additional <Independent Counsel>.
+            \\ The <Company> decides to pay for additional <Independent Counsel>.
 
-        \\ Any <Company> indemnitee provides a detailed, written objection to <Change of Control Counsel> representing other indemnitees under agreements similar to this <Agreement>.
+            \\ Any <Company> indemnitee provides a detailed, written objection to <Change of Control Counsel> representing other indemnitees under agreements similar to this <Agreement>.
 
     \ Notice to Insurers \ If, at the time of the receipt of a notice of a claim pursuant to {Notice to the Company}, the <Company> has director and officer liability insurance in effect, the <Company> shall give prompt notice of the commencement of such <Legal Dispute> to the insurers in accordance with the procedures stated in the respective policies. The <Company> shall, after giving that notice, take all necessary or desirable action to cause such insurers to pay, on behalf of <Indemnitee>, all amounts payable as a result of such <Legal Dispute> in accordance with the terms of such policies.
 
