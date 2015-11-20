@@ -26,17 +26,6 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
 
         \ Approval of Settlements \ If <Indemnitee> gives the <Company> <Notice> of a proposed settlement of a <Third-Party Legal Dispute>, the <Company> shall promptly give <Indemnitee> <Notice> of whether it approves the settlement, and shall not unreasonably refuse to approve the settlement.
 
-        # HERE
-
-        \\ ""Victorious"" means either of the following:
-            \\ <Indemnitee> was successful in defense, on the merits or otherwise, in whole or in part.
-            \\ A <Legal Dispute> was disposed of, on the merits, without prejudice, or otherwise, and met all the following criteria:
-                \\ The disposition was not adverse to <Indemnitee>.
-                # TODO: Final disposition only?
-                \\ <Indemnitee> was not adjudicated liable to the <Company>.
-                \\ <Indemnitee> did not plead guilty to any crime.
-                \\ No adjudication in the <Legal Dispute> determined that <Indemnitee> had not <Acted Professionally>.
-
         \ Coverage when Indemnitee Wins a Legal Dispute \ To the extent <Indemnitee> is <Victorious> on any <Issue in Dispute> in any of the following:
              \\ a <Legal Dispute> described in {Third-Party Legal Disputes}
              \\ a <Legal Dispute> described in {Legal Disputes Brought by the Company}
@@ -213,6 +202,15 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
             \\ any trustee or other fiduciary holding securities under an <Employee Benefit Plan>.
 
         \\ ""Legal Dispute"" (plural: ""Legal Disputes"") shall include any actual, threatened, pending or completed action, suit, arbitration, mediation, alternate dispute resolution mechanism, investigation, inquiry, administrative hearing or any other actual, threatened or completed proceeding, whether brought by a third party, a government agency, the <Company> or its Board of Directors or a committee of the Board of Directors, whether in the right of the <Company> or otherwise and whether of a civil (including intentional or unintentional tort claims), criminal, administrative, legislative or investigative (formal or informal) nature, including any subsequent appeal, in which <Indemnitee> was, is, will or might be involved as a party, potential party, non-party witness or otherwise by reason of the fact that <Indemnitee> is or was a director, officer, employee or agent of the <Company>, by reason of any action (or failure to act) taken by <Indemnitee> or of any action (or failure to act) on <Indemnitee>'s part while acting as a director, officer, employee or agent of the <Company>, or by reason of the fact that <Indemnitee> is or was serving at the request of the <Company> as a director, officer, partner (general, limited or otherwise), member (managing or otherwise), trustee, fiduciary, employee or agent of any <other enterprise>, in each case whether or not serving in such capacity at the time any liability or expense is incurred for which indemnification, reimbursement or advancement of expenses can be provided under this <Agreement>.
+
+        \\ ""Victorious"" means either of the following:
+            \\ <Indemnitee> was successful in defense, on the merits or otherwise, in whole or in part.
+            \\ A <Legal Dispute> was disposed of, on the merits, without prejudice, or otherwise, and met all the following criteria:
+                \\ The disposition was not adverse to <Indemnitee>.
+                # TODO: Final disposition only?
+                \\ <Indemnitee> was not adjudicated liable to the <Company>.
+                \\ <Indemnitee> did not plead guilty to any crime.
+                \\ No adjudication in the <Legal Dispute> determined that <Indemnitee> had not <Acted Professionally>.
 
         \\ In addition, references to ""other enterprise"" shall include another corporation, partnership, limited liability company, joint venture, trust, employee benefit plan or any <other enterprise>; references to "fines" shall include any excise taxes assessed on <Indemnitee> with respect to an employee benefit plan; references to "serving at the request of the <Company>" shall include any service as a director, officer, employee or agent of the <Company> which imposes duties on, or involves services by <Indemnitee> with respect to an employee benefit plan, its participants, or beneficiaries; and if <Indemnitee> acted in good faith and in a manner <Indemnitee> reasonably believed to be in the interest of the participants and beneficiaries of an employee benefit plan, <Indemnitee> shall be deemed to have acted in a manner "not opposed to the best interests of the <Company>" as referred to in this <Agreement>; references to "include" or "including" shall mean include or including, without limitation; and references to sections, paragraphs or clauses are to sections, paragraphs or clauses in this <Agreement> unless otherwise specified.
 
