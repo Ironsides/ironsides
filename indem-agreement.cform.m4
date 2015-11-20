@@ -88,19 +88,18 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
 
                 \\ If any requested determination about <Indemnitee>'s entitlement to indemnification under this <Agreement> is not made within 90 calendar days after <Final Court Decision> of the <Legal Dispute>, the <Company> will be deemed to have determined that <Indemnitee> is entitled to indemnification.
 
-            # TODO Where does this belong?
-            \ Independent Counsel on Change of Control \
+    \ Independent Counsel on Change of Control \
 
-                \ Selection and Opinion \ After <Change of Control>, any person or body appointed by the <Board> in accordance with the law to review the <Company>'s obligations under this <Agreement> and under law shall be <Independent Counsel> selected by <Indemnitee> and approved by the <Company> (""Change of Control Counsel""). The <Company> shall not unreasonably withhold approval of <Indemnitee>'s selection. <Change of Control Counsel> will, among other things, render its written opinion to the <Company> and <Indemnitee> as to whether and to what extent <Indemnitee> would be entitled to be indemnified under this <Agreement> under applicable law. The <Company> shall abide by <Change of Control Counsel>'s opinion.
+        \ Selection and Opinion \ After <Change of Control>, any person or body appointed by the <Board> in accordance with the law to review the <Company>'s obligations under this <Agreement> and under law shall be <Independent Counsel> selected by <Indemnitee> and approved by the <Company> (""Change of Control Counsel""). The <Company> shall not unreasonably withhold approval of <Indemnitee>'s selection. <Change of Control Counsel> will, among other things, render its written opinion to the <Company> and <Indemnitee> as to whether and to what extent <Indemnitee> would be entitled to be indemnified under this <Agreement> under applicable law. The <Company> shall abide by <Change of Control Counsel>'s opinion.
 
-                \ Fees and Indemnification of Change of Control Counsel \ The <Company> shall pay the reasonable fees of <Change of Control Counsel>. The <Company> shall indemnify <Change of Control Counsel> for expenses (including attorneys' fees), claims, liabilities, and damages relating to this <Agreement> or <Change of Control Counsel>'s engagement under this <Agreement>.
+        \ Fees and Indemnification of Change of Control Counsel \ The <Company> shall pay the reasonable fees of <Change of Control Counsel>. The <Company> shall indemnify <Change of Control Counsel> for expenses (including attorneys' fees), claims, liabilities, and damages relating to this <Agreement> or <Change of Control Counsel>'s engagement under this <Agreement>.
 
-                # TODO Revisit multiple rights to appoint counsel
-                \ One Change of Control Counsel \ This <Agreement> does not require the <Company> to pay fees of more than one <Independent Counsel> for matters concerning a single <Indemnitee>. <Change of Control Counsel> serve in that capacity for all <Company> indemnitees unless either of the following occur:
+        # TODO Revisit multiple rights to appoint counsel
+        \ One Change of Control Counsel \ This <Agreement> does not require the <Company> to pay fees of more than one <Independent Counsel> for matters concerning a single <Indemnitee>. <Change of Control Counsel> serve in that capacity for all <Company> indemnitees unless either of the following occur:
 
-                \\ The <Company> decides to pay for additional <Independent Counsel>.
+        \\ The <Company> decides to pay for additional <Independent Counsel>.
 
-                \\ Any <Company> indemnitee provides a detailed, written objection to <Change of Control Counsel> representing other indemnitees under agreements similar to this <Agreement>.
+        \\ Any <Company> indemnitee provides a detailed, written objection to <Change of Control Counsel> representing other indemnitees under agreements similar to this <Agreement>.
 
     \ Notice to Insurers \ If, at the time of the receipt of a notice of a claim pursuant to {Notice and Cooperation by Indemnitee}, the <Company> has director and officer liability insurance in effect, the <Company> shall give prompt notice of the commencement of such <Legal Dispute> to the insurers in accordance with the procedures stated in the respective policies. The <Company> shall, after giving that notice, take all necessary or desirable action to cause such insurers to pay, on behalf of <Indemnitee>, all amounts payable as a result of such <Legal Dispute> in accordance with the terms of such policies.
 
