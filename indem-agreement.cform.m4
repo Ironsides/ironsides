@@ -76,7 +76,7 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
 
                 \\ Subject to {Attorneys' Fees}, <Indemnitee> will be entitled to recover <Expenses> actually and reasonably incurred by <Indemnitee>.
 
-                \\ If the <Recovery Suit> is not for <Advanced Expenses>, the <Company> will not have any legal defense that <Indemnitee> did not meet the <Standard of Conduct for Indemnification> for the amount claimed.
+                \\ If the <Recovery Suit> is not for <Advanced Expenses>, the <Company> will not have any legal defense that <Indemnitee> had not <Acted Professionally>.
 
                 \\ <Indemnitee> will be presumed entitled to indemnification under this <Agreement>, and the <Company> shall have the burden of proof to overcome that presumption with clear and convincing evidence.
 
@@ -84,7 +84,7 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
 
                 \\ If the <Company> contests <Indemnitee>'s right to indemnification, the court will decide whether <Indemnitee> is entitled to indemnification.
 
-                \\ There will be no legal presumption about whether <Indemnitee> is entitled to indemnification on account of whether or to what effect the <Company>, part or all of its <Board>, independent legal counsel, or the <Company>'s stockholders determined <Indemnitee> met the <Standard of Conduct for Indemnification>.
+                \\ There will be no legal presumption about whether <Indemnitee> is entitled to indemnification on account of whether or to what effect the <Company>, part or all of its <Board>, independent legal counsel, or the <Company>'s stockholders determined <Indemnitee> <Acted Professionally>.
 
                 \\ If any requested determination about <Indemnitee>'s entitlement to indemnification under this <Agreement> is not made within 90 calendar days after <Final Court Decision> of the <Legal Dispute>, the <Company> will be deemed to have determined that <Indemnitee> is entitled to indemnification.
 
@@ -249,9 +249,6 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
             \\ any employee benefit plan of the <Company> or any direct or indirect majority owned subsidiaries of the <Company> or of any corporation owned, directly or indirectly, by the <Company>'s stockholders in substantially the same proportions as their ownership of stock of the <Company> (an ""Employee Benefit Plan""); and
 
             \\ any trustee or other fiduciary holding securities under an <Employee Benefit Plan>.
-
-        # TODO Fuse with <Acted Professionally>
-        \\ ""Standard of Conduct for Indemnification"" means the standards of conduct <Indemnitee> must meet for the <Company> to have the power to indemnify <Indemnitee> under the Delaware General Corporation Law.
 
         \\ ""Victorious"" means either of the following:
             \\ <Indemnitee> was successful in defense, on the merits or otherwise, in whole or in part.
