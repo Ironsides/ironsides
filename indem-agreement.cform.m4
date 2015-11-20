@@ -83,16 +83,16 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
             # TODO Where does this belong?
             \ Independent Counsel on Change of Control \
 
-                \ Opinion of Approved Counsel \ After <Change of Control>, any person or body appointed by the <Board> in accordance with the law to review the <Company>'s obligations under this <Agreement> and under law shall be <Independent Counsel> selected by <Indemnitee> and approved by the <Company> (""Approved Counsel""). The <Company> shall not unreasonably withhold approval of <Indemnitee>'s selection. <Approved Counsel>will, among other things, render its written opinion to the <Company> and <Indemnitee> as to whether and to what extent <Indemnitee> would be entitled to be indemnified under this <Agreement> under applicable law, and the <Company> agrees to abide by that opinion.
+                \ Selection and Opinion \ After <Change of Control>, any person or body appointed by the <Board> in accordance with the law to review the <Company>'s obligations under this <Agreement> and under law shall be <Independent Counsel> selected by <Indemnitee> and approved by the <Company> (""Change of Control Counsel""). The <Company> shall not unreasonably withhold approval of <Indemnitee>'s selection. <Change of Control Counsel> will, among other things, render its written opinion to the <Company> and <Indemnitee> as to whether and to what extent <Indemnitee> would be entitled to be indemnified under this <Agreement> under applicable law, and the <Company> agrees to abide by that opinion.
 
-                \ Fees and Indemnification of Approved Counsel \ The <Company> shall pay the reasonable fees of <Approved Counsel>. The <Company> shall fully indemnify <Approved Counsel> against all expenses (including attorneys' fees), claims, liabilities and damages arising out of or relating to this <Agreement> or its engagement pursuant to this <Agreement>.
+                \ Fees and Indemnification of Change of Control Counsel \ The <Company> shall pay the reasonable fees of <Change of Control Counsel>. The <Company> shall fully indemnify <Change of Control Counsel> against all expenses (including attorneys' fees), claims, liabilities and damages arising out of or relating to this <Agreement> or its engagement pursuant to this <Agreement>.
 
                 # TODO Revisit multiple rights to appoint counsel
-                \ One Approved Counsel \ This <Agreement> does not require the <Company> to pay fees of more than one <Independent Counsel> for matters concerning a single <Indemnitee>. <Approved Counsel> shall be <Independent Counsel> for all <Company> indemnitees unless either of the following occur:
+                \ One Change of Control Counsel \ This <Agreement> does not require the <Company> to pay fees of more than one <Independent Counsel> for matters concerning a single <Indemnitee>. <Change of Control Counsel> shall be <Independent Counsel> for all <Company> indemnitees unless either of the following occur:
 
                 \\ The <Company> determines otherwise.
 
-                \\ Any <Company> indemnitee provides a detailed, written objection to <Approved Counsel> representing other indemnitees under agreements similar to this <Agreement>.
+                \\ Any <Company> indemnitee provides a detailed, written objection to <Change of Control Counsel> representing other indemnitees under agreements similar to this <Agreement>.
 
         \ Payment Directions \ To the extent payments are required to be made under this <Agreement>, the <Company> shall, in accordance with <Indemnitee>'s request (but without duplication),
 
