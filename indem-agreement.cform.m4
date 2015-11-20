@@ -48,7 +48,7 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
 
         # TODO What, if any, difference is there between an "undertaking" under DGCL 145(e) and a contractual covenant?
         # NOTE Other Delaware statutory law, like 2708 on choice of law, indicate "undertaking" may be broader than, and include, contracts: "The parties to any contract, agreement or other undertaking..."
-        \ Indemnitee Will Repay Advances \ <Indemnitee> shall repay <Advanced Expenses> to the extent a <Final Court Decision> determines <Indemnitee> the <Company> need not <Cover> for such <Expenses> under under this <Agreement>. This promise is the only "undertaking" the <Company> requires from <Indemnitee> to qualify to receive <Advanced Expenses> under this <Agreement>.
+        \ Indemnitee Will Repay Advances \ <Indemnitee> shall repay <Advanced Expenses> to the extent a <Final Court Decision> determines the <Company> need not <Cover> for such <Expenses> under this <Agreement>. This promise is the only "undertaking" the <Company> requires from <Indemnitee> to qualify to receive <Advanced Expenses> under this <Agreement>.
 
     \ Indemnification Procedure \
 
