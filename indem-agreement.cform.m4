@@ -76,15 +76,23 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
 
                 \\ If the <Company> contests <Indemnitee>'s right to indemnification, the court will decide whether <Indemnitee> is entitled to indemnification.
 
-                \\ There will be no legal presumption about whether <Indemnitee> is entitled to indemnification on account of whether or to what effect the <Company>, part or all of its board of directors, independent legal counsel, or the <Company>'s stockholders determined <Indemnitee> met the <Standard of Conduct for Indemnification>.
+                \\ There will be no legal presumption about whether <Indemnitee> is entitled to indemnification on account of whether or to what effect the <Company>, part or all of its <Board>, independent legal counsel, or the <Company>'s stockholders determined <Indemnitee> met the <Standard of Conduct for Indemnification>.
 
                 \\ If any requested determination about <Indemnitee>'s entitlement to indemnification under this <Agreement> is not made within 90 calendar days after <Final Court Decision> of the <Legal Dispute>, the <Company> will be deemed to have determined that <Indemnitee> is entitled to indemnification.
 
-            \ Change of Control \ Notwithstanding any other provision in this <Agreement>, if a <Change of Control> has occurred, any person or body appointed by the Board of Directors in accordance with applicable law to review the <Company>'s obligations under this <Agreement> and under applicable law shall be <Independent Counsel> selected by <Indemnitee> and approved by the <Company> (which approval shall not be unreasonably withheld). Such counsel, among other things, will render its written opinion to the <Company> and <Indemnitee> as to whether and to what extent <Indemnitee> would be entitled to be indemnified under this <Agreement> under applicable law and the <Company> agrees to abide by such opinion. The <Company> agrees to pay the reasonable fees of the <Independent Counsel> referred to above and to indemnify fully such counsel against any and all expenses (including attorneys' fees), claims, liabilities and damages arising out of or relating to this <Agreement> or its engagement pursuant to this <Agreement>. Notwithstanding any other provision of this <Agreement>, the <Company> shall not be required to pay <Expenses> of more than one <Independent Counsel> in connection with all matters concerning a single <Indemnitee>, and such <Independent Counsel> shall be the <Independent Counsel> for any or all other <Indemnitee>s unless
+            # TODO Where does this belong?
+            \ Independent Counsel on Change of Control \
 
-                \\ the <Company> otherwise determines or
+                \ Opinion of Approved Counsel \ After <Change of Control>, any person or body appointed by the <Board> in accordance with the law to review the <Company>'s obligations under this <Agreement> and under law shall be <Independent Counsel> selected by <Indemnitee> and approved by the <Company> (""Approved Counsel""). The <Company> shall not unreasonably withhold approval of <Indemnitee>'s selection. <Approved Counsel>will, among other things, render its written opinion to the <Company> and <Indemnitee> as to whether and to what extent <Indemnitee> would be entitled to be indemnified under this <Agreement> under applicable law, and the <Company> agrees to abide by that opinion.
 
-                \\ any <Indemnitee> shall provide a written statement stating in detail a reasonable objection to such <Independent Counsel> representing other indemnitees under agreements similar to this <Agreement>.
+                \ Fees and Indemnification of Approved Counsel \ The <Company> shall pay the reasonable fees of <Approved Counsel>. The <Company> shall fully indemnify <Approved Counsel> against all expenses (including attorneys' fees), claims, liabilities and damages arising out of or relating to this <Agreement> or its engagement pursuant to this <Agreement>.
+
+                # TODO Revisit multiple rights to appoint counsel
+                \ One Approved Counsel \ This <Agreement> does not require the <Company> to pay fees of more than one <Independent Counsel> for matters concerning a single <Indemnitee>. <Approved Counsel> shall be <Independent Counsel> for all <Company> indemnitees unless either of the following occur:
+
+                \\ The <Company> determines otherwise.
+
+                \\ Any <Company> indemnitee provides a detailed, written objection to <Approved Counsel> representing other indemnitees under agreements similar to this <Agreement>.
 
         \ Payment Directions \ To the extent payments are required to be made under this <Agreement>, the <Company> shall, in accordance with <Indemnitee>'s request (but without duplication),
 
@@ -120,7 +128,7 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
 
         \ Scope \ Notwithstanding any other provision of this <Agreement>, the <Company> hereby agrees to indemnify <Indemnitee> to the fullest extent permitted by law, notwithstanding that such indemnification is not specifically authorized by the other provisions of this <Agreement>, the <Company>'s Certificate of Incorporation, the <Company>'s Bylaws or by statute. In the event of any change, after the date of this <Agreement>, in any applicable law, statute, or rule which expands the right of a Delaware corporation to indemnify a member of its board of directors or an officer, such changes shall be deemed to be within the purview of <Indemnitee>'s rights and the <Company>'s obligations under this <Agreement>. In the event of any change in any applicable law, statute or rule which narrows the right of a Delaware corporation to indemnify a member of its board of directors or an officer, such changes, to the extent not otherwise required by such law, statute or rule to be applied to this <Agreement> shall have no effect on this <Agreement> or the parties' rights and obligations under this <Agreement>.
 
-        \ Nonexclusivity \ The indemnification provided by this <Agreement> shall not be deemed exclusive of any rights to which <Indemnitee> may be entitled under the <Company>'s Certificate of Incorporation, its Bylaws, any agreement, any vote of stockholders or disinterested members of the <Company>'s Board of Directors, the Delaware General Corporation Law, or otherwise, both as to action in <Indemnitee>'s official capacity and as to action in another capacity while holding such office.
+        \ Nonexclusivity \ The indemnification provided by this <Agreement> shall not be deemed exclusive of any rights to which <Indemnitee> may be entitled under the <Company>'s Certificate of Incorporation, its Bylaws, any agreement, any vote of stockholders or disinterested members of the <Board>, the Delaware General Corporation Law, or otherwise, both as to action in <Indemnitee>'s official capacity and as to action in another capacity while holding such office.
 
         \ Interest on Unpaid Amounts \ If any payment to be made by the <Company> to <Indemnitee> under this <Agreement> is delayed by more than ninety (90) days from the date the duly prepared request for such payment is received by the <Company>, interest shall be paid by the <Company> to <Indemnitee> at the legal rate under Delaware law for amounts which the <Company> indemnifies or is obligated to indemnify for the period commencing with the date on which <Indemnitee> actually incurs such <Expense> or pays such judgment, fine or amount in settlement and ending with the date on which such payment is made to <Indemnitee> by the <Company>.
 
@@ -150,7 +158,7 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
 
     \ Exclusions \ Any other provision of this <Agreement> to the contrary notwithstanding, the <Company> shall not be obligated pursuant to the terms of this <Agreement>:
 
-        \ Claims Initiated by Indemnitee \ To indemnify or advance <Expenses> to <Indemnitee> with respect to <Legal Disputes> initiated or brought voluntarily by <Indemnitee> and not by way of defense, except with respect to <Legal Disputes> brought to establish, enforce or interpret a right to indemnification under this <Agreement> or any other statute or law or otherwise as required under Section 145 of the Delaware General Corporation Law, but such indemnification or advancement of <Expenses> may be provided by the <Company> in specific cases if the Board of Directors finds it to be appropriate; provided, however, that the exclusion stated in the first clause of this subsection shall not be deemed to apply to any investigation initiated or brought by <Indemnitee> to the extent reasonably necessary or advisable in support of <Indemnitee>'s defense of a <Legal Dispute> to which <Indemnitee> was, is or is threatened to be made, a party;
+        \ Claims Initiated by Indemnitee \ To indemnify or advance <Expenses> to <Indemnitee> with respect to <Legal Disputes> initiated or brought voluntarily by <Indemnitee> and not by way of defense, except with respect to <Legal Disputes> brought to establish, enforce or interpret a right to indemnification under this <Agreement> or any other statute or law or otherwise as required under Section 145 of the Delaware General Corporation Law, but such indemnification or advancement of <Expenses> may be provided by the <Company> in specific cases if the <Board> finds it to be appropriate; provided, however, that the exclusion stated in the first clause of this subsection shall not be deemed to apply to any investigation initiated or brought by <Indemnitee> to the extent reasonably necessary or advisable in support of <Indemnitee>'s defense of a <Legal Dispute> to which <Indemnitee> was, is or is threatened to be made, a party;
 
         \ Lack of Good Faith \ To indemnify <Indemnitee> for any <Expenses> incurred by <Indemnitee> with respect to any <Legal Dispute> instituted by <Indemnitee> to establish, enforce or interpret a right to indemnification under this <Agreement> or any other statute or law or otherwise as required under Section 145 of the Delaware General Corporation Law, if a court of competent jurisdiction determines that each of the material assertions made by <Indemnitee> in such proceeding was not made in good faith or was frivolous;
 
@@ -187,6 +195,8 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
 
         \\ ""Beneficial Owner"" (plural: ""Beneficial Owners"") and ""Beneficial Ownership"" shall have the meanings given in Rule 13d-3 promulgated under the <Exchange Act> as in effect on the <Effective Date>.
 
+        \\ ""Board"" means the <Company>'s board of directors.
+
         \\ ""Change of Control"" shall be deemed to occur upon the earliest of any of the following events:
 
             \ Acquisition of Stock by Third Party \ Any <Person> is or becomes the <Beneficial Owner>, directly or indirectly, of securities of the <Company> representing [Third-Party Acquisition Threshold Percentage] or more of the combined voting power of the <Company>'s then outstanding securities entitled to vote generally in the election of directors, unless
@@ -195,7 +205,7 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
 
                 \\ such acquisition was approved in advance by the <Continuing Directors> and such acquisition would not constitute a <Change of Control> under {Corporate Transaction}.
 
-            \ Change in Board of Directors \ Individuals who, as of the date of this <Agreement>, constitute the <Company>'s Board of Directors (the ""Board""), and any new director whose election by the <Board> or nomination for election by the <Company>'s stockholders was approved by a vote of at least two thirds of the directors then still in office who were directors on the date of this <Agreement> (collectively, the ""Continuing Directors""), cease for any reason to constitute at least a majority of the members of the <Board>.
+            \ Change in Board of Directors \ Individuals who, as of the date of this <Agreement>, constitute the <Board>, and any new director whose election by the <Board> or nomination for election by the <Company>'s stockholders was approved by a vote of at least two thirds of the directors then still in office who were directors on the date of this <Agreement> (collectively, the ""Continuing Directors""), cease for any reason to constitute at least a majority of the members of the <Board>.
 
             \ Corporate Transaction \ The effective date of a reorganization, merger, or consolidation of the <Company> (a ""Business Combination""), in each case, unless, following such <Business Combination>:
 
@@ -223,7 +233,7 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
 
         \\ ""Final Court Decision"" means final adjudication by court order or judgment, with no further right of appeal.
 
-        \\ ""Independent Counsel"" means an attorney or firm of attorneys, selected in accordance with the provisions of {Change of Control}, who will not have otherwise performed services for the <Company> or <Indemnitee> within the last three years (other than with respect to matters concerning the rights of <Indemnitee> under this <Agreement>, or of other indemnitees under similar indemnity agreements).
+        \\ ""Independent Counsel"" means an attorney or firm of attorneys, selected in accordance with the provisions of {Independent Counsel on Change of Control}, who will not have otherwise performed services for the <Company> or <Indemnitee> within the last three years (other than with respect to matters concerning the rights of <Indemnitee> under this <Agreement>, or of other indemnitees under similar indemnity agreements).
 
         \\ <Indemnitee> is ""Involved"" in a <Legal Dispute> when <Indemnitee> was, is, or is threatened to be made, a party to or participant (as a witness or otherwise) in the <Legal Dispute>.
 
