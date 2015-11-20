@@ -23,7 +23,7 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
         # TODO: Revisit
         \ No Coverage for Liability to the Company \ The <Company> shall not indemnify <Indemnitee> for any liability to the <Company> that a court finally awards, except to the extent the Delaware Court of Chancery (or the court where the <Legal Dispute> happened) determines, on application, that in view of all the circumstances of the case, <Indemnitee> is fairly, reasonably, and properly entitled to indemnity.
 
-        \ Third-Party Legal Disputes \ If <Indemnitee> is <Involved> in a <Third-Party Legal Dispute> and <Indemnitee> <Acted Professionally>, then, the <Company> shall <Cover> related <Expenses> and <Liability>.
+        \ Third-Party Legal Disputes \ If <Indemnitee> is <Involved> in a <Third-Party Legal Dispute> and <Indemnitee> <Acted Professionally>, then the <Company> shall <Cover> related <Expenses> and <Liability>.
 
         \ Disputes in Which Indemnitee is Victorious \ To the extent <Indemnitee> is <Victorious> on any <Issue in Dispute> in any <Legal Dispute> described in {Third-Party Legal Disputes} or {Company-versus-Indemnitee Disputes}, then the <Company> shall <Cover> <Expenses> related to each <Issue in Dispute> on which <Indemnitee> is <Victorious>, even if <Indemnitee> is not <Victorious> on every <Issue in Dispute>.
 
