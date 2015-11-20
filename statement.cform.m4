@@ -1,19 +1,19 @@
-!! If you wish to make a section 83(b) election, the filing of such election is your responsibility.
+    \!! If you wish to make a section 83(b) election, the filing of such election is your responsibility.
 
-!! The form for making this section 83(b) election is attached to this agreement.
+    \!! The form for making this section 83(b) election is attached to this agreement.
 
-!! You must file this form within 30 days of purchasing the <Shares>.
+    \!! You must file this form within 30 days of purchasing the <Shares>.
 
-!! You (and not the <Company>, any of its agents or any other person) shall be solely responsible for filing such form with the IRS, even if you request the <Company>, its agents or any other person to make this filing on your behalf and even if the <Company>, any of its agents or any other person has previously made this filing on your behalf.
+    \!! You (and not the <Company>, any of its agents or any other person) shall be solely responsible for filing such form with the IRS, even if you request the <Company>, its agents or any other person to make this filing on your behalf and even if the <Company>, any of its agents or any other person has previously made this filing on your behalf.
 
-!! The election should be filed by mailing a signed election form by certified mail, return receipt requested to the IRS Service Center where you file your tax returns. See www.irs.gov.
+    \!! The election should be filed by mailing a signed election form by certified mail, return receipt requested to the IRS Service Center where you file your tax returns. See www.irs.gov.
 
-\\ The undersigned has entered into a stock purchase agreement with [Company Name], a Delaware corporation (the ""Company""), pursuant to which the undersigned is purchasing [Number of Shares] shares of [Security] of the <Company> (the ""Shares""). In connection with the purchase of the <Shares>, the undersigned hereby represents as follows:
+    \\ The undersigned has entered into a stock purchase agreement with [Company Name], a Delaware corporation (the ""Company""), pursuant to which the undersigned is purchasing [Number of Shares] shares of [Security] of the <Company> (the ""Shares""). In connection with the purchase of the <Shares>, the undersigned hereby represents as follows:
 
-    \\ The undersigned has carefully reviewed the stock purchase agreement pursuant to which the undersigned is purchasing the <Shares>.
+        \\ The undersigned has carefully reviewed the stock purchase agreement pursuant to which the undersigned is purchasing the <Shares>.
 
-    \\ The undersigned has knowingly chosen not to consult such a tax advisor regarding the federal, state and local tax consequences of purchasing the <Shares>, and particularly regarding the advisability of making elections pursuant to Section 83(b) of the Internal Revenue Code of 1986, as amended (the ""Code"") and pursuant to the corresponding provisions, if any, of applicable state law.
+        \\ The undersigned has knowingly chosen not to consult such a tax advisor regarding the federal, state and local tax consequences of purchasing the <Shares>, and particularly regarding the advisability of making elections pursuant to Section 83(b) of the Internal Revenue Code of 1986, as amended (the ""Code"") and pursuant to the corresponding provisions, if any, of applicable state law.
 
-    \\ The undersigned hereby states that the undersigned has decided to make an election pursuant to Section 83(b) of the <Code>, and is submitting to the <Company>, together with the undersigned's executed stock purchase agreement, an executed form entitled "Election Under Section 83(b) of the Internal Revenue Code of 1986."
+        \\ The undersigned hereby states that the undersigned has decided to make an election pursuant to Section 83(b) of the <Code>, and is submitting to the <Company>, together with the undersigned's executed stock purchase agreement, an executed form entitled "Election Under Section 83(b) of the Internal Revenue Code of 1986."
 
-    \\ Neither the <Company> nor any subsidiary or representative of the <Company> has made any warranty or representation to the undersigned with respect to the tax consequences of the undersigned's purchase of the <Shares> or of the making or failure to make an election pursuant to Section 83(b) of the <Code> or the corresponding provisions, if any, of applicable state law.
+        \\ Neither the <Company> nor any subsidiary or representative of the <Company> has made any warranty or representation to the undersigned with respect to the tax consequences of the undersigned's purchase of the <Shares> or of the making or failure to make an election pursuant to Section 83(b) of the <Code> or the corresponding provisions, if any, of applicable state law.

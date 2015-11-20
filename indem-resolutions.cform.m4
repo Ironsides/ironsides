@@ -1,13 +1,13 @@
-\\ The undersigned stockholders of [Company Name], a Delaware corporation (the ""Company"") take the following actions and adopt the following resolutions by written consent under section 228 of the Delaware General Corporation Law and the bylaws of the <Company>.
+    \\ The undersigned stockholders of [Company Name], a Delaware corporation (the ""Company"") take the following actions and adopt the following resolutions by written consent under section 228 of the Delaware General Corporation Law and the bylaws of the <Company>.
 
-    Indemnification Agreements \\
+        \ Indemnification Agreements \
 
-        \\ include(includes/indem-agreements.cform)
+            \\ include(includes/indem-agreements.cform)
 
-        \\ Entering into such indemnification agreements is in the best interests of the <Company> and its stockholders.
+            \\ Entering into such indemnification agreements is in the best interests of the <Company> and its stockholders.
 
-    Record \\ The Secretary of the <Company> shall file a copy of this consent in the <Company>'s minute book.
+        \ Record \ The Secretary of the <Company> shall file a copy of this consent in the <Company>'s minute book.
 
-\\ No schedules
+    \\ No schedules
 
-Form of Indemnification Agreement \\ See attached.
+    \ Form of Indemnification Agreement \ See attached.
