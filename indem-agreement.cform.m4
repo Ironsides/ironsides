@@ -17,7 +17,7 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
         # TODO: Can "in right of" be replaced with "on behalf of" without changing meaning?
         \\ ""Company-versus-Indemnitee Dispute"" means a <Legal Dispute> brought for a judgment in <Company>'s favor, either by the <Company> or in right of the <Company>. Any other <Legal Dispute> is a ""Third-Party Legal Dispute"".
 
-        \ Legal Disputes Brought by the Company \ Subject to {No Coverage for Liability to the Company}, if <Indemnitee> is <Involved> in a <Company-versus-Indemnitee Dispute> and <Indemnitee> <Acted Professionally>, then, the <Company> shall <Cover> <Indemnitee> for related <Expenses>.
+        \ Legal Disputes Brought by the Company \ Subject to {No Coverage for Liability to the Company}, if <Indemnitee> is <Involved> in a <Company-versus-Indemnitee Dispute> and <Indemnitee> <Acted Professionally>, then the <Company> shall <Cover> <Indemnitee> for related <Expenses>.
 
         # TODO: Define a term for final legal determination by a court
         \ No Coverage for Liability to the Company \ The <Company> shall not indemnify <Indemnitee> for any amount for which a court finally decides that <Indemnitee> is liable to the <Company>, except to the extent the Delaware Court of Chancery (or the court where the <Legal Dispute> happened) determines, on application, that in view of all the circumstances of the case, <Indemnitee> is fairly, reasonably, and properly entitled to indemnity.
