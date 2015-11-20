@@ -29,7 +29,7 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
         \ Coverage when Indemnitee Wins a Legal Dispute \ To the extent <Indemnitee> is <Victorious> on any <Issue in Dispute> in any of the following:
              \\ a <Legal Dispute> described in {Third-Party Legal Disputes}
              \\ a <Legal Dispute> described in {Legal Disputes Brought by the Company}
-        even if <Indemnitee> is not <Victorious> on every <Issue in Dispute>, then the <Company> shall <Cover> <Indemnitee> for <Indemnitee's> <Expenses> related to each <Issue in Dispute> on which <Indemnitee> is <Victorious>.
+        then the <Company> shall <Cover> <Indemnitee> for <Indemnitee's> <Expenses> related to each <Issue in Dispute> on which <Indemnitee> is <Victorious>, even if <Indemnitee> is not <Victorious> on every <Issue in Dispute>.
 
         \ Witness Expenses \  To the fullest extent permitted by applicable law and to the extent that <Indemnitee> is a witness or otherwise asked to participate in any <Legal Dispute> to which <Indemnitee> is not a party, the <Company> shall indemnify <Indemnitee> against all <Expenses> actually and reasonably incurred by <Indemnitee> in connection with such <Legal Dispute>.
 
