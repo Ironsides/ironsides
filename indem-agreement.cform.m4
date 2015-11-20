@@ -62,7 +62,15 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
 
             \ Determination \ Subject to {No Early Decision}, the <Company> shall take the necessary steps to authorize payment of indemnification to <Indemnitee> under section 145 of the Delaware General Corporation Law within 30 calendar days of receiving <Notice> from <Indemnitee> requesting payment under {Indemnification}.
 
-            \ Payment \ The <Company> shall pay any claim made under this <Agreement>, statute, the <Company>'s certificate of incorporation, or the <Company>'s bylaws that provides for indemnification or advancement of <Expenses> (""Claim"") within 30 calendar days of receiving <Notice> from <Indemnitee> requesting payment.
+            \ Payment Deadline \ The <Company> shall pay any claim made under this <Agreement>, statute, the <Company>'s certificate of incorporation, or the <Company>'s bylaws that provides for indemnification or advancement of <Expenses> (""Claim"") within 30 calendar days of receiving <Notice> from <Indemnitee> requesting payment.
+
+            \ Payment Method \ The <Company> shall make each payment to <Indemnitee> required under this <Agreement> as <Indemnitee> chooses from the following options:
+
+                \\ The <Company> shall pay on behalf of <Indemnitee>.
+
+                \\ The <Company> shall pay <Indemnitee>.
+
+                \\ The <Company> shall reimburse <Indemnitee>.
 
             \ Recovery Suits \ If a <Claim> is not paid both in full and on time under this <Agreement>, <Indemnitee> may sue the <Company> in the Delaware Court of Chancery to recover the unpaid amount of the <Claim> at any time (a ""Recovery Suit""). The following shall apply for any <Recovery Suit>:
 
@@ -93,14 +101,6 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
                 \\ The <Company> decides to pay for additional <Independent Counsel>.
 
                 \\ Any <Company> indemnitee provides a detailed, written objection to <Change of Control Counsel> representing other indemnitees under agreements similar to this <Agreement>.
-
-        \ Payment Directions \ To the extent payments are required to be made under this <Agreement>, the <Company> shall, in accordance with <Indemnitee>'s request (but without duplication),
-
-            \\ pay such <Expenses> on behalf of <Indemnitee>,
-
-            \\ advance to <Indemnitee> funds in an amount sufficient to pay such <Expenses>, or
-
-            \\ reimburse <Indemnitee> for such <Expenses>.
 
     \ Notice to Insurers \ If, at the time of the receipt of a notice of a claim pursuant to {Notice and Cooperation by Indemnitee}, the <Company> has director and officer liability insurance in effect, the <Company> shall give prompt notice of the commencement of such <Legal Dispute> to the insurers in accordance with the procedures stated in the respective policies. The <Company> shall, after giving that notice, take all necessary or desirable action to cause such insurers to pay, on behalf of <Indemnitee>, all amounts payable as a result of such <Legal Dispute> in accordance with the terms of such policies.
 
