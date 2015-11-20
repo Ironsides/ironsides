@@ -17,28 +17,33 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
         # TODO: Can "in right of" be replaced with "on behalf of" without changing meaning?
         \\ ""Company-versus-Indemnitee Dispute"" means a <Legal Dispute> brought by the <Company> or in right of the <Company> for a judgment in <Company>'s favor. Any other <Legal Dispute> is a ""Third-Party Legal Dispute"".
 
-        \ Legal Disputes Brought by the Company \ Subject to {No Coverage for Liability to the Company}, if <Indemnitee> is <Involved> in a <Company-versus-Indemnitee Dispute> and <Indemnitee> <Acted Professionally>, then, the <Company> shall <Cover> <Indemnitee> for reasonable <Expenses> actually incurred by <Indemnitee> in connection with that <Company-versus-Indemnitee Dispute>.
+        \ Legal Disputes Brought by the Company \ Subject to {No Coverage for Liability to the Company}, if <Indemnitee> is <Involved> in a <Company-versus-Indemnitee Dispute> and <Indemnitee> <Acted Professionally>, then, the <Company> shall <Cover> <Indemnitee> for related reasonable <Expenses> actually incurred by <Indemnitee>.
 
         # TODO: Define a term for final legal determination by a court
         \ No Coverage for Liability to the Company \ The <Company> shall not indemnify <Indemnitee> for any amount for which a court finally decides that <Indemnitee> is liable to the <Company>, except to the extent the Delaware Court of Chancery (or the court where the <Legal Dispute> happened) determines, on application, that in view of all the circumstances of the case, <Indemnitee> is fairly, reasonably, and properly entitled to indemnity.
 
-        \ Third-Party Legal Disputes \ If <Indemnitee> is <Involved> in a <Third-Party Legal Dispute> and <Indemnitee> <Acted Professionally>, then, the <Company> shall <Cover> <Indemnitee> for <Indemnitee>'s <Costs> in connection with that <Third-Party Legal Dispute>.
+        \ Third-Party Legal Disputes \ If <Indemnitee> is <Involved> in a <Third-Party Legal Dispute> and <Indemnitee> <Acted Professionally>, then, the <Company> shall <Cover> <Indemnitee> for <Indemnitee>'s related <Costs>.
 
         \ Approval of Settlements \ If <Indemnitee> gives the <Company> <Notice> of a proposed settlement of a <Third-Party Legal Dispute>, the <Company> shall promptly give <Indemnitee> <Notice> of whether it approves the settlement, and shall not unreasonably refuse to approve the settlement.
 
-        \ Success on the Merits \  To the fullest extent permitted by applicable law and to the extent that <Indemnitee> has been successful on the merits or otherwise in defense of any <Legal Dispute> referred to in {Third-Party Legal Disputes} or {Legal Disputes Brought by the Company} or the defense of any claim, issue or matter in such a <Legal Dispute>, in whole or in part, the <Company> shall indemnify <Indemnitee> against all <Expenses> actually and reasonably incurred by <Indemnitee> in connection that <Legal Dispute>. For example, if <Indemnitee> is successful on the merits or otherwise as to one or more but less than all claims, issues or matters in a <Legal Dispute>, the <Company> shall indemnify <Indemnitee> against all <Expenses> actually and reasonably incurred by <Indemnitee> in connection with such successfully resolved claims, issues or matters to the fullest extent permitted by applicable law. If any <Legal Dispute> is disposed of on the merits or otherwise (including a disposition without prejudice), without
+        # HERE
 
-            \\ the disposition being adverse to <Indemnitee>,
+        \\ ""Victorious"" means either of the following:
+            \\ <Indemnitee> was successful in defense, on the merits or otherwise, in whole or in part.
+            \\ A <Legal Dispute> was disposed of, on the merits, without prejudice, or otherwise, and met all the following criteria:
+                \\ The disposition was not adverse to <Indemnitee>.
+                # TODO: Final disposition only?
+                \\ <Indemnitee> was not adjudicated liable to the <Company>.
+                \\ <Indemnitee> did not plead guilty to any crime.
+                # TODO: Use "Acted Professionally"?
+                \\ <Indemnitee> was not adjudicated to have acted in bad faith or in any manner <Indemnitee> reasonably believed was opposed to the best interests of the <Company>.
+                \\ In the case of a criminal <Legal Dispute>, <Indemnitee> was not adjudicated to have have good reason to believe <Indemnitee>'s conduct would break the law.
 
-            \\ an adjudication that <Indemnitee> was liable to the <Company>,
-
-            \\ a plea of guilty by <Indemnitee>,
-
-            \\ an adjudication that <Indemnitee> did not act in good faith and in a manner <Indemnitee> reasonably believed to be in or not opposed to the best interests of the <Company>, and
-
-            \\ with respect to any criminal <Legal Dispute>, an adjudication that <Indemnitee> had reasonable cause to believe <Indemnitee>'s conduct was unlawful,
-
-        <Indemnitee> shall be considered for to have been wholly successful with respect to that <Legal Dispute>.
+        \ Coverage when Indemnitee Wins a Legal Dispute \ To the extent <Indemnitee> is <Victorious> on any <Issue in Dispute> in any of the following:
+             \\ a <Legal Dispute> described in {Third-Party Legal Disputes}
+             \\ a <Legal Dispute> described in {Legal Disputes Brought by the Company}
+        even if <Indemnitee> is not <Victorious> on every <Issue in Dispute>,
+        then the <Company> shall <Cover> <Indemnitee> for <Indemnitee's> <Expenses> related to each <Issue in Dispute> on which <Indemnitee> is <Victorious>.
 
         \ Witness Expenses \  To the fullest extent permitted by applicable law and to the extent that <Indemnitee> is a witness or otherwise asked to participate in any <Legal Dispute> to which <Indemnitee> is not a party, the <Company> shall indemnify <Indemnitee> against all <Expenses> actually and reasonably incurred by <Indemnitee> in connection with such <Legal Dispute>.
 
@@ -196,6 +201,8 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
         \\ ""Independent Counsel"" means an attorney or firm of attorneys, selected in accordance with the provisions of {Change of Control}, who will not have otherwise performed services for the <Company> or <Indemnitee> within the last three years (other than with respect to matters concerning the rights of <Indemnitee> under this <Agreement>, or of other indemnitees under similar indemnity agreements).
 
         \\ <Indemnitee> is ""Involved"" in a <Legal Dispute> when <Indemnitee> was, is, or is threatened to be made, a party to or participant (as a witness or otherwise) in the <Legal Dispute>.
+
+        \\ ""Issue in Dispute"" means a claim, issue, or matter in a <Legal Dispute>.
 
         \\ ""Person"" shall have the meaning given in Section 13(d) and 14(d) of the <Exchange Act> as in effect on the <Effective Date>; provided, however, that <Person> shall exclude:
 
