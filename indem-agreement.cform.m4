@@ -21,7 +21,7 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
 
         # TODO: Define a term for final legal determination by a court
         # TODO: Revisit
-        \ No Coverage for Liability to the Company \ The <Company> shall not indemnify <Indemnitee> for any liability to the <Company> that a court finally awards, except to the extent the Delaware Court of Chancery (or the court where the <Legal Dispute> happened) determines, on application, that in view of all the circumstances of the case, <Indemnitee> is fairly, reasonably, and properly entitled to indemnity.
+        \ No Coverage for Liability to the Company \ The <Company> shall not indemnify <Indemnitee> for any liability to the <Company> under a <Final Court Decision>, except to the extent the Delaware Court of Chancery (or the court where the <Legal Dispute> happened) determines, on application, that in view of all the circumstances of the case, <Indemnitee> is fairly, reasonably, and properly entitled to indemnity.
 
         \ Third-Party Legal Disputes \ If <Indemnitee> is <Involved> in a <Third-Party Legal Dispute> and <Indemnitee> <Acted Professionally>, then the <Company> shall <Cover> both related <Expenses> and related <Liability>.
 
@@ -33,7 +33,25 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
 
     \ Indemnification Procedure \
 
-        \ Advancement of Expenses \ To the fullest extent permitted by applicable law, the <Company> shall advance all <Expenses> actually and reasonably incurred by <Indemnitee> in connection with a <Legal Dispute> within thirty (30) days after receipt by the <Company> of a statement requesting such advances from time to time, whether prior to or after final disposition of any <Legal Dispute>. Such advances shall be unsecured and interest free and shall be made without regard to <Indemnitee>'s ability to repay the <Expenses> and without regard to <Indemnitee>'s ultimate entitlement to indemnification under the other provisions of this <Agreement>. <Indemnitee> shall be entitled to continue to receive advancement of <Expenses> pursuant to {Advancement of Expenses} until the matter of <Indemnitee>'s entitlement to indemnification under this <Agreement> has been finally adjudicated by court order or judgment from which no further right of appeal exists. <Indemnitee> hereby undertakes to repay such amounts advanced only if, and to the extent that, it ultimately is determined that <Indemnitee> is not entitled to be indemnified by the <Company> under the other provisions of this <Agreement>. <Indemnitee> shall qualify for advances upon the execution and delivery of this <Agreement>, which shall constitute the requisite undertaking with respect to repayment of advances made under this <Agreement> and no other form of undertaking shall be required to qualify for advances made under this <Agreement> other than the execution of this <Agreement>.
+        # HERE
+
+        \\ ""Advance"" means advance to <Indemnitee>, to the fullest legal extent.
+
+        # TODO How to distinguish "expenses actually and reasonably incurred" from "reasonable expenses actually incurred"?
+        \ Fronting Expenses \
+
+            \ Company to Front Expenses\ If <Indemnitee> gives the <Company> <Notice> of <Expenses> that <Indemnitee> actually and reasonably incurred in connection with any <Legal Dispute>, then the <Company> shall <Advance> those <Expenses> within 30 calendar days of receiving <Notice> (""Advances""). The <Company> shall <Advance> as follows:
+                \\ The <Company> shall not require any collateral.
+                \\ The <Company> shall not charge interest.
+                \\ The <Company> shall <Advance> even if <Indemnitee> cannot repay.
+                \\ The <Company> shall <Advance> even if the <Company> might <Cover> for the same <Expenses> under another part of this <Agreement>.
+
+        <Indemnitee> shall be entitled to continue to receive advancement of <Expenses> pursuant to {Advancement of Expenses} until <Final Court Decision> of <Indemnitee>'s right to indemnification under this <Agreement>.
+
+            # TODO This language originated
+            \ Indemnitee Will Repay Expenses \ <Indemnitee> shall repay <Advances> to the extent that <Final Court Decision> determines that <Indemnitee> is not entitled to be indemnified by the <Company> under the other provisions of this <Agreement>.
+
+        <Indemnitee> shall qualify for advances upon the execution and delivery of this <Agreement>, which shall constitute the requisite undertaking with respect to repayment of advances made under this <Agreement> and no other form of undertaking shall be required to qualify for advances made under this <Agreement> other than the execution of this <Agreement>.
 
         \ Notice and Cooperation by Indemnitee \ <Indemnitee> shall promptly notify the <Company> in writing upon being served with any summons, citation, subpoena, complaint, indictment, information or other document relating to any <Legal Dispute> or matter for which indemnification will or could be sought under this <Agreement>. Such notice to the <Company> shall include a description of the nature of, and facts underlying, the <Legal Dispute>, shall be directed to the Chief Executive Officer of the <Company> and shall be given in accordance with the provisions of {Notices}. In addition, <Indemnitee> shall give the <Company> such additional information and cooperation as the <Company> may reasonably request. <Indemnitee>'s failure to so notify, provide information and otherwise cooperate with the <Company> shall not relieve the <Company> of any obligation that it may have to <Indemnitee> under this <Agreement>, except to the extent that the <Company> is adversely affected by such failure.
 
@@ -181,6 +199,8 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
         \\ ""Exchange Act"" means the Securities Exchange Act of 1934, as amended.
 
         \\ ""Expenses"" (each, an ""Expense"") shall include all direct and indirect costs, fees and expenses of any type or nature whatsoever, including all attorneys' fees and costs, retainers, court costs, transcript costs, fees of experts, witness fees, travel expenses, fees of private investigators and professional advisors, duplicating costs, printing and binding costs, telephone charges, postage, delivery service fees, any federal, state, local or foreign taxes imposed on <Indemnitee> as a result of the actual or deemed receipt of any payment under this <Agreement> (including taxes that may be imposed upon the actual or deemed receipt of payments under this <Agreement> with respect to the imposition of federal, state, local or foreign taxes), fax transmission charges, secretarial services and all other disbursements, obligations or expenses in connection with prosecuting, defending, preparing to prosecute or defend, investigating, being or preparing to be a witness in, settlement or appeal of, or otherwise participating in a <Legal Dispute>. <Expenses> also shall include any of the forgoing expenses incurred in connection with any appeal resulting from any <Legal Dispute>, including the principal, premium, security for, and other costs relating to any costs bond, supersedes bond, or other appeal bond or its equivalent. <Expenses> also shall include any interest, assessment or other charges imposed on <Expenses> and costs incurred in preparing statements in support of payment requests under this <Agreement>. <Expenses>, however, shall not include amounts paid in settlement by <Indemnitee> or the amount of judgments or fines against <Indemnitee>.
+
+        \\ ""Final Court Decision"" means final adjudication by court order or judgment, with no further right of appeal.
 
         \\ ""Independent Counsel"" means an attorney or firm of attorneys, selected in accordance with the provisions of {Change of Control}, who will not have otherwise performed services for the <Company> or <Indemnitee> within the last three years (other than with respect to matters concerning the rights of <Indemnitee> under this <Agreement>, or of other indemnitees under similar indemnity agreements).
 
