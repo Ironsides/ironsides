@@ -25,7 +25,7 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
 
         \ Third-Party Legal Disputes \ If <Indemnitee> is <Involved> in a <Third-Party Legal Dispute> and <Indemnitee> <Acted Professionally>, then the <Company> shall <Cover> both related <Expenses> and related <Liability>.
 
-        \ Partial Victories \ To the extent <Indemnitee> is <Victorious> on any <Issue in Dispute> in any <Legal Dispute> described in {Third-Party Legal Disputes} or {Company-versus-Indemnitee Disputes}, then the <Company> shall <Cover> <Expenses> related to each <Issue in Dispute> on which <Indemnitee> is <Victorious>, even if <Indemnitee> is not <Victorious> on every <Issue in Dispute>.
+        \ Partial Victories \ To the extent <Indemnitee> is <Victorious> on any <Point> of any <Legal Dispute> described in {Third-Party Legal Disputes} or {Company-versus-Indemnitee Disputes}, then the <Company> shall <Cover> <Expenses> related to each <Point> on which <Indemnitee> is <Victorious>, even if <Indemnitee> is not <Victorious> on every <Point>.
 
         \ Witness Expenses \ If <Indemnitee> is a witness or otherwise asked to participate in a <Legal Dispute> to which <Indemnitee> is not a party, then the <Company> shall <Cover> related <Expenses>.
 
@@ -249,7 +249,7 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
 
         \\ <Indemnitee> is ""Involved"" in a <Legal Dispute> when <Indemnitee> was, is, or is threatened to be made, a party to or participant (as a witness or otherwise) in the <Legal Dispute>.
 
-        \\ ""Issue in Dispute"" means a claim, issue, or matter in a <Legal Dispute>.
+        \\ ""Point"" means a claim, issue, or matter in a <Legal Dispute>.
 
         \\ ""Legal Dispute"" (plural: ""Legal Disputes"") shall include any actual, threatened, pending or completed action, suit, arbitration, mediation, alternate dispute resolution mechanism, investigation, inquiry, administrative hearing or any other actual, threatened or completed proceeding, whether brought by a third party, a government agency, the <Company> or its Board of Directors or a committee of the Board of Directors, whether in the right of the <Company> or otherwise and whether of a civil (including intentional or unintentional tort claims), criminal, administrative, legislative or investigative (formal or informal) nature, including any subsequent appeal, in which <Indemnitee> was, is, will or might be involved as a party, potential party, non-party witness or otherwise by reason of the fact that <Indemnitee> is or was a director, officer, employee or agent of the <Company>, by reason of any action (or failure to act) taken by <Indemnitee> or of any action (or failure to act) on <Indemnitee>'s part while acting as a director, officer, employee or agent of the <Company>, or by reason of the fact that <Indemnitee> is or was serving at the request of the <Company> as a director, officer, partner (general, limited or otherwise), member (managing or otherwise), trustee, fiduciary, employee or agent of any <other enterprise>, in each case whether or not serving in such capacity at the time any liability or expense is incurred for which indemnification, reimbursement or advancement of expenses can be provided under this <Agreement>.
 
