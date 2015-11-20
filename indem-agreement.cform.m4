@@ -62,31 +62,33 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
 
             \ Determination \ Subject to {No Early Decision}, the <Company> shall take the necessary steps to authorize payment of indemnification to <Indemnitee> under section 145 of the Delaware General Corporation Law within 30 calendar days of receiving <Notice> from <Indemnitee> requesting payment under {Indemnification}.
 
-            \ Payment Deadline \ The <Company> shall pay any claim made under this <Agreement>, statute, the <Company>'s certificate of incorporation, or the <Company>'s bylaws that provides for indemnification or advancement of <Expenses> (""Claim"") within 30 calendar days of receiving <Notice> from <Indemnitee> requesting payment.
+    \ Payment and Recovery \
 
-            \ Payment Method \ The <Company> shall make each payment to <Indemnitee> required under this <Agreement> as <Indemnitee> chooses from the following options:
+        \ Payment Deadline \ The <Company> shall pay any claim made under this <Agreement>, statute, the <Company>'s certificate of incorporation, or the <Company>'s bylaws that provides for indemnification or advancement of <Expenses> (""Claim"") within 30 calendar days of receiving <Notice> from <Indemnitee> requesting payment.
 
-                \\ The <Company> shall pay on behalf of <Indemnitee>.
+        \ Payment Method \ The <Company> shall make each payment to <Indemnitee> required under this <Agreement> as <Indemnitee> chooses from the following options:
 
-                \\ The <Company> shall pay <Indemnitee>.
+            \\ The <Company> shall pay on behalf of <Indemnitee>.
 
-                \\ The <Company> shall reimburse <Indemnitee>.
+            \\ The <Company> shall pay <Indemnitee>.
 
-            \ Recovery Suits \ If a <Claim> is not paid both in full and on time under this <Agreement>, <Indemnitee> may sue the <Company> in the Delaware Court of Chancery to recover the unpaid amount of the <Claim> at any time (a ""Recovery Suit""). The following shall apply for any <Recovery Suit>:
+            \\ The <Company> shall reimburse <Indemnitee>.
 
-                \\ Subject to {Attorneys' Fees}, <Indemnitee> will be entitled to recover <Expenses> actually and reasonably incurred by <Indemnitee>.
+        \ Recovery Suits \ If a <Claim> is not paid both in full and on time under this <Agreement>, <Indemnitee> may sue the <Company> in the Delaware Court of Chancery to recover the unpaid amount of the <Claim> at any time (a ""Recovery Suit""). The following shall apply for any <Recovery Suit>:
 
-                \\ If the <Recovery Suit> is not for <Advanced Expenses>, the <Company> will not have any legal defense that <Indemnitee> had not <Acted Professionally>.
+            \\ Subject to {Attorneys' Fees}, <Indemnitee> will be entitled to recover <Expenses> actually and reasonably incurred by <Indemnitee>.
 
-                \\ <Indemnitee> will be presumed entitled to indemnification under this <Agreement>, and the <Company> shall have the burden of proof to overcome that presumption with clear and convincing evidence.
+            \\ If the <Recovery Suit> is not for <Advanced Expenses>, the <Company> will not have any legal defense that <Indemnitee> had not <Acted Professionally>.
 
-                \\ The termination of any <Legal Dispute> by judgment, order, settlement, conviction, or upon a plea of no contest or its equivalent, will not, of itself, create a presumption that <Indemnitee> had not <Acted Professionally>.
+            \\ <Indemnitee> will be presumed entitled to indemnification under this <Agreement>, and the <Company> shall have the burden of proof to overcome that presumption with clear and convincing evidence.
 
-                \\ If the <Company> contests <Indemnitee>'s right to indemnification, the court will decide whether <Indemnitee> is entitled to indemnification.
+            \\ The termination of any <Legal Dispute> by judgment, order, settlement, conviction, or upon a plea of no contest or its equivalent, will not, of itself, create a presumption that <Indemnitee> had not <Acted Professionally>.
 
-                \\ There will be no legal presumption about whether <Indemnitee> is entitled to indemnification on account of whether or to what effect the <Company>, part or all of its <Board>, independent legal counsel, or the <Company>'s stockholders determined <Indemnitee> <Acted Professionally>.
+            \\ If the <Company> contests <Indemnitee>'s right to indemnification, the court will decide whether <Indemnitee> is entitled to indemnification.
 
-                \\ If any requested determination about <Indemnitee>'s entitlement to indemnification under this <Agreement> is not made within 90 calendar days after <Final Court Decision> of the <Legal Dispute>, the <Company> will be deemed to have determined that <Indemnitee> is entitled to indemnification.
+            \\ There will be no legal presumption about whether <Indemnitee> is entitled to indemnification on account of whether or to what effect the <Company>, part or all of its <Board>, independent legal counsel, or the <Company>'s stockholders determined <Indemnitee> <Acted Professionally>.
+
+            \\ If any requested determination about <Indemnitee>'s entitlement to indemnification under this <Agreement> is not made within 90 calendar days after <Final Court Decision> of the <Legal Dispute>, the <Company> will be deemed to have determined that <Indemnitee> is entitled to indemnification.
 
     \ Independent Counsel on Change of Control \
 
