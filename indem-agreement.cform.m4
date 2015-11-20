@@ -105,25 +105,33 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
 
             \\ Any <Company> indemnitee provides a detailed, written objection to <Change of Control Counsel> representing other indemnitees under agreements similar to this <Agreement>.
 
-    \ Defense of Claim and Selection of Counsel \ In the event the <Company> shall be obligated under {Advances} to advance <Expenses> with respect to any <Legal Dispute>, the <Company>, if appropriate, shall be entitled to assume the defense of such <Legal Dispute>, with counsel reasonably acceptable to <Indemnitee>, upon the delivery to <Indemnitee> of written notice of its election so to do. After delivery of such notice, approval of such counsel by <Indemnitee> and the retention of such counsel by the <Company>, the <Company> will not be liable to <Indemnitee> under this <Agreement> for any fees of counsel subsequently incurred by <Indemnitee> with respect to the same <Legal Dispute>, provided that
+    # TODO "if appropriate"?
+    # TODO Check "withhold/delay" terms for uniformity
+    \ Assumed Defense \
 
-        \\ <Indemnitee> shall have the right to employ counsel in any such <Legal Dispute> at <Indemnitee>'s expense; and
+        \ Election and Counsel Selection \ If the <Company> must pay <Advanced Expenses> for a <Legal Dispute>, the <Company> may assume the defense of that <Legal Dispute> (""Assumed Defense"") on <Notice> to <Indemnitee> nominating counsel for the defense. <Indemnitee> shall not unreasonably withhold or delay approval of nominated counsel. Subject to {Conflict of Interest} and {Monitoring Potential Conflict}, the <Company> will not owe <Indemnitee> any fees of counsel for the same <Legal Dispute> after after counsel for the defense is approved and retained.
 
-        \\ if
+        \ Conflict of Interest \ The <Company> shall pay the reasonable fees and expenses of separate counsel for <Indemnitee> in any <Assumed Defense> if any of the following criteria is met:
 
-            \\ the employment of counsel by <Indemnitee> has been previously authorized by the <Company>,
+            \\ The <Company> previously authorized <Indemnitee> to retain separate counsel.
+            # TODO Revisit "may be"
+            \\ <Indemnitee> reasonably concludes that there may be an <Actual Conflict of Interest> between the <Company> and <Indemnitee> in conducting the <Assumed Defense>.
 
-            \\ <Indemnitee> shall have reasonably concluded that there may be a conflict of interest between the <Company> and <Indemnitee> in the conduct of any such defense or
+            \\ The <Company> did not in fact retain counsel for the <Assumed Defense>.
 
-            \\ the <Company> shall not, in fact, have employed counsel to assume the defense of such <Legal Dispute>,
+        \ Monitoring Potential Conflict \ The reasonable fees and expenses of separate counsel for <Indemnitee> to monitor a <Potential Conflict of Interest> in any <Assumed Defense> will be deemed <Expenses> subject to indemnification under this <Agreement>.
 
-        then the fees and expenses of <Indemnitee>'s counsel shall be at the expense of the <Company>. In addition, if there exists a potential, but not an actual conflict of interest between the <Company> and <Indemnitee>, the actual and reasonable legal fees and expenses incurred by <Indemnitee> for separate counsel retained by <Indemnitee> to monitor the <Legal Dispute> (so that such counsel may assume <Indemnitee>'s defense if the conflict of interest between the <Company> and <Indemnitee> becomes an actual conflict of interest) shall be deemed to be <Expenses> that are subject to indemnification under this <Agreement>. The existence of an actual or potential conflict of interest, and whether such conflict may be waived, shall be determined pursuant to the rules of attorney professional conduct and applicable law. The <Company> shall not be required to obtain the consent of <Indemnitee> for the settlement of any <Legal Dispute> the <Company> has undertaken to defend if the <Company> assumes full and sole responsibility for each such settlement; provided, however, that the <Company> shall be required to obtain <Indemnitee>'s prior written approval, which shall not be unreasonably withheld, before entering into any settlement which
+        \ Settlement Authority \ The <Company> may agree to a settlement of an <Assumed Defense> without <Indemnitee>'s <Permission> if the settlement meets all of the following criteria:
 
-            \\ does not grant <Indemnitee> a complete release of liability,
+            \\ The <Company> assumes full and sole responsibility for the settlement.
 
-            \\ would impose any penalty or limitation on <Indemnitee>, or
+            \\ The settlement grants <Indemnitee> a complete release of liability.
 
-            \\ would admit any liability or misconduct by <Indemnitee>.
+            \\ The settlement would not impose any penalty or limitation on <Indemnitee>.
+
+            \\ The settlement would not admit any liability or misconduct by <Indemnitee>.
+
+        The <Company> may agree to other settlements only with <Indemnitee>'s <Permission>. <Indemnitee> shall not unreasonably withhold or delay such <Permission>.
 
     \ Additional Indemnification Rights \
 
@@ -192,6 +200,9 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
             \\ <Indemnitee> acted as <Indemnitee> believed to be in the best interests of the <Company>, or at least not opposed to those interests.
             \\ If the <Third-Party Legal Dispute> is a criminal proceeding, <Indemnitee> had no good reason to believe <Indemnitee>'s actions would break the law.
 
+        # TODO Waived?
+        \\ ""Actual Conflict of Interest"" means an actual conflict of interest under rules of attorney professional conduct and law.
+
         \\ ""Advance"" means advance to <Indemnitee>, to the fullest legal extent.
 
         \\ ""Beneficial Owner"" (plural: ""Beneficial Owners"") and ""Beneficial Ownership"" shall have the meanings given in Rule 13d-3 promulgated under the <Exchange Act> as in effect on the <Effective Date>.
@@ -251,6 +262,9 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
             \\ any employee benefit plan of the <Company> or any direct or indirect majority owned subsidiaries of the <Company> or of any corporation owned, directly or indirectly, by the <Company>'s stockholders in substantially the same proportions as their ownership of stock of the <Company> (an ""Employee Benefit Plan""); and
 
             \\ any trustee or other fiduciary holding securities under an <Employee Benefit Plan>.
+
+        # TODO Waived?
+        \\ ""Potential Conflict of Interest"" means a potential conflict of interest under rules of attorney professional conduct and law.
 
         \\ ""Victorious"" means either of the following:
             \\ <Indemnitee> was successful in defense, on the merits or otherwise, in whole or in part.
