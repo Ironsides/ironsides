@@ -26,10 +26,7 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
 
         \ Approval of Settlements \ If <Indemnitee> gives the <Company> <Notice> of a proposed settlement of a <Third-Party Legal Dispute>, the <Company> shall promptly give <Indemnitee> <Notice> of whether it approves the settlement, and shall not unreasonably refuse to approve the settlement.
 
-        \ Coverage when Indemnitee Wins a Legal Dispute \ To the extent <Indemnitee> is <Victorious> on any <Issue in Dispute> in any of the following:
-             \\ a <Legal Dispute> described in {Third-Party Legal Disputes}
-             \\ a <Legal Dispute> described in {Legal Disputes Brought by the Company}
-        then the <Company> shall <Cover> <Indemnitee> for <Indemnitee's> <Expenses> related to each <Issue in Dispute> on which <Indemnitee> is <Victorious>, even if <Indemnitee> is not <Victorious> on every <Issue in Dispute>.
+        \ Coverage when Indemnitee Wins a Legal Dispute \ To the extent <Indemnitee> is <Victorious> on any <Issue in Dispute> in any <Legal Dispute> described in {Third-Party Legal Disputes} or {Legal Disputes Brought by the Company}, then the <Company> shall <Cover> <Indemnitee> for <Indemnitee's> <Expenses> related to each <Issue in Dispute> on which <Indemnitee> is <Victorious>, even if <Indemnitee> is not <Victorious> on every <Issue in Dispute>.
 
         \ Witness Expenses \  To the fullest extent permitted by applicable law and to the extent that <Indemnitee> is a witness or otherwise asked to participate in any <Legal Dispute> to which <Indemnitee> is not a party, the <Company> shall indemnify <Indemnitee> against all <Expenses> actually and reasonably incurred by <Indemnitee> in connection with such <Legal Dispute>.
 
