@@ -15,7 +15,7 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
     \ Indemnification \
 
         # TODO: Can "in right of" be replaced with "on behalf of" without changing meaning?
-        \\ ""Company-versus-Indemnitee Dispute"" means a <Legal Dispute> brought by the <Company> or in right of the <Company> for a judgment in <Company>'s favor. Any other <Legal Dispute> is a ""Third-Party Legal Dispute"".
+        \\ ""Company-versus-Indemnitee Dispute"" means a <Legal Dispute> brought for a judgment in <Company>'s favor, either by the <Company> or in right of the <Company>. Any other <Legal Dispute> is a ""Third-Party Legal Dispute"".
 
         \ Legal Disputes Brought by the Company \ Subject to {No Coverage for Liability to the Company}, if <Indemnitee> is <Involved> in a <Company-versus-Indemnitee Dispute> and <Indemnitee> <Acted Professionally>, then, the <Company> shall <Cover> <Indemnitee> for related <Expenses>.
 
