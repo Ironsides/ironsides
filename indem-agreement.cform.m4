@@ -20,7 +20,8 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
         \ Legal Disputes Brought by the Company \ Subject to {No Coverage for Liability to the Company}, if <Indemnitee> is <Involved> in a <Company-versus-Indemnitee Dispute> and <Indemnitee> <Acted Professionally>, then the <Company> shall <Cover> <Indemnitee> for related <Expenses>.
 
         # TODO: Define a term for final legal determination by a court
-        \ No Coverage for Liability to the Company \ The <Company> shall not indemnify <Indemnitee> for any amount for which a court finally decides that <Indemnitee> is liable to the <Company>, except to the extent the Delaware Court of Chancery (or the court where the <Legal Dispute> happened) determines, on application, that in view of all the circumstances of the case, <Indemnitee> is fairly, reasonably, and properly entitled to indemnity.
+        # TODO: Revisit
+        \ No Coverage for Liability to the Company \ The <Company> shall not indemnify <Indemnitee> for any liability to the <Company> that a court finally awards, except to the extent the Delaware Court of Chancery (or the court where the <Legal Dispute> happened) determines, on application, that in view of all the circumstances of the case, <Indemnitee> is fairly, reasonably, and properly entitled to indemnity.
 
         \ Third-Party Legal Disputes \ If <Indemnitee> is <Involved> in a <Third-Party Legal Dispute> and <Indemnitee> <Acted Professionally>, then, the <Company> shall <Cover> <Indemnitee> for <Indemnitee>'s related <Costs>.
 
