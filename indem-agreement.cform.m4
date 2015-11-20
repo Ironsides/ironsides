@@ -35,9 +35,7 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
                 # TODO: Final disposition only?
                 \\ <Indemnitee> was not adjudicated liable to the <Company>.
                 \\ <Indemnitee> did not plead guilty to any crime.
-                # TODO: Use "Acted Professionally"?
-                \\ <Indemnitee> was not adjudicated to have acted in bad faith or in any manner <Indemnitee> reasonably believed was opposed to the best interests of the <Company>.
-                \\ In the case of a criminal <Legal Dispute>, <Indemnitee> was not adjudicated to have have good reason to believe <Indemnitee>'s conduct would break the law.
+                \\ No adjudication in the <Legal Dispute> determined that <Indemnitee> had not <Acted Professionally>.
 
         \ Coverage when Indemnitee Wins a Legal Dispute \ To the extent <Indemnitee> is <Victorious> on any <Issue in Dispute> in any of the following:
              \\ a <Legal Dispute> described in {Third-Party Legal Disputes}
