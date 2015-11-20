@@ -54,6 +54,8 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
 
         \ Notice to the Company \ <Indemnitee> shall give the <Company> prompt <Notice> on receipt of any summons, citation, subpoena, complaint, indictment, information, or other document relating to any <Legal Dispute> or matter for which <Indemnitee> might seek indemnification under this <Agreement> (""Dispute Notice""). <Indemnitee> shall include a description of the nature of the <Legal Dispute>, and the facts underlying it, in <Dispute Notice>. <Indemnitee> shall direct <Dispute Notice> to the Chief Executive Officer of the <Company>.
 
+        \ Notice to Insurers \ If the <Company> has director and officer liability insurance in effect when it receives <Dispute Notice>, the <Company> shall give prompt notice of the <Legal Dispute> to the insurers per the corresponding policies. After giving notice, the <Company> shall cause the insurers to pay all claims payable under the corresponding policies on behalf of <Indemnitee>.
+
         \ Cooperation \ After giving <Dispute Notice>, <Indemnitee> shall give the <Company> additional information the <Company> reasonably requests, and shall cooperate with the <Company> in understanding and responding to the <Legal Dispute>. <Indemnitee>'s failure to provide <Dispute Notice>, provide information, or cooperate with the <Company>, will not affect the <Company>'s obligations to <Indemnitee> under this <Agreement> unless it adversely affects the <Company>.
 
         \ Determination of Entitlement \
@@ -102,8 +104,6 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
             \\ The <Company> decides to pay for additional <Independent Counsel>.
 
             \\ Any <Company> indemnitee provides a detailed, written objection to <Change of Control Counsel> representing other indemnitees under agreements similar to this <Agreement>.
-
-    \ Notice to Insurers \ If the <Company> has director and officer liability insurance in effect when it receives <Dispute Notice>, the <Company> shall give prompt notice of the <Legal Dispute> to the insurers per the corresponding policies. After giving notice, the <Company> shall cause the insurers to pay all claims payable under the corresponding policies on behalf of <Indemnitee>.
 
     \ Defense of Claim and Selection of Counsel \ In the event the <Company> shall be obligated under {Advances} to advance <Expenses> with respect to any <Legal Dispute>, the <Company>, if appropriate, shall be entitled to assume the defense of such <Legal Dispute>, with counsel reasonably acceptable to <Indemnitee>, upon the delivery to <Indemnitee> of written notice of its election so to do. After delivery of such notice, approval of such counsel by <Indemnitee> and the retention of such counsel by the <Company>, the <Company> will not be liable to <Indemnitee> under this <Agreement> for any fees of counsel subsequently incurred by <Indemnitee> with respect to the same <Legal Dispute>, provided that
 
