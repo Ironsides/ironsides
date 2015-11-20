@@ -23,7 +23,7 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
         # TODO: Revisit
         \ No Coverage for Liability to the Company \ The <Company> shall not indemnify <Indemnitee> for any liability to the <Company> that a court finally awards, except to the extent the Delaware Court of Chancery (or the court where the <Legal Dispute> happened) determines, on application, that in view of all the circumstances of the case, <Indemnitee> is fairly, reasonably, and properly entitled to indemnity.
 
-        \ Third-Party Legal Disputes \ If <Indemnitee> is <Involved> in a <Third-Party Legal Dispute> and <Indemnitee> <Acted Professionally>, then, the <Company> shall <Cover> related <Costs>.
+        \ Third-Party Legal Disputes \ If <Indemnitee> is <Involved> in a <Third-Party Legal Dispute> and <Indemnitee> <Acted Professionally>, then, the <Company> shall <Cover> related <Expenses> and <Liability>.
 
         \ Disputes in Which Indemnitee is Victorious \ To the extent <Indemnitee> is <Victorious> on any <Issue in Dispute> in any <Legal Dispute> described in {Third-Party Legal Disputes} or {Company-versus-Indemnitee Disputes}, then the <Company> shall <Cover> <Expenses> related to each <Issue in Dispute> on which <Indemnitee> is <Victorious>, even if <Indemnitee> is not <Victorious> on every <Issue in Dispute>.
 
@@ -172,7 +172,7 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
 
         \\ <Company> shall include, in addition to the resulting corporation, any constituent corporation (including any constituent of a constituent) absorbed in a consolidation or merger which, if its separate existence had continued, would have had power and authority to indemnify its directors, officers, and employees or agents, so that if <Indemnitee> is or was a director, officer, employee or agent of such constituent corporation, or is or was serving at the request of such constituent corporation as a director, officer, trustee, general partner, managing member, fiduciary, employee or agent of any <other enterprise>, <Indemnitee> shall stand in the same position under the provisions of this <Agreement> with respect to the resulting or surviving corporation as <Indemnitee> would have with respect to such constituent corporation if its separate existence had continued.
 
-        \\ ""Costs"" means reasonable amounts of <Expenses>, judgments, fines, and amounts <Indemnitee> pays in settlements preapproved by the <Company> that <Indemnitee> actually incurred in connection with a <Third-Party Legal Dispute>.
+        \\ ""Liability"" means judgments, fines, and amounts <Indemnitee> pays in settlements preapproved by the <Company>.
 
         \\ ""Cover"" means indemnify <Indemnitee>, to the fullest legal extent, for specified amounts that are both reasonable and were actually incurred by <Indemnitee>.
 
