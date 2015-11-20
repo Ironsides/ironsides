@@ -215,7 +215,7 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
 
     \ Miscellaneous \
 
-    include(includes/governing-law.cform)
+        \ Governing Law \ The validity, interpretation, construction, and performance of this <Agreement>, all acts and transactions pursuant to this <Agreement>, and the rights and obligations of the parties to this <Agreement>, will be governed, construed, and interpreted in accordance with the laws of the State of Delaware, without giving effect to principles of conflicts of law. For purposes of litigating any dispute that may arise directly or indirectly from this <Agreement>, the parties submit and consent to the exclusive jurisdiction of the State of Delaware, and agree that any such litigation shall be conducted only in the Court of Chancery of the State of Delaware, and no other courts.
 
         \ Entire Agreement; Binding Effect \ Without limiting any of the rights of <Indemnitee> described in {Nonexclusivity}, this <Agreement> states the entire agreement and understanding of the parties relating to the subject matter of this <Agreement> and merges all prior discussions and supersedes any and all previous agreements between them covering the subject matter of this <Agreement>. The indemnification provided under this <Agreement> applies with respect to events occurring before or after the effective date of this <Agreement>, and shall continue to apply even after <Indemnitee> has ceased to serve the <Company> in any and all indemnified capacities.
 
