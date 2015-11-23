@@ -38,11 +38,11 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             \ Acceleration \
 
-                \\ ""Acceleration Event"" means any of:
+                \\ ""Acceleration Event"" means any of the following that happens in connection with or following a <Change of Control>:
 
                     \\ <Purchaser>'s <Continuous Service Status> terminates, other than as a result of <Purchaser>'s death or <Disability>, and the <Company> determines in good faith that there was no <Good Reason to Terminate>.
 
-                    \\ In connection with or following a <Change of Control>:
+                    \\ <Purchaser> resigns as follows:
                         \\ <Purchaser> gives written notice to the <Company> of a <Good Reason to Resign> within 60 calendar days of when it happens (""Resignation Notice""),
                         \\ the <Company> does not act to remove the <Good Reason to Resign> within 30 calendar days of receiving <Resignation Notice>,
                         \\ <Purchaser> resigns effective no later than 60 calendar days after giving <Resignation Notice>, and
