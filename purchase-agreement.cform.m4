@@ -6,7 +6,16 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             \ Purchase and Sale \ Subject to the terms and conditions of this <Agreement>, on the date of this <Agreement> or on another date agreed on by the parties (the ""Purchase Date""), the <Company> shall issue and sell to <Purchaser>, and <Purchaser> shall purchase from the <Company>, [Number of Shares] shares of the <Company>'s common stock (the ""Shares"").
 
-            \ Purchase Price \ On the <Purchase Date>, <Purchaser> shall pay [Purchase Price] per share for the <Shares> (the ""Original Price Per Share""), for a total purchase price of [Total Purchase Price] (the ""Total Purchase Price""). <Purchaser> shall pay the <Total Purchase Price> by entering into the agreement attached as {IP Assignment Form}, by which <Purchaser> assigns assets to the <Company>.
+            \ Purchase Price \ On the <Purchase Date>, <Purchaser> shall pay [Purchase Price] per share for the <Shares> (the ""Original Price Per Share""), for a total purchase price of [Total Purchase Price] (the ""Total Purchase Price"").
+            # {{#allIP}}
+            <Purchaser> shall pay the <Total Purchase Price> by entering into the agreement attached as {IP Assignment Form}, by which <Purchaser> assigns assets to the <Company>.
+            # {{/allIP}}
+            # {{#allCash}}
+            <Purchaser> shall pay the <Total Purchase Price> by check made out to the <Company>.
+            # {{/allCash}}
+            # {{#cashAndIP}}
+            <Purchaser> shall pay half the <Total Purchase Price> by entering into the agreement attached as {IP Assignment Form}, by which <Purchaser> assigns assets to the <Company>, and the other half of the <Total Purchase Price> by check made out to the <Company>.
+            #{{/cashAndIP}}
 
             \ Record of Ownership \ On the <Purchase Date>, <Company> shall list the <Shares> in <Purchaser>'s name as of the <Purchase Date> in the <Company>'s stock ledger and list of stockholders, or with the authorized transfer of the <Company> if it has one. On <Purchaser>'s request, the <Company> shall give <Purchaser> a written notice of issuance for the <Shares>.
 

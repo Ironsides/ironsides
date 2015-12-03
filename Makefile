@@ -1,18 +1,16 @@
-TEMPLATES=$(wildcard *.cform.m4)
-FORMS=$(filter-out purchase-agreement.cform,$(TEMPLATES:.cform.m4=.cform)) purchase-agreement-single.cform purchase-agreement-double.cform
-COMMONFORM=node_modules/.bin/commonform
-MUSTACHE=node_modules/.bin/mustache
-DOCX=$(FORMS:.cform=.docx)
-PDF=$(FORMS:.cform=.pdf)
+TEMPLATES = $(wildcard *.cform.m4)
+PURCHASE_AGREEMENTS = $(addsuffix .cform,$(addprefix purchase-agreement-,single-cash single-ip single-mixed double-cash double-ip double-mixed))
+FORMS = $(filter-out purchase-agreement.cform,$(TEMPLATES:.cform.m4=.cform)) $(PURCHASE_AGREEMENTS)
+COMMONFORM = node_modules/.bin/commonform
+MUSTACHE = node_modules/.bin/mustache
+DOCX = $(FORMS:.cform=.docx)
+PDF = $(FORMS:.cform=.pdf)
 
 all: $(DOCX)
 
 pdf: $(PDF)
 
-$(COMMONFORM):
-	npm i
-
-$(MUSTACHE):
+$(COMMONFORM) $(MUSTACHE):
 	npm i
 
 %.pdf: %.docx
@@ -29,6 +27,15 @@ $(MUSTACHE):
 
 %.cform.m4: purchase-agreement.cform.m4 %.json
 	$(MUSTACHE) $*.json $< > $@
+
+$(PURCHASE_AGREEMENTS:.cform=.json): generate-options.js
+	node $< $@ > $@
+
+$(PURCHASE_AGREEMENTS:.cform=.options): purchase-agreement.options
+	cp $< $@
+
+$(PURCHASE_AGREEMENTS:.cform=.sigs.json): purchase-agreement.sigs.json
+	cp $< $@
 
 .PHONY: lint critique clean
 
