@@ -38,6 +38,14 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             \ Acceleration \
 
+                # {{#singleTrigger}}
+
+                \\ ""Acceleration Event"" means in connection with or following a Change of Control.
+
+                # {{/singleTrigger}}
+
+                # {{^singleTrigger}}
+
                 \\ ""Acceleration Event"" means any of the following that happens in connection with or following a <Change of Control>:
 
                     \\ <Purchaser>'s <Continuous Service Status> terminates, other than as a result of <Purchaser>'s death or <Disability>, and the <Company> determines in good faith that there was no <Good Reason to Terminate>.
@@ -49,6 +57,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
                         \\ <Purchaser>'s <Continuous Service Status> terminates on resignation.
 
                     \\ <Purchaser> is a <Director> of, but neither an <Employee> nor a <Consultant> of, the <Company> or its successor on consummation of a <Change of Control> and <Purchaser> is removed from, or is not reelected to, the <Board> in connection with or following the <Change of Control>.
+                # {{/singleTrigger}}
 
                 \ Accelerated Vesting \ [Acceleration Percentage] of then <Unvested Shares> (""Accelerated Shares""), rounded up to the nearest whole share, will <Vest> on any <Acceleration Event>. In case of an <Asset Sale>, if the acquirer of the <Company>'s assets does not agree to assume this <Agreement>, or to substitute an equal award or right for this <Agreement>, and <Purchaser> transfers <Purchaser>'s employment to the acquirer in connection with the <Asset Sale>, then <Accelerated Shares> will <Vest> immediately before, and contingent on, the consummation of the <Asset Sale>. Otherwise, <Accelerated Shares> will <Vest> immediately before the date of the <Acceleration Event>.
 
