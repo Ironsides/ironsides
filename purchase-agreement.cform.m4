@@ -287,6 +287,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             \\ ""Family Transfer"" means a transfer of <Covered Securities> during <Purchaser>'s lifetime, or on <Purchaser>'s death by will or intestacy, either to <Purchaser>'s <Immediate Family>, or to a trust for the benefit of <Purchaser> or <Purchaser>'s <Immediate Family>.
 
+            {{^singleTrigger}}
             \\ ""Good Reason to Resign"" means any of the following that happen without <Purchaser>'s written consent:
 
                 # TODO: Check "Company" versus successor, etc.
@@ -295,6 +296,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
                 \\ <Employer> changes <Purchaser>'s position in a way that materially reduces <Purchaser>'s duties, level of authority, or responsibility.
 
                 \\ <Employer> conditions <Purchaser>'s continued service with the <Company Corporate Family> on transfer to a place of work that would increase <Purchaser>'s one-way commute from <Purchaser>'s principal residence by more than 35 miles.
+            {{/singleTrigger}}
 
             # TODO: Check "employment" (what about consultants?)
             \\ ""Good Reason to Terminate"" means any of the these:
