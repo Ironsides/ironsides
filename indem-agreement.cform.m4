@@ -141,7 +141,8 @@ This Indemnification Agreement (this ""Agreement"") between [Company Name], a De
 
         \ Not Exclusive \ <Indemnitee>'s rights to indemnification under this <Agreement> are not exclusive of <Other Indemnification Rights> <Indemnitee> may have.
 
-        \ Interest on Unpaid Amounts \ If any payment to be made by the <Company> to <Indemnitee> under this <Agreement> is delayed by more than ninety (90) days from the date the duly prepared request for such payment is received by the <Company>, interest shall be paid by the <Company> to <Indemnitee> at the legal rate under Delaware law for amounts which the <Company> indemnifies or is obligated to indemnify for the period commencing with the date on which <Indemnitee> actually incurs such <Expense> or pays such judgment, fine or amount in settlement and ending with the date on which such payment is made to <Indemnitee> by the <Company>.
+        # See Delaware Code, Title 6, Section 2301(a) re default interest rate.
+        \ Late Payment Interest \ If the <Company> fails to pay <Indemnitee> any amount the <Company> owes <Indemnitee> under this <Agreement> within within 90 days of receiving request for payment, the <Company> shall pay <Indemnitee> interest on that amount. Interest will accrue from the date <Indemnitee> incurs the corresponding <Expense> or <Liability> through the date the <Company> pays the amount to <Indemnitee>.
 
         \ Information Sharing \ If <Indemnitee> is the subject of or is implicated in any way during an investigation, whether formal or informal, the <Company> shall share with <Indemnitee> any information the <Company> has furnished to any third parties concerning the investigation provided that, at the time such information is so furnished to such third party, <Indemnitee> continues to serve in one or more capacities giving rise to the <Company>'s indemnification obligations under {Indemnification}.
 
