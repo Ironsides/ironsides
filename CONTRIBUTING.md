@@ -61,7 +61,7 @@ Please also make use of standard edit marks, such as those described by The Texa
 
 Whether you send by e-mail or postal mail, make sure to identify the version number of the Ironsides documents that you began to edit.
 
-In addition to your markup and comments, please include your name, e-mail address, and the statement described under "Copyright" above. The maintainer will use your e-mail address to confirm receipt and notify you if and when a Pull Request (an Issue that includes proposed changes) is created on GitHub for your proposal. The maintainer will not share your e-mail address with anyone.
+In addition to your markup and comments, please include your name, e-mail address, and the statement described under "Copyright" above. The maintainer will use your e-mail address to confirm receipt and notify you if a Pull Request (an Issue that includes proposed changes) is created on GitHub for your proposal. The maintainer will not share your e-mail address with anyone.
 
 The maintainer will endeavor to process e-mail and postal submissions as quickly as possible in order received. Please be patient.
 
