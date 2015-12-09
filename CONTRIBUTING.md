@@ -6,7 +6,7 @@ There are a number of ways to contribute to Ironsides, whether you're a technica
 
 ## Ground Rules
 
-The Internet is a poor forum for dignified, dispassionate discussion. The Ironsides community is different. Conduct yourself at all times as if you are corresponding with the maintainer's elderly grandmother, and afford others the benefit of every doubt. The maintainer will moderate discussion along these lines.
+The Internet is a poor forum for dignified, dispassionate discussion. The Ironsides community is different. Conduct yourself at all times as if you are corresponding with the maintainer's elderly grandparent, and afford others the benefit of every doubt. The maintainer will moderate discussion along these lines.
 
 Ironsides is a legal forms project, and many contributors are lawyers. However, Ironsides documents themselves may not be properly tailored to your needs, and contributors won't give legal advice via GitHub. The fact that a lawyer contributes to Ironsides doesn't mean they're available for hire or specialized in forming companies. Do not try phrasing your specific question as a "hypothetical". You will look foolish, and it won't work.
 
