@@ -4,7 +4,7 @@
 
     \!! You must file this form within 30 days of purchasing the <Shares>.
 
-    \!! You (and not the <Company>, any of its agents or any other person) shall be solely responsible for filing such form with the IRS, even if you request the <Company>, its agents or any other person to make this filing on your behalf and even if the <Company>, any of its agents or any other person has previously made this filing on your behalf.
+    \!! You (and not the <Company>, any of its agents or any other person) will be solely responsible for filing such form with the IRS, even if you request the <Company>, its agents or any other person to make this filing on your behalf and even if the <Company>, any of its agents or any other person has previously made this filing on your behalf.
 
     \!! The election should be filed by mailing a signed election form by certified mail, return receipt requested to the IRS Service Center where you file your tax returns. See www.irs.gov.
 

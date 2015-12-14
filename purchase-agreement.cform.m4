@@ -34,7 +34,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             If <You> are married, <Your> spouse signs this agreement and related documents with <You>, since they may have rights in property acquired during marriage.
 
-            \\ <Your> stock is subject to "vesting" under {Vesting}. Legally, that means <You> give the <Company> a right to buy <Your> shares back from <You> in {Repurchase Option}. As <Your> stock vests under {Vesting Schedule}, that right applies to less of <Your> stock. In specific situations, vesting happens faster, or "accelerates", under {Acceleration}.
+            \\ <Your> stock is subject to "vesting" under {Vesting}. That means <You> give the <Company> a right to buy <Your> shares back from <You> in {Repurchase Option}. As <Your> stock vests under {Vesting Schedule}, that right applies to less of <Your> stock. In specific situations, vesting happens faster, or "accelerates", under {Acceleration}.
 
             \\ To prevent <Your> shares falling into unfamiliar or unwelcome hands against your will, <You> give the <Company> the right to buy them instead in {Right to Purchase on Involuntary Transfer}.
 
@@ -44,13 +44,13 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \\ Tax laws also apply to <Your> purchase. <You> make several statements about tax in {Statements about Securities and Tax}. Since <You> have decided to make an 83(b) election, <You> make a statements about <Your> choice and <Your> responsibility to file with the IRS in {Section 83(b) Election}.
 
-            \\ To protect the <Company>'s rights and prevent administrative mishaps, <You> and the <Company> agree to process and legal mechanisms that affect <Your> stock, such as those in {Escrow}, {Restrictive Legends and Stop-Transfer Notices}, and {Shareholder Notices}.
+            \\ To protect the <Company>'s rights and prevent administrative mishaps, <You> and the <Company> agree to process and legal mechanisms that affect <Your> stock in {Escrow}, {Restrictive Legends and Stop-Transfer Notices}, and {Shareholder Notices}.
 
             \\ Some terms in this agreement are given specific meanings in {Defined Terms}.
 
         \ Stock Purchase \
 
-            \ Shares \ Subject to the terms and conditions of this agreement, on the date of this agreement or on another date agreed on by the parties (the ""Purchase Date""), the <Company> shall issue and sell to <You>, and <You> shall purchase from the <Company>, [Number of Shares] shares of the <Company>'s common stock (""Your Shares"").
+            \ Shares \ Subject to this agreement, on the date of this agreement or on another date agreed on by the parties (the ""Purchase Date""), the <Company> shall issue and sell to <You>, and <You> shall purchase from the <Company>, [Number of Shares] shares of the <Company>'s common stock (""Your Shares"").
 
             \ Purchase Price \ On the <Purchase Date>, <You> shall pay [Purchase Price] per share for <Your Shares> (the ""Original Price per Share""), for a total purchase price of [Total Purchase Price] (the ""Total Purchase Price"").
 
@@ -116,7 +116,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                 # \\ <You> own and either invented or authored all <Company-Related Intellectual Property>.
 
-                \\ <You> have all the legal rights needed to make the <Assignments>.
+                \\ <You> have all legal rights needed to make the <Assignments>.
 
                 \\ No <Assigned Assets> are subject to any <Legal Action> or any contract, license, or other assignment.
 
@@ -142,7 +142,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \\ <You> shall not assign, encumber, or dispose of any interest in <Covered Securities> except to the extent allowed by, and in compliance with, both this agreement and securities laws.
 
-            \\ All recipients of <Covered Securities> or any interest in <Covered Securities> will receive and hold such <Covered Securities> and interests subject to the provisions of this agreement, such as the <Repurchase Option>. Any sale or other transfer of the <Covered Securities> in violation of this agreement is void.
+            \\ All recipients of <Covered Securities> or any interest in <Covered Securities> will receive and hold such <Covered Securities> and interests subject to the <Repurchase Option> and other terms of this agreement. Any sale or other transfer of the <Covered Securities> in violation of this agreement is void.
 
         \ Vesting \
 
@@ -212,11 +212,11 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                 \\ the purchase price of each proposed transfer (the ""Transfer Purchase Price"")
 
-                \\ the other terms and conditions of each proposed transfer (""Proposed Transfer Terms"")
+                \\ the other terms of each proposed transfer (""Proposed Transfer Terms"")
 
             # TODO Define ""Notice""
 
-            \ Exercise of Right of First Refusal \ At any time within 30 calendar days after receipt of a <Proposed Transfer Notice>, the <Company> may elect to purchase any or all the <Covered Securities> the <Holder> intends to transfer, at the <Transfer Purchase Price> and on the <Proposed Transfer Terms> (or terms as similar as possible), by giving notice to the <Holder>. If the <Transfer Purchase Price> consists of no legal "consideration" (for example, in the case of a gift), the purchase price will be the <Fair Market Value> of the <Covered Securities> as of the date of purchase. If the <Transfer Purchase Price> includes non-cash property, the cash value of the non-cash property will be its <Fair Market Value> as of the date of purchase.
+            \ Exercise of Right of First Refusal \ At any time within 30 calendar days after receipt of a <Proposed Transfer Notice>, the <Company> may elect to purchase any or all <Covered Securities> the <Holder> intends to transfer, at the <Transfer Purchase Price> and on the <Proposed Transfer Terms> (or terms as similar as possible), by giving notice to the <Holder>. If the <Transfer Purchase Price> consists of no legal "consideration" (for example, in the case of a gift), the purchase price will be the <Fair Market Value> of the <Covered Securities> as of the date of purchase. If the <Transfer Purchase Price> includes non-cash property, the cash value of the non-cash property will be its <Fair Market Value> as of the date of purchase.
 
             \ Payment for Right of First Refusal \ The <Company> shall pay the <Transfer Purchase Price> by <Check and Canceled Debt> within 60 calendar days of receipt of <Proposed Transfer Notice>.
 
@@ -250,7 +250,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \\ The <Company> may exercise an <Involuntary Transfer Option> any time before its expiration date.
 
-        \ Assignment of Company Rights \ The <Company> may assign all or part of any <Company> right to purchase <Covered Securities>, such as the <Repurchase Option>, <Right of First Refusal>, and <Involuntary Transfer Option>, for any number of <Covered Securities> and any proposed transfer, to any number of other parties.
+        \ Assignment of Company Rights \ The <Company> may assign all or part of the <Repurchase Option>, the <Right of First Refusal>, the <Involuntary Transfer Option>, or any other <Company> right to purchase <Covered Securities>, for any number of <Covered Securities> and any proposed transfer, to any number of other parties.
 
         \ Termination of Company Rights \ The <Right of First Refusal> and any <Involuntary Transfer Option> will terminate on the first <Initial Public Offering> or <Acquisition by a Public Company>.
 
@@ -272,19 +272,19 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \\ <You> are aware of the <Company>'s business affairs and financial condition and has enough information about the <Company> to make an informed and knowledgeable decision to purchase <Your Shares>. <You> are purchasing <Your Shares> only for investment and for <Your> own account, not with a view to, or for resale in connection with, any "distribution" of <Covered Securities> under the <Securities Act> or state law. <You> do not intend to transfer any <Covered Securities>.
 
-            \\ <You> understand that sales of securities like <Your Shares> and other <Covered Securities> are regulated by complex state and federal laws, such as the <Securities Act>, <Exchange Act>, and related rules. <You> understand that illegal sales of securities carry severe civil and criminal penalties.
+            \\ <You> understand that sales of securities like <Your Shares> and other <Covered Securities> are regulated by the <Securities Act>, <Exchange Act>, related rules, and other complex state and federal laws. <You> understand that illegal sales of securities carry severe civil and criminal penalties.
 
             \\ <You> understand that <Covered Securities> have not been registered under the <Securities Act>, that the <Company> is instead relying on an exemption from registration, and that the exemption depends on the honesty and genuineness of <Your> investment intent, as expressed in this agreement, and other factors.
 
             \\ <You> understand that <Covered Securities> must be held indefinitely unless they are registered under the <Securities Act> or an exemption from registration becomes available. <You> understand that the <Company> is under no obligation to register any securities.
 
-            \\ <You> are familiar with Rule 144 under the <Securities Act>, which allows limited public resale of some "restricted securities" in non-public offerings on certain conditions, such as that the issuer be subject to reporting requirements of the <Exchange Act>, that holders hold securities for given time periods before resale, volume restrictions, and brokered transaction requirements. <You> understand the <Company> gives no assurance that any <Covered Securities> will ever be eligible for resale under Rule 144.
+            \\ <You> are familiar with Rule 144 under the <Securities Act>, which allows limited public resale of some "restricted securities" in non-public offerings on certain conditions, among them that the issuer be subject to reporting requirements of the <Exchange Act>, that holders hold securities for given time periods before resale, volume restrictions, and brokered transaction requirements. <You> understand the <Company> gives no assurance that any <Covered Securities> will ever be eligible for resale under Rule 144.
 
             \\ <You> understand that if any requirement of Rule 144 is not satisfied, legal resale of <Covered Securities> will require registration under the <Securities Act>, compliance with Regulation A, or some other registration exemption. <You> understand that, despite the fact that Rule 144 is not exclusive, the staff of the Securities and Exchange Commission has opined that those proposing to sell private placement securities other than in a registered offering and other than under Rule 144 will have a substantial burden of proof in establishing that an exemption from registration is available, and that such sellers and their respective brokers who participate in such transactions do so at their own risk.
 
             \\ <You> have reviewed, and is not subject to any of, the "Bad Actor" disqualifications of Rule 506(d)(1)(i) through (viii) under the <Securities Act>.
 
-            \\ <You> understands that <You> may suffer adverse tax consequences as a result of <Your> purchase or disposition of <Covered Securities>. <You> have consulted with all the tax advisers <You> deem advisable in connection with the purchase or disposition of <Your Shares>. <You> are not relying on the <Company> for any tax advice.
+            \\ <You> understands that <You> may suffer adverse tax consequences as a result of <Your> purchase or disposition of <Covered Securities>. <You> have consulted with all tax advisers <You> deem advisable in connection with the purchase or disposition of <Your Shares>. <You> are not relying on the <Company> for any tax advice.
 
         \ Restrictive Legends and Stop-Transfer Notices \
 
@@ -292,7 +292,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                 \ Unregistered Securities Legend \ "The referenced securities have not been registered under the Securities Act of 1933, and have been acquired for investment and not with a view to, or in connection with, sale or distribution. No sale or distribution is permitted without an effective registration statement for the securities or an opinion of legal counsel, satisfactory to the company, that such registration is not required under the Securities Act of 1933."
 
-                \ Transfer Restriction Legend \ "The referenced securities may be transferred only in accordance with an agreement between the company and the stockholder, a copy of which is on file with the Secretary of the company, who will provide a copy on request free of charge."
+                \ Transfer Restriction Legend \ "The referenced securities may be transferred only under an agreement between the company and the stockholder, a copy of which is on file with the Secretary of the company, who will provide a copy on request free of charge."
 
             \ Stop-Transfer Notices \ <You> agree that, to ensure compliance with the restrictions of this agreement, the <Company> may issue appropriate "stop transfer" instructions to its transfer agent, if any, and that, if the <Company> transfers its own securities, it may make appropriate notations to the same effect in its own stock ledger and list of shareholders (""Stop-Transfer Notices"").
 
@@ -312,7 +312,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             When a <Holder>'s <Covered Securities> are no longer subject to the legend, the <Holder> may request that the <Company> issue a new stock certificate (or notice of issuance, for uncertificated shares) for those <Covered Securities> without the legend, and the <Company> shall do so.
 
-        \ Shareholder Notices \ <You> acknowledge that the <Covered Securities> are issued and will be held subject to all the provisions of {Restrictive Legends and Stop-Transfer Notices} and the <Company>'s <Governing Documents>. Copies of the <Governing Documents> are on file with the Secretary of the <Company>. The <Company> will provide a statement of the powers, designations, preferences, and relative, participating, optional, or other special rights of each class or series of stock of the <Company> and the qualifications, limitations, or restrictions of such preferences and/or rights, as well as a copy of that statement, to any stockholder on request and without charge at the principal office of the <Company>. <You> acknowledge that the provisions of {Restrictive Legends and Stop-Transfer Notices} will constitute the notices required by Sections 151(f) and 202(a) of the Delaware General Corporation Law (""DGCL""). <You> waive the requirement of <DGCL> section 151(f) that it receive the written notice provided for in <DGCL> sections 151(f) and 202(a) within a reasonable time after the issuance of <Covered Securities>.
+        \ Shareholder Notices \ <You> acknowledge that the <Covered Securities> are issued and will be held subject to all provisions of {Restrictive Legends and Stop-Transfer Notices} and the <Company>'s <Governing Documents>. Copies of the <Governing Documents> are on file with the Secretary of the <Company>. The <Company> will provide a statement of the powers, designations, preferences, and relative, participating, optional, or other special rights of each class or series of stock of the <Company> and the qualifications, limitations, or restrictions of such preferences and/or rights, as well as a copy of that statement, to any stockholder on request and without charge at the principal office of the <Company>. <You> acknowledge that the provisions of {Restrictive Legends and Stop-Transfer Notices} will constitute the notices required by Sections 151(f) and 202(a) of the Delaware General Corporation Law (""DGCL""). <You> waive the requirement of <DGCL> section 151(f) that it receive the written notice provided for in <DGCL> sections 151(f) and 202(a) within a reasonable time after the issuance of <Covered Securities>.
 
         \ Section 83(b) Election \
 
@@ -472,7 +472,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             # {{/allCash}}
 
-            \\ ""Employee"" means any natural person employed by the <Company> or any <Parent>, <Subsidiary>, or <Affiliate> of the <Company>. The <Board> will determine whether any natural person is employed by considering whatever factors it decides are appropriate in its sole discretion, but subject to any legal requirements, such as those of the <Tax Code>. Payment of a director's fee will not alone establish that a natural person is employed.
+            \\ ""Employee"" means any natural person employed by the <Company> or any <Parent>, <Subsidiary>, or <Affiliate> of the <Company>. The <Board> will determine whether any natural person is employed by considering whatever factors it decides are appropriate in its sole discretion, but subject to the <Tax Code> and other legal requirements. Payment of a director's fee will not alone establish that a natural person is employed.
 
             \\ ""Employer"" means the member of the <Company Corporate Family> an <Employee> or <Consultant> is serving.
 
@@ -508,17 +508,17 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \\ ""Good Reason to Terminate"" means any of the these:
 
-                \\ <You> willfully fail to substantially do <Your> duties after all of these:
+                \\ <You> fail to substantially do <Your> duties after all of these:
 
                     \\ <Your> receive written demand for substantial performance from the board of directors of <Your> <Employer> that states in detail the specific ways the board believes <You> have not substantially done <Your> duties.
 
                     \\ <You> had a chance to provide that substantial performance.
 
-                \\ <You> commit willful fraud, misconduct, dishonesty, or any other intentional act that materially injures a member of the <Company Corporate Family>.
+                \\ <You> commit intentional fraud, misconduct, dishonesty, or any other intentional act that materially injures a member of the <Company Corporate Family>.
 
                 \\ <You> are convicted of, pleads guilty to, or pleads no contest to, any crime that materially harms, or is reasonably expected to materially harm, the business or reputation of the <Company>.
 
-                \\ <You> materially breach any written agreement between <You> and the <Company>, such as a Confidential Information and Invention Assignment Agreement, and fails to cure that breach in 30 days after receiving written notice of the breach.
+                \\ <You> materially breach any written agreement between <You> and the <Company> and fail to cure that breach in 30 days after receiving written notice of the breach.
 
             \\ ""Governing Documents"" means the <Company>'s certificate of incorporation and bylaws.
 
@@ -534,7 +534,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \\ ""Initial Public Offering"" means sale of common stock of the <Company> to the general public under a registration statement declared effective by the Securities and Exchange Commission under the <Securities Act>, other than a registration statement relating solely to the issuance of common stock under a business combination, employee incentive plan, or employee benefit plan.
 
-            \\ ""Involuntary Transfer"" means a transfer of <Covered Securities> by operation of law or other involuntary transfer, such as due to divorce or intestate transfer on death, but not any <Family Transfer>.
+            \\ ""Involuntary Transfer"" means a transfer of <Covered Securities> by operation of law or other involuntary transfer. A transfer due to divorce or intestate transfer on death is an <Involuntary Transfer>. No <Family Transfer> is an <Involuntary Transfer>.
 
             # {{^allCash}}
 
