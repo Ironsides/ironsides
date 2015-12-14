@@ -32,9 +32,9 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \ Stock Sale \
 
-            \ Purchase and Sale \ Subject to the terms and conditions of this <Agreement>, on the date of this <Agreement> or on another date agreed on by the parties (the ""Purchase Date""), the <Company> shall issue and sell to <You>, and <You> shall purchase from the <Company>, [Number of Shares] shares of the <Company>'s common stock (the ""Shares"").
+            \ Purchase and Sale \ Subject to the terms and conditions of this <Agreement>, on the date of this <Agreement> or on another date agreed on by the parties (the ""Purchase Date""), the <Company> shall issue and sell to <You>, and <You> shall purchase from the <Company>, [Number of Shares] shares of the <Company>'s common stock (""Your Shares"").
 
-            \ Purchase Price \ On the <Purchase Date>, <You> shall pay [Purchase Price] per share for the <Shares> (the ""Original Price Per Share""), for a total purchase price of [Total Purchase Price] (the ""Total Purchase Price"").
+            \ Purchase Price \ On the <Purchase Date>, <You> shall pay [Purchase Price] per share for <Your Shares> (the ""Original Price Per Share""), for a total purchase price of [Total Purchase Price] (the ""Total Purchase Price"").
             # {{#allIP}}
             <You> shall pay the <Total Purchase Price> by entering into the agreement attached as {IP Assignment Form}, by which <You> assign assets to the <Company>.
             # {{/allIP}}
@@ -45,13 +45,13 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
             <You> shall pay half the <Total Purchase Price> by entering into the agreement attached as {IP Assignment Form}, by which <You> assign assets to the <Company>, and the other half of the <Total Purchase Price> by check made out to the <Company>.
             #{{/cashAndIP}}
 
-            \ Record of Ownership \ On the <Purchase Date>, <Company> shall list the <Shares> in <Your> name as of the <Purchase Date> in the <Company>'s stock ledger and list of stockholders, or with the authorized transfer of the <Company> if it has one. On <Your> request, the <Company> shall give <You> a written notice of issuance for the <Shares>.
+            \ Record of Ownership \ On the <Purchase Date>, <Company> shall list <Your Shares> in <Your> name as of the <Purchase Date> in the <Company>'s stock ledger and list of stockholders, or with the authorized transfer of the <Company> if it has one. On <Your> request, the <Company> shall give <You> a written notice of issuance for <Your Shares>.
 
         \ Limits on Transfer \
 
             \\ As used elsewhere in this <Agreement>, ""Covered Securities"" means:
 
-                \\ the <Shares>;
+                \\ <Your Shares>;
 
                 \\ all securities received in connection with <Covered Securities> as a result of stock dividends or splits;
 
@@ -65,7 +65,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \ Vesting \
 
-            \ Repurchase Option \ On <Termination>, the <Company> will have an irrevocable and exclusive option (the ""Repurchase Option"") to repurchase all or any portion of the <Shares> held by <You> as of <Termination> that have not yet been released from the <Repurchase Option> (""Unvested Shares""). [Shares Subject to Vesting] of the <Shares> will start subject to the <Repurchase Option> (the ""Vesting Shares"").
+            \ Repurchase Option \ On <Termination>, the <Company> will have an irrevocable and exclusive option (the ""Repurchase Option"") to repurchase all or any portion of <Your Shares> held by <You> as of <Termination> that have not yet been released from the <Repurchase Option> (""Unvested Shares""). [Shares Subject to Vesting] of <Your Shares> will start subject to the <Repurchase Option> (the ""Vesting Shares"").
 
             \ Vesting Schedule \ Subject to {Vesting Schedule Stops on Termination} and {Acceleration}, <Vesting Shares> will release from the <Repurchase Option> (""Vest"") as follows:
                 \\ [Cliff Shares] <Vesting Shares> will <Vest> on [Cliff Date] (the ""Cliff"").
@@ -171,15 +171,15 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \ Escrow of Unvested Shares \
 
-            \\ To facilitate enforcement of {Limits on Transfer}, <You> shall deliver a stock power in the form of {Stock Power} signed by <You> and <Your> spouse (if required for transfer), in blank, as well as stock certificates for the <Shares>, if any, to the Secretary of the <Company> or the Secretary's designee as escrow holder (""Escrow Holder""). <Escrow Holder> will hold the stock power, <Shares>, and any stock certificates in escrow, and to take all actions and make transfer and releases required under this <Agreement>. <You> acknowledge that the <Escrow Holder> is irrevocably appointed escrow holder with the these authorities, and that the appointment is an important reason <Company> is willing to enter into this <Agreement>.
+            \\ To facilitate enforcement of {Limits on Transfer}, <You> shall deliver a stock power in the form of {Stock Power} signed by <You> and <Your> spouse (if required for transfer), in blank, as well as stock certificates for <Your Shares>, if any, to the Secretary of the <Company> or the Secretary's designee as escrow holder (""Escrow Holder""). <Escrow Holder> will hold the stock power, <Your Shares>, and any stock certificates in escrow, and to take all actions and make transfer and releases required under this <Agreement>. <You> acknowledge that the <Escrow Holder> is irrevocably appointed escrow holder with the these authorities, and that the appointment is an important reason <Company> is willing to enter into this <Agreement>.
 
             \\ <Escrow Holder> will not be liable to any party to this <Agreement> (or to any other party). The <Escrow Holder> may rely on any letter, notice, or other document with a purportedly genuine signature, and may resign at any time. If the <Escrow Holder> resigns, the <Board> may appoint a new new escrow holder.
 
         \ Purchaser Statements about Securities and Tax \ <You> state that all the following are true:
 
-            \\ <You> are aware of the <Company>'s business affairs and financial condition and has enough information about the <Company> to make an informed and knowledgeable decision to purchase the <Shares>. <You> are purchasing the <Shares> only for investment and for <Your> own account, not with a view to, or for resale in connection with, any "distribution" of <Covered Securities> under the <Securities Act> or state law. <You> do not intend to transfer any <Covered Securities>.
+            \\ <You> are aware of the <Company>'s business affairs and financial condition and has enough information about the <Company> to make an informed and knowledgeable decision to purchase <Your Shares>. <You> are purchasing <Your Shares> only for investment and for <Your> own account, not with a view to, or for resale in connection with, any "distribution" of <Covered Securities> under the <Securities Act> or state law. <You> do not intend to transfer any <Covered Securities>.
 
-            \\ <You> understand that sales of securities like the <Shares> and other <Covered Securities> are regulated by complex state and federal laws, such as the <Securities Act>, <Exchange Act>, and related rules. <You> understand that illegal sales of securities carry severe civil and criminal penalties.
+            \\ <You> understand that sales of securities like <Your Shares> and other <Covered Securities> are regulated by complex state and federal laws, such as the <Securities Act>, <Exchange Act>, and related rules. <You> understand that illegal sales of securities carry severe civil and criminal penalties.
 
             \\ <You> understand that <Covered Securities> have not been registered under the <Securities Act>, that the <Company> is instead relying on an exemption from registration, and that the exemption depends on the honesty and genuineness of <Your> investment intent, as expressed in this <Agreement>, and other factors.
 
@@ -191,7 +191,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             \\ <You> have reviewed, and is not subject to any of, the "Bad Actor" disqualifications of Rule 506(d)(1)(i) through (viii) under the <Securities Act>.
 
-            \\ <You> understands that <You> may suffer adverse tax consequences as a result of <Your> purchase or disposition of <Covered Securities>. <You> have consulted with all the tax advisers <You> deem advisable in connection with the purchase or disposition of the <Shares>. <You> are not relying on the <Company> for any tax advice.
+            \\ <You> understands that <You> may suffer adverse tax consequences as a result of <Your> purchase or disposition of <Covered Securities>. <You> have consulted with all the tax advisers <You> deem advisable in connection with the purchase or disposition of <Your Shares>. <You> are not relying on the <Company> for any tax advice.
 
         \ Restrictive Legends and Stop-Transfer Notices \
 
@@ -225,23 +225,23 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             \ Purchaser Statements about 83(b) \ <You> state that all the following are true:
 
-                \\ <You> understand that Section 83(a) of the Internal Revenue Code of 1986 (the ""Tax Code"") taxes the difference between the amount paid for the <Shares> and the fair market value of the <Covered Securities> as of the date they <Vest> as ordinary income.
+                \\ <You> understand that Section 83(a) of the Internal Revenue Code of 1986 (the ""Tax Code"") taxes the difference between the amount paid for <Your Shares> and the fair market value of the <Covered Securities> as of the date they <Vest> as ordinary income.
 
-                \\ <You> understand that <You> may elect to be taxed when the <Shares> are purchased, rather than when they <Vest>, by filing an election under Section 83(b) of the <Tax Code> (an ""83(b) Election"") with the <IRS> within 30 days from the date of purchase.
+                \\ <You> understand that <You> may elect to be taxed when <Your Shares> are purchased, rather than when they <Vest>, by filing an election under Section 83(b) of the <Tax Code> (an ""83(b) Election"") with the <IRS> within 30 days from the date of purchase.
 
-                \\ <You> understands that even if the fair market value of the <Shares> on the <Purchase Date> equals the <Total Purchase Price>, an <83(b) Election> must be made to avoid income under Section 83(a) in the future.
+                \\ <You> understands that even if the fair market value of <Your Shares> on the <Purchase Date> equals the <Total Purchase Price>, an <83(b) Election> must be made to avoid income under Section 83(a) in the future.
 
                 \\ <You> understands that failure to file an <83(b) Election> on time may have severe tax consequences for <You>.
 
                 \\ <You> understand that an additional copy of any <83(b) Election> should be filed with <Your> federal income tax return for the calendar year encompassing the <Purchase Date>.
 
-                \\ <You> acknowledge that this is only a summary of the effect of United States federal income taxation on purchase of the <Shares>. The summary is incomplete, and will not help <You> avoid any tax penalties.
+                \\ <You> acknowledge that this is only a summary of the effect of United States federal income taxation on purchase of <Your Shares>. The summary is incomplete, and will not help <You> avoid any tax penalties.
 
                 \\ <You> acknowledge that the <Company> has directed <You> to seek independent advice about the <Tax Code>, other tax laws that apply where <You> live, and the tax consequences of <Your> death.
 
                 \\ <You> have consulted, and has been fully advised by, <Your> own tax adviser regarding an <83(b) Election> and other tax laws and consequences, or has knowingly decided not to consult a tax adviser.
 
-                \\ <You> acknowledge that neither the <Company> nor any <Subsidiary>, <Affiliate>, <Parent>, or representative of the <Company> has made or will be accountable for any statement or advice to <You> about the tax consequences of <Your> purchase of the <Shares> or <Your> decision to make an <83(b) Election>.
+                \\ <You> acknowledge that neither the <Company> nor any <Subsidiary>, <Affiliate>, <Parent>, or representative of the <Company> has made or will be accountable for any statement or advice to <You> about the tax consequences of <Your> purchase of <Your Shares> or <Your> decision to make an <83(b) Election>.
 
             \!! <You>, not the <Company> or any other, will be solely responsible for appropriately filing an <83(b) Election> with the <IRS>, even if <You> ask the <Company> or any other file on <Your> behalf.
 
