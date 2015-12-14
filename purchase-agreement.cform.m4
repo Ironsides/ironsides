@@ -108,7 +108,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                 \\ Unless the <Company> gives <You> notice that it does not intend to exercise its <Repurchase Option> for some or all <Unvested Shares> before the <Repurchase Option Expiration Date>, the <Company> will be deemed to exercise the <Repurchase Option> for all <Unvested Shares> on the <Repurchase Option Expiration Date> (""Automatic Repurchase""). The <Company> may give <You> notice that <Automatic Repurchase> will occur as of any earlier date, or for only some part of the <Unvested Shares>. On <Automatic Repurchase>, the <Company> will become the legal and beneficial owner of the <Unvested Shares> for which the <Repurchase Option> is exercised, will have all rights and interest in and related to those <Unvested Shares>, and will have the right to transfer them to its own name without further action by <You>.
 
-                \\ The <Company> shall pay the <Repurchase Price> by <Check and Cancelled Debt>. If <You> are indebted to the <Company> on <Automatic Repurchase> and the <Company> does not otherwise pay the <Repurchase Price>, an amount of <Your> debt equal to the <Repurchase Price> will be deemed canceled as of the date of <Automatic Repurchase>.
+                \\ The <Company> shall pay the <Repurchase Price> by <Check and Canceled Debt>. If <You> are indebted to the <Company> on <Automatic Repurchase> and the <Company> does not otherwise pay the <Repurchase Price>, an amount of <Your> debt equal to the <Repurchase Price> will be deemed canceled as of the date of <Automatic Repurchase>.
 
         # TODO refactor this condition out
         \ Right of First Refusal \ Subject to {Exception for Family Transfers}:
@@ -128,7 +128,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
             # TODO Define ""Notice""
             \ Exercise of Right of First Refusal \ At any time within 30 calendar days after receipt of a <Proposed Transfer Notice>, the <Company> may elect to purchase any or all the <Covered Securities> the <Holder> intends to transfer, at the <Transfer Purchase Price> and on the <Proposed Transfer Terms> (or terms as similar as possible), by giving notice to the <Holder>. If the <Transfer Purchase Price> consists of no legal "consideration" (for example, in the case of a gift), the purchase price will be the <Fair Market Value> of the <Covered Securities> as of the date of purchase. If the <Transfer Purchase Price> includes non-cash property, the cash value of the non-cash property will be its <Fair Market Value> as of the date of purchase.
 
-            \ Payment \ The <Company> shall pay the <Transfer Purchase Price> by <Check and Cancelled Debt> within 60 calendar days of receipt of <Proposed Transfer Notice>.
+            \ Payment \ The <Company> shall pay the <Transfer Purchase Price> by <Check and Canceled Debt> within 60 calendar days of receipt of <Proposed Transfer Notice>.
 
             \ Holder's Right to Transfer \
 
@@ -259,7 +259,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \\ ""Business Entity"" means corporation, limited liability company, or other legal entity.
 
-            \\ ""Check and Cancelled Debt"" means a payer shall pay an amount in any of these ways, as it chooses:
+            \\ ""Check and Canceled Debt"" means a payer shall pay an amount in any of these ways, as it chooses:
 
                 \\ The payer may deliver a check.
 
