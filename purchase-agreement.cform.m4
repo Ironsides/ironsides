@@ -388,16 +388,8 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
         include(includes/construction.cform)
         include(includes/counterparts.cform)
 
-            \ Electronic Delivery \ The <Company> may, in its sole discretion, deliver documents related to this agreement and any notices required by law or the <Company>'s <Governing Documents> to <You> by e-mail or other electronic means. <You> consent to:
-
-                \\ conduct business electronically;
-
-                \\ receive such documents and notices by electronic means; and
-
-                \\ sign documents electronically.
-
-            # TODO double-check
-            <You> further agree to participate through an on-line or electronic system established and maintained by the <Company> or a third party designated by the <Company>.
+            # TODO double-check "electronic system"
+            \ Electronic Delivery \ The <Company> may, in its sole discretion, deliver documents related to this agreement and any notices required by law or the <Company>'s <Governing Documents> to <You> by e-mail or other electronic means. <You> consent to conduct business electronically, receive such documents and notices by electronic means, and sign documents electronically. <You> further agree to participate through an on-line or electronic system established and maintained by the <Company> or a third party designated by the <Company>.
 
     \\ No schedules.
 
