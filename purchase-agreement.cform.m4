@@ -12,7 +12,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
             with cash 
             # {{/allCash}}
             # {{#cashAndIP}}
-            with cash and intellectual property
+            with cash and intellectual property 
             #{{/cashAndIP}}
             in {Purchase Price}.
 
