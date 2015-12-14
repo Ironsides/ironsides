@@ -249,7 +249,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
         \ Defined Terms \
 
-            \\ ""Acquisition by a Public Company"" any transfer or conversion of <Covered Securities> made pursuant to a statutory merger or statutory consolidation of the <Company> with or into another <Business Entity> if securities of the surviving <Business Entity> or any direct or indirect <Parent> of the <Business Entity> is registered under the <Exchange Act>.
+            \\ ""Acquisition by a Public Company"" any transfer or conversion of <Covered Securities> by statutory merger or statutory consolidation of the <Company> with or into another <Business Entity> if securities of the surviving <Business Entity> or any direct or indirect <Parent> of the <Business Entity> is registered under the <Exchange Act>.
 
             \\ ""Affiliate"" means a <Business Entity>, other than a <Subsidiary>, that, together with the <Company>, is under common control of a third <Person>.
 
@@ -355,7 +355,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
             # TODO review selective inclusion of antecedents and descendants
             \\ ""Immediate Family"" means lineal descendants and antecedents, spouses (and spouses' antecedents), fathers, mothers, brothers and sisters (and their descendants), stepchildren (and their antecedents and descendants), aunts and uncles (and their antecedents and descendants), brothers-in-law and sisters-in-law (and their antecedents and descendants), and includes adoptive relations, and any person sharing <Your> household (other than tenants and employees).
 
-            \\ ""Initial Public Offering"" means sale of common stock of the <Company> to the general public pursuant to a registration statement declared effective by the Securities and Exchange Commission under the <Securities Act>, other than a registration statement relating solely to the issuance of common stock pursuant to a business combination, employee incentive plan, or employee benefit plan.
+            \\ ""Initial Public Offering"" means sale of common stock of the <Company> to the general public under a registration statement declared effective by the Securities and Exchange Commission under the <Securities Act>, other than a registration statement relating solely to the issuance of common stock under a business combination, employee incentive plan, or employee benefit plan.
 
             \\ ""Involuntary Transfer"" means a transfer of <Covered Securities> by operation of law or other involuntary transfer, such as due to divorce or intestate transfer on death, but not any <Family Transfer>.
 
