@@ -4,7 +4,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
         \ Overview \ The following is a loose summary of some of the important parts of this agreement, with references to specific parts of this agreement:
 
-            \\ This agreement covers <Your> purchase of shares of common stock of the <Company>. The <Company> agrees to sell <You> stock in {Purchase and Sale}, and <You> agree to buy the stock 
+            \\ This agreement covers <Your> purchase of shares of common stock in the <Company>. The <Company> agrees to sell <You> stock in {Purchase and Sale}, and <You> agree to buy the stock 
 
             # {{#allIP}}
 
@@ -32,21 +32,21 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             # {{/allCash}}
 
-            If you are married, your spouse signs this agreement and related documents with <You>, since they may have rights in the stock, too.
+            If <You> are married, <Your> spouse signs this agreement and related documents with <You>, since they may have rights in property acquired during marriage.
 
-            \\ <Your> stock is subject to "vesting" under {Vesting}. Legally speaking, that means <You> give the <Company> a right to buy <Your> shares back from <You> in {Repurchase Option}. As <Your> stock vests under {Vesting Schedule}, that right applies to fewer and fewer of <Your> shares. In specific situations, vesting happens faster, or "accelerates", under {Acceleration}.
+            \\ <Your> stock is subject to "vesting" under {Vesting}. Legally, that means <You> give the <Company> a right to buy <Your> shares back from <You> in {Repurchase Option}. As <Your> stock vests under {Vesting Schedule}, that right applies to less of <Your> stock. In specific situations, vesting happens faster, or "accelerates", under {Acceleration}.
 
-            \\ To prevent <Your> shares falling into unfamiliar or unwelcome hands, <You> give the <Company> the right to buy <Your> shares instead in {Company's Right to Purchase on Involuntary Transfer}.
+            \\ To prevent <Your> shares falling into unfamiliar or unwelcome hands against your will, <You> give the <Company> the right to buy them instead in {Company's Right to Purchase on Involuntary Transfer}.
 
             \\ To help ensure that any future IPO goes well, <You> promise to agree to hold off selling <Your> shares immediately after the <Company> goes public in {Lock-up Agreement}.
 
-            \\ Selling stock, a "security" in legal terms, is highly regulated business. <You> make a number of statements in {Purchaser Statements about Securities and Tax} about <Your> relationship to the <Company>, <Your> plans for <Your> shares, and legal rules that limit how and when <You> might someday sell <Your> shares that matter under state and federal securities laws.
+            \\ Stock sales are highly regulated. <You> make statements in {Purchaser Statements about Securities and Tax} about <Your> relationship to the <Company>, <Your> plans for <Your> shares, and legal rules that limit how and when <You> might sell <Your> shares that are very important under securities laws.
 
-            \\ Tax laws also apply to <Your> purchase of stock, including the law about so-called "83(b) elections". <You> make several statements about tax in {Purchaser Statements about Securities and Tax}. Since <You> have decided to make an 83(b) election, <You> make a statements about <Your> choice and <Your> responsibility to file with the IRS in {Section 83(b) Election}.
+            \\ Tax laws also apply to <Your> purchase. <You> make several statements about tax in {Purchaser Statements about Securities and Tax}. Since <You> have decided to make an 83(b) election, <You> make a statements about <Your> choice and <Your> responsibility to file with the IRS in {Section 83(b) Election}.
 
-            \\ To protect the <Company>'s rights and prevent administrative mishaps, this agreement includes a number of process and legal mechanisms that affect <Your> stock, such as those in {Escrow of Unvested Shares}, {Restrictive Legends and Stop-Transfer Notices}, {Required Notices}.
+            \\ To protect the <Company>'s rights and prevent administrative mishaps, <You> and the <Company> agree to process and legal mechanisms that affect <Your> stock, such as those in {Escrow of Unvested Shares}, {Restrictive Legends and Stop-Transfer Notices}, and {Required Notices}.
 
-            \\ Some terms in this agreement have specific meanings under {Defined Terms}.
+            \\ Some terms in this agreement are given specific meanings in {Defined Terms}.
 
         \ Stock Sale \
 
