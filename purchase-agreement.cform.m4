@@ -18,17 +18,17 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             \\ <Your> stock is subject to "vesting" under {Vesting}. Legally speaking, that means <You> give the <Company> a right to buy <Your> shares back from <You> in {Repurchase Option}. As <Your> stock vests under {Vesting Schedule}, that right applies to fewer and fewer of <Your> shares. In specific situations, vesting happens faster, or "accelerates", under {Acceleration}.
 
-            \\ To prevent <Your> shares falling into unfamiliar or unwelcome hands, <You> give the <Company> the right to buy <Your> shares in their place in {Company's Right to Purchase on Involuntary Transfer}.
+            \\ To prevent <Your> shares falling into unfamiliar or unwelcome hands, <You> give the <Company> the right to buy <Your> shares instead in {Company's Right to Purchase on Involuntary Transfer}.
 
-            \\ To help ensure that any future IPO goes well, <You> also promise to agree to hold off selling <Your> shares immediately after the <Company> goes public in {Lock-up Agreement}.
+            \\ To help ensure that any future IPO goes well, <You> promise to agree to hold off selling <Your> shares immediately after the <Company> goes public in {Lock-up Agreement}.
 
             \\ Selling stock, a "security" in legal terms, is highly regulated business. <You> make a number of statements in {Purchaser Statements about Securities and Tax} about <Your> relationship to the <Company>, <Your> plans for <Your> shares, and legal rules that limit how and when <You> might someday sell <Your> shares that matter under state and federal securities laws.
 
-            \\ Tax laws also apply to <Your> purchase of stock, including the law about so-called "83(b) elections". <You> make several statements about tax in {Purchaser Statements about Securities and Tax}. Since <You> have decided to make an 83(b) election, <You> make a few statements about <Your> choice and <Your> responsibility to file the right form with the IRS in {Section 83(b) Election}.
+            \\ Tax laws also apply to <Your> purchase of stock, including the law about so-called "83(b) elections". <You> make several statements about tax in {Purchaser Statements about Securities and Tax}. Since <You> have decided to make an 83(b) election, <You> make a statements about <Your> choice and <Your> responsibility to file with the IRS in {Section 83(b) Election}.
 
             \\ To protect the <Company>'s rights and prevent administrative mishaps, this <Agreement> includes a number of process and legal mechanisms that affect <Your> stock, such as those in {Escrow of Unvested Shares}, {Restrictive Legends and Stop-Transfer Notices}, {Required Notices}.
 
-            \\ A number of terms used throughout this <Agreement> have specific meanings according to {Defined Terms}.
+            \\ A number of terms used in this <Agreement> have specific meanings under {Defined Terms}.
 
         \ Stock Sale \
 
