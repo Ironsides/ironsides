@@ -4,7 +4,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \ Overview \ The following is a loose summary of some of the important parts of this <Agreement>, with references to more detailed language:
 
-            \\ This <Agreement> covers <Your> purchase of common stock from the <Company>. The <Company> agrees to sell <You> stock in {Purchase and Sale}, and <You> agree to buy the stock 
+            \\ This <Agreement> covers <Your> purchase of shares of common stock of the <Company>. The <Company> agrees to sell <You> stock in {Purchase and Sale}, and <You> agree to buy the stock 
             # {{#allIP}}
             with intellectual property 
             # {{/allIP}}
