@@ -4,7 +4,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
         \ Overview \ The following is a loose summary of some of the important parts of this agreement, with references to specific parts of this agreement:
 
-            \\ This agreement covers <Your> purchase of shares of common stock in the <Company>. The <Company> agrees to sell <You> stock in {Purchase and Sale}, and <You> agree to buy the stock 
+            \\ This agreement covers <Your> purchase of shares of common stock in the <Company>. The <Company> agrees to sell <You> stock in {Shares}, and <You> agree to buy the stock 
 
             # {{#allIP}}
 
@@ -36,23 +36,23 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \\ <Your> stock is subject to "vesting" under {Vesting}. Legally, that means <You> give the <Company> a right to buy <Your> shares back from <You> in {Repurchase Option}. As <Your> stock vests under {Vesting Schedule}, that right applies to less of <Your> stock. In specific situations, vesting happens faster, or "accelerates", under {Acceleration}.
 
-            \\ To prevent <Your> shares falling into unfamiliar or unwelcome hands against your will, <You> give the <Company> the right to buy them instead in {Company's Right to Purchase on Involuntary Transfer}.
+            \\ To prevent <Your> shares falling into unfamiliar or unwelcome hands against your will, <You> give the <Company> the right to buy them instead in {Right to Purchase on Involuntary Transfer}.
 
-            \\ To help ensure that any future IPO goes well, <You> promise to agree to hold off selling <Your> shares immediately after the <Company> goes public in {Lock-up Agreement}.
+            \\ To help ensure that any future IPO goes well, <You> promise to agree to hold off selling <Your> shares immediately after the <Company> goes public in {Lock-Up}.
 
-            \\ Stock sales are highly regulated. <You> make statements in {Purchaser Statements about Securities and Tax} about <Your> relationship to the <Company>, <Your> plans for <Your> shares, and legal rules that limit how and when <You> might sell <Your> shares that are very important under securities laws.
+            \\ Stock sales are highly regulated. <You> make statements in {Statements about Securities and Tax} about <Your> relationship to the <Company>, <Your> plans for <Your> shares, and legal rules that limit how and when <You> might sell <Your> shares that are very important under securities laws.
 
-            \\ Tax laws also apply to <Your> purchase. <You> make several statements about tax in {Purchaser Statements about Securities and Tax}. Since <You> have decided to make an 83(b) election, <You> make a statements about <Your> choice and <Your> responsibility to file with the IRS in {Section 83(b) Election}.
+            \\ Tax laws also apply to <Your> purchase. <You> make several statements about tax in {Statements about Securities and Tax}. Since <You> have decided to make an 83(b) election, <You> make a statements about <Your> choice and <Your> responsibility to file with the IRS in {83(b) Election}.
 
-            \\ To protect the <Company>'s rights and prevent administrative mishaps, <You> and the <Company> agree to process and legal mechanisms that affect <Your> stock, such as those in {Escrow of Unvested Shares}, {Restrictive Legends and Stop-Transfer Notices}, and {Required Notices}.
+            \\ To protect the <Company>'s rights and prevent administrative mishaps, <You> and the <Company> agree to process and legal mechanisms that affect <Your> stock, such as those in {Escrow}, {Restrictive Legends and Stop-Transfer Notices}, and {Shareholder Notices}.
 
             \\ Some terms in this agreement are given specific meanings in {Defined Terms}.
 
-        \ Stock Sale \
+        \ Stock Purchase \
 
-            \ Purchase and Sale \ Subject to the terms and conditions of this agreement, on the date of this agreement or on another date agreed on by the parties (the ""Purchase Date""), the <Company> shall issue and sell to <You>, and <You> shall purchase from the <Company>, [Number of Shares] shares of the <Company>'s common stock (""Your Shares"").
+            \ Shares \ Subject to the terms and conditions of this agreement, on the date of this agreement or on another date agreed on by the parties (the ""Purchase Date""), the <Company> shall issue and sell to <You>, and <You> shall purchase from the <Company>, [Number of Shares] shares of the <Company>'s common stock (""Your Shares"").
 
-            \ Purchase Price \ On the <Purchase Date>, <You> shall pay [Purchase Price] per share for <Your Shares> (the ""Original Price Per Share""), for a total purchase price of [Total Purchase Price] (the ""Total Purchase Price"").
+            \ Purchase Price \ On the <Purchase Date>, <You> shall pay [Purchase Price] per share for <Your Shares> (the ""Original Price per Share""), for a total purchase price of [Total Purchase Price] (the ""Total Purchase Price"").
 
             # {{#allIP}}
 
@@ -80,21 +80,21 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \ Assignments \ <You> make the following assignments (the ""Assignments"").
 
-                \ Assignment of IP \ As of the date of this agreement, <You> assign all <Your> rights in <Company-Related IP> to the <Company>. Those rights include
+                \ Assignment of Intellectual Property \ As of the date of this agreement, <You> assign all <Your> rights in <Company-Related Intellectual Property> to the <Company>. Those rights include
 
-                    \\ ownership of <Company-Related IP>
+                    \\ ownership of <Company-Related Intellectual Property>
 
-                    \\ all rights to take <Legal Action> for <Infringement> of <Company-Related IP>
+                    \\ all rights to take <Legal Action> for <Infringement> of <Company-Related Intellectual Property>
 
-                    \\ all rights to seek <Legal Compensation> for <Infringement> of <Company-Related IP>
+                    \\ all rights to seek <Legal Compensation> for <Infringement> of <Company-Related Intellectual Property>
 
-                    \\ all other rights <You> have in <Company-Related IP>
+                    \\ all other rights <You> have in <Company-Related Intellectual Property>
 
                 \ Assignment of Equipment \ As of the date of this agreement, <You> assign all <Company-Related Equipment> to the <Company>.
 
-            \ Further Steps by Assignor \ <You> shall do everything the <Company> reasonably believes necessary to make and confirm the <Assignments>. For example, <You> shall sign and deliver any additional documents needed. <Company> shall give <You> notice that action is required and provide all necessary documentation and reimburse <You> for all reasonable out-of-pocket expenses.
+            \ Further Steps \ <You> shall do everything the <Company> reasonably believes necessary to make and confirm the <Assignments>. For example, <You> shall sign and deliver any additional documents needed. <Company> shall give <You> notice that action is required and provide all necessary documentation and reimburse <You> for all reasonable out-of-pocket expenses.
 
-            \ Further Steps by Company on Assignor's Behalf \
+            \ Further Steps by Company on Your Behalf \
 
                 \ Company's Authority \ <Company> may do any or all of the following on <Your> behalf, as <Company> decides
 
@@ -108,13 +108,13 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                 \ Legal Intent \ In legal terms of art, <Company> and <You> intend {Company's Authority} and {Substitution} to appoint <Company> as <Your> "attorney in fact with full right of substitution".
 
-            \ Assignor Statements for Company \ <You> states that all of the following are true, to the best of <Your> knowledge, as of the date of this agreement.
+            \ Statements about Property \ <You> states that all of the following are true, to the best of <Your> knowledge, as of the date of this agreement.
 
-                # TODO This is circular. Company-Related IP is defined in terms of rights that Assignor has.
+                # TODO This is circular. Company-Related Intellectual Property is defined in terms of rights that Your have.
 
-                # TODO This statement is incorrect as to any IP that Assignor acquired, rather than invented or authored.
+                # TODO This statement is incorrect as to any Intellectual Property that You acquired, rather than invented or authored.
 
-                # \\ <You> own and either invented or authored all <Company-Related IP>.
+                # \\ <You> own and either invented or authored all <Company-Related Intellectual Property>.
 
                 \\ <You> have all the legal rights needed to make the <Assignments>.
 
@@ -166,7 +166,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                 # {{^singleTrigger}}
 
-                \\ ""Acceleration Event"" means any of the following that happens in connection with or following a <Change of Control>:
+                \\ ""Acceleration Trigger"" means any of the following that happens in connection with or following a <Change of Control>:
 
                     \\ <Your> <Continuous Service Status> terminates, other than as a result of <Your> death or <Disability>, and the <Company> determines in good faith that there was no <Good Reason to Terminate>.
 
@@ -182,13 +182,13 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                     \\ <You> are a <Director> of, but neither an <Employee> nor a <Consultant> of, the <Company> or its successor on consummation of a <Change of Control> and <You> are removed from, or is not reelected to, the <Board> in connection with or following the <Change of Control>.
 
-                \ Double-Trigger Acceleration \ [Acceleration Percentage] of then <Unvested Shares> (""Accelerated Shares""), rounded up to the nearest whole share, will <Vest> on any <Acceleration Event>. In case of an <Asset Sale>, if the acquirer of the <Company>'s assets does not agree to assume this agreement, or to substitute an equal award or right for this agreement, and <You> transfer <Your> employment to the acquirer in connection with the <Asset Sale>, then <Accelerated Shares> will <Vest> immediately before, and contingent on, the consummation of the <Asset Sale>. Otherwise, <Accelerated Shares> will <Vest> immediately before the date of the <Acceleration Event>.
+                \ Double-Trigger Acceleration \ [Acceleration Percentage] of then <Unvested Shares> (""Accelerated Shares""), rounded up to the nearest whole share, will <Vest> on any <Acceleration Trigger>. In case of an <Asset Sale>, if the acquirer of the <Company>'s assets does not agree to assume this agreement, or to substitute an equal award or right for this agreement, and <You> transfer <Your> employment to the acquirer in connection with the <Asset Sale>, then <Accelerated Shares> will <Vest> immediately before, and contingent on, the consummation of the <Asset Sale>. Otherwise, <Accelerated Shares> will <Vest> immediately before the date of the <Acceleration Trigger>.
 
                 # {{/singleTrigger}}
 
             \ Repurchase Option Terms \
 
-                \\ The exercise price of the <Repurchase Option> will be the <Original Price Per Share>, adjusted for any stock splits, stock dividends, and the like, multiplied by the number of <Unvested Shares> for which the <Repurchase Option> is exercised (the ""Repurchase Price"").
+                \\ The exercise price of the <Repurchase Option> will be the <Original Price per Share>, adjusted for any stock splits, stock dividends, and the like, multiplied by the number of <Unvested Shares> for which the <Repurchase Option> is exercised (the ""Repurchase Price"").
 
                 \\ The <Repurchase Option> will expire at 23:59 San Francisco time on the date [Repurchase Option Days] calendar days after the date of <Termination> (the ""Repurchase Option Expiration Date"").
 
@@ -200,9 +200,9 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
         # TODO refactor this condition out
 
-        \ Right of First Refusal \ Subject to {Exception for Family Transfers}:
+        \ Right of First Refusal \ Subject to {Family Exception}:
 
-            \\ The <Company> will have a right of first refusal to purchase any <Covered Securities> (""Right of First Refusal""). Neither <You> nor any other holder of <Covered Securities> subject to this agreement (""Holder"") shall sell or otherwise transfer <Covered Securities>, for a price, by gift, by operation of law, or otherwise, except under {Exercise of Right of First Refusal} or {Holder's Right to Transfer}.
+            \\ The <Company> will have a right of first refusal to purchase any <Covered Securities> (""Right of First Refusal""). Neither <You> nor any other holder of <Covered Securities> subject to this agreement (""Holder"") shall sell or otherwise transfer <Covered Securities>, for a price, by gift, by operation of law, or otherwise, except under {Exercise of Right of First Refusal} or {Right to Transfer}.
 
             \ Notice of Proposed Transfer \ Each <Holder> shall give the <Company> notice of any intent to sell or otherwise transfer <Covered Securities> (""Proposed Transfer Notice""). The <Holder> shall state in the <Proposed Transfer Notice>:
 
@@ -218,9 +218,9 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \ Exercise of Right of First Refusal \ At any time within 30 calendar days after receipt of a <Proposed Transfer Notice>, the <Company> may elect to purchase any or all the <Covered Securities> the <Holder> intends to transfer, at the <Transfer Purchase Price> and on the <Proposed Transfer Terms> (or terms as similar as possible), by giving notice to the <Holder>. If the <Transfer Purchase Price> consists of no legal "consideration" (for example, in the case of a gift), the purchase price will be the <Fair Market Value> of the <Covered Securities> as of the date of purchase. If the <Transfer Purchase Price> includes non-cash property, the cash value of the non-cash property will be its <Fair Market Value> as of the date of purchase.
 
-            \ Payment \ The <Company> shall pay the <Transfer Purchase Price> by <Check and Canceled Debt> within 60 calendar days of receipt of <Proposed Transfer Notice>.
+            \ Payment for Right of First Refusal \ The <Company> shall pay the <Transfer Purchase Price> by <Check and Canceled Debt> within 60 calendar days of receipt of <Proposed Transfer Notice>.
 
-            \ Holder's Right to Transfer \
+            \ Right to Transfer \
 
                 \\ A <Holder> may sell or otherwise transfer any unpurchased <Proposed Transfer Securities>, subject to all the following conditions:
 
@@ -236,13 +236,13 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                 \\ If <Proposed Transfer Securities> described in <Proposed Transfer Notice> are not transferred to a <Proposed Transferee> before their <Transfer Deadline>, but the <Holder> still intends to sell the <Proposed Transfer Securities>, or whenever a <Holder> proposes price or other terms more favorable to a <Proposed Transferee>, the <Holder> shall give new <Proposed Transfer Notice>, and {Right of First Refusal} shall apply to that proposed transfer as if the new <Proposed Transfer Notice> were the first <Proposed Transfer Notice> for the transfer.
 
-            \ Exception for Family Transfers \ Any <Family Transfer> will be exempt from {Right of First Refusal}. Recipients of <Covered Securities> by <Family Transfer> will receive and hold transferred <Covered Securities> subject to, and there will be no further transfer of such <Covered Securities> except under, {Limits on Transfer}.
+            \ Family Exception \ Any <Family Transfer> will be exempt from {Right of First Refusal}. Recipients of <Covered Securities> by <Family Transfer> will receive and hold transferred <Covered Securities> subject to, and there will be no further transfer of such <Covered Securities> except under, {Limits on Transfer}.
 
-        \ Company's Right to Purchase on Involuntary Transfer \
+        \ Right to Purchase on Involuntary Transfer \
 
             \\ Any <Holder> shall give the Secretary of the <Company> prompt notice of any <Involuntary Transfer> (""Involuntary Transfer Notice"").
 
-            \\ on any <Involuntary Transfer>, the <Company> will have an irrevocable and exclusive option (an ""Involuntary Transfer Option"") to repurchase all or any portion of the <Covered Securities> transferred.
+            \\ On any <Involuntary Transfer>, the <Company> will have an irrevocable and exclusive option (an ""Involuntary Transfer Option"") to repurchase all or any portion of the <Covered Securities> transferred.
 
             \\ The exercise price of an <Involuntary Transfer Option> will be the <Fair Market Value> of the <Covered Securities> on the date of the <Involuntary Transfer>.
 
@@ -250,9 +250,9 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \\ The <Company> may exercise an <Involuntary Transfer Option> any time before its expiration date.
 
-        \ Assignment of Company Purchase Rights \ The <Company> may assign all or part of any <Company> right to purchase <Covered Securities>, such as the <Repurchase Option>, <Right of First Refusal>, and <Involuntary Transfer Option>, for any number of <Covered Securities> and any proposed transfer, to any number of other parties.
+        \ Assignment of Company Rights \ The <Company> may assign all or part of any <Company> right to purchase <Covered Securities>, such as the <Repurchase Option>, <Right of First Refusal>, and <Involuntary Transfer Option>, for any number of <Covered Securities> and any proposed transfer, to any number of other parties.
 
-        \ Termination of Company Purchase Rights \ The <Right of First Refusal> and any <Involuntary Transfer Option> will terminate on the first <Initial Public Offering> or <Acquisition by a Public Company>.
+        \ Termination of Company Rights \ The <Right of First Refusal> and any <Involuntary Transfer Option> will terminate on the first <Initial Public Offering> or <Acquisition by a Public Company>.
 
         # TODO Double check "IPO"s exclusion of bus. combo and ESOP registrations
 
@@ -260,15 +260,15 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
         # TODO double-check parenthetical (except for those being registered)
 
-        \ Lock-up Agreement \ If requested by the <Company> or the underwriters in connection with an <Initial Public Offering>, <You> shall not sell, short sell, loan, grant any option to purchase, or otherwise dispose of any securities of the <Company>, regardless of how <You> acquired them (except for those being registered) without the prior written consent of the <Company> or the underwriters, for 180 days from the effective date of the registration statement, plus any additional period required by FINRA rules. If requested by the <Company> or the underwriters, <You> shall enter into an agreement requested by the underwriters that reflects that restriction (a ""Lock-Up Agreement"").
+        \ Lock-Up \ If requested by the <Company> or the underwriters in connection with an <Initial Public Offering>, <You> shall not sell, short sell, loan, grant any option to purchase, or otherwise dispose of any securities of the <Company>, regardless of how <You> acquired them (except for those being registered) without the prior written consent of the <Company> or the underwriters, for 180 days from the effective date of the registration statement, plus any additional period required by FINRA rules. If requested by the <Company> or the underwriters, <You> shall enter into an agreement requested by the underwriters that reflects that restriction (a ""Lock-Up Agreement"").
 
-        \ Escrow of Unvested Shares \
+        \ Escrow \
 
             \\ To facilitate enforcement of {Limits on Transfer}, <You> shall deliver a stock power in the form of {Stock Power} signed by <You> and <Your> spouse (if required for transfer), in blank, as well as stock certificates for <Your Shares>, if any, to the Secretary of the <Company> or the Secretary's designee as escrow holder (""Escrow Holder""). <Escrow Holder> will hold the stock power, <Your Shares>, and any stock certificates in escrow, and to take all actions and make transfer and releases required under this agreement. <You> acknowledge that the <Escrow Holder> is irrevocably appointed escrow holder with the these authorities, and that the appointment is an important reason <Company> is willing to enter into this agreement.
 
             \\ <Escrow Holder> will not be liable to any party to this agreement (or to any other party). The <Escrow Holder> may rely on any letter, notice, or other document with a purportedly genuine signature, and may resign at any time. If the <Escrow Holder> resigns, the <Board> may appoint a new new escrow holder.
 
-        \ Purchaser Statements about Securities and Tax \ <You> state that all the following are true:
+        \ Statements about Securities and Tax \ <You> state that all the following are true:
 
             \\ <You> are aware of the <Company>'s business affairs and financial condition and has enough information about the <Company> to make an informed and knowledgeable decision to purchase <Your Shares>. <You> are purchasing <Your Shares> only for investment and for <Your> own account, not with a view to, or for resale in connection with, any "distribution" of <Covered Securities> under the <Securities Act> or state law. <You> do not intend to transfer any <Covered Securities>.
 
@@ -308,15 +308,15 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                 \\ The <Company> has fully exercised the <Repurchase Option>, or the <Repurchase Option> has expired.
 
-                \\ The restrictions of {Lock-up Agreement} and any <Lock-Up Agreement> have expired.
+                \\ The restrictions of {Lock-Up} and any <Lock-Up Agreement> have expired.
 
             When a <Holder>'s <Covered Securities> are no longer subject to the legend, the <Holder> may request that the <Company> issue a new stock certificate (or notice of issuance, for uncertificated shares) for those <Covered Securities> without the legend, and the <Company> shall do so.
 
-        \ Required Notices \ <You> acknowledge that the <Covered Securities> are issued and will be held subject to all the provisions of {Restrictive Legends and Stop-Transfer Notices} and the <Company>'s <Governing Documents>. Copies of the <Governing Documents> are on file with the Secretary of the <Company>. The <Company> will provide a statement of the powers, designations, preferences, and relative, participating, optional, or other special rights of each class or series of stock of the <Company> and the qualifications, limitations, or restrictions of such preferences and/or rights, as well as a copy of that statement, to any stockholder on request and without charge at the principal office of the <Company>. <You> acknowledge that the provisions of {Restrictive Legends and Stop-Transfer Notices} will constitute the notices required by Sections 151(f) and 202(a) of the Delaware General Corporation Law (""DGCL""). <You> waive the requirement of <DGCL> section 151(f) that it receive the written notice provided for in <DGCL> sections 151(f) and 202(a) within a reasonable time after the issuance of <Covered Securities>.
+        \ Shareholder Notices \ <You> acknowledge that the <Covered Securities> are issued and will be held subject to all the provisions of {Restrictive Legends and Stop-Transfer Notices} and the <Company>'s <Governing Documents>. Copies of the <Governing Documents> are on file with the Secretary of the <Company>. The <Company> will provide a statement of the powers, designations, preferences, and relative, participating, optional, or other special rights of each class or series of stock of the <Company> and the qualifications, limitations, or restrictions of such preferences and/or rights, as well as a copy of that statement, to any stockholder on request and without charge at the principal office of the <Company>. <You> acknowledge that the provisions of {Restrictive Legends and Stop-Transfer Notices} will constitute the notices required by Sections 151(f) and 202(a) of the Delaware General Corporation Law (""DGCL""). <You> waive the requirement of <DGCL> section 151(f) that it receive the written notice provided for in <DGCL> sections 151(f) and 202(a) within a reasonable time after the issuance of <Covered Securities>.
 
-        \ Section 83(b) Election \
+        \ 83(b) Election \
 
-            \ Purchaser Statements about 83(b) \ <You> state that all the following are true:
+            \ Statements about 83(b) \ <You> state that all the following are true:
 
                 \\ <You> understand that Section 83(a) of the Internal Revenue Code of 1986 (the ""Tax Code"") taxes the difference between the amount paid for <Your Shares> and the fair market value of the <Covered Securities> as of the date they <Vest> as ordinary income.
 
@@ -344,7 +344,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             # {{^allCash}}
 
-            \\ ""Assigned Assets"" means the <Company-Related IP> and <Company-Related Equipment> assigned by the <Assignments>.
+            \\ ""Assigned Assets"" means the <Company-Related Intellectual Property> and <Company-Related Equipment> assigned by the <Assignments>.
 
             # {{/allCash}}
 
@@ -402,17 +402,17 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                 \\ The <Equipment> was primarily used in or related to <Company Business>.
 
-            \\ ""Company-Related IP"" means all of
+            \\ ""Company-Related Intellectual Property"" means all of
 
-                \\ all <IP Rights> in <Technology> relating to <Company Business> (""Company Technology"")
+                \\ all <Intellectual Property Rights> in <Technology> relating to <Company Business> (""Company Technology"")
 
                 \\ every <Derivative> of any <Company Technology>
 
-                \\ all <IP Rights> in any <Company Technology>
+                \\ all <Intellectual Property Rights> in any <Company Technology>
 
                 \\ every <Embodiment> of any <Company Technology>
 
-                \\ all <IP Rights> in <Business Assets> relating to <Company Business>
+                \\ all <Intellectual Property Rights> in <Business Assets> relating to <Company Business>
 
             \\ ""Computer Code"" means computer code and software configuration, whether in source, script, or compiled form, for any software or hardware platform and stored in any format.
 
@@ -468,7 +468,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                 \\ documentation, drafts, papers, designs, schematics, diagrams, models, prototypes, <Computer Code>, computer-stored data, computer storage media, manuscripts, and other items
 
-                \\ that describe, embody, record, or store all or any part of a <Technology>, any <Derivative>, any <IP Rights> or related information.
+                \\ that describe, embody, record, or store all or any part of a <Technology>, any <Derivative>, any <Intellectual Property Rights> or related information.
 
             # {{/allCash}}
 
@@ -528,7 +528,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             # {{^allCash}}
 
-            \\ ""Infringement"" means infringement of <IP Rights>, before or after the date of this agreement.
+            \\ ""Infringement"" means infringement of <Intellectual Property Rights>, before or after the date of this agreement.
 
             # {{/allCash}}
 
@@ -538,9 +538,9 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             # {{^allCash}}
 
-            \\ ""IP Rights"" means
+            \\ ""Intellectual Property Rights"" means
 
-                \\ patents, patent rights, copyrights, mask work rights, moral rights, trade names, trademarks, service marks, rights in trade dress and packaging, trade secrets, know-how, goodwill, Internet-based service accounts and account names, domain names, intellectual property rights and proprietary rights, and registrations and applications for <IP Rights>
+                \\ patents, patent rights, copyrights, mask work rights, moral rights, trade names, trademarks, service marks, rights in trade dress and packaging, trade secrets, know-how, goodwill, Internet-based service accounts and account names, domain names, intellectual property rights and proprietary rights, and registrations and applications for <Intellectual Property Rights>
 
                 \\ under the laws of the United States and any other state, country, or jurisdiction
 
