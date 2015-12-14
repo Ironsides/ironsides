@@ -608,7 +608,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             # TODO double-check "electronic system"
 
-            \ Electronic Delivery \ The <Company> may, in its sole discretion, deliver documents related to this agreement and any notices required by law or the <Company>'s <Governing Documents> to <You> by e-mail or other electronic means. <You> consent to conduct business electronically, receive such documents and notices by electronic means, and sign documents electronically. <You> further agree to participate through an on-line or electronic system established and maintained by the <Company> or a third party designated by the <Company>.
+            \ Electronic Delivery \ The <Company> may, in its sole discretion, deliver documents related to this agreement and any notices required by law or the <Company>'s <Governing Documents> to <You> by e-mail or other electronic means. <You> consent to conduct business electronically, receive such documents and notices by electronic means, and sign documents electronically. <You> further agree to participate through an on-line or electronic system established and maintained by the <Company> or a another designated by the <Company>.
 
             \ Consent of Spouse \ If <Your> are married as of the date of this agreement, <You> shall deliver a statement that <Your> spouse has read and approves this agreement, signed by <Your> spouse.
 
