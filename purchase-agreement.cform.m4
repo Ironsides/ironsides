@@ -1,4 +1,4 @@
-This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effective Date] between [Company Name], a Delaware corporation (the ""Company""), and [Name] (""You"", ""Your"").
+This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effective Date] between [Company Name], a Delaware corporation (the ""Company""), and [Name] (""You"").
 
     \\ The parties agree:
 
@@ -344,6 +344,8 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
             \\ ""Subsidiary"" means any corporation (other than the <Company>) in an unbroken chain of corporations beginning with the <Company> if each of the corporations other than the last corporation in the unbroken chain owns stock possessing 50% or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
 
             \\ ""Termination"" means voluntary or involuntary termination of <Your> <Continuous Service Status> for any reason (including death or <Disability>), with or without <Good Reason to Terminate>.
+
+            \\ ""Your"" means belonging to <Your>.
 
         \ Miscellaneous \
 
