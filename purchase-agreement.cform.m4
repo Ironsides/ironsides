@@ -77,7 +77,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                 # {{#singleTrigger}}
 
-                \ Accelerated Vesting \ [Acceleration Percentage] of then <Unvested Shares> (""Accelerated Shares""), rounded up to the nearest whole share, will <Vest> immediately before any <Change of Control>.
+                \ Single-Trigger Acceleration \ [Acceleration Percentage] of then <Unvested Shares> (""Accelerated Shares""), rounded up to the nearest whole share, will <Vest> immediately before any <Change of Control>.
 
                 # {{/singleTrigger}}
 
@@ -95,7 +95,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                     \\ <You> are a <Director> of, but neither an <Employee> nor a <Consultant> of, the <Company> or its successor on consummation of a <Change of Control> and <You> are removed from, or is not reelected to, the <Board> in connection with or following the <Change of Control>.
 
-                \ Accelerated Vesting \ [Acceleration Percentage] of then <Unvested Shares> (""Accelerated Shares""), rounded up to the nearest whole share, will <Vest> on any <Acceleration Event>. In case of an <Asset Sale>, if the acquirer of the <Company>'s assets does not agree to assume this agreement, or to substitute an equal award or right for this agreement, and <You> transfer <Your> employment to the acquirer in connection with the <Asset Sale>, then <Accelerated Shares> will <Vest> immediately before, and contingent on, the consummation of the <Asset Sale>. Otherwise, <Accelerated Shares> will <Vest> immediately before the date of the <Acceleration Event>.
+                \ Double-Trigger Acceleration \ [Acceleration Percentage] of then <Unvested Shares> (""Accelerated Shares""), rounded up to the nearest whole share, will <Vest> on any <Acceleration Event>. In case of an <Asset Sale>, if the acquirer of the <Company>'s assets does not agree to assume this agreement, or to substitute an equal award or right for this agreement, and <You> transfer <Your> employment to the acquirer in connection with the <Asset Sale>, then <Accelerated Shares> will <Vest> immediately before, and contingent on, the consummation of the <Asset Sale>. Otherwise, <Accelerated Shares> will <Vest> immediately before the date of the <Acceleration Event>.
                 # {{/singleTrigger}}
 
             \ Repurchase Option Terms \
