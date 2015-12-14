@@ -80,7 +80,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \ Assignments \ <You> make the these assignments (the ""Assignments""):
 
-                \ Assignment of Intellectual Property \ As of the date of this agreement, <You> assign all <Your> rights in <Company-Related Intellectual Property> to the <Company>. Those rights include
+                \ Assignment of Intellectual Property \ As of the date of this agreement, <You> assign all <Your> rights in <Company-Related Intellectual Property> to the <Company>. Those rights include:
 
                     \\ ownership of <Company-Related Intellectual Property>
 
@@ -104,9 +104,9 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                     \\ <Company> may defend against or settle any <Legal Action> involving <Assigned Assets>.
 
-                \ Substitution \ <Company> may substitute another in its place to take action under {Company's Authority}.
+                <Company> may substitute another in its place to take action under {Company's Authority}.
 
-                \ Legal Intent \ In legal terms of art, <Company> and <You> intend {Company's Authority} and {Substitution} to appoint <Company> as <Your> "attorney in fact with full right of substitution".
+                \ Legal Intent \ In legal terms of art, <Company> and <You> intend {Company's Authority} to appoint <Company> as <Your> "attorney in fact with full right of substitution".
 
             \ Statements about Property \ <You> states that all of these are true, to the best of <Your> knowledge, as of the date of this agreement:
 
