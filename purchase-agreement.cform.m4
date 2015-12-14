@@ -68,11 +68,10 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \ Repurchase Option \ On <Termination>, the <Company> will have an irrevocable and exclusive option (the ""Repurchase Option"") to repurchase all or any portion of <Your Shares> held by <You> as of <Termination> that have not yet been released from the <Repurchase Option> (""Unvested Shares""). [Shares Subject to Vesting] of <Your Shares> will start subject to the <Repurchase Option> (the ""Vesting Shares"").
 
-            \ Vesting Schedule \ Subject to {Vesting Schedule Stops on Termination} and {Acceleration}, <Vesting Shares> will release from the <Repurchase Option> (""Vest"") as follows:
+            \ Vesting Schedule \ Subject to {Acceleration}, <Vesting Shares> will release from the <Repurchase Option> (""Vest"") as follows:
                 \\ [Cliff Shares] <Vesting Shares> will <Vest> on [Cliff Date] (the ""Cliff"").
                 \\ An additional [Vesting Increment] <Vesting Shares> will <Vest> on the [Vesting Day] day of each month (or the last day of the month, if there is no such day) after the <Cliff>, until all <Vesting Shares> <Vest>.
-
-            \ Vesting Schedule Stops on Termination \ No <Vesting Shares> will <Vest> under {Vesting Schedule} on or after the date of <Termination>.
+                \\ No <Vesting Shares> will <Vest> on or after the date of <Termination>.
 
             \ Acceleration \
 
