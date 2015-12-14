@@ -1,23 +1,23 @@
-This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effective Date] between [Company Name], a Delaware corporation (the ""Company""), and [Name] (""Purchaser"").
+This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effective Date] between [Company Name], a Delaware corporation (the ""Company""), and [Name] (""You"", ""Your"").
 
     \\ The parties agree:
 
         \ Stock Sale \
 
-            \ Purchase and Sale \ Subject to the terms and conditions of this <Agreement>, on the date of this <Agreement> or on another date agreed on by the parties (the ""Purchase Date""), the <Company> shall issue and sell to <Purchaser>, and <Purchaser> shall purchase from the <Company>, [Number of Shares] shares of the <Company>'s common stock (the ""Shares"").
+            \ Purchase and Sale \ Subject to the terms and conditions of this <Agreement>, on the date of this <Agreement> or on another date agreed on by the parties (the ""Purchase Date""), the <Company> shall issue and sell to <You>, and <You> shall purchase from the <Company>, [Number of Shares] shares of the <Company>'s common stock (the ""Shares"").
 
-            \ Purchase Price \ On the <Purchase Date>, <Purchaser> shall pay [Purchase Price] per share for the <Shares> (the ""Original Price Per Share""), for a total purchase price of [Total Purchase Price] (the ""Total Purchase Price"").
+            \ Purchase Price \ On the <Purchase Date>, <You> shall pay [Purchase Price] per share for the <Shares> (the ""Original Price Per Share""), for a total purchase price of [Total Purchase Price] (the ""Total Purchase Price"").
             # {{#allIP}}
-            <Purchaser> shall pay the <Total Purchase Price> by entering into the agreement attached as {IP Assignment Form}, by which <Purchaser> assigns assets to the <Company>.
+            <You> shall pay the <Total Purchase Price> by entering into the agreement attached as {IP Assignment Form}, by which <You> assign assets to the <Company>.
             # {{/allIP}}
             # {{#allCash}}
-            <Purchaser> shall pay the <Total Purchase Price> by check made out to the <Company>.
+            <You> shall pay the <Total Purchase Price> by check made out to the <Company>.
             # {{/allCash}}
             # {{#cashAndIP}}
-            <Purchaser> shall pay half the <Total Purchase Price> by entering into the agreement attached as {IP Assignment Form}, by which <Purchaser> assigns assets to the <Company>, and the other half of the <Total Purchase Price> by check made out to the <Company>.
+            <You> shall pay half the <Total Purchase Price> by entering into the agreement attached as {IP Assignment Form}, by which <You> assign assets to the <Company>, and the other half of the <Total Purchase Price> by check made out to the <Company>.
             #{{/cashAndIP}}
 
-            \ Record of Ownership \ On the <Purchase Date>, <Company> shall list the <Shares> in <Purchaser>'s name as of the <Purchase Date> in the <Company>'s stock ledger and list of stockholders, or with the authorized transfer of the <Company> if it has one. On <Purchaser>'s request, the <Company> shall give <Purchaser> a written notice of issuance for the <Shares>.
+            \ Record of Ownership \ On the <Purchase Date>, <Company> shall list the <Shares> in <Your> name as of the <Purchase Date> in the <Company>'s stock ledger and list of stockholders, or with the authorized transfer of the <Company> if it has one. On <Your> request, the <Company> shall give <You> a written notice of issuance for the <Shares>.
 
         \ Limits on Transfer \
 
@@ -31,13 +31,13 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
                 \\ all new, substituted or additional securities or other property to which holders of <Covered Securities> are entitled as owners of those securities.
 
-            \\ <Purchaser> shall not assign, encumber, or dispose of any interest in <Covered Securities> except to the extent allowed by, and in compliance with, both this <Agreement> and securities laws.
+            \\ <You> shall not assign, encumber, or dispose of any interest in <Covered Securities> except to the extent allowed by, and in compliance with, both this <Agreement> and securities laws.
 
             \\ All recipients of <Covered Securities> or any interest in <Covered Securities> will receive and hold such <Covered Securities> and interests subject to the provisions of this <Agreement>, such as the <Repurchase Option>. Any sale or other transfer of the <Covered Securities> in violation of this <Agreement> is void.
 
         \ Vesting \
 
-            \ Repurchase Option \ On <Termination>, the <Company> will have an irrevocable and exclusive option (the ""Repurchase Option"") to repurchase all or any portion of the <Shares> held by <Purchaser> as of <Termination> that have not yet been released from the <Repurchase Option> (""Unvested Shares""). [Shares Subject to Vesting] of the <Shares> will start subject to the <Repurchase Option> (the ""Vesting Shares"").
+            \ Repurchase Option \ On <Termination>, the <Company> will have an irrevocable and exclusive option (the ""Repurchase Option"") to repurchase all or any portion of the <Shares> held by <You> as of <Termination> that have not yet been released from the <Repurchase Option> (""Unvested Shares""). [Shares Subject to Vesting] of the <Shares> will start subject to the <Repurchase Option> (the ""Vesting Shares"").
 
             \ Vesting Schedule \ Subject to {Vesting Schedule Stops on Termination} and {Acceleration}, <Vesting Shares> will release from the <Repurchase Option> (""Vest"") as follows:
                 \\ [Cliff Shares] <Vesting Shares> will <Vest> on [Cliff Date] (the ""Cliff"").
@@ -57,17 +57,17 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
                 \\ ""Acceleration Event"" means any of the following that happens in connection with or following a <Change of Control>:
 
-                    \\ <Purchaser>'s <Continuous Service Status> terminates, other than as a result of <Purchaser>'s death or <Disability>, and the <Company> determines in good faith that there was no <Good Reason to Terminate>.
+                    \\ <Your> <Continuous Service Status> terminates, other than as a result of <Your> death or <Disability>, and the <Company> determines in good faith that there was no <Good Reason to Terminate>.
 
-                    \\ <Purchaser> resigns as follows:
-                        \\ <Purchaser> gives written notice to the <Company> of a <Good Reason to Resign> within 60 calendar days of when it happens (""Resignation Notice""),
+                    \\ <You> resign as follows:
+                        \\ <You> give written notice to the <Company> of a <Good Reason to Resign> within 60 calendar days of when it happens (""Resignation Notice""),
                         \\ the <Company> does not act to remove the <Good Reason to Resign> within 30 calendar days of receiving <Resignation Notice>,
-                        \\ <Purchaser> resigns effective no later than 60 calendar days after giving <Resignation Notice>, and
-                        \\ <Purchaser>'s <Continuous Service Status> terminates on resignation.
+                        \\ <You> resign effective no later than 60 calendar days after giving <Resignation Notice>, and
+                        \\ <Your> <Continuous Service Status> terminates on resignation.
 
-                    \\ <Purchaser> is a <Director> of, but neither an <Employee> nor a <Consultant> of, the <Company> or its successor on consummation of a <Change of Control> and <Purchaser> is removed from, or is not reelected to, the <Board> in connection with or following the <Change of Control>.
+                    \\ <You> are a <Director> of, but neither an <Employee> nor a <Consultant> of, the <Company> or its successor on consummation of a <Change of Control> and <You> are removed from, or is not reelected to, the <Board> in connection with or following the <Change of Control>.
 
-                \ Accelerated Vesting \ [Acceleration Percentage] of then <Unvested Shares> (""Accelerated Shares""), rounded up to the nearest whole share, will <Vest> on any <Acceleration Event>. In case of an <Asset Sale>, if the acquirer of the <Company>'s assets does not agree to assume this <Agreement>, or to substitute an equal award or right for this <Agreement>, and <Purchaser> transfers <Purchaser>'s employment to the acquirer in connection with the <Asset Sale>, then <Accelerated Shares> will <Vest> immediately before, and contingent on, the consummation of the <Asset Sale>. Otherwise, <Accelerated Shares> will <Vest> immediately before the date of the <Acceleration Event>.
+                \ Accelerated Vesting \ [Acceleration Percentage] of then <Unvested Shares> (""Accelerated Shares""), rounded up to the nearest whole share, will <Vest> on any <Acceleration Event>. In case of an <Asset Sale>, if the acquirer of the <Company>'s assets does not agree to assume this <Agreement>, or to substitute an equal award or right for this <Agreement>, and <You> transfer <Your> employment to the acquirer in connection with the <Asset Sale>, then <Accelerated Shares> will <Vest> immediately before, and contingent on, the consummation of the <Asset Sale>. Otherwise, <Accelerated Shares> will <Vest> immediately before the date of the <Acceleration Event>.
                 # {{/singleTrigger}}
 
             \ Repurchase Option Terms \
@@ -78,14 +78,14 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
                 \\ The <Company> may exercise the <Repurchase Option> at any time before the <Repurchase Option Expiration Date>.
 
-                \\ Unless the <Company> gives <Purchaser> notice that it does not intend to exercise its <Repurchase Option> for some or all <Unvested Shares> before the <Repurchase Option Expiration Date>, the <Company> will be deemed to exercise the <Repurchase Option> for all <Unvested Shares> on the <Repurchase Option Expiration Date> (""Automatic Repurchase""). The <Company> may give <Purchaser> notice that <Automatic Repurchase> will occur as of any earlier date, or for only some part of the <Unvested Shares>. On <Automatic Repurchase>, the <Company> will become the legal and beneficial owner of the <Unvested Shares> for which the <Repurchase Option> is exercised, will have all rights and interest in and related to those <Unvested Shares>, and will have the right to transfer them to its own name without further <Purchaser> action.
+                \\ Unless the <Company> gives <You> notice that it does not intend to exercise its <Repurchase Option> for some or all <Unvested Shares> before the <Repurchase Option Expiration Date>, the <Company> will be deemed to exercise the <Repurchase Option> for all <Unvested Shares> on the <Repurchase Option Expiration Date> (""Automatic Repurchase""). The <Company> may give <You> notice that <Automatic Repurchase> will occur as of any earlier date, or for only some part of the <Unvested Shares>. On <Automatic Repurchase>, the <Company> will become the legal and beneficial owner of the <Unvested Shares> for which the <Repurchase Option> is exercised, will have all rights and interest in and related to those <Unvested Shares>, and will have the right to transfer them to its own name without further action by <You>.
 
-                \\ The <Company> shall pay the <Repurchase Price> by <Check and Cancelled Debt>. If <Purchaser> is indebted to the <Company> on <Automatic Repurchase> and the <Company> does not otherwise pay the <Repurchase Price>, an amount of <Purchaser>'s debt equal to the <Repurchase Price> will be deemed canceled as of the date of <Automatic Repurchase>.
+                \\ The <Company> shall pay the <Repurchase Price> by <Check and Cancelled Debt>. If <You> are indebted to the <Company> on <Automatic Repurchase> and the <Company> does not otherwise pay the <Repurchase Price>, an amount of <Your> debt equal to the <Repurchase Price> will be deemed canceled as of the date of <Automatic Repurchase>.
 
         # TODO refactor this condition out
         \ Right of First Refusal \ Subject to {Exception for Family Transfers}:
 
-            \\ The <Company> will have a right of first refusal to purchase any <Covered Securities> (""Right of First Refusal""). Neither <Purchaser> nor any other holder of <Covered Securities> subject to this <Agreement> (""Holder"") shall sell or otherwise transfer <Covered Securities>, for a price, by gift, by operation of law, or otherwise, except under {Exercise of Right of First Refusal} or {Holder's Right to Transfer}.
+            \\ The <Company> will have a right of first refusal to purchase any <Covered Securities> (""Right of First Refusal""). Neither <You> nor any other holder of <Covered Securities> subject to this <Agreement> (""Holder"") shall sell or otherwise transfer <Covered Securities>, for a price, by gift, by operation of law, or otherwise, except under {Exercise of Right of First Refusal} or {Holder's Right to Transfer}.
 
             \ Notice of Proposed Transfer \ Each <Holder> shall give the <Company> notice of any intent to sell or otherwise transfer <Covered Securities> (""Proposed Transfer Notice""). The <Holder> shall state in the <Proposed Transfer Notice>:
 
@@ -139,31 +139,31 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
         # TODO Double check "IPO"s exclusion of bus. combo and ESOP registrations
         # TODO check FINRA rules
         # TODO double-check parenthetical (except for those being registered)
-        \ Lock-up Agreement \ If requested by the <Company> or the underwriters in connection with an <Initial Public Offering>, <Purchaser> shall not sell, short sell, loan, grant any option to purchase, or otherwise dispose of any securities of the <Company>, regardless of how <Purchaser> acquired them (except for those being registered) without the prior written consent of the <Company> or the underwriters, for 180 days from the effective date of the registration statement, plus any additional period required by FINRA rules. If requested by the <Company> or the underwriters, <Purchaser> shall enter into an agreement requested by the underwriters that reflects that restriction (a ""Lock-Up Agreement"").
+        \ Lock-up Agreement \ If requested by the <Company> or the underwriters in connection with an <Initial Public Offering>, <You> shall not sell, short sell, loan, grant any option to purchase, or otherwise dispose of any securities of the <Company>, regardless of how <You> acquired them (except for those being registered) without the prior written consent of the <Company> or the underwriters, for 180 days from the effective date of the registration statement, plus any additional period required by FINRA rules. If requested by the <Company> or the underwriters, <You> shall enter into an agreement requested by the underwriters that reflects that restriction (a ""Lock-Up Agreement"").
 
         \ Escrow of Unvested Shares \
 
-            \\ To facilitate enforcement of {Limits on Transfer}, <Purchaser> shall deliver a stock power in the form of {Stock Power} signed by <Purchaser> and <Purchaser>'s spouse (if required for transfer), in blank, as well as stock certificates for the <Shares>, if any, to the Secretary of the <Company> or the Secretary's designee as escrow holder (""Escrow Holder""). <Escrow Holder> will hold the stock power, <Shares>, and any stock certificates in escrow, and to take all actions and make transfer and releases required under this <Agreement>. <Purchaser> acknowledges that the <Escrow Holder> is irrevocably appointed escrow holder with the these authorities, and that the appointment is an important reason <Company> is willing to enter into this <Agreement>.
+            \\ To facilitate enforcement of {Limits on Transfer}, <You> shall deliver a stock power in the form of {Stock Power} signed by <You> and <Your> spouse (if required for transfer), in blank, as well as stock certificates for the <Shares>, if any, to the Secretary of the <Company> or the Secretary's designee as escrow holder (""Escrow Holder""). <Escrow Holder> will hold the stock power, <Shares>, and any stock certificates in escrow, and to take all actions and make transfer and releases required under this <Agreement>. <You> acknowledge that the <Escrow Holder> is irrevocably appointed escrow holder with the these authorities, and that the appointment is an important reason <Company> is willing to enter into this <Agreement>.
 
             \\ <Escrow Holder> will not be liable to any party to this <Agreement> (or to any other party). The <Escrow Holder> may rely on any letter, notice, or other document with a purportedly genuine signature, and may resign at any time. If the <Escrow Holder> resigns, the <Board> may appoint a new new escrow holder.
 
-        \ Purchaser Statements about Securities and Tax \ <Purchaser> states that all the following are true:
+        \ Purchaser Statements about Securities and Tax \ <You> state that all the following are true:
 
-            \\ <Purchaser> is aware of the <Company>'s business affairs and financial condition and has enough information about the <Company> to make an informed and knowledgeable decision to purchase the <Shares>. <Purchaser> is purchasing the <Shares> only for investment and for <Purchaser>'s own account, not with a view to, or for resale in connection with, any "distribution" of <Covered Securities> under the <Securities Act> or state law. <Purchaser> does not intend to transfer any <Covered Securities>.
+            \\ <You> are aware of the <Company>'s business affairs and financial condition and has enough information about the <Company> to make an informed and knowledgeable decision to purchase the <Shares>. <You> are purchasing the <Shares> only for investment and for <Your> own account, not with a view to, or for resale in connection with, any "distribution" of <Covered Securities> under the <Securities Act> or state law. <You> do not intend to transfer any <Covered Securities>.
 
-            \\ <Purchaser> understands that sales of securities like the <Shares> and other <Covered Securities> are regulated by complex state and federal laws, such as the <Securities Act>, <Exchange Act>, and related rules. <Purchaser> understands that illegal sales of securities carry severe civil and criminal penalties.
+            \\ <You> understand that sales of securities like the <Shares> and other <Covered Securities> are regulated by complex state and federal laws, such as the <Securities Act>, <Exchange Act>, and related rules. <You> understand that illegal sales of securities carry severe civil and criminal penalties.
 
-            \\ <Purchaser> understands that <Covered Securities> have not been registered under the <Securities Act>, that the <Company> is instead relying on an exemption from registration, and that the exemption depends on the honesty and genuineness of <Purchaser>'s investment intent, as expressed in this <Agreement>, and other factors.
+            \\ <You> understand that <Covered Securities> have not been registered under the <Securities Act>, that the <Company> is instead relying on an exemption from registration, and that the exemption depends on the honesty and genuineness of <Your> investment intent, as expressed in this <Agreement>, and other factors.
 
-            \\ <Purchaser> understands that <Covered Securities> must be held indefinitely unless they are registered under the <Securities Act> or an exemption from registration becomes available. <Purchaser> understands that the <Company> is under no obligation to register any securities.
+            \\ <You> understand that <Covered Securities> must be held indefinitely unless they are registered under the <Securities Act> or an exemption from registration becomes available. <You> understand that the <Company> is under no obligation to register any securities.
 
-            \\ <Purchaser> is familiar with Rule 144 under the <Securities Act>, which allows limited public resale of some "restricted securities" in non-public offerings on certain conditions, such as that the issuer be subject to reporting requirements of the <Exchange Act>, that holders hold securities for given time periods before resale, volume restrictions, and brokered transaction requirements. <Purchaser> understands the <Company> gives no assurance that any <Covered Securities> will ever be eligible for resale under Rule 144.
+            \\ <You> are familiar with Rule 144 under the <Securities Act>, which allows limited public resale of some "restricted securities" in non-public offerings on certain conditions, such as that the issuer be subject to reporting requirements of the <Exchange Act>, that holders hold securities for given time periods before resale, volume restrictions, and brokered transaction requirements. <You> understand the <Company> gives no assurance that any <Covered Securities> will ever be eligible for resale under Rule 144.
 
-            \\ <Purchaser> understands that if any requirement of Rule 144 is not satisfied, legal resale of <Covered Securities> will require registration under the <Securities Act>, compliance with Regulation A, or some other registration exemption. <Purchaser> understands that, despite the fact that Rule 144 is not exclusive, the staff of the Securities and Exchange Commission has opined that those proposing to sell private placement securities other than in a registered offering and other than under Rule 144 will have a substantial burden of proof in establishing that an exemption from registration is available, and that such sellers and their respective brokers who participate in such transactions do so at their own risk.
+            \\ <You> understand that if any requirement of Rule 144 is not satisfied, legal resale of <Covered Securities> will require registration under the <Securities Act>, compliance with Regulation A, or some other registration exemption. <You> understand that, despite the fact that Rule 144 is not exclusive, the staff of the Securities and Exchange Commission has opined that those proposing to sell private placement securities other than in a registered offering and other than under Rule 144 will have a substantial burden of proof in establishing that an exemption from registration is available, and that such sellers and their respective brokers who participate in such transactions do so at their own risk.
 
-            \\ <Purchaser> has reviewed, and is not subject to any of, the "Bad Actor" disqualifications of Rule 506(d)(1)(i) through (viii) under the <Securities Act>.
+            \\ <You> have reviewed, and is not subject to any of, the "Bad Actor" disqualifications of Rule 506(d)(1)(i) through (viii) under the <Securities Act>.
 
-            \\ <Purchaser> understands that <Purchaser> may suffer adverse tax consequences as a result of <Purchaser>'s purchase or disposition of <Covered Securities>. <Purchaser> has consulted with all the tax advisers <Purchaser> deems advisable in connection with the purchase or disposition of the <Shares>. <Purchaser> is not relying on the <Company> for any tax advice.
+            \\ <You> understands that <You> may suffer adverse tax consequences as a result of <Your> purchase or disposition of <Covered Securities>. <You> have consulted with all the tax advisers <You> deem advisable in connection with the purchase or disposition of the <Shares>. <You> are not relying on the <Company> for any tax advice.
 
         \ Restrictive Legends and Stop-Transfer Notices \
 
@@ -173,7 +173,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
                 \ Transfer Restriction Legend \ "The referenced securities may be transferred only in accordance with an agreement between the company and the stockholder, a copy of which is on file with the Secretary of the company, who will provide a copy on request free of charge."
 
-            \ Stop-Transfer Notices \ <Purchaser> agrees that, to ensure compliance with the restrictions of <Agreement>, the <Company> may issue appropriate "stop transfer" instructions to its transfer agent, if any, and that, if the <Company> transfers its own securities, it may make appropriate notations to the same effect in its own stock ledger and list of shareholders (""Stop-Transfer Notices"").
+            \ Stop-Transfer Notices \ <You> agree that, to ensure compliance with the restrictions of <Agreement>, the <Company> may issue appropriate "stop transfer" instructions to its transfer agent, if any, and that, if the <Company> transfers its own securities, it may make appropriate notations to the same effect in its own stock ledger and list of shareholders (""Stop-Transfer Notices"").
 
             \ Refusal to Transfer \ The <Company> will not be required to:
 
@@ -191,33 +191,33 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             When a <Holder>'s <Covered Securities> are no longer subject to the legend, the <Holder> may request that the <Company> issue a new stock certificate (or notice of issuance, for uncertificated shares) for those <Covered Securities> without the legend, and the <Company> shall do so.
 
-        \ Required Notices \ <Purchaser> acknowledges that the <Covered Securities> are issued and will be held subject to all the provisions of {Restrictive Legends and Stop-Transfer Notices} and the <Company>'s <Governing Documents>. Copies of the <Governing Documents> are on file with the Secretary of the <Company>. The <Company> will provide a statement of the powers, designations, preferences, and relative, participating, optional, or other special rights of each class or series of stock of the <Company> and the qualifications, limitations, or restrictions of such preferences and/or rights, as well as a copy of that statement, to any stockholder on request and without charge at the principal office of the <Company>. <Purchaser> acknowledges that the provisions of {Restrictive Legends and Stop-Transfer Notices} will constitute the notices required by Sections 151(f) and 202(a) of the Delaware General Corporation Law (""DGCL""). <Purchaser> waives the requirement of <DGCL> section 151(f) that it receive the written notice provided for in <DGCL> sections 151(f) and 202(a) within a reasonable time after the issuance of <Covered Securities>.
+        \ Required Notices \ <You> acknowledge that the <Covered Securities> are issued and will be held subject to all the provisions of {Restrictive Legends and Stop-Transfer Notices} and the <Company>'s <Governing Documents>. Copies of the <Governing Documents> are on file with the Secretary of the <Company>. The <Company> will provide a statement of the powers, designations, preferences, and relative, participating, optional, or other special rights of each class or series of stock of the <Company> and the qualifications, limitations, or restrictions of such preferences and/or rights, as well as a copy of that statement, to any stockholder on request and without charge at the principal office of the <Company>. <You> acknowledge that the provisions of {Restrictive Legends and Stop-Transfer Notices} will constitute the notices required by Sections 151(f) and 202(a) of the Delaware General Corporation Law (""DGCL""). <You> waive the requirement of <DGCL> section 151(f) that it receive the written notice provided for in <DGCL> sections 151(f) and 202(a) within a reasonable time after the issuance of <Covered Securities>.
 
         \ Section 83(b) Election \
 
-            \ Purchaser Statements about 83(b) \ <Purchaser> states that all the following are true:
+            \ Purchaser Statements about 83(b) \ <You> state that all the following are true:
 
-                \\ <Purchaser> understands that Section 83(a) of the Internal Revenue Code of 1986 (the ""Tax Code"") taxes the difference between the amount paid for the <Shares> and the fair market value of the <Covered Securities> as of the date they <Vest> as ordinary income.
+                \\ <You> understand that Section 83(a) of the Internal Revenue Code of 1986 (the ""Tax Code"") taxes the difference between the amount paid for the <Shares> and the fair market value of the <Covered Securities> as of the date they <Vest> as ordinary income.
 
-                \\ <Purchaser> understands that <Purchaser> may elect to be taxed when the <Shares> are purchased, rather than when they <Vest>, by filing an election under Section 83(b) of the <Tax Code> (an ""83(b) Election"") with the <IRS> within 30 days from the date of purchase.
+                \\ <You> understand that <You> may elect to be taxed when the <Shares> are purchased, rather than when they <Vest>, by filing an election under Section 83(b) of the <Tax Code> (an ""83(b) Election"") with the <IRS> within 30 days from the date of purchase.
 
-                \\ <Purchaser> understands that even if the fair market value of the <Shares> on the <Purchase Date> equals the <Total Purchase Price>, an <83(b) Election> must be made to avoid income under Section 83(a) in the future.
+                \\ <You> understands that even if the fair market value of the <Shares> on the <Purchase Date> equals the <Total Purchase Price>, an <83(b) Election> must be made to avoid income under Section 83(a) in the future.
 
-                \\ <Purchaser> understands that failure to file an <83(b) Election> on time may have severe tax consequences for <Purchaser>.
+                \\ <You> understands that failure to file an <83(b) Election> on time may have severe tax consequences for <You>.
 
-                \\ <Purchaser> understands that an additional copy of any <83(b) Election> should be filed with <Purchaser>'s federal income tax return for the calendar year encompassing the <Purchase Date>.
+                \\ <You> understand that an additional copy of any <83(b) Election> should be filed with <Your> federal income tax return for the calendar year encompassing the <Purchase Date>.
 
-                \\ <Purchaser> acknowledges that this is only a summary of the effect of United States federal income taxation on purchase of the <Shares>. The summary is incomplete, and will not help <Purchaser> avoid any tax penalties.
+                \\ <You> acknowledge that this is only a summary of the effect of United States federal income taxation on purchase of the <Shares>. The summary is incomplete, and will not help <You> avoid any tax penalties.
 
-                \\ <Purchaser> acknowledges that the <Company> has directed <Purchaser> to seek independent advice about the <Tax Code>, other tax laws that apply where <Purchaser> lives, and the tax consequences of <Purchaser>'s death.
+                \\ <You> acknowledge that the <Company> has directed <You> to seek independent advice about the <Tax Code>, other tax laws that apply where <You> live, and the tax consequences of <Your> death.
 
-                \\ <Purchaser> has consulted, and has been fully advised by, <Purchaser>'s own tax adviser regarding an <83(b) Election> and other tax laws and consequences, or has knowingly decided not to consult a tax adviser.
+                \\ <You> have consulted, and has been fully advised by, <Your> own tax adviser regarding an <83(b) Election> and other tax laws and consequences, or has knowingly decided not to consult a tax adviser.
 
-                \\ <Purchaser> acknowledges that neither the <Company> nor any <Subsidiary>, <Affiliate>, <Parent>, or representative of the <Company> has made or will be accountable for any statement or advice to <Purchaser> about the tax consequences of <Purchaser>'s purchase of the <Shares> or <Purchaser>'s decision to make an <83(b) Election>.
+                \\ <You> acknowledge that neither the <Company> nor any <Subsidiary>, <Affiliate>, <Parent>, or representative of the <Company> has made or will be accountable for any statement or advice to <You> about the tax consequences of <Your> purchase of the <Shares> or <Your> decision to make an <83(b) Election>.
 
-            \!! <Purchaser>, not the <Company> or any other, will be solely responsible for appropriately filing an <83(b) Election> with the <IRS>, even if <Purchaser> asks the <Company> or any other file on <Purchaser>'s behalf.
+            \!! <You>, not the <Company> or any other, will be solely responsible for appropriately filing an <83(b) Election> with the <IRS>, even if <You> ask the <Company> or any other file on <Your> behalf.
 
-            \\ <Purchaser> shall sign and deliver to the <Company> with this <Agreement> a copy of the acknowledgment and statement attached as {83(b) Acknowledgment and Statement} and, if <Purchaser> decides to make an <83(b) Election>, a copy of the <83(b) Election>, attached as {83(b) Election}.
+            \\ <You> shall sign and deliver to the <Company> with this <Agreement> a copy of the acknowledgment and statement attached as {83(b) Acknowledgment and Statement} and, if <You> decide to make an <83(b) Election>, a copy of the <83(b) Election>, attached as {83(b) Election}.
 
         \ Defined Terms \
 
@@ -294,38 +294,38 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             \\ ""Fair Market Value"" means fair market value as determined in good faith by the <Board>.
 
-            \\ ""Family Transfer"" means a transfer of <Covered Securities> during <Purchaser>'s lifetime, or on <Purchaser>'s death by will or intestacy, either to <Purchaser>'s <Immediate Family>, or to a trust for the benefit of <Purchaser> or <Purchaser>'s <Immediate Family>.
+            \\ ""Family Transfer"" means a transfer of <Covered Securities> during <Your> lifetime, or on <Your> death by will or intestacy, either to <Your> <Immediate Family>, or to a trust for the benefit of <You> or <Your> <Immediate Family>.
 
             {{^singleTrigger}}
-            \\ ""Good Reason to Resign"" means any of the following that happen without <Purchaser>'s written consent:
+            \\ ""Good Reason to Resign"" means any of the following that happen without <Your> written consent:
 
                 # TODO: Check "Company" versus successor, etc.
-                \\ <Employer> reduces <Purchaser>'s base salary by 10% or more, unless that reduction is part of a general salary reduction affecting other, similarly situated employees.
+                \\ <Employer> reduces <Your> base salary by 10% or more, unless that reduction is part of a general salary reduction affecting other, similarly situated employees.
 
-                \\ <Employer> changes <Purchaser>'s position in a way that materially reduces <Purchaser>'s duties, level of authority, or responsibility.
+                \\ <Employer> changes <Your> position in a way that materially reduces <Your> duties, level of authority, or responsibility.
 
-                \\ <Employer> conditions <Purchaser>'s continued service with the <Company Corporate Family> on transfer to a place of work that would increase <Purchaser>'s one-way commute from <Purchaser>'s principal residence by more than 35 miles.
+                \\ <Employer> conditions <Your> continued service with the <Company Corporate Family> on transfer to a place of work that would increase <Your> one-way commute from <Your> principal residence by more than 35 miles.
             {{/singleTrigger}}
 
             # TODO: Check "employment" (what about consultants?)
             \\ ""Good Reason to Terminate"" means any of the these:
 
-                \\ <Purchaser> willfully fails to substantially do <Purchaser>'s duties after:
+                \\ <You> willfully fail to substantially do <Your> duties after:
 
-                    \\ receipt of written demand for substantial performance from the board of directors of <Purchaser>'s <Employer> that states in detail the specific ways the board believes <Purchaser> has not substantially done <Purchaser>'s duties; and
+                    \\ receipt of written demand for substantial performance from the board of directors of <Your> <Employer> that states in detail the specific ways the board believes <You> have not substantially done <Your> duties; and
 
                     \\ a chance to provide that substantial performance.
 
-                \\ <Purchaser> commits willful fraud, misconduct, dishonesty, or any other intentional act that materially injures a member of the <Company Corporate Family>.
+                \\ <You> commit willful fraud, misconduct, dishonesty, or any other intentional act that materially injures a member of the <Company Corporate Family>.
 
-                \\ <Purchaser> is convicted of, pleads guilty to, or pleads no contest to, any crime that materially harms, or is reasonably expected to materially harm, the business or reputation of the <Company>.
+                \\ <You> are convicted of, pleads guilty to, or pleads no contest to, any crime that materially harms, or is reasonably expected to materially harm, the business or reputation of the <Company>.
 
-                \\ <Purchaser> materially breaches any written agreement between <Purchaser> and the <Company>, such as a Confidential Information and Invention Assignment Agreement, and fails to cure that breach in 30 days after receiving written notice of the breach.
+                \\ <You> materially breach any written agreement between <You> and the <Company>, such as a Confidential Information and Invention Assignment Agreement, and fails to cure that breach in 30 days after receiving written notice of the breach.
 
             \\ ""Governing Documents"" means the <Company>'s certificate of incorporation and bylaws.
 
             # TODO review selective inclusion of antecedents and descendants
-            \\ ""Immediate Family"" means lineal descendants and antecedents, spouses (and spouses' antecedents), fathers, mothers, brothers and sisters (and their descendants), stepchildren (and their antecedents and descendants), aunts and uncles (and their antecedents and descendants), brothers-in-law and sisters-in-law (and their antecedents and descendants), and includes adoptive relations, and any person sharing <Purchaser>'s household (other than tenants and employees).
+            \\ ""Immediate Family"" means lineal descendants and antecedents, spouses (and spouses' antecedents), fathers, mothers, brothers and sisters (and their descendants), stepchildren (and their antecedents and descendants), aunts and uncles (and their antecedents and descendants), brothers-in-law and sisters-in-law (and their antecedents and descendants), and includes adoptive relations, and any person sharing <Your> household (other than tenants and employees).
 
             \\ ""Initial Public Offering"" means sale of common stock of the <Company> to the general public pursuant to a registration statement declared effective by the Securities and Exchange Commission under the <Securities Act>, other than a registration statement relating solely to the issuance of common stock pursuant to a business combination, employee incentive plan, or employee benefit plan.
 
@@ -343,11 +343,11 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
             # TODO why only corporations?
             \\ ""Subsidiary"" means any corporation (other than the <Company>) in an unbroken chain of corporations beginning with the <Company> if each of the corporations other than the last corporation in the unbroken chain owns stock possessing 50% or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
 
-            \\ ""Termination"" means voluntary or involuntary termination of <Purchaser>'s <Continuous Service Status> for any reason (including death or <Disability>), with or without <Good Reason to Terminate>.
+            \\ ""Termination"" means voluntary or involuntary termination of <Your> <Continuous Service Status> for any reason (including death or <Disability>), with or without <Good Reason to Terminate>.
 
         \ Miscellaneous \
 
-            \ Termination at Will \ No part of this <Agreement> limits the ability of <Purchaser>'s <Employer> to terminate <Purchaser>'s employment at will.
+            \ Termination at Will \ No part of this <Agreement> limits the ability of <Your> <Employer> to terminate <Your> employment at will.
 
         include(includes/governing-law.cform)
         include(includes/entire-agreement.cform)
@@ -358,7 +358,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
         include(includes/construction.cform)
         include(includes/counterparts.cform)
 
-            \ Electronic Delivery \ The <Company> may, in its sole discretion, deliver documents related to this <Agreement> and any notices required by law or the <Company>'s <Governing Documents> to <Purchaser> by e-mail or other electronic means. <Purchaser> consents to:
+            \ Electronic Delivery \ The <Company> may, in its sole discretion, deliver documents related to this <Agreement> and any notices required by law or the <Company>'s <Governing Documents> to <You> by e-mail or other electronic means. <You> consent to:
 
                 \\ conduct business electronically;
 
@@ -367,7 +367,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
                 \\ sign documents electronically.
 
             # TODO double-check
-            <Purchaser> further agrees to participate through an on-line or electronic system established and maintained by the <Company> or a third party designated by the <Company>.
+            <You> further agree to participate through an on-line or electronic system established and maintained by the <Company> or a third party designated by the <Company>.
 
     \\ No schedules.
 
