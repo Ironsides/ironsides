@@ -2,7 +2,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
     \\ The parties agree:
 
-        \ Overview \ The following is a loose summary of some of the important parts of this agreement, with references to specific parts of this agreement:
+        \ Overview \ These points give a loose summary of some of the important parts of this agreement, with references to specific parts of this agreement:
 
             \\ This agreement covers <Your> purchase of shares of common stock in the <Company>. The <Company> agrees to sell <You> stock in {Shares}, and <You> agree to buy the stock 
 
@@ -42,7 +42,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \\ Stock sales are highly regulated. <You> make statements in {Statements about Securities and Tax} about <Your> relationship to the <Company>, <Your> plans for <Your> shares, and legal rules that limit how and when <You> might sell <Your> shares that are very important under securities laws.
 
-            \\ Tax laws also apply to <Your> purchase. <You> make several statements about tax in {Statements about Securities and Tax}. Since <You> have decided to make an 83(b) election, <You> make a statements about <Your> choice and <Your> responsibility to file with the IRS in {83(b) Election}.
+            \\ Tax laws also apply to <Your> purchase. <You> make several statements about tax in {Statements about Securities and Tax}. Since <You> have decided to make an 83(b) election, <You> make a statements about <Your> choice and <Your> responsibility to file with the IRS in {Section 83(b) Election}.
 
             \\ To protect the <Company>'s rights and prevent administrative mishaps, <You> and the <Company> agree to process and legal mechanisms that affect <Your> stock, such as those in {Escrow}, {Restrictive Legends and Stop-Transfer Notices}, and {Shareholder Notices}.
 
@@ -78,7 +78,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
         \ Property Assignment \
 
-            \ Assignments \ <You> make the following assignments (the ""Assignments"").
+            \ Assignments \ <You> make the these assignments (the ""Assignments""):
 
                 \ Assignment of Intellectual Property \ As of the date of this agreement, <You> assign all <Your> rights in <Company-Related Intellectual Property> to the <Company>. Those rights include
 
@@ -96,7 +96,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \ Further Steps by Company on Your Behalf \
 
-                \ Company's Authority \ <Company> may do any or all of the following on <Your> behalf, as <Company> decides
+                \ Company's Authority \ <Company> may do any or all of the these on <Your> behalf, as <Company> decides:
 
                     \\ <Company> may demand and receive, and give receipts and releases for, <Assigned Assets>.
 
@@ -108,7 +108,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                 \ Legal Intent \ In legal terms of art, <Company> and <You> intend {Company's Authority} and {Substitution} to appoint <Company> as <Your> "attorney in fact with full right of substitution".
 
-            \ Statements about Property \ <You> states that all of the following are true, to the best of <Your> knowledge, as of the date of this agreement.
+            \ Statements about Property \ <You> states that all of these are true, to the best of <Your> knowledge, as of the date of this agreement:
 
                 # TODO This is circular. Company-Related Intellectual Property is defined in terms of rights that Your have.
 
@@ -130,15 +130,15 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
         \ Limits on Transfer \
 
-            \\ As used elsewhere in this agreement, ""Covered Securities"" means:
+            \\ As used elsewhere in this agreement, ""Covered Securities"" means all of these:
 
-                \\ <Your Shares>;
+                \\ <Your Shares>
 
-                \\ all securities received in connection with <Covered Securities> as a result of stock dividends or splits;
+                \\ all securities received in connection with <Covered Securities> as a result of stock dividends or splits
 
-                \\ all securities received in replacement of <Covered Securities> in a recapitalization, merger, reorganization, exchange or the like; and
+                \\ all securities received in replacement of <Covered Securities> in a recapitalization, merger, reorganization, exchange or the like
 
-                \\ all new, substituted or additional securities or other property to which holders of <Covered Securities> are entitled as owners of those securities.
+                \\ all new, substituted or additional securities or other property to which holders of <Covered Securities> are entitled as owners of those securities
 
             \\ <You> shall not assign, encumber, or dispose of any interest in <Covered Securities> except to the extent allowed by, and in compliance with, both this agreement and securities laws.
 
@@ -148,7 +148,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \ Repurchase Option \ On <Termination>, the <Company> will have an irrevocable and exclusive option (the ""Repurchase Option"") to repurchase all or any portion of <Your Shares> held by <You> as of <Termination> that have not yet been released from the <Repurchase Option> (""Unvested Shares""). [Shares Subject to Vesting] of <Your Shares> will start subject to the <Repurchase Option> (the ""Vesting Shares"").
 
-            \ Vesting Schedule \ Subject to {Acceleration}, <Vesting Shares> will release from the <Repurchase Option> (""Vest"") as follows:
+            \ Vesting Schedule \ Subject to {Acceleration}, <Vesting Shares> will release from the <Repurchase Option> (""Vest""):
 
                 \\ [Cliff Shares] <Vesting Shares> will <Vest> on [Cliff Date] (the ""Cliff"").
 
@@ -166,17 +166,17 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                 # {{^singleTrigger}}
 
-                \\ ""Acceleration Trigger"" means any of the following that happens in connection with or following a <Change of Control>:
+                \\ ""Acceleration Trigger"" means any of these that happens in connection with or following a <Change of Control>:
 
                     \\ <Your> <Continuous Service Status> terminates, other than as a result of <Your> death or <Disability>, and the <Company> determines in good faith that there was no <Good Reason to Terminate>.
 
-                    \\ <You> resign as follows:
+                    \\ <You> resign and all of these are true:
 
-                        \\ <You> give written notice to the <Company> of a <Good Reason to Resign> within 60 calendar days of when it happens (""Resignation Notice""),
+                        \\ <You> give written notice to the <Company> of a <Good Reason to Resign> within 60 calendar days of when it happens (""Resignation Notice"").
 
-                        \\ the <Company> does not act to remove the <Good Reason to Resign> within 30 calendar days of receiving <Resignation Notice>,
+                        \\ The <Company> does not act to remove the <Good Reason to Resign> within 30 calendar days of receiving <Resignation Notice>.
 
-                        \\ <You> resign effective no later than 60 calendar days after giving <Resignation Notice>, and
+                        \\ <You> resign effective no later than 60 calendar days after giving <Resignation Notice>.
 
                         \\ <Your> <Continuous Service Status> terminates on resignation.
 
@@ -204,15 +204,15 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \\ The <Company> will have a right of first refusal to purchase any <Covered Securities> (""Right of First Refusal""). Neither <You> nor any other holder of <Covered Securities> subject to this agreement (""Holder"") shall sell or otherwise transfer <Covered Securities>, for a price, by gift, by operation of law, or otherwise, except under {Exercise of Right of First Refusal} or {Right to Transfer}.
 
-            \ Notice of Proposed Transfer \ Each <Holder> shall give the <Company> notice of any intent to sell or otherwise transfer <Covered Securities> (""Proposed Transfer Notice""). The <Holder> shall state in the <Proposed Transfer Notice>:
+            \ Notice of Proposed Transfer \ Each <Holder> shall give the <Company> notice of any intent to sell or otherwise transfer <Covered Securities> (""Proposed Transfer Notice""). The <Holder> shall state all of these in the <Proposed Transfer Notice>:
 
-                \\ the name of each proposed transferee (""Proposed Transferee"");
+                \\ the name of each proposed transferee (""Proposed Transferee"")
 
-                \\ the number and type of <Covered Securities> to be transferred to each <Proposed Transferee> (""Proposed Transfer Securities"");
+                \\ the number and type of <Covered Securities> to be transferred to each <Proposed Transferee> (""Proposed Transfer Securities"")
 
-                \\ the purchase price of each proposed transfer (the ""Transfer Purchase Price""); and
+                \\ the purchase price of each proposed transfer (the ""Transfer Purchase Price"")
 
-                \\ the other terms and conditions of each proposed transfer (""Proposed Transfer Terms"").
+                \\ the other terms and conditions of each proposed transfer (""Proposed Transfer Terms"")
 
             # TODO Define ""Notice""
 
@@ -222,7 +222,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \ Right to Transfer \
 
-                \\ A <Holder> may sell or otherwise transfer any unpurchased <Proposed Transfer Securities>, subject to all the following conditions:
+                \\ A <Holder> may sell or otherwise transfer any unpurchased <Proposed Transfer Securities>, subject to all these conditions:
 
                     \\ The <Proposed Transfer Securities> are not purchased by the <Company> under {Exercise of Right of First Refusal}.
 
@@ -268,7 +268,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \\ <Escrow Holder> will not be liable to any party to this agreement (or to any other party). The <Escrow Holder> may rely on any letter, notice, or other document with a purportedly genuine signature, and may resign at any time. If the <Escrow Holder> resigns, the <Board> may appoint a new new escrow holder.
 
-        \ Statements about Securities and Tax \ <You> state that all the following are true:
+        \ Statements about Securities and Tax \ <You> state that all these are true:
 
             \\ <You> are aware of the <Company>'s business affairs and financial condition and has enough information about the <Company> to make an informed and knowledgeable decision to purchase <Your Shares>. <You> are purchasing <Your Shares> only for investment and for <Your> own account, not with a view to, or for resale in connection with, any "distribution" of <Covered Securities> under the <Securities Act> or state law. <You> do not intend to transfer any <Covered Securities>.
 
@@ -288,7 +288,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
         \ Restrictive Legends and Stop-Transfer Notices \
 
-            \ Legends \ Any stock certificate or, in the case of uncertificated securities, any notice of issuance, for the <Covered Securities>, will bear the following legends, in addition to any legends required by law:
+            \ Legends \ Any stock certificate or, in the case of uncertificated securities, any notice of issuance, for the <Covered Securities>, will bear these legends, in addition to any legends required by law:
 
                 \ Unregistered Securities Legend \ "The referenced securities have not been registered under the Securities Act of 1933, and have been acquired for investment and not with a view to, or in connection with, sale or distribution. No sale or distribution is permitted without an effective registration statement for the securities or an opinion of legal counsel, satisfactory to the company, that such registration is not required under the Securities Act of 1933."
 
@@ -296,13 +296,13 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \ Stop-Transfer Notices \ <You> agree that, to ensure compliance with the restrictions of this agreement, the <Company> may issue appropriate "stop transfer" instructions to its transfer agent, if any, and that, if the <Company> transfers its own securities, it may make appropriate notations to the same effect in its own stock ledger and list of shareholders (""Stop-Transfer Notices"").
 
-            \ Refusal to Transfer \ The <Company> will not be required to:
+            \ Refusal to Transfer \ The <Company> will not be required to do any of these:
 
-                \\ transfer on its books any <Covered Securities> that have been sold or otherwise transferred in violation of any of the provisions of this agreement; or
+                \\ transfer on its books any <Covered Securities> that have been sold or otherwise transferred in violation of any of the provisions of this agreement
 
-                \\ treat any purchaser or other transferee who received <Covered Securities> in violation of this agreement as the owner of those <Covered Securities>, or to accord them rights to vote or receive dividends.
+                \\ treat any purchaser or other transferee who received <Covered Securities> in violation of this agreement as the owner of those <Covered Securities>, or to accord them rights to vote or receive dividends
 
-            \ Legend and Notice Removal \ <Covered Securities> will no longer be subject to the legend specified in {Transfer Restriction Legend}, and the <Company> will remove <Stop-Transfer Notices> made under this agreement, when all the following have occurred:
+            \ Legend and Notice Removal \ <Covered Securities> will no longer be subject to the legend specified in {Transfer Restriction Legend}, and the <Company> will remove <Stop-Transfer Notices> made under this agreement, when all these have occurred:
 
                 \\ The <Right of First Refusal> has terminated.
 
@@ -314,9 +314,9 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
         \ Shareholder Notices \ <You> acknowledge that the <Covered Securities> are issued and will be held subject to all the provisions of {Restrictive Legends and Stop-Transfer Notices} and the <Company>'s <Governing Documents>. Copies of the <Governing Documents> are on file with the Secretary of the <Company>. The <Company> will provide a statement of the powers, designations, preferences, and relative, participating, optional, or other special rights of each class or series of stock of the <Company> and the qualifications, limitations, or restrictions of such preferences and/or rights, as well as a copy of that statement, to any stockholder on request and without charge at the principal office of the <Company>. <You> acknowledge that the provisions of {Restrictive Legends and Stop-Transfer Notices} will constitute the notices required by Sections 151(f) and 202(a) of the Delaware General Corporation Law (""DGCL""). <You> waive the requirement of <DGCL> section 151(f) that it receive the written notice provided for in <DGCL> sections 151(f) and 202(a) within a reasonable time after the issuance of <Covered Securities>.
 
-        \ 83(b) Election \
+        \ Section 83(b) Election \
 
-            \ Statements about 83(b) \ <You> state that all the following are true:
+            \ Statements about 83(b) \ <You> state that all these are true:
 
                 \\ <You> understand that Section 83(a) of the Internal Revenue Code of 1986 (the ""Tax Code"") taxes the difference between the amount paid for <Your Shares> and the fair market value of the <Covered Securities> as of the date they <Vest> as ordinary income.
 
@@ -338,7 +338,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \!! <You>, not the <Company> or any other, will be solely responsible for appropriately filing an <83(b) Election> with the <IRS>, even if <You> ask the <Company> or any other file on <Your> behalf.
 
-            \\ <You> shall sign and deliver to the <Company> with this agreement a copy of the acknowledgment and statement attached as {83(b) Acknowledgment and Statement} and, if <You> decide to make an <83(b) Election>, a copy of the <83(b) Election>, attached as {83(b) Election}.
+            \\ <You> shall sign and deliver to the <Company> with this agreement a copy of the acknowledgment and statement attached as {83(b) Acknowledgment and Statement} and, if <You> decide to make an <83(b) Election>, a copy of the <83(b) Election>, attached as {Section 83(b) Election}.
 
         \ Defined Terms \
 
@@ -376,19 +376,19 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \\ ""Change of Control"" means any of these:
 
-                \\ An <Asset Sale>.
+                \\ an <Asset Sale>
 
                 \\ The <Company> merges, consolidates, or changes, by other capital reorganization or business combination transaction, with or into into another <Business Entity>, other than an <Excluded Entity>.
 
-                \\ Any transaction or series of related transactions are consummated in which any "person" (as used in Sections 13(d) and 14(d) of the <Exchange Act>) becomes the "beneficial owner" (as defined in Rule 13d-3 of the <Exchange Act>), directly or indirectly, of all the <Company>'s then outstanding voting securities.
+                \\ any transaction or series of related transactions are consummated in which any "person" (as used in Sections 13(d) and 14(d) of the <Exchange Act>) becomes the "beneficial owner" (as defined in Rule 13d-3 of the <Exchange Act>), directly or indirectly, of all the <Company>'s then outstanding voting securities
 
-            However, a transaction will not constitute a <Change of Control> if its purpose is to:
+            However, a transaction will not constitute a <Change of Control> if its purpose is any of these:
 
-                \\ change the jurisdiction of the <Company>'s incorporation;
+                \\ Change the jurisdiction of the <Company>'s incorporation.
 
-                \\ create a holding company owned in substantially the same proportions by the those who hold the <Company>'s securities immediately before the transaction; or
+                \\ Create a holding company owned in substantially the same proportions by the those who hold the <Company>'s securities immediately before the transaction.
 
-                \\ fund the <Company> in a financing approved by the <Board>.
+                \\ Fund the <Company> in a financing approved by the <Board>.
 
             \\ ""Company Business"" means the business of the <Company>, which involves [Description of Business].
 
@@ -396,13 +396,13 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             # {{^allCash}}
 
-            \\ ""Company-Related Equipment"" means <Equipment> that meets all the following criteria immediately before this agreement.
+            \\ ""Company-Related Equipment"" means <Equipment> that meets all these criteria immediately before this agreement:
 
-                \\ <You> alone owned the <Equipment>; it was not leased, owned jointly, or co-owned.
+                \\ <You> alone owned the <Equipment>. It was not leased, owned jointly, or co-owned.
 
                 \\ The <Equipment> was primarily used in or related to <Company Business>.
 
-            \\ ""Company-Related Intellectual Property"" means all of
+            \\ ""Company-Related Intellectual Property"" means all of these:
 
                 \\ all <Intellectual Property Rights> in <Technology> relating to <Company Business> (""Company Technology"")
 
@@ -418,25 +418,25 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             # {{/allCash}}
 
-            \\ ""Consultant"" means
+            \\ ""Consultant"" means any of these:
 
-                \\ any natural person, including any adviser, but not any <Employee>, engaged by the <Company>, or any <Parent>, <Subsidiary> or <Affiliate>, to render services other than capital-raising services, who is compensated for those services; and
+                \\ any natural person, including any adviser, but not any <Employee>, engaged by the <Company>, or any <Parent>, <Subsidiary> or <Affiliate>, to render services other than capital-raising services, who is compensated for those services
 
-                \\ any <Director> whether compensated for service as a <Director> or not.
+                \\ any <Director> whether compensated for service as a <Director> or not
 
-            \\ ""Continuous Service Status"" means the absence of any interruption or termination of service as an <Employee> or <Consultant> to the <Company Corporate Family>. <Continuous Service Status> as an <Employee> or <Consultant> will not be considered interrupted or terminated by:
+            \\ ""Continuous Service Status"" means the absence of any interruption or termination of service as an <Employee> or <Consultant> to the <Company Corporate Family>. <Continuous Service Status> as an <Employee> or <Consultant> will not be considered interrupted or terminated by any of these:
 
-                \\ sick leave approved by the <Employer>'s board of directors or chief executive officer;
+                \\ sick leave approved by the <Employer>'s board of directors or chief executive officer
 
-                \\ military leave; or
+                \\ military leave
 
                 \\ any other honest and genuine leave of absence approved by the board of directors or chief executive officer of the <Employer>
 
-            when that leave is for a period of not more than ninety (90) days, unless:
+            when that leave is for a period of not more than ninety (90) days, unless any of these are true:
 
-                \\ reemployment after leave is guaranteed by contract or statute; or
+                \\ A contract or statutes guarantees reemployment after leave.
 
-                \\ provided otherwise under a written <Employer> policy.
+                \\ A written <Employer> policy provides otherwise.
 
             <Continuous Service Status> as an <Employee> or <Consultant> will not be considered interrupted or terminated in the case of a transfer between places of work of or members of the <Company Corporate Family>, or a transition from <Employee> to <Consultant> or from <Consultant> to <Employee>.
 
@@ -492,7 +492,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             # {{^singleTrigger}}
 
-            \\ ""Good Reason to Resign"" means any of the following that happen without <Your> written consent:
+            \\ ""Good Reason to Resign"" means any of these that happen without <Your> written consent:
 
                 # TODO: Check "Company" versus successor, etc.
 
@@ -508,11 +508,11 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \\ ""Good Reason to Terminate"" means any of the these:
 
-                \\ <You> willfully fail to substantially do <Your> duties after:
+                \\ <You> willfully fail to substantially do <Your> duties after all of these:
 
-                    \\ receipt of written demand for substantial performance from the board of directors of <Your> <Employer> that states in detail the specific ways the board believes <You> have not substantially done <Your> duties; and
+                    \\ <Your> receive written demand for substantial performance from the board of directors of <Your> <Employer> that states in detail the specific ways the board believes <You> have not substantially done <Your> duties.
 
-                    \\ a chance to provide that substantial performance.
+                    \\ <You> had a chance to provide that substantial performance.
 
                 \\ <You> commit willful fraud, misconduct, dishonesty, or any other intentional act that materially injures a member of the <Company Corporate Family>.
 
