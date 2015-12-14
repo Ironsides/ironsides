@@ -1,10 +1,10 @@
-This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effective Date] between [Company Name], a Delaware corporation (the ""Company""), and [Name] (""You"").
+This common stock purchase agreement is made as of [Effective Date] between [Company Name], a Delaware corporation (the ""Company""), and [Name] (""You"").
 
     \\ The parties agree:
 
-        \ Overview \ The following is a loose summary of some of the important parts of this <Agreement>, with references to more detailed language:
+        \ Overview \ The following is a loose summary of some of the important parts of this agreement, with references to more detailed language:
 
-            \\ This <Agreement> covers <Your> purchase of shares of common stock of the <Company>. The <Company> agrees to sell <You> stock in {Purchase and Sale}, and <You> agree to buy the stock 
+            \\ This agreement covers <Your> purchase of shares of common stock of the <Company>. The <Company> agrees to sell <You> stock in {Purchase and Sale}, and <You> agree to buy the stock 
             # {{#allIP}}
             with intellectual property 
             # {{/allIP}}
@@ -15,6 +15,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
             with cash and intellectual property 
             #{{/cashAndIP}}
             in {Purchase Price}.
+            If you are married, your spouse signs this agreement and related documents with <You>, since they may have rights in the stock, too.
 
             \\ <Your> stock is subject to "vesting" under {Vesting}. Legally speaking, that means <You> give the <Company> a right to buy <Your> shares back from <You> in {Repurchase Option}. As <Your> stock vests under {Vesting Schedule}, that right applies to fewer and fewer of <Your> shares. In specific situations, vesting happens faster, or "accelerates", under {Acceleration}.
 
@@ -26,13 +27,13 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             \\ Tax laws also apply to <Your> purchase of stock, including the law about so-called "83(b) elections". <You> make several statements about tax in {Purchaser Statements about Securities and Tax}. Since <You> have decided to make an 83(b) election, <You> make a statements about <Your> choice and <Your> responsibility to file with the IRS in {Section 83(b) Election}.
 
-            \\ To protect the <Company>'s rights and prevent administrative mishaps, this <Agreement> includes a number of process and legal mechanisms that affect <Your> stock, such as those in {Escrow of Unvested Shares}, {Restrictive Legends and Stop-Transfer Notices}, {Required Notices}.
+            \\ To protect the <Company>'s rights and prevent administrative mishaps, this agreement includes a number of process and legal mechanisms that affect <Your> stock, such as those in {Escrow of Unvested Shares}, {Restrictive Legends and Stop-Transfer Notices}, {Required Notices}.
 
-            \\ A number of terms used in this <Agreement> have specific meanings under {Defined Terms}.
+            \\ Some terms in this agreement have specific meanings under {Defined Terms}.
 
         \ Stock Sale \
 
-            \ Purchase and Sale \ Subject to the terms and conditions of this <Agreement>, on the date of this <Agreement> or on another date agreed on by the parties (the ""Purchase Date""), the <Company> shall issue and sell to <You>, and <You> shall purchase from the <Company>, [Number of Shares] shares of the <Company>'s common stock (""Your Shares"").
+            \ Purchase and Sale \ Subject to the terms and conditions of this agreement, on the date of this agreement or on another date agreed on by the parties (the ""Purchase Date""), the <Company> shall issue and sell to <You>, and <You> shall purchase from the <Company>, [Number of Shares] shares of the <Company>'s common stock (""Your Shares"").
 
             \ Purchase Price \ On the <Purchase Date>, <You> shall pay [Purchase Price] per share for <Your Shares> (the ""Original Price Per Share""), for a total purchase price of [Total Purchase Price] (the ""Total Purchase Price"").
             # {{#allIP}}
@@ -49,7 +50,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \ Limits on Transfer \
 
-            \\ As used elsewhere in this <Agreement>, ""Covered Securities"" means:
+            \\ As used elsewhere in this agreement, ""Covered Securities"" means:
 
                 \\ <Your Shares>;
 
@@ -59,9 +60,9 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
                 \\ all new, substituted or additional securities or other property to which holders of <Covered Securities> are entitled as owners of those securities.
 
-            \\ <You> shall not assign, encumber, or dispose of any interest in <Covered Securities> except to the extent allowed by, and in compliance with, both this <Agreement> and securities laws.
+            \\ <You> shall not assign, encumber, or dispose of any interest in <Covered Securities> except to the extent allowed by, and in compliance with, both this agreement and securities laws.
 
-            \\ All recipients of <Covered Securities> or any interest in <Covered Securities> will receive and hold such <Covered Securities> and interests subject to the provisions of this <Agreement>, such as the <Repurchase Option>. Any sale or other transfer of the <Covered Securities> in violation of this <Agreement> is void.
+            \\ All recipients of <Covered Securities> or any interest in <Covered Securities> will receive and hold such <Covered Securities> and interests subject to the provisions of this agreement, such as the <Repurchase Option>. Any sale or other transfer of the <Covered Securities> in violation of this agreement is void.
 
         \ Vesting \
 
@@ -95,7 +96,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
                     \\ <You> are a <Director> of, but neither an <Employee> nor a <Consultant> of, the <Company> or its successor on consummation of a <Change of Control> and <You> are removed from, or is not reelected to, the <Board> in connection with or following the <Change of Control>.
 
-                \ Accelerated Vesting \ [Acceleration Percentage] of then <Unvested Shares> (""Accelerated Shares""), rounded up to the nearest whole share, will <Vest> on any <Acceleration Event>. In case of an <Asset Sale>, if the acquirer of the <Company>'s assets does not agree to assume this <Agreement>, or to substitute an equal award or right for this <Agreement>, and <You> transfer <Your> employment to the acquirer in connection with the <Asset Sale>, then <Accelerated Shares> will <Vest> immediately before, and contingent on, the consummation of the <Asset Sale>. Otherwise, <Accelerated Shares> will <Vest> immediately before the date of the <Acceleration Event>.
+                \ Accelerated Vesting \ [Acceleration Percentage] of then <Unvested Shares> (""Accelerated Shares""), rounded up to the nearest whole share, will <Vest> on any <Acceleration Event>. In case of an <Asset Sale>, if the acquirer of the <Company>'s assets does not agree to assume this agreement, or to substitute an equal award or right for this agreement, and <You> transfer <Your> employment to the acquirer in connection with the <Asset Sale>, then <Accelerated Shares> will <Vest> immediately before, and contingent on, the consummation of the <Asset Sale>. Otherwise, <Accelerated Shares> will <Vest> immediately before the date of the <Acceleration Event>.
                 # {{/singleTrigger}}
 
             \ Repurchase Option Terms \
@@ -113,7 +114,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
         # TODO refactor this condition out
         \ Right of First Refusal \ Subject to {Exception for Family Transfers}:
 
-            \\ The <Company> will have a right of first refusal to purchase any <Covered Securities> (""Right of First Refusal""). Neither <You> nor any other holder of <Covered Securities> subject to this <Agreement> (""Holder"") shall sell or otherwise transfer <Covered Securities>, for a price, by gift, by operation of law, or otherwise, except under {Exercise of Right of First Refusal} or {Holder's Right to Transfer}.
+            \\ The <Company> will have a right of first refusal to purchase any <Covered Securities> (""Right of First Refusal""). Neither <You> nor any other holder of <Covered Securities> subject to this agreement (""Holder"") shall sell or otherwise transfer <Covered Securities>, for a price, by gift, by operation of law, or otherwise, except under {Exercise of Right of First Refusal} or {Holder's Right to Transfer}.
 
             \ Notice of Proposed Transfer \ Each <Holder> shall give the <Company> notice of any intent to sell or otherwise transfer <Covered Securities> (""Proposed Transfer Notice""). The <Holder> shall state in the <Proposed Transfer Notice>:
 
@@ -171,9 +172,9 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \ Escrow of Unvested Shares \
 
-            \\ To facilitate enforcement of {Limits on Transfer}, <You> shall deliver a stock power in the form of {Stock Power} signed by <You> and <Your> spouse (if required for transfer), in blank, as well as stock certificates for <Your Shares>, if any, to the Secretary of the <Company> or the Secretary's designee as escrow holder (""Escrow Holder""). <Escrow Holder> will hold the stock power, <Your Shares>, and any stock certificates in escrow, and to take all actions and make transfer and releases required under this <Agreement>. <You> acknowledge that the <Escrow Holder> is irrevocably appointed escrow holder with the these authorities, and that the appointment is an important reason <Company> is willing to enter into this <Agreement>.
+            \\ To facilitate enforcement of {Limits on Transfer}, <You> shall deliver a stock power in the form of {Stock Power} signed by <You> and <Your> spouse (if required for transfer), in blank, as well as stock certificates for <Your Shares>, if any, to the Secretary of the <Company> or the Secretary's designee as escrow holder (""Escrow Holder""). <Escrow Holder> will hold the stock power, <Your Shares>, and any stock certificates in escrow, and to take all actions and make transfer and releases required under this agreement. <You> acknowledge that the <Escrow Holder> is irrevocably appointed escrow holder with the these authorities, and that the appointment is an important reason <Company> is willing to enter into this agreement.
 
-            \\ <Escrow Holder> will not be liable to any party to this <Agreement> (or to any other party). The <Escrow Holder> may rely on any letter, notice, or other document with a purportedly genuine signature, and may resign at any time. If the <Escrow Holder> resigns, the <Board> may appoint a new new escrow holder.
+            \\ <Escrow Holder> will not be liable to any party to this agreement (or to any other party). The <Escrow Holder> may rely on any letter, notice, or other document with a purportedly genuine signature, and may resign at any time. If the <Escrow Holder> resigns, the <Board> may appoint a new new escrow holder.
 
         \ Purchaser Statements about Securities and Tax \ <You> state that all the following are true:
 
@@ -181,7 +182,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             \\ <You> understand that sales of securities like <Your Shares> and other <Covered Securities> are regulated by complex state and federal laws, such as the <Securities Act>, <Exchange Act>, and related rules. <You> understand that illegal sales of securities carry severe civil and criminal penalties.
 
-            \\ <You> understand that <Covered Securities> have not been registered under the <Securities Act>, that the <Company> is instead relying on an exemption from registration, and that the exemption depends on the honesty and genuineness of <Your> investment intent, as expressed in this <Agreement>, and other factors.
+            \\ <You> understand that <Covered Securities> have not been registered under the <Securities Act>, that the <Company> is instead relying on an exemption from registration, and that the exemption depends on the honesty and genuineness of <Your> investment intent, as expressed in this agreement, and other factors.
 
             \\ <You> understand that <Covered Securities> must be held indefinitely unless they are registered under the <Securities Act> or an exemption from registration becomes available. <You> understand that the <Company> is under no obligation to register any securities.
 
@@ -201,15 +202,15 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
                 \ Transfer Restriction Legend \ "The referenced securities may be transferred only in accordance with an agreement between the company and the stockholder, a copy of which is on file with the Secretary of the company, who will provide a copy on request free of charge."
 
-            \ Stop-Transfer Notices \ <You> agree that, to ensure compliance with the restrictions of <Agreement>, the <Company> may issue appropriate "stop transfer" instructions to its transfer agent, if any, and that, if the <Company> transfers its own securities, it may make appropriate notations to the same effect in its own stock ledger and list of shareholders (""Stop-Transfer Notices"").
+            \ Stop-Transfer Notices \ <You> agree that, to ensure compliance with the restrictions of this agreement, the <Company> may issue appropriate "stop transfer" instructions to its transfer agent, if any, and that, if the <Company> transfers its own securities, it may make appropriate notations to the same effect in its own stock ledger and list of shareholders (""Stop-Transfer Notices"").
 
             \ Refusal to Transfer \ The <Company> will not be required to:
 
-                \\ transfer on its books any <Covered Securities> that have been sold or otherwise transferred in violation of any of the provisions of this <Agreement>; or
+                \\ transfer on its books any <Covered Securities> that have been sold or otherwise transferred in violation of any of the provisions of this agreement; or
 
-                \\ treat any purchaser or other transferee who received <Covered Securities> in violation of this <Agreement> as the owner of those <Covered Securities>, or to accord them rights to vote or receive dividends.
+                \\ treat any purchaser or other transferee who received <Covered Securities> in violation of this agreement as the owner of those <Covered Securities>, or to accord them rights to vote or receive dividends.
 
-            \ Legend and Notice Removal \ <Covered Securities> will no longer be subject to the legend specified in {Transfer Restriction Legend}, and the <Company> will remove <Stop-Transfer Notices> made under this <Agreement>, when all the following have occurred:
+            \ Legend and Notice Removal \ <Covered Securities> will no longer be subject to the legend specified in {Transfer Restriction Legend}, and the <Company> will remove <Stop-Transfer Notices> made under this agreement, when all the following have occurred:
 
                 \\ The <Right of First Refusal> has terminated.
 
@@ -245,7 +246,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
             \!! <You>, not the <Company> or any other, will be solely responsible for appropriately filing an <83(b) Election> with the <IRS>, even if <You> ask the <Company> or any other file on <Your> behalf.
 
-            \\ <You> shall sign and deliver to the <Company> with this <Agreement> a copy of the acknowledgment and statement attached as {83(b) Acknowledgment and Statement} and, if <You> decide to make an <83(b) Election>, a copy of the <83(b) Election>, attached as {83(b) Election}.
+            \\ <You> shall sign and deliver to the <Company> with this agreement a copy of the acknowledgment and statement attached as {83(b) Acknowledgment and Statement} and, if <You> decide to make an <83(b) Election>, a copy of the <83(b) Election>, attached as {83(b) Election}.
 
         \ Defined Terms \
 
@@ -377,7 +378,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
 
         \ Miscellaneous \
 
-            \ Termination at Will \ No part of this <Agreement> limits the ability of <Your> <Employer> to terminate <Your> employment at will.
+            \ Termination at Will \ No part of this agreement limits the ability of <Your> <Employer> to terminate <Your> employment at will.
 
         include(includes/governing-law.cform)
         include(includes/entire-agreement.cform)
@@ -388,7 +389,7 @@ This Common Stock Purchase Agreement (this ""Agreement"") is made as of [Effecti
         include(includes/construction.cform)
         include(includes/counterparts.cform)
 
-            \ Electronic Delivery \ The <Company> may, in its sole discretion, deliver documents related to this <Agreement> and any notices required by law or the <Company>'s <Governing Documents> to <You> by e-mail or other electronic means. <You> consent to:
+            \ Electronic Delivery \ The <Company> may, in its sole discretion, deliver documents related to this agreement and any notices required by law or the <Company>'s <Governing Documents> to <You> by e-mail or other electronic means. <You> consent to:
 
                 \\ conduct business electronically;
 
