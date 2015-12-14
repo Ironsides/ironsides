@@ -2,7 +2,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
     \\ The parties agree:
 
-        \ Overview \ The following is a loose summary of some of the important parts of this agreement, with references to more detailed language:
+        \ Overview \ The following is a loose summary of some of the important parts of this agreement, with references to specific parts of this agreement:
 
             \\ This agreement covers <Your> purchase of shares of common stock of the <Company>. The <Company> agrees to sell <You> stock in {Purchase and Sale}, and <You> agree to buy the stock 
             # {{#allIP}}
