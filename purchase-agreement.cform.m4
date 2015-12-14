@@ -432,7 +432,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                 \\ any other honest and genuine leave of absence approved by the board of directors or chief executive officer of the <Employer>
 
-            when that leave is for a period of not more than ninety (90) days, unless any of these are true:
+            when that leave is for a period of not more than 90 days, unless any of these are true:
 
                 \\ A contract or statutes guarantees reemployment after leave.
 
