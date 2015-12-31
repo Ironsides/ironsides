@@ -24,7 +24,6 @@ $(COMMONFORM) $(MUSTACHE):
 
 %.cform: %.cform.m4
 	m4 < $< > $@
-	crlf --set=LF $@
 
 %.cform.m4: purchase-agreement.cform.m4 %.json
 	$(MUSTACHE) $*.json $< > $@
@@ -34,7 +33,6 @@ $(PURCHASE_AGREEMENTS:.cform=.json): generate-options.js
 
 $(PURCHASE_AGREEMENTS:.cform=.options): purchase-agreement.options
 	cp $< $@
-	crlf --set=LF $@
 
 $(PURCHASE_AGREEMENTS:.cform=.sigs.json): purchase-agreement.sigs.json
 	cp $< $@
