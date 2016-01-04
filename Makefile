@@ -3,6 +3,7 @@ PURCHASE_AGREEMENTS = $(addsuffix .cform,$(addprefix purchase-agreement-,single-
 FORMS = $(filter-out purchase-agreement.cform,$(TEMPLATES:.cform.m4=.cform)) $(PURCHASE_AGREEMENTS)
 COMMONFORM = node_modules/.bin/commonform
 MUSTACHE = node_modules/.bin/mustache
+CRLF = node_modules/.bin/crlf
 DOCX = $(FORMS:.cform=.docx)
 PDF = $(FORMS:.cform=.pdf)
 
@@ -10,7 +11,7 @@ all: $(DOCX)
 
 pdf: $(PDF)
 
-$(COMMONFORM) $(MUSTACHE):
+$(COMMONFORM) $(MUSTACHE) $(CRLF):
 	npm i
 
 %.pdf: %.docx
@@ -22,9 +23,9 @@ $(COMMONFORM) $(MUSTACHE):
 %.docx: %.cform %.options $(COMMONFORM)
 	$(COMMONFORM) render --format docx $(shell cat $*.options) < $< > $@
 
-%.cform: %.cform.m4
+%.cform: %.cform.m4 $(CRLF)
 	m4 < $< > $@
-	crlf --set=LF $@
+	$(CRLF) --set=LF $@
 
 %.cform.m4: purchase-agreement.cform.m4 %.json
 	$(MUSTACHE) $*.json $< > $@
@@ -32,9 +33,9 @@ $(COMMONFORM) $(MUSTACHE):
 $(PURCHASE_AGREEMENTS:.cform=.json): generate-options.js
 	node $< $@ > $@
 
-$(PURCHASE_AGREEMENTS:.cform=.options): purchase-agreement.options
+$(PURCHASE_AGREEMENTS:.cform=.options): purchase-agreement.options $(CRLF)
 	cp $< $@
-	crlf --set=LF $@
+	$(CRLF) --set=LF $@
 
 $(PURCHASE_AGREEMENTS:.cform=.sigs.json): purchase-agreement.sigs.json
 	cp $< $@
