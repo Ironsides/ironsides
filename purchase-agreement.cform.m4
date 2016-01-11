@@ -390,7 +390,11 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                 \\ Fund the <Company> in a financing approved by the <Board>.
 
+            # {{^allCash}}
+
             \\ ""Company Business"" means the business of the <Company>, which involves [Description of Business].
+
+            # {{/allCash}}
 
             \\ ""Company Corporate Family"" means the <Company> or any <Parent>, <Affiliate>, <Subsidiary>, or their successors.
 
