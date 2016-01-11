@@ -25,7 +25,7 @@ $(COMMONFORM) $(MUSTACHE):
 %.cform: %.cform.m4
 	m4 < $< > $@
 
-%.cform.m4: purchase-agreement.cform.m4 %.json
+%.cform.m4: purchase-agreement.cform.m4 %.json $(MUSTACHE)
 	$(MUSTACHE) $*.json $< > $@
 
 $(PURCHASE_AGREEMENTS:.cform=.json): generate-options.js
