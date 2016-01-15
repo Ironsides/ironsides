@@ -2,7 +2,6 @@ TEMPLATES = $(wildcard *.cform.template)
 PURCHASE_AGREEMENTS = $(addsuffix .cform,$(addprefix purchase-agreement-,single-cash single-ip single-mixed double-cash double-ip double-mixed))
 FORMS = $(filter-out purchase-agreement.cform,$(TEMPLATES:.cform.template=.cform)) $(PURCHASE_AGREEMENTS)
 COMMONFORM = node_modules/.bin/commonform
-MUSTACHE = node_modules/.bin/mustache
 CFTEMPLATE = node_modules/.bin/cftemplate
 DOCX = $(FORMS:.cform=.docx)
 PDF = $(FORMS:.cform=.pdf)
@@ -26,9 +25,6 @@ $(COMMONFORM) $(CFTEMPLATE):
 %.cform: $(CFTEMPLATE) %.cftemplate %.json
 	$^ > $@
 
-%.json:
-	echo "{}" > $@
-
 purchase-agreement-%.json: generate-options.js
 	node $< $@ > $@
 
@@ -40,6 +36,9 @@ purchase-agreement-%.options: purchase-agreement.options
 
 purchase-agreement-%.sigs.json: purchase-agreement.sigs.json
 	cp $< $@
+
+%.json:
+	echo "{}" > $@
 
 .PHONY: lint critique clean
 
