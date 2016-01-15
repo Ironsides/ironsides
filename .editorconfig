@@ -1,0 +1,11 @@
+# EditorConfig file
+# http://EditorConfig.org
+
+root = true
+
+[*]
+end_of_line = lf
+
+[*.{cform,commonform}]
+indent_style = space
+indent_size = 4
