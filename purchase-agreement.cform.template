@@ -352,11 +352,11 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \\ ""Affiliate"" means a <Business Entity>, other than a <Subsidiary>, that, together with the <Company>, is under common control of a third <Person>.
 
-            \\ ""Asset Sale"" means the <Company> sells all or substantially all the <Company>'s assets to other than an <Excluded Entity>.
+            (( include asset-sale ))
 
             \\ ""Board"" means the Board of Directors of the <Company> or its successor.
 
-            \\ ""Business Entity"" means corporation, limited liability company, or other legal entity.
+            (( include business-entity ))
 
             # {{^allCash}}
 
@@ -374,21 +374,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                 \\ The payer may pay when and as otherwise agreed with the payee.
 
-            \\ ""Change of Control"" means any of these:
-
-                \\ an <Asset Sale>
-
-                \\ The <Company> merges, consolidates, or changes, by other capital reorganization or business combination transaction, with or into into another <Business Entity>, other than an <Excluded Entity>.
-
-                \\ any transaction or series of related transactions are consummated in which any "person" (as used in Sections 13(d) and 14(d) of the <Exchange Act>) becomes the "beneficial owner" (as defined in Rule 13d-3 of the <Exchange Act>), directly or indirectly, of all the <Company>'s then outstanding voting securities
-
-            However, a transaction will not constitute a <Change of Control> if its purpose is any of these:
-
-                \\ Change the jurisdiction of the <Company>'s incorporation.
-
-                \\ Create a holding company owned in substantially the same proportions by the those who hold the <Company>'s securities immediately before the transaction.
-
-                \\ Fund the <Company> in a financing approved by the <Board>.
+            (( include change-of-control ))
 
             # {{^allCash}}
 
@@ -486,9 +472,9 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             # {{/allCash}}
 
-            \\ ""Exchange Act"" means the Securities Exchange Act of 1934.
+            (( include exchange-act ))
 
-            \\ ""Excluded Entity"" means, for a transaction, any <Business Entity> that, immediately after the transaction, will be in <Voting Control> of <Persons> who held capital stock of the <Company> immediately before the transaction. ""Voting Control"" means ownership of securities of a <Business Entity> that represent most of the votes entitled to be cast by all outstanding voting securities of that <Business Entity>.
+            (( include excluded-entity ))
 
             \\ ""Fair Market Value"" means fair market value as determined in good faith by the <Board>.
 
@@ -570,7 +556,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \\ ""Parent"" means any corporation (other than the <Company>) in an unbroken chain of corporations ending with the <Company> if each of the corporations other than the <Company> owns stock possessing 50% or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
 
-            \\ ""Person"" (plural, ""Persons"") means a natural person or <Business Entity>.
+            (( include person ))
 
             \\ ""Securities Act"" means the Securities Act of 1933.
 
@@ -587,6 +573,8 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
             # {{/allCash}}
 
             \\ ""Termination"" means voluntary or involuntary termination of <Your> <Continuous Service Status> for any reason (including death or <Disability>), with or without <Good Reason to Terminate>.
+
+            (( include voting-control ))
 
             \\ ""Your"" means belonging to <Your>.
 

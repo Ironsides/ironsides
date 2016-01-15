@@ -103,24 +103,17 @@ This indemnification agreement (the ""Agreement"") of [Effective Date] is betwee
         \ Words and Phrases \ Throughout the <Agreement>:
             \\ ""Asset Sale"" means the <Company> sells all or substantially all the <Company>'s assets to other than an <Excluded Entity>.
             \\ ""Board"" means the board of directors of the <Company>.
-            \\ ""Business Entity"" means corporation, limited liability company, or other legal entity.
-            \\ ""Change of Control"" means any of these:
-                \\ an <Asset Sale>
-                \\ The <Company> merges, consolidates, or changes, by other capital reorganization or business combination transaction, with or into into another <Business Entity>, other than an <Excluded Entity>.
-                \\ any transaction or series of related transactions are consummated in which any "person" (as used in Sections 13(d) and 14(d) of the <Exchange Act>) becomes the "beneficial owner" (as defined in Rule 13d-3 of the <Exchange Act>), directly or indirectly, of all the <Company>'s then outstanding voting securities
-            However, a transaction will not constitute a <Change of Control> if its purpose is any of these:
-                \\ Change the jurisdiction of the <Company>'s incorporation.
-                \\ Create a holding company owned in substantially the same proportions by the those who hold the <Company>'s securities immediately before the transaction.
-                \\ Fund the <Company> in a financing approved by the <Board>.
+            (( include business-entity ))
+            (( include change-of-control ))
             \\ ""Company Governing Documents"" means the certificate of incorporation of the <Company> and the bylaws of the <Company>.
             \\ ""Conflicted Legal Matter"" means a legal matter in which both you and your lawyer, in a written opinion to the <Company>, reasonably conclude that you and the <Company> have a conflict of interest.
-            \\ ""Exchange Act"" means the Securities Exchange Act of 1934.
-            \\ ""Excluded Entity"" means, for a transaction, any <Business Entity> that, immediately after the transaction, will be in <Voting Control> of <Persons> who held capital stock of the <Company> immediately before the transaction.
+            (( include exchange-act ))
+            (( include excluded-entity ))
             \\ ""Expenses"" means all of the following reasonable attorneys' fees, retainers, court costs, transcript costs, fees of experts, witness fees, advisory fees, travel expenses, duplicating costs, printing and binding costs, telephone charges, postage, delivery service fees, bond premiums, the costs of collecting, processing, producing, and hosting electronic materials and documents, and all other disbursements or expenses of the types customarily incurred in connection with investigating, prosecuting, and defending a <Legal Matter>, or preparing to do those things, plus any other kinds of direct and indirect costs.
             \\ ""Independent Lawyer"" means a lawyer (or law firm) with experience in Delaware corporation law that has not represented you, the <Company>, or anyone else involved in the <Legal Matter> during the last five years, but could represent either you or the <Company> in a <Legal Matter> to determine your rights under the <Agreement> without any conflict of interest.
             \\ ""Legal Matter"" means any threatened, pending, or completed action, suit, or proceeding, whether civil, criminal, administrative, or investigative. An internal investigation that you receive a warning about under Upjohn Co. v. United States is a <Legal Matter>.
-            \\ ""Person"" (plural, ""Persons"") means a natural person or <Business Entity>.
-            \\ ""Voting Control"" means ownership of securities of a <Business Entity> that represent most of the votes entitled to be cast by all outstanding voting securities of that <Business Entity>.
+            (( include person ))
+            (( include voting-control ))
             \\ ""You and Yours"" mean you, as well as the members of your immediate family and your spouse, representatives, guardians, conservators, estate, executors, administrators, trustees, to the extent they or their property are subject to a <Legal Matter> covered by <Indemnification> or <Advancement> by the <Company>.
 
         \ Miscellaneous \
