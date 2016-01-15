@@ -472,7 +472,8 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             # (( end ))
 
-        (( require includes/exchange-act ))
+            \\
+            (( require kemitchell exchange-act ))
 
         (( require includes/excluded-entity ))
 
