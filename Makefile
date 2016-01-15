@@ -29,16 +29,16 @@ $(COMMONFORM) $(CFTEMPLATE):
 %.json:
 	echo "{}" > $@
 
-$(PURCHASE_AGREEMENTS:.cform=.json): generate-options.js
+purchase-agreement-%.json: generate-options.js
 	node $< $@ > $@
 
-$(PURCHASE_AGREEMENTS:.cform=.cftemplate): purchase-agreement.cftemplate
+purchase-agreement-%.cftemplate: purchase-agreement.cftemplate
 	cp $< $@
 
-$(PURCHASE_AGREEMENTS:.cform=.options): purchase-agreement.options
+purchase-agreement-%.options: purchase-agreement.options
 	cp $< $@
 
-$(PURCHASE_AGREEMENTS:.cform=.sigs.json): purchase-agreement.sigs.json
+purchase-agreement-%.sigs.json: purchase-agreement.sigs.json
 	cp $< $@
 
 .PHONY: lint critique clean
