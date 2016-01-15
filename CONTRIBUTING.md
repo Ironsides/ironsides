@@ -36,7 +36,7 @@ Regardless of how you choose to submit changes, do not submit confidential infor
 
 #### GitHub
 
-Ironsides forms are written using [Common Form](https://commonform.github.io), a processing system for form contracts. All the form files are plain-text `.cform` files. The repository uses [Travis CI](https://travis-ci.org) to check forms for technical errors and build Microsoft Word and Portable Document Format documents for releases. The best way to learn to type form contracts in Common Form is to look at the `.cform` file for the form you want to change.
+Ironsides forms are written using [Common Form](https://commonform.github.io), a processing system for form contracts, as well as a lightweight preprocessor, also Written in JavaScript, that handles includes. All the form files are plain-text `.cform.template` files. The repository uses [Travis CI](https://travis-ci.org) to check forms for technical errors and build Microsoft Word and Portable Document Format documents for releases. The best way to learn to type form contracts in Common Form is to look at the `.cform` file for the form you want to change.
 
 Please send pull requests from topic branches based on the current `master` branch. If you have any questions about Common Form or how Ironsides documents are built, feel free to open an Issue or mention your question in your Pull Request.
 
