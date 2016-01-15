@@ -3,7 +3,7 @@ PURCHASE_AGREEMENTS = $(addsuffix .cform,$(addprefix purchase-agreement-,single-
 FORMS = $(filter-out purchase-agreement.cform,$(TEMPLATES:.cform.template=.cform)) $(PURCHASE_AGREEMENTS)
 COMMONFORM = node_modules/.bin/commonform
 MUSTACHE = node_modules/.bin/mustache
-PLAINTEMPLATE = node_modules/plaintemplate
+CFTEMPLATE = node_modules/.bin/cftemplate
 DOCX = $(FORMS:.cform=.docx)
 PDF = $(FORMS:.cform=.pdf)
 
@@ -11,7 +11,7 @@ all: $(DOCX)
 
 pdf: $(PDF)
 
-$(COMMONFORM) $(MUSTACHE) $(PLAINTEMPLATE):
+$(COMMONFORM) $(CFTEMPLATE):
 	npm i
 
 %.pdf: %.docx
@@ -23,14 +23,17 @@ $(COMMONFORM) $(MUSTACHE) $(PLAINTEMPLATE):
 %.docx: %.cform %.options $(COMMONFORM)
 	$(COMMONFORM) render --format docx $(shell cat $*.options) < $< > $@
 
-%.cform: %.cform.template preprocess $(PLAINTEMPLATE)
-	./preprocess < $< > $@
+%.cform: $(CFTEMPLATE) %.cftemplate %.json
+	$^ > $@
 
-%.cform.template: purchase-agreement.cform.template %.json $(MUSTACHE)
-	$(MUSTACHE) $*.json $< > $@
+%.json:
+	echo "{}" > $@
 
 $(PURCHASE_AGREEMENTS:.cform=.json): generate-options.js
 	node $< $@ > $@
+
+$(PURCHASE_AGREEMENTS:.cform=.cftemplate): purchase-agreement.cftemplate
+	cp $< $@
 
 $(PURCHASE_AGREEMENTS:.cform=.options): purchase-agreement.options
 	cp $< $@
