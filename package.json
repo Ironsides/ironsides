@@ -5,6 +5,7 @@
     "commonform-cli": "^0.11.0"
   },
   "dependencies": {
-    "@kemitchell/exchange-act": "^1.0.1"
+    "@kemitchell/exchange-act": "^1.0.1",
+    "@kemitchell/permission": "^1.0.0"
   }
 }
