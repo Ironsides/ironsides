@@ -1,6 +1,6 @@
-TEMPLATES = $(wildcard *.cform.m4)
+TEMPLATES = $(wildcard *.cform.template)
 PURCHASE_AGREEMENTS = $(addsuffix .cform,$(addprefix purchase-agreement-,single-cash single-ip single-mixed double-cash double-ip double-mixed))
-FORMS = $(filter-out purchase-agreement.cform,$(TEMPLATES:.cform.m4=.cform)) $(PURCHASE_AGREEMENTS)
+FORMS = $(filter-out purchase-agreement.cform,$(TEMPLATES:.cform.template=.cform)) $(PURCHASE_AGREEMENTS)
 COMMONFORM = node_modules/.bin/commonform
 MUSTACHE = node_modules/.bin/mustache
 PLAINTEMPLATE = node_modules/plaintemplate
@@ -23,10 +23,10 @@ $(COMMONFORM) $(MUSTACHE) $(PLAINTEMPLATE):
 %.docx: %.cform %.options $(COMMONFORM)
 	$(COMMONFORM) render --format docx $(shell cat $*.options) < $< > $@
 
-%.cform: %.cform.m4 preprocess $(PLAINTEMPLATE)
+%.cform: %.cform.template preprocess $(PLAINTEMPLATE)
 	./preprocess < $< > $@
 
-%.cform.m4: purchase-agreement.cform.m4 %.json $(MUSTACHE)
+%.cform.template: purchase-agreement.cform.template %.json $(MUSTACHE)
 	$(MUSTACHE) $*.json $< > $@
 
 $(PURCHASE_AGREEMENTS:.cform=.json): generate-options.js
