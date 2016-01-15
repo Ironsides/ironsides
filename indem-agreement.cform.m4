@@ -20,7 +20,7 @@ This indemnification agreement (the ""Agreement"") of [Effective Date] is betwee
 
             \ Legal Matters Related to the Company \ The <Company> promises <You and Yours> all <Required Indemnification> and <Allowed Indemnification> the <Corporation Law> allows, except the <Company> does not promise any <Indemnification> for <Expenses> of any <Legal Matter> that you initiate without the unanimous permission of the <Board>.
 
-            \ Enforcing the Agreement \ The <Company> promises <You and Yours> <Indemnification> and <Advancement> for <Expenses> of suing the <Company> to successfully enforce your rights to <Indemnification> or <Advancement> under the <Agreement>, another agreement, the certificate of incorporation of the <Company>, or the bylaws of the <Company>.
+            \ Enforcing the Agreement \ The <Company> promises <You and Yours> <Indemnification> and <Advancement> for <Expenses> of suing the <Company> to successfully enforce your rights to <Indemnification> or <Advancement> under the <Agreement>, another agreement, or <Company Governing Documents>.
 
         # See Sun-Times Media Group, Inc. v. Black, 954 A.2d 380 (Del. Ch. 2008) ("final disposition" in "in advance of of the final disposition" means "final, non-appealable conclusion")
         \ Advancement \ Subject to {You Must Give Notice}, the <Company> promises <You and Yours> all <Allowed Advancement> the <Corporation Law> allows.
@@ -87,11 +87,18 @@ This indemnification agreement (the ""Agreement"") of [Effective Date] is betwee
 
         \ Other Sources of Protection \
 
-            \ Not Exclusive \ <Indemnification> and <Advancement> under the <Agreement> do not exclude other rights you may have under law, the certificate of incorporation of the <Company>, the bylaws of the <Company>, a vote of the stockholders of the <Company>, or otherwise. The <Agreement> does not change other agreements you may have with the <Company>.
+            \ Not Exclusive \ <Indemnification> and <Advancement> under the <Agreement> do not exclude other rights you may have under law, <Company Governing Document>, a vote of the stockholders of the <Company>, or otherwise. The <Agreement> does not change other agreements you may have with the <Company>.
 
             \ Insurance \ The <Company> promises to name you as an insured in any <D&O Policy> is purchases, so that you have rights under the <D&O Policy> on par with other named insureds serving in similar <Company> roles. The <Company> promises to give you prompt <Notice> of any decision not to provide <D&O Policy> coverage, and if any <D&O Policy> lapses or terminates.
 
             \ Tail Insurance \ The <Company>, on its own behalf and that of any successor, promises to continue (or purchase) and continue a <Tail Policy> for at least the 6 years immediately following any <Change of Control>. A ""Tail Policy"" is a <D&O Policy> that covers you for wrongful acts on or before the <Change of Control>, without any bad effect on your rights under the <Agreement>, that the insurer cannot cancel for any reason but failure to pay its premium.
+
+            \ Investment Funds \ If you ever have rights to <Indemnification> or <Advancement>, or a <D&O Policy>, through an investment fund or other entity on behalf of which you serve the <Company> (""Fund Indemnification""), then:
+                \\ The <Company> promises that it will be "indemnitor of first resort", so that its <Indemnification> and <Advancement> obligations to you are primary and <Fund Indemnification> secondary.
+                \\ The <Company> will pay and advance all amounts covered by <Indemnification> and <Advancement> under the <Agreement>, any other agreement with the <Company>, and <Company Governing Documents>, ignoring <Fund Indemnification>.
+                \\ The <Company> waives any claim against providers of <Fund Indemnification> for contribution, subrogation, or any other, related recovery.
+                \\ If providers of <Fund Indemnification> advance or pay you any amount covered by <Indemnification> or <Advancement> from the <Company>, that will not affect the <Company>'s obligations, and providers of <Fund Indemnification> will have rights of contribution and subrogation from the <Company> for the amounts they paid.
+                \\ Providers of <Fund Indemnification> are entitled to the benefits of {Investment Funds} as third-party beneficiaries.
 
         \ Words and Phrases \ Throughout the <Agreement>:
             \\ ""Asset Sale"" means the <Company> sells all or substantially all the <Company>'s assets to other than an <Excluded Entity>.
@@ -105,6 +112,7 @@ This indemnification agreement (the ""Agreement"") of [Effective Date] is betwee
                 \\ Change the jurisdiction of the <Company>'s incorporation.
                 \\ Create a holding company owned in substantially the same proportions by the those who hold the <Company>'s securities immediately before the transaction.
                 \\ Fund the <Company> in a financing approved by the <Board>.
+            \\ ""Company Governing Documents"" means the certificate of incorporation of the <Company> and the bylaws of the <Company>.
             \\ ""Conflicted Legal Matter"" means a legal matter in which both you and your lawyer, in a written opinion to the <Company>, reasonably conclude that you and the <Company> have a conflict of interest.
             \\ ""Exchange Act"" means the Securities Exchange Act of 1934.
             \\ ""Excluded Entity"" means, for a transaction, any <Business Entity> that, immediately after the transaction, will be in <Voting Control> of <Persons> who held capital stock of the <Company> immediately before the transaction.
