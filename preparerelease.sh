@@ -2,7 +2,6 @@
 set -e
 make pdf || echo 'Already built'
 # PDF
-mv assignment.pdf Assignment.pdf
 mv board-resolutions.pdf Board-Resolutions.pdf
 mv bylaws.pdf Bylaws.pdf
 mv certificate.pdf Certificate-of-Incorporation.pdf
@@ -23,7 +22,6 @@ mv secretary-cert.pdf Secretary-Bylaws-Certificate.pdf
 mv statement.pdf 83b-Statements-and-Acknowledgement.pdf
 mv stock-power.pdf Stock-Power.pdf
 # DOCX
-mv assignment.docx Assignment.docx
 mv board-resolutions.docx Board-Resolutions.docx
 mv bylaws.docx Bylaws.docx
 mv certificate.docx Certificate-of-Incorporation.docx
