@@ -72,7 +72,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             #(( end ))
 
-            \ Record of Ownership \ On the <Purchase Date>, <Company> shall list <Your Shares> in <Your> name as of the <Purchase Date> in the <Company>'s stock ledger and list of stockholders, or with the authorized transfer of the <Company> if it has one. On <Your> request, the <Company> shall give <You> a written notice of issuance for <Your Shares>.
+            \ Record of Ownership \ On the <Purchase Date>, <Company> shall list <Your Shares> in <Your> name as of the <Purchase Date> in the <Company>'s stock ledger and list of stockholders, or with the authorized transfer of the <Company> if it has one. On <Your> request, the <Company> shall give <You> <Notice> of issuance for <Your Shares>.
 
         # (( unless allCash start ))
 
@@ -92,7 +92,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                 \ Assignment of Equipment \ As of the date of this agreement, <You> assign all <Company-Related Equipment> to the <Company>.
 
-            \ Further Steps \ <You> shall do everything the <Company> reasonably believes necessary to make and confirm the <Assignments>. For example, <You> shall sign and deliver any additional documents needed. <Company> shall give <You> notice that action is required and provide all necessary documentation and reimburse <You> for all reasonable out-of-pocket expenses.
+            \ Further Steps \ <You> shall do everything the <Company> reasonably believes necessary to make and confirm the <Assignments>. For example, <You> shall sign and deliver any additional documents needed. <Company> shall give <You> <Notice> that action is required and provide all necessary documentation and reimburse <You> for all reasonable out-of-pocket expenses.
 
             \ Further Steps by Company on Your Behalf \
 
@@ -172,7 +172,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                     \\ <You> resign and all of these are true:
 
-                        \\ <You> give written notice to the <Company> of a <Good Reason to Resign> within 60 calendar days of when it happens (""Resignation Notice"").
+                        \\ <You> give <Notice> of a <Good Reason to Resign> within 60 calendar days of when it happens (""Resignation Notice"").
 
                         \\ The <Company> does not act to remove the <Good Reason to Resign> within 30 calendar days of receiving <Resignation Notice>.
 
@@ -194,7 +194,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                 \\ The <Company> may exercise the <Repurchase Option> at any time before the <Repurchase Option Expiration Date>.
 
-                \\ Unless the <Company> gives <You> notice that it does not intend to exercise its <Repurchase Option> for some or all <Unvested Shares> before the <Repurchase Option Expiration Date>, the <Company> will be deemed to exercise the <Repurchase Option> for all <Unvested Shares> on the <Repurchase Option Expiration Date> (""Automatic Repurchase""). The <Company> may give <You> notice that <Automatic Repurchase> will occur as of any earlier date, or for only some part of the <Unvested Shares>. On <Automatic Repurchase>, the <Company> will become the legal and beneficial owner of the <Unvested Shares> for which the <Repurchase Option> is exercised, will have all rights and interest in and related to those <Unvested Shares>, and will have the right to transfer them to its own name without further action by <You>.
+                \\ Unless the <Company> gives <You> <Notice> that it does not intend to exercise its <Repurchase Option> for some or all <Unvested Shares> before the <Repurchase Option Expiration Date>, the <Company> will be deemed to exercise the <Repurchase Option> for all <Unvested Shares> on the <Repurchase Option Expiration Date> (""Automatic Repurchase""). The <Company> may give <You> <Notice> that <Automatic Repurchase> will occur as of any earlier date, or for only some part of the <Unvested Shares>. On <Automatic Repurchase>, the <Company> will become the legal and beneficial owner of the <Unvested Shares> for which the <Repurchase Option> is exercised, will have all rights and interest in and related to those <Unvested Shares>, and will have the right to transfer them to its own name without further action by <You>.
 
                 \\ The <Company> shall pay the <Repurchase Price> by <Check and Canceled Debt>. If <You> are indebted to the <Company> on <Automatic Repurchase> and the <Company> does not otherwise pay the <Repurchase Price>, an amount of <Your> debt equal to the <Repurchase Price> will be deemed canceled as of the date of <Automatic Repurchase>.
 
@@ -204,7 +204,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \\ The <Company> will have a right of first refusal to purchase any <Covered Securities> (""Right of First Refusal""). Neither <You> nor any other holder of <Covered Securities> subject to this agreement (""Holder"") shall sell or otherwise transfer <Covered Securities>, for a price, by gift, by operation of law, or otherwise, except under {Exercise of Right of First Refusal} or {Right to Transfer}.
 
-            \ Notice of Proposed Transfer \ Each <Holder> shall give the <Company> notice of any intent to sell or otherwise transfer <Covered Securities> (""Proposed Transfer Notice""). The <Holder> shall state all of these in the <Proposed Transfer Notice>:
+            \ Notice of Proposed Transfer \ Each <Holder> shall give the <Company> <Notice> of any intent to sell or otherwise transfer <Covered Securities> (""Proposed Transfer Notice""). The <Holder> shall state all of these in the <Proposed Transfer Notice>:
 
                 \\ the name of each proposed transferee (""Proposed Transferee"")
 
@@ -216,7 +216,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             # TODO Define ""Notice""
 
-            \ Exercise of Right of First Refusal \ At any time within 30 calendar days after receipt of a <Proposed Transfer Notice>, the <Company> may elect to purchase any or all <Covered Securities> the <Holder> intends to transfer, at the <Transfer Purchase Price> and on the <Proposed Transfer Terms> (or terms as similar as possible), by giving notice to the <Holder>. If the <Transfer Purchase Price> consists of no legal "consideration" (for example, in the case of a gift), the purchase price will be the <Fair Market Value> of the <Covered Securities> as of the date of purchase. If the <Transfer Purchase Price> includes non-cash property, the cash value of the non-cash property will be its <Fair Market Value> as of the date of purchase.
+            \ Exercise of Right of First Refusal \ At any time within 30 calendar days after receipt of a <Proposed Transfer Notice>, the <Company> may elect to purchase any or all <Covered Securities> the <Holder> intends to transfer, at the <Transfer Purchase Price> and on the <Proposed Transfer Terms> (or terms as similar as possible), by giving <Notice> to the <Holder>. If the <Transfer Purchase Price> consists of no legal "consideration" (for example, in the case of a gift), the purchase price will be the <Fair Market Value> of the <Covered Securities> as of the date of purchase. If the <Transfer Purchase Price> includes non-cash property, the cash value of the non-cash property will be its <Fair Market Value> as of the date of purchase.
 
             \ Payment for Right of First Refusal \ The <Company> shall pay the <Transfer Purchase Price> by <Check and Canceled Debt> within 60 calendar days of receipt of <Proposed Transfer Notice>.
 
@@ -240,7 +240,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
         \ Right to Purchase on Involuntary Transfer \
 
-            \\ Any <Holder> shall give the Secretary of the <Company> prompt notice of any <Involuntary Transfer> (""Involuntary Transfer Notice"").
+            \\ Any <Holder> shall give the Secretary of the <Company> prompt <Notice> of any <Involuntary Transfer> (""Involuntary Transfer Notice"").
 
             \\ On any <Involuntary Transfer>, the <Company> will have an irrevocable and exclusive option (an ""Involuntary Transfer Option"") to repurchase all or any portion of the <Covered Securities> transferred.
 
@@ -508,7 +508,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                 \\ <You> are convicted of, pleads guilty to, or pleads no contest to, any crime that materially harms, or is reasonably expected to materially harm, the business or reputation of the <Company>.
 
-                \\ <You> materially breach any written agreement between <You> and the <Company> and fail to cure that breach in 30 days after receiving written notice of the breach.
+                \\ <You> materially breach any written agreement between <You> and the <Company> and fail to cure that breach in 30 days after receiving <Notice> of the breach.
 
             \\ ""Governing Documents"" means the <Company>'s certificate of incorporation and bylaws.
 

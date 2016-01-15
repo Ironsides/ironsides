@@ -18,7 +18,7 @@ This indemnification agreement (the ""Agreement"") of [Effective Date] is betwee
 
         \ Indemnification \ Subject to {You Must Give Notice}, the <Company> promises <You and Yours> the following <Indemnification>.
 
-            \ Legal Matters Related to the Company \ The <Company> promises <You and Yours> all <Required Indemnification> and <Allowed Indemnification> the <Corporation Law> allows, except the <Company> does not promise any <Indemnification> for <Expenses> of any <Legal Matter> that you start without the unanimous permission of the <Board>.
+            \ Legal Matters Related to the Company \ The <Company> promises <You and Yours> all <Required Indemnification> and <Allowed Indemnification> the <Corporation Law> allows, except the <Company> does not promise any <Indemnification> for <Expenses> of any <Legal Matter> that you start without approval of the <Board>.
 
             \ Enforcing the Agreement \ The <Company> promises <You and Yours> <Indemnification> and <Advancement> for <Expenses> of suing the <Company> to successfully enforce your rights to <Indemnification> or <Advancement> under the <Agreement>, another agreement, or <Company Governing Documents>.
 
@@ -112,6 +112,7 @@ This indemnification agreement (the ""Agreement"") of [Effective Date] is betwee
             \\ ""Expenses"" means all of the following reasonable attorneys' fees, retainers, court costs, transcript costs, fees of experts, witness fees, advisory fees, travel expenses, duplicating costs, printing and binding costs, telephone charges, postage, delivery service fees, bond premiums, the costs of collecting, processing, producing, and hosting electronic materials and documents, and all other disbursements or expenses of the types customarily incurred in connection with investigating, prosecuting, and defending a <Legal Matter>, or preparing to do those things, plus any other kinds of direct and indirect costs.
             \\ ""Independent Lawyer"" means a lawyer (or law firm) with experience in Delaware corporation law that has not represented you, the <Company>, or anyone else involved in the <Legal Matter> during the last five years, but could represent either you or the <Company> in a <Legal Matter> to determine your rights under the <Agreement> without any conflict of interest.
             \\ ""Legal Matter"" means any threatened, pending, or completed action, suit, or proceeding, whether civil, criminal, administrative, or investigative. An internal investigation that you receive a warning about under Upjohn Co. v. United States is a <Legal Matter>.
+        (( require includes/permission ))
         (( require includes/person ))
         (( require includes/voting-control ))
             \\ ""You and Yours"" mean you, as well as the members of your immediate family and your spouse, representatives, guardians, conservators, estate, executors, administrators, trustees, to the extent they or their property are subject to a <Legal Matter> covered by <Indemnification> or <Advancement> by the <Company>.
