@@ -1,6 +1,6 @@
-TEMPLATES = $(wildcard *.cform.template)
+TEMPLATES = $(wildcard *.cftemplate)
 PURCHASE_AGREEMENTS = $(addsuffix .cform,$(addprefix purchase-agreement-,single-cash single-ip single-mixed double-cash double-ip double-mixed))
-FORMS = $(filter-out purchase-agreement.cform,$(TEMPLATES:.cform.template=.cform)) $(PURCHASE_AGREEMENTS)
+FORMS = $(filter-out purchase-agreement.cform,$(TEMPLATES:.cftemplate=.cform)) $(PURCHASE_AGREEMENTS)
 COMMONFORM = node_modules/.bin/commonform
 CFTEMPLATE = node_modules/.bin/cftemplate
 DOCX = $(FORMS:.cform=.docx)
