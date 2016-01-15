@@ -3,6 +3,7 @@ PURCHASE_AGREEMENTS = $(addsuffix .cform,$(addprefix purchase-agreement-,single-
 FORMS = $(filter-out purchase-agreement.cform,$(TEMPLATES:.cform.m4=.cform)) $(PURCHASE_AGREEMENTS)
 COMMONFORM = node_modules/.bin/commonform
 MUSTACHE = node_modules/.bin/mustache
+PLAINTEMPLATE = node_modules/plaintemplate
 DOCX = $(FORMS:.cform=.docx)
 PDF = $(FORMS:.cform=.pdf)
 
@@ -10,7 +11,7 @@ all: $(DOCX)
 
 pdf: $(PDF)
 
-$(COMMONFORM) $(MUSTACHE):
+$(COMMONFORM) $(MUSTACHE) $(PLAINTEMPLATE):
 	npm i
 
 %.pdf: %.docx
@@ -22,8 +23,8 @@ $(COMMONFORM) $(MUSTACHE):
 %.docx: %.cform %.options $(COMMONFORM)
 	$(COMMONFORM) render --format docx $(shell cat $*.options) < $< > $@
 
-%.cform: %.cform.m4
-	m4 < $< > $@
+%.cform: %.cform.m4 preprocess $(PLAINTEMPLATE)
+	./preprocess < $< > $@
 
 %.cform.m4: purchase-agreement.cform.m4 %.json $(MUSTACHE)
 	$(MUSTACHE) $*.json $< > $@

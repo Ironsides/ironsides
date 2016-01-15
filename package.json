@@ -2,6 +2,7 @@
   "private": true,
   "devDependencies": {
     "commonform-cli": "^0.11.0",
-    "mustache": "^2.2.0"
+    "mustache": "^2.2.0",
+    "plaintemplate": "^0.1.3"
   }
 }

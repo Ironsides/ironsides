@@ -1,0 +1,32 @@
+#!/usr/bin/env node
+var plaintemplate = require('plaintemplate')
+var fs = require('fs')
+
+var buffers = [ ]
+process.stdin
+  .on('data', function(buffer) {
+    buffers.push(buffer) })
+  .on('end', function() {
+    process.stdout.write(
+      plaintemplate(
+        Buffer.concat(buffers).toString(),
+        // empty context
+        { },
+        function handler(token) {
+          var directive = token.tag.trim()
+          if (directive.startsWith('include')) {
+            return read(fileName(directive.split(' ')[1]))
+              // remove first-line indentation
+              .trim()
+              // split lines
+              .split('\n')
+              // indent lines after the first
+              .join(' '.repeat(token.position.column) + '\n') } },
+        { open: '((', close: '))', start: '{', end: '}' })) })
+  .resume()
+
+function read(file) {
+  return fs.readFileSync(file).toString() }
+
+function fileName(basename) {
+  return ( './includes/' + basename + '.cform' ) }

@@ -52,7 +52,7 @@
 
         \ Qualifications to Do Business \ The <Officers> of the <Company> are authorized to take any steps they decide are necessary to qualify the <Company> to do business as a foreign corporation in each state the <Officers> think necessary or appropriate.
 
-        \ Indemnification Agreements \ include(includes/indem-agreements.cform)
+        \ Indemnification Agreements \ (( include indem-agreements ))
 
         \ Management of Fiscal Affairs \
 

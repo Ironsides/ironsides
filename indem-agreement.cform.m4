@@ -129,13 +129,13 @@ This indemnification agreement (the ""Agreement"") of [Effective Date] is betwee
 
             \ Not an Employment Agreement \ The <Agreement> is not an employment agreement. The <Agreement> does not require you to continue service in any role with the <Company>.
 
-        include(includes/entire-agreement.cform)
-        include(includes/amendments-and-waivers.cform)
-        include(includes/successors-and-assigns.cform)
-        include(includes/notices.cform)
-        include(includes/severability.cform)
-        include(includes/construction.cform)
-        include(includes/counterparts.cform)
+            (( include entire-agreement ))
+            (( include amendments-and-waivers ))
+            (( include successors-and-assigns ))
+            (( include notices ))
+            (( include severability ))
+            (( include construction ))
+            (( include counterparts ))
 
     \\ There are no schedules.
 

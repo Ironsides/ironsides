@@ -594,21 +594,14 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \ Termination at Will \ No part of this agreement limits the ability of <Your> <Employer> to terminate <Your> employment at will.
 
-        include(includes/governing-law.cform)
-
-        include(includes/entire-agreement.cform)
-
-        include(includes/amendments-and-waivers.cform)
-
-        include(includes/successors-and-assigns.cform)
-
-        include(includes/notices.cform)
-
-        include(includes/severability.cform)
-
-        include(includes/construction.cform)
-
-        include(includes/counterparts.cform)
+            (( include governing-law ))
+            (( include entire-agreement ))
+            (( include amendments-and-waivers ))
+            (( include successors-and-assigns ))
+            (( include notices ))
+            (( include severability ))
+            (( include construction ))
+            (( include counterparts ))
 
             # TODO double-check "electronic system"
 
