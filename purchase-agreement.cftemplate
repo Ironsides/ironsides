@@ -352,11 +352,13 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \\ ""Affiliate"" means a <Business Entity>, other than a <Subsidiary>, that, together with the <Company>, is under common control of a third <Person>.
 
-        (( require includes/asset-sale ))
+            \\
+            (( require includes/asset-sale ))
 
             \\ ""Board"" means the Board of Directors of the <Company> or its successor.
 
-        (( require includes/business-entity ))
+            \\
+            (( require includes/business-entity ))
 
             # (( unless allCash start ))
 
@@ -374,7 +376,8 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
                 \\ The payer may pay when and as otherwise agreed with the payee.
 
-        (( require includes/change-of-control ))
+            \\
+            (( require includes/change-of-control ))
 
             # (( unless allCash start ))
 
@@ -475,7 +478,8 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
             \\
             (( require kemitchell exchange-act ))
 
-        (( require includes/excluded-entity ))
+            \\
+            (( require includes/excluded-entity ))
 
             \\ ""Fair Market Value"" means fair market value as determined in good faith by the <Board>.
 
@@ -557,7 +561,8 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \\ ""Parent"" means any corporation (other than the <Company>) in an unbroken chain of corporations ending with the <Company> if each of the corporations other than the <Company> owns stock possessing 50% or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
 
-        (( require includes/person ))
+            \\
+            (( require includes/person ))
 
             \\ ""Securities Act"" means the Securities Act of 1933.
 
@@ -575,7 +580,8 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \\ ""Termination"" means voluntary or involuntary termination of <Your> <Continuous Service Status> for any reason (including death or <Disability>), with or without <Good Reason to Terminate>.
 
-        (( require includes/voting-control ))
+            \\
+            (( require includes/voting-control ))
 
             \\ ""Your"" means belonging to <Your>.
 
@@ -583,14 +589,29 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \ Termination at Will \ No part of this agreement limits the ability of <Your> <Employer> to terminate <Your> employment at will.
 
-        (( require includes/governing-law ))
-        (( require includes/entire-agreement ))
-        (( require includes/amendments-and-waivers ))
-        (( require includes/successors-and-assigns ))
-        (( require includes/notices ))
-        (( require includes/severability ))
-        (( require includes/construction ))
-        (( require includes/counterparts ))
+            \ Governing Law \
+            (( require includes/governing-law ))
+
+            \ Entire Agreement \
+            (( require includes/entire-agreement ))
+
+            \ Amendments and Waivers \
+            (( require includes/amendments-and-waivers ))
+
+            \ Successors and Assigns \
+            (( require includes/successors-and-assigns ))
+
+            \ Notices \
+            (( require includes/notices ))
+
+            \ Severability \
+            (( require includes/severability ))
+
+            \ Construction \
+            (( require includes/construction ))
+
+            \ Counterparts \
+            (( require includes/counterparts ))
 
             # TODO double-check "electronic system"
 
