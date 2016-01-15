@@ -8,17 +8,17 @@ This indemnification agreement (the ""Agreement"") of [Effective Date] is betwee
 
             \\ Directors, officers, and key employees of Delaware corporations like the <Company> can get <Indemnification> and <Advancement> in a few ways:
 
-                \\ The current Delaware General Corporation Law, as interpreted by Delaware courts (the ""Corporation Law"") addresses <Indemnification> and <Advancement> in section 145. Subsection 145(c) requires <Indemnification> in some situations, called ""Required Indemnification"". Subsection 145(a) and subsection 145(b) allow, but do not require, <Indemnification> in other situations, called ""Allowed Indemnification"". Subsection 145(e) allows, but does not require, <Advancement> in some situations, called ""Allowed Advancement"".
+                \\ The current Delaware General Corporation Law, as interpreted by Delaware courts (the ""Corporation Law"") addresses <Indemnification> and <Advancement> in section 145. 145(c) requires <Indemnification> in some situations, called ""Required Indemnification"". 145(a) and 145(b) allow, but do not require, <Indemnification> in other situations, called ""Allowed Indemnification"". 145(e) allows, but does not require, <Advancement> in some situations, called ""Allowed Advancement"".
 
                 \\ The corporation may purchase a directors and officers liability insurance policy, or ""D&O Policy"".
 
-                \\ The corporation may guarantee <Indemnification> or <Advancement> in its certificate of incorporation, bylaws, or in an agreement.
+                \\ The corporation may give <Indemnification> or <Advancement> in its certificate of incorporation, bylaws, or in an agreement.
 
             \\ The purpose of the <Agreement> is to promise you <Indemnification> and <Advancement> you need to serve with the <Company>.
 
         \ Indemnification \ Subject to {You Must Give Notice}, the <Company> promises <You and Yours> the following <Indemnification>.
 
-            \ Legal Matters Related to the Company \ The <Company> promises <You and Yours> all <Required Indemnification> and <Allowed Indemnification> the <Corporation Law> allows, except the <Company> does not promise any <Indemnification> for <Expenses> of any <Legal Matter> that you initiate without the unanimous permission of the <Board>.
+            \ Legal Matters Related to the Company \ The <Company> promises <You and Yours> all <Required Indemnification> and <Allowed Indemnification> the <Corporation Law> allows, except the <Company> does not promise any <Indemnification> for <Expenses> of any <Legal Matter> that you start without the unanimous permission of the <Board>.
 
             \ Enforcing the Agreement \ The <Company> promises <You and Yours> <Indemnification> and <Advancement> for <Expenses> of suing the <Company> to successfully enforce your rights to <Indemnification> or <Advancement> under the <Agreement>, another agreement, or <Company Governing Documents>.
 
@@ -41,9 +41,9 @@ This indemnification agreement (the ""Agreement"") of [Effective Date] is betwee
 
             \ Legal Requirement \ Under the <Corporation Law>, payment under <Required Indemnification> and <Allowed Indemnification> require a decision that the person receiving <Indemnification> met a particular ""Standard of Conduct"" involving "good faith", "the best interests of the corporation", and no intent to break the law.
 
-            \ Process \ You may give the <Company> <Notice> of your right to <Indemnification> under {Legal Matters Related to the Company} once a final, non-appealable decision is made in a <Legal Matter>. On receiving your <Notice>, the secretary of the <Company> will write the <Board> about it, and the <Company> will promptly determine if you met the <Standard of Conduct> by one of the methods or described by the <Corporation Law>. However, if a <Change of Control> has happened since the date of the <Agreement>, the decision will instead be made by <Independent Lawyer> you choose in a written opinion to the <Board>. The <Company> promises to provide you a copy of <Independent Lawyer>'s opinion. The <Company> promises to pay all expenses of deciding whether you meet the <Standard of Conduct>, however it decides.
+            \ Process \ You may give the <Company> <Notice> of your right to <Indemnification> under {Legal Matters Related to the Company} after a final, non-appealable decision in the <Legal Matter>. On receiving your <Notice>, the secretary of the <Company> will write the <Board> about it, and the <Company> will promptly determine if you met the <Standard of Conduct> by one of the methods or described by the <Corporation Law>. However, if a <Change of Control> has happened since the date of the <Agreement>, the decision will instead be made by <Independent Lawyer> you choose in a written opinion to the <Board>. The <Company> promises to provide you a copy of <Independent Lawyer>'s opinion. The <Company> promises to pay all expenses of deciding whether you meet the <Standard of Conduct>, however it decides.
 
-            \ No Presumptions \ Subsection 145(a) of the <Corporation Law> prevents termination of <Legal Matter> from creating any presumption that you did not meet the <Standard of Conduct> for <Required Indemnification>. No such termination of any <Legal Matter>, or any part of a <Legal Matter>, will create any presumption that you did not meet the <Standard of Conduct> for <Allowed Indemnification> under the <Agreement>, either.
+            \ No Presumptions \ 145(a) of the <Corporation Law> prevents termination of <Legal Matter> from creating any presumption that you did not meet the <Standard of Conduct> for <Required Indemnification>. No termination of any <Legal Matter> described by 145(a), or any part of a <Legal Matter>, will create any presumption that you did not meet the <Standard of Conduct> for <Allowed Indemnification> under the <Agreement>, either.
 
             \ Responsibility \ The <Company> will consider only what you do and do not do, and not what others, who may also have <Indemnification>, do or do not do, in deciding whether you get <Indemnification> or <Advancement>.
 
@@ -63,15 +63,15 @@ This indemnification agreement (the ""Agreement"") of [Effective Date] is betwee
 
         \ Taking on Rights to Payment from Others \ These provisions address "subrogation":
 
-            \\ When the <Company> pays you any amount under the <Agreement>, the <Company> will take on any rights you have to recover that amount from another. You promise to help the <Company> exercise these rights, such as by signing documents so the <Company> can sue.
+            \\ When the <Company> pays you any amount under the <Agreement>, the <Company> will take on any rights you have to recover that amount from another. You promise to help the <Company> exercise these rights, by signing documents so the <Company> can sue and otherwise.
 
-            \\ When you pay any amount covered by <Advancement> under the <Agreement> that the <Company> does not advance, and when you incur any <Expense> or other amount covered by <Indemnification> under the <Agreement>, you will take on any rights the <Company> has to recover those amounts from another, such as an insurer, to the same extent as if the <Company> had paid that amount under the <Agreement>.
+            \\ When you pay any amount covered by <Advancement> under the <Agreement> that the <Company> does not advance, and when you incur any <Expense> or other amount covered by <Indemnification> under the <Agreement>, you will take on any rights the <Company> has to recover those amounts from another to the same extent as if the <Company> had paid that amount under the <Agreement>.
 
         \ Deadlines and Your Rights \ You may sue the <Company> in the Delaware Court of Chancery if any of these happen:
 
             \ Eligibility Decision Against You \ It is decided that you did not meet the <Standard of Conduct> under {Eligibility}.
 
-            \ No Eligibility Decision \ No decision is made about whether you met the <Standard of Conduct> under {Eligibility} within 60 days of the <Company> receiving <Notice> under {Process}.
+            \ No Eligibility Decision \ There is no decision about whether you met the <Standard of Conduct> under {Eligibility} within 60 days of the <Company> receiving <Notice> under {Process}.
 
             \ Late Indemnification Payment \ The <Company> does not pay money covered by {Indemnification} under {Legal Matters Related to the Company} within 15 days of decision that you met the <Standard of Conduct> under {Eligibility}.
 
