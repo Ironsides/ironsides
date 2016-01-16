@@ -26,7 +26,7 @@ If you would like to make a comment or discuss Ironsides with the community, ple
 
 General discussion about Ironsides and ways to improve it happens via [GitHub Issues](https://github.com/Ironclad-ai/ironsides/issues). If you're not familiar with GitHub Issues, don't worry, they work pretty much like other Internet message boards. You will need to [create a (free) GitHub account](https://github.com/Ironclad-ai/ironsides/issues/new) to create new Issues for discussion and respond to Issues created by others.
 
-Don't worry if you're not a programmer or techie-type. It's perfectly fine to use GitHub just for Issues.
+Don't worry if you're not a programmer or techie-type. It's perfectly fine to use GitHub just for Issues, and GitHub makes it easy to participate by replying to e-mail, rather than logging into GitHub.com all the time.
 
 ### Changes
 
