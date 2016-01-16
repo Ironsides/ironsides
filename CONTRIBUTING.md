@@ -42,17 +42,17 @@ Regardless of how you choose to submit changes, do not submit confidential infor
 
 #### GitHub
 
-Ironsides forms are written using [Common Form](https://commonform.github.io), a processing system for form contracts, as well as a lightweight preprocessor, also Written in JavaScript, that handles includes. All the form files are plain-text `.cform.template` files. The repository uses [Travis CI](https://travis-ci.org) to check forms for technical errors and build Microsoft Word and Portable Document Format documents for releases. The best way to learn to type form contracts in Common Form is to look at the `.cform` file for the form you want to change.
+Ironsides forms are written using [Common Form markup](https://commonform.github.io), a plain-text format for form contracts, with the help of [cftemplate](https://www.npmjs.com/packages/cftemplate), a lightweight preprocessor that lets us distribute and compose Common Forms via [npm](https://www.npmjs.com). All the form files are plain-text `.cftemplate` files. The repository uses [Travis CI](https://travis-ci.org) to check forms for technical errors and build Microsoft Word documents for releases. Tagged releases are "deployed" to GitHub releases and Google Drive. The best way to learn to type form contracts in Common Form is to open the `.cftemplate` file for the form you want to change in a text editor, like [Atom](http://atom.io) or Notepad.
 
-Please send pull requests from topic branches based on the current `master` branch. If you have any questions about Common Form or how Ironsides documents are built, feel free to open an Issue or mention your question in your Pull Request.
+Please send pull requests from topic branches based on the current `master` branch. If you have any questions about Common Form or how Ironsides documents are built, feel free to open an Issue or mention your question in your Pull Request. The maintainer of Ironsides is the principal author of Common Form, and many contributors are also involved in both projects.
 
 ### Google Drive
 
-The most recent official release of Ironsides is automatically published to Google Drive, where anyone can make suggestions and comments:
+The most recent official release of Ironsides is automatically published to Google Drive, where you can make suggestions and comments as you might add comments or Track Changes edits in Word:
 
 <https://drive.google.com/folderview?id=0B4WQgvqBs9InbmxhVGVCSm9xeFE&usp=sharing>
 
-The maintainer will receive an e-mail for any suggestion or comment you make via Google Drive.
+The maintainer will receive an e-mail about any edit or comment you make via Google Drive.
 
 #### Redlines
 
