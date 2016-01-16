@@ -5,6 +5,7 @@ COMMONFORM = node_modules/.bin/commonform
 CFTEMPLATE = node_modules/.bin/cftemplate
 DOCX = $(FORMS:.cform=.docx)
 PDF = $(FORMS:.cform=.pdf)
+VERSION = $(strip $(shell git tag -l --points-at HEAD))
 
 all: $(DOCX)
 
@@ -16,19 +17,19 @@ $(COMMONFORM) $(CFTEMPLATE):
 %.pdf: %.docx
 	doc2pdf $<
 
-%.docx: %.cform %.options %.sigs.json $(COMMONFORM)
-	$(COMMONFORM) render --format docx --signatures $*.sigs.json $(shell cat $*.options) < $< > $@
+%.docx: %.cform %.options_with_version %.sigs.json $(COMMONFORM)
+	$(COMMONFORM) render --format docx --signatures $*.sigs.json $(shell cat $*.options_with_version) < $< > $@
 
-%.docx: %.cform %.options $(COMMONFORM)
-	$(COMMONFORM) render --format docx $(shell cat $*.options) < $< > $@
+%.docx: %.cform %.options_with_version $(COMMONFORM)
+	$(COMMONFORM) render --format docx $(shell cat $*.options_with_version) < $< > $@
 
-%.cform: $(CFTEMPLATE) %.cftemplate %.json
+%.cform: $(CFTEMPLATE) %.cftemplate %.options.json
 	$^ > $@
 
 purchase-agreement-%.sigs.json: purchase-agreement.sigs.json
 	cp $< $@
 
-purchase-agreement-%.json: generate-options.js
+purchase-agreement-%.options.json: generate-options.js
 	node $< $@ > $@
 
 purchase-agreement-%.cftemplate: purchase-agreement.cftemplate
@@ -37,7 +38,14 @@ purchase-agreement-%.cftemplate: purchase-agreement.cftemplate
 purchase-agreement-%.options: purchase-agreement.options
 	cp $< $@
 
-%.json:
+%.options_with_version: %.options
+ifeq ($(VERSION),)
+	cat $< | sed 's/VERSION/Ironsides Development Draft/' > $@
+else
+	cat $< | sed 's/VERSION/Ironsides $(VERSION)/' > $@
+endif
+
+%.options.json:
 	echo "{}" > $@
 
 .PHONY: lint critique clean

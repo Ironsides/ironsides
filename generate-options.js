@@ -1,6 +1,6 @@
 var filename = process.argv[2]
 
-var match = /purchase-agreement-(\w+)-(\w+).json/.exec(filename)
+var match = /purchase-agreement-(\w+)-(\w+)\./.exec(filename)
 
 var trigger = match[1]
 var consideration = match[2]
