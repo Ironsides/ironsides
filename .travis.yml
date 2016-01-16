@@ -1,35 +1,46 @@
----
 language: node_js
 node_js: stable
 script: make lint
 sudo: false
-before_deploy: ./preparerelease
+before_deploy: "./preparerelease"
 deploy:
-  provider: releases
-  api_key:
-    secure: sXG/5AXZxqIZGSbWYYt8lPZbGS9yHD16tWb7Mp/iTscworKNptfOaNtYBoOe2HCCQk1fX8YCU53i1okcv178EJeadzOXLm2bkmy886fpo/9fTi4pPuV6EGdUdGdK8Tb3M7MbKxmqc9xpoSLP8Gssr6+2jMAMDSMG2mU19VFy4iJtaN7s++xF0u66+bQJPdXf845kUJT+rJghLHWTDHO6hUKXT918Ph9mBTrVY8KviP3Dey5Rl4j5xdtQURCEtoLINJnwnD8biRAhn3IEEqSK921ErdyBTjcodtDSaHvnh4fx8PnC9XBvAbuDH+EwKf0AD1cr66SCSz5nMd6KN+9GUBTDQQecVhjqCu1iIDI4FwOGFcaVjVk1a5DPl4mGbuLbuBRYMHfKhzml33PS8MNWoex7+chYyJKLEBa4CoAjE7Bo2rN99ZdSJRjdb1R3WzojNhjXzxzhDCjWRkSXfOo/wxHopIXgI88THwn292fPxkupcrAdDHhllvAMphSbqvfHSVuvRXqJUsvb906sUOmaCZhOWmOrX2XCl4SO290X8TJIqdHboUykrNWsykAa+igwFOsEeWNeCgfZsl+f45htzMSSIhHttH99+UaVS8kFiCc6hazXc/zTwdJWim6AsH/KVn+TzKBmbDF7fx1wYgItCz3BxcJ0d4XNMOSfXfRG5EA=
-  file:
-    - 83b-Election.docx
-    - 83b-Statement-and-Acknowledgment.docx
-    - Action-of-Incorporator.docx
-    - Board-Resolutions.docx
-    - Bylaws.docx
-    - Certificate-of-Incorporation.docx
-    - Incorporator-Bylaws-Certificate.docx
-    - Indemnification-Agreement.docx
-    - Indemnification-Resolutions.docx
-    - Purchase-Agreement-Double-Trigger-Cash.docx
-    - Purchase-Agreement-Double-Trigger-IP.docx
-    - Purchase-Agreement-Double-Trigger-Mixed.docx
-    - Purchase-Agreement-Single-Trigger-Cash.docx
-    - Purchase-Agreement-Single-Trigger-IP.docx
-    - Purchase-Agreement-Single-Trigger-Mixed.docx
-    - Receipt-and-Consent.docx
-    - Receipt.docx
-    - Secretary-Bylaws-Certificate.docx
-    - Stock-Power.docx
+- provider: script
+  script: "./update-google-drive"
   skip_cleanup: true
   on:
     branch: master
     repo: Ironsides/ironsides
     tags: true
+- provider: releases
+  api_key:
+    secure: sXG/5AXZxqIZGSbWYYt8lPZbGS9yHD16tWb7Mp/iTscworKNptfOaNtYBoOe2HCCQk1fX8YCU53i1okcv178EJeadzOXLm2bkmy886fpo/9fTi4pPuV6EGdUdGdK8Tb3M7MbKxmqc9xpoSLP8Gssr6+2jMAMDSMG2mU19VFy4iJtaN7s++xF0u66+bQJPdXf845kUJT+rJghLHWTDHO6hUKXT918Ph9mBTrVY8KviP3Dey5Rl4j5xdtQURCEtoLINJnwnD8biRAhn3IEEqSK921ErdyBTjcodtDSaHvnh4fx8PnC9XBvAbuDH+EwKf0AD1cr66SCSz5nMd6KN+9GUBTDQQecVhjqCu1iIDI4FwOGFcaVjVk1a5DPl4mGbuLbuBRYMHfKhzml33PS8MNWoex7+chYyJKLEBa4CoAjE7Bo2rN99ZdSJRjdb1R3WzojNhjXzxzhDCjWRkSXfOo/wxHopIXgI88THwn292fPxkupcrAdDHhllvAMphSbqvfHSVuvRXqJUsvb906sUOmaCZhOWmOrX2XCl4SO290X8TJIqdHboUykrNWsykAa+igwFOsEeWNeCgfZsl+f45htzMSSIhHttH99+UaVS8kFiCc6hazXc/zTwdJWim6AsH/KVn+TzKBmbDF7fx1wYgItCz3BxcJ0d4XNMOSfXfRG5EA=
+  file:
+  - 83b-Election.docx
+  - 83b-Statement-and-Acknowledgment.docx
+  - Action-of-Incorporator.docx
+  - Board-Resolutions.docx
+  - Bylaws.docx
+  - Certificate-of-Incorporation.docx
+  - Incorporator-Bylaws-Certificate.docx
+  - Indemnification-Agreement.docx
+  - Indemnification-Resolutions.docx
+  - Purchase-Agreement-Double-Trigger-Cash.docx
+  - Purchase-Agreement-Double-Trigger-IP.docx
+  - Purchase-Agreement-Double-Trigger-Mixed.docx
+  - Purchase-Agreement-Single-Trigger-Cash.docx
+  - Purchase-Agreement-Single-Trigger-IP.docx
+  - Purchase-Agreement-Single-Trigger-Mixed.docx
+  - Receipt-and-Consent.docx
+  - Receipt.docx
+  - Secretary-Bylaws-Certificate.docx
+  - Stock-Power.docx
+  skip_cleanup: true
+  on:
+    branch: master
+    repo: Ironsides/ironsides
+    tags: true
+env:
+  global:
+  - secure: VQvb0Eju6+6FF2Fyl3Ymz3NnCg7Y5t6t1sQmY+Nue2P6bGQ+IElRK0WQPldCgXhZz+TmBEnPqFC5AUeSdeMLcWlPMH+iKuxOeP+oEmg/P7UTr9N5jcZ+YyC+KH6NACis9vSxp+s58b1Kxr28v13STVWHMGR0GILwnq4VvzVO/EKu5w58hL+hD/6n9TNke7HY6i49rDKqad7bEq9U9dxrmBTSxb5cerD5e+zyky+LEWSoodDh0iMoOyPuSheCSvaUOj974KOz8Iq7Df3qV5s7l8GQ+bsLblKX0+hvSihoiEQ2EmaiFFASLWhffl9QECq7U98Tm0ESEQh1Gxe6RGUJqk0j4Got74KhGLWK3Q+QQypma8T4ItxgE3o3Xr/55M3HdvEWJvMGFbTmWO4vx2qDE9TBBADil9XoC0niYKxGnOekGITw8uzGEo5hACuhY4tzJ3uDjr9A/cA9Pa88LLxzei4gCWt0pBRVmrkK84M10SqiHUhlU/sshc2rx0ANBMBnph0Buu2+T1xY1gGvD4Y8hp+Yqyd4fQ0k+k52cldX6kavqUEPCkBk8w7+Pd/Jpq0sTTGQX1vlKW8fL4agYH0J3rczBcTPbYk1LnU2BmliZGO+UMwAvIt+XewE3fOMQGxibUlZ3irfxnOKUiz6AwJcHL5qXCY9WwGw12JE814TBXU=
+  - secure: kvXwcpX+ZR9Sogp5lZ1E9UIlZjTA3LfpDsvP7XkSXtNZdj1K9sqepKCR6Viw93XeKQ8fRT6vCsoNWEvqPMV8CELCsHeh01wjMSSxszRhi7mt3JOyZPgYtjeRgQjBm7K+btznsdrIcZUjJj1KvlMWD4bAkaYPnWCODIrVjIi2aRZElnAxveZDKQQcm8BEImLM8or0UZfnCBgL/Oxf/EYsmKxP8zrd1HyyJuoVDBPLRjynnxCqjoxjtBQY5rv+fJO8hRPKQkIWPEQ4htoypdg4KzLU8Hu+ZYHt4c4oX/G8tfr33nQgB+jiXHqTml1RuatonZ1ZHQIQqLcrnxG0z9Og6zgcBu42mvB9ptmuXeHXQevb/TYo+taChVwKdH0sVrPe9blHDxLPuSh/83C8mF9fv3RWBKh8pBlP/bQvdDyFqWVsi6WXJgWbuKyoGs8SfvGCUmxyDyH401l0vuhFEvJJ7iq6IRshsRFQbDYpvWgu/rF9qMSt6PorZEkCk0sI9iGuPkGxA3LX3cPboAs0L+tf5a7KM+egjrqsZWdXb+5XKtFnGaEz/nMBg322wuRUh5oA9j59LqsAjUZsxc/fzc1FXQr8ZGs5BxGcSBLY0XUXRzfdsTi/7tWeadrKBLyH/JjE2TlRv08yAEPkeRnnfBrXjbfTUxEMNEM+rkVxj/z6CGA=
+  - secure: TpvTormT/LjlG+g16SirGIDpGsRcg0Q0c55WUQI8w6UglNdvoyQEBzptB1BLQBD0zo50XerODZRTBeGQjEsmFpNFY9HRGfxY4XsO95U57Pl9Uku+piSmBow1eyAqqlNOImz2aPLXPvKpzHBRcuURt4BkkYUqUxPv2FsbClAyXr3kI+plawpUlh06K7OWr1L5ORr5vRe6xZYNjV91DzViEkXYpC7Vtk5s+THR+1L+Qm2YcrHBAQJorIF14B+uBQXjZJ2mls67QqpnTwai93ycwhsbhmGACM1ded7Yv8QA3d+QPKeLFg4y1d+MQymvDEycwiyMNSaHAWYvi4bi1eeVpWytC72epoSIw1LIcOp/NGnC7IcX/o25anFMzjjJA9yPzUDGtNXCdN46A2NR8h1H51XCZpfl1MxKvKh9QAtGstqw7L93LNk7a6YUA7Qo8+hia9TN/1hOXJNLHx9BmhTNOEJRLZ5DpFyI4lvylfWXPyiQiELLgT2BgKV3oWkunIkbUh2akxx9YO7voM5VpCrvKHh2Zy5M+krRJhVIkVx4FZfMZsbck49JEUZ9Bo46Ih+++CrfnLHzEeeNrhNyevBueYITjrfWSdKZpwONV8SPmXv3MfTtqyN0o0Ww9cWI74VyKU22Txjtoi7R/+CivGcklgRDfmqBykCvpNUrtB0RIL4=

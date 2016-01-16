@@ -30,7 +30,7 @@ Don't worry if you're not a programmer or techie-type. It's perfectly fine to us
 
 ### Changes
 
-The Ironsides community uses GitHub Pull Requests to manage changes and discussion, but you don't have to use GitHub to contribute. If you can use GitHub and don't mind contributing using your GitHub account, please see "GitHub" below. If you'd prefer to send more traditional markups by e-mail or postal mail, or if you'd prefer to contribute anonymously, see "Redlines" below.
+The Ironsides community uses GitHub Pull Requests to manage changes and discussion, but you don't have to use GitHub to contribute. If you can use GitHub and don't mind contributing using your GitHub account, please see "GitHub" below. If you're familiar with Google Drive, see "Google Drive" below. If you'd prefer to send more traditional markups by e-mail or postal mail, or if you'd prefer to contribute anonymously, see "Redlines" below.
 
 Regardless of how you choose to submit changes, do not submit confidential information!
 
@@ -39,6 +39,14 @@ Regardless of how you choose to submit changes, do not submit confidential infor
 Ironsides forms are written using [Common Form](https://commonform.github.io), a processing system for form contracts, as well as a lightweight preprocessor, also Written in JavaScript, that handles includes. All the form files are plain-text `.cform.template` files. The repository uses [Travis CI](https://travis-ci.org) to check forms for technical errors and build Microsoft Word and Portable Document Format documents for releases. The best way to learn to type form contracts in Common Form is to look at the `.cform` file for the form you want to change.
 
 Please send pull requests from topic branches based on the current `master` branch. If you have any questions about Common Form or how Ironsides documents are built, feel free to open an Issue or mention your question in your Pull Request.
+
+### Google Drive
+
+The most recent official release of Ironsides is automatically published to Google Drive, where anyone can make suggestions and comments:
+
+<https://drive.google.com/folderview?id=0B4WQgvqBs9InbmxhVGVCSm9xeFE&usp=sharing>
+
+The maintainer will receive an e-mail for any suggestion or comment you make via Google Drive.
 
 #### Redlines
 

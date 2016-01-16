@@ -1,8 +1,10 @@
 {
   "private": true,
   "devDependencies": {
+    "async-each-series": "^1.1.0",
     "cftemplate": "^0.3.1",
-    "commonform-cli": "^0.11.0"
+    "commonform-cli": "^0.11.0",
+    "update-google-drive-document": "^0.1.0"
   },
   "dependencies": {
     "@kemitchell/exchange-act": "^1.0.1",

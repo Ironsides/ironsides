@@ -1,0 +1,32 @@
+#!/usr/bin/env node
+var child_process = require('child_process')
+var series = require('async-each-series')
+var fs = require('fs')
+var update = require('update-google-drive-document')
+
+child_process.execSync('make', { stdio: [ 0, 1, 2 ] })
+
+series(
+  require('./files.json'),
+  function(basename, done) {
+    setTimeout(function() {
+      var logMessage = ( basename.build + ' (' + basename.drive + ')' )
+      process.stdout.write('Updating ' + logMessage + ' ... ')
+      update(
+        process.env.GOOGLE_CLIENT_ID,
+        process.env.GOOGLE_CLIENT_SECRET,
+        process.env.GOOGLE_CLIENT_REFRESH_TOKEN,
+        basename.drive,
+        fs.createReadStream(basename.build + '.docx'),
+        function(error) {
+          if (error) {
+            process.stderr.write('Failed!\n')
+            done(error) }
+          else {
+            process.stdout.write('Done.\n')
+            done(null) } }) },
+    1000) },
+  function(error) {
+    if (error) {
+      process.stderr.write(error.toString() + '\n') }
+    process.exit(error ? 1 : 0) })
