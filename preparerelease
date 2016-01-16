@@ -3,7 +3,8 @@ var exec = require('child_process').execSync
 var mv = require('fs').renameSync
 var basenames = require('./files.json')
 
-exec('make pdf')
+process.stdout.write('Running `make`\n')
+exec('make', { stdio: [ 0, 1, 2 ] })
 basenames.forEach(function(basename) {
-  mv(( basename.build + '.pdf' ), ( basename.github + '.pdf' ))
+  process.stdout.write('Moving ' + basename.build + '\n')
   mv(( basename.build + '.docx' ), ( basename.github + '.docx' )) })

@@ -25,6 +25,9 @@ $(COMMONFORM) $(CFTEMPLATE):
 %.cform: $(CFTEMPLATE) %.cftemplate %.json
 	$^ > $@
 
+purchase-agreement-%.sigs.json: purchase-agreement.sigs.json
+	cp $< $@
+
 purchase-agreement-%.json: generate-options.js
 	node $< $@ > $@
 
@@ -32,9 +35,6 @@ purchase-agreement-%.cftemplate: purchase-agreement.cftemplate
 	cp $< $@
 
 purchase-agreement-%.options: purchase-agreement.options
-	cp $< $@
-
-purchase-agreement-%.sigs.json: purchase-agreement.sigs.json
 	cp $< $@
 
 %.json:
