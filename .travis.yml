@@ -2,7 +2,7 @@ language: node_js
 node_js: stable
 script: make lint
 sudo: false
-before_deploy: "./preparerelease"
+before_deploy: "./prepare-release"
 deploy:
 - provider: script
   script: "./update-google-drive"
