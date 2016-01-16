@@ -16,7 +16,7 @@ Do _not_ share any confidential information via GitHub. GitHub is a very public 
 
 ## Copyright
 
-Whenever you propose a change to Ironsides, please include a note in your proposal that you make your contribution available to the public on the same [Creative Commons CC0 Universal 1.0 terms](./COPYING) as the rest of Ironsides. A simple note like "I, [Your Name], make this contribution available under CC0 Universal 1.0." will do.
+Whenever you propose a change to Ironsides, please include a note in your proposal that you make your contribution available to the public on the same [Creative Commons CC0 Universal 1.0 terms](./COPYING) as the rest of Ironsides. A simple note like "I, [Your Name], make this contribution available under CC0 Universal 1.0." will do. Others may follow up, publicly or privately, to make sure that you have full legal right to apply CC0 to the material you offer.
 
 ## Discussion and Proposals
 
