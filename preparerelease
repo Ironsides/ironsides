@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+var exec = require('child_process').execSync
+var mv = require('fs').renameSync
+var basenames = require('./files.json')
+
+exec('make pdf')
+basenames.forEach(function(basename) {
+  mv(( basename.build + '.pdf' ), ( basename.github + '.pdf' ))
+  mv(( basename.build + '.docx' ), ( basename.github + '.docx' )) })
