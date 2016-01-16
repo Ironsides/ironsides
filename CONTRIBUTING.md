@@ -30,7 +30,7 @@ Don't worry if you're not a programmer or techie-type. It's perfectly fine to us
 
 ### Changes
 
-The Ironsides community uses GitHub Pull Requests to manage changes and discussion, but you don't have to use GitHub to contribute. If you can use GitHub and don't mind contributing using your GitHub account, please see "GitHub" below. If you're familiar with Google Drive, see "Google Drive" below. If you'd prefer to send more traditional markups by e-mail or postal mail, or if you'd prefer to contribute anonymously, see "Redlines" below.
+The Ironsides community uses GitHub Pull Requests to manage changes and discussion, but you don't have to use GitHub to contribute. If you can use GitHub and don't mind contributing using your GitHub account, please see "GitHub" below. If you're familiar with Google Drive, which is like Microsoft Work, but simpler, see "Google Drive" below. If you'd prefer to send more traditional markups by e-mail or postal mail, or if you'd prefer to contribute anonymously, see "Redlines" below.
 
 Regardless of how you choose to submit changes, do not submit confidential information!
 
