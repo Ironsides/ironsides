@@ -6,7 +6,7 @@ There are a number of ways to contribute to Ironsides, whether you're a technica
 
 ## Ground Rules
 
-The Internet is a poor forum for dignified, dispassionate discussion. The Ironsides community is different. Conduct yourself at all times as if you are corresponding with the maintainer's elderly grandparent, and afford others the benefit of every doubt. The maintainer will moderate discussion along these lines.
+The Internet is a poor forum for dignified, dispassionate discussion. The Ironsides community is different. Conduct yourself at all times as if you are corresponding with the facilitator's elderly grandparent, and afford others the benefit of every doubt. The facilitator will moderate discussion along these lines.
 
 Ironsides is a legal forms project, and many contributors are lawyers. However, Ironsides documents themselves may not be properly tailored to your needs, and contributors won't give legal advice via GitHub. The fact that a lawyer contributes to Ironsides doesn't mean they're available for hire or specialized in forming companies. Do not try phrasing your specific question as a "hypothetical". You will look foolish, and it won't work.
 
@@ -44,7 +44,7 @@ Regardless of how you choose to submit changes, do not submit confidential infor
 
 Ironsides forms are written using [Common Form markup](https://commonform.github.io), a plain-text format for form contracts, with the help of [cftemplate](https://www.npmjs.com/packages/cftemplate), a lightweight preprocessor that lets us distribute and compose Common Forms via [npm](https://www.npmjs.com). All the form files are plain-text `.cftemplate` files. The repository uses [Travis CI](https://travis-ci.org) to check forms for technical errors and build Microsoft Word documents for releases. Tagged releases are "deployed" to GitHub releases and Google Drive. The best way to learn to type form contracts in Common Form is to open the `.cftemplate` file for the form you want to change in a text editor, like [Atom](http://atom.io) or Notepad.
 
-Please send pull requests from topic branches based on the current `master` branch. If you have any questions about Common Form or how Ironsides documents are built, feel free to open an Issue or mention your question in your Pull Request. The maintainer of Ironsides is the principal author of Common Form, and many contributors are also involved in both projects.
+Please send pull requests from topic branches based on the current `master` branch. If you have any questions about Common Form or how Ironsides documents are built, feel free to open an Issue or mention your question in your Pull Request. The facilitator of Ironsides is the principal author of Common Form, and many contributors are also involved in both projects.
 
 ### Google Drive
 
@@ -52,13 +52,13 @@ The most recent official release of Ironsides is automatically published to Goog
 
 <https://drive.google.com/folderview?id=0B4WQgvqBs9InbmxhVGVCSm9xeFE&usp=sharing>
 
-The maintainer will receive an e-mail about any edit or comment you make via Google Drive.
+The facilitator will receive an e-mail about any edit or comment you make via Google Drive.
 
 #### Redlines
 
-If you would prefer to send a more traditional redline with proposed changes and comments, you can send them to Ironsides' maintainer at <kyle@kemitchell.com> or Kyle E. Mitchell, 156 Second Street, San Francisco, California 94105. The maintainer will not accept e-mail or hard copy contributions of comments alone.
+If you would prefer to send a more traditional redline with proposed changes and comments, you can send them to Ironsides' facilitator at <kyle@kemitchell.com> or Kyle E. Mitchell, 156 Second Street, San Francisco, California 94105. The facilitator will not accept e-mail or hard copy contributions of comments alone.
 
-The maintainer will make every effort to process and share well-considered proposals with the community. The maintainer may ignore submissions that seem spurious, nettlesome, or duplicative of proposals already accepted or declined by the community.
+The facilitator will make every effort to process and share well-considered proposals with the community. The facilitator may ignore submissions that seem spurious, nettlesome, or duplicative of proposals already accepted or declined by the community.
 
 ##### Format
 
@@ -69,28 +69,28 @@ If you send a proposal via e-mail, please provide in one of the following format
 3. A Portable Document Format file with annotations
 4. A patch generated with `git format-patch`
 
-If you send edits in hard copy, _please, for the love of God, print legibly_! The maintainer is a busy practicing attorney, and will recycle illegible submissions.
+If you send edits in hard copy, _please, for the love of God, print legibly_! The facilitator is a busy practicing attorney, and will recycle illegible submissions.
 
 Please also make use of standard edit marks, such as those described by The Texas Law Review's _Manual on Usage & Style_, _The Chicago Manual of Style_, or a nationally known financial printer's manual. Helpfully indicate in your e-mail or cover page what edit marks you have used.
 
 Whether you send by e-mail or postal mail, make sure to identify the version number of the Ironsides documents that you began to edit.
 
-In addition to your markup and comments, please include your name, e-mail address, and the statement described under "Copyright" above. The maintainer will use your e-mail address to confirm receipt and notify you if a Pull Request (an Issue that includes proposed changes) is created on GitHub for your proposal. The maintainer will not share your e-mail address with anyone.
+In addition to your markup and comments, please include your name, e-mail address, and the statement described under "Copyright" above. The facilitator will use your e-mail address to confirm receipt and notify you if a Pull Request (an Issue that includes proposed changes) is created on GitHub for your proposal. The facilitator will not share your e-mail address with anyone.
 
-The maintainer will endeavor to process e-mail and postal submissions as quickly as possible in order received. Please be patient.
+The facilitator will endeavor to process e-mail and postal submissions as quickly as possible in order received. Please be patient.
 
 ##### Anonymous and Claimable Proposals
 
-Unless you specify otherwise, the maintainer will post every e-mail and postal mail proposal to GitHub as a Pull Request with mention of your name. The maintainer may take steps to verify that the proposal comes from the author named.
+Unless you specify otherwise, the facilitator will post every e-mail and postal mail proposal to GitHub as a Pull Request with mention of your name. The facilitator may take steps to verify that the proposal comes from the author named.
 
-The maintainer will process your proposal differently if you write "This proposal is [type of proposal listed below]." in your e-mail or cover letter.
+The facilitator will process your proposal differently if you write "This proposal is [type of proposal listed below]." in your e-mail or cover letter.
 
-1. *Anonymous*. The maintainer will post your proposal to GitHub as a Pull Request with mention that it was made anonymously.
+1. *Anonymous*. The facilitator will post your proposal to GitHub as a Pull Request with mention that it was made anonymously.
 
-2. *Claimable*.  If you provide a secret passphrase of at least 5 English words, the maintainer will retain the passphrase in secret and post your proposal as if it were made anonymously. On later receipt of the passphrase and a request to claim the proposal, the maintainer will identify claimant as the author of the proposal.
+2. *Claimable*.  If you provide a secret passphrase of at least 5 English words, the facilitator will retain the passphrase in secret and post your proposal as if it were made anonymously. On later receipt of the passphrase and a request to claim the proposal, the facilitator will identify claimant as the author of the proposal.
 
-If you submit an anonymous or claimable proposal, be sure to include your name nonetheless. The maintainer may discard submissions that introduce substantial new changes without an attributable statement described by "Copyright" above.
+If you submit an anonymous or claimable proposal, be sure to include your name nonetheless. The facilitator may discard submissions that introduce substantial new changes without an attributable statement described by "Copyright" above.
 
-## Maintainer
+## Facilitator
 
 Kyle E. Mitchell (@kemitchell on GitHub) maintains Ironsides.
