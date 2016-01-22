@@ -64,23 +64,23 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
             Subject to this agreement, on the date of this agreement or on another date agreed on by the parties (the ""Purchase Date""), the <Company> shall issue and sell to <You>, and <You> shall purchase from the <Company>, [Number of Shares] shares of the <Company>'s common stock (""Your Shares"").
 
             \ Purchase Price \
-            On the <Purchase Date>, <You> shall pay [Purchase Price] per share for <Your Shares> (the ""Original Price per Share""), for a total purchase price of [Total Purchase Price] (the ""Total Purchase Price"").
+            On the <Purchase Date>, <You> shall pay [Purchase Price] per share for <Your Shares> (the ""Original Price per Share""), for a total purchase price of [Total Purchase Price] (the ""Total Purchase Price""). 
 
             # (( if allIP start ))
 
-            <You> pay the <Total Purchase Price> by assigning property to the <Company> under {Property Assignment}.
+            <You> pay the <Total Purchase Price> by assigning property to the <Company> under {Property Assignment}. 
 
             # (( end ))
 
             # (( if allCash start ))
 
-            <You> shall pay the <Total Purchase Price> by check made out to the <Company>.
+            <You> shall pay the <Total Purchase Price> by check made out to the <Company>. 
 
             # (( end ))
 
             # (( if cashAndIP start ))
 
-            <You> pay half the <Total Purchase Price> by assigning property to the <Company> under {Property Assignment}, and <You> shall pay the other half of the <Total Purchase Price> by check made out to the <Company>.
+            <You> pay half the <Total Purchase Price> by assigning property to the <Company> under {Property Assignment}, and <You> shall pay the other half of the <Total Purchase Price> by check made out to the <Company>. 
 
             #(( end ))
 
