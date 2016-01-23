@@ -16,4 +16,4 @@ Company formation documents are prescription-strength legal devices.
 
 If you need to form a company, don’t be an idiot. Hire a lawyer.
 
-A good lawyer will know whether Ironsides is a fit for your needs.
+A good lawyer will know whether Ironsides fits your need.
