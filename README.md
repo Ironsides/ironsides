@@ -1,6 +1,6 @@
 # Ironsides
 
-community-owned technology company formation documents
+the open legal operating system for start-up companies
 
 <http://ironsides.github.io>
 
