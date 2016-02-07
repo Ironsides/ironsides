@@ -20,27 +20,36 @@
         \ Offices \
         In addition to the corporation's registered office stated in the Certificate of Incorporation, the Board of Directors may at any time establish other offices at any place or places where the corporation is qualified to do business.
 
-    \ Meetings of Stockholders \
+    \ Stockholders Meetings \
 
-        \ Place Of Meetings \
-        Meetings of stockholders shall be held at any place, within or outside the state of Delaware, designated by the Board of Directors. In the absence of any such designation, stockholders' meetings shall be held at the registered office of the corporation.
+        # See DGCL 211(a) (stockholders meetings generally)
+        # See DGCL 211(b) (annual meetings)
+        # See DGCL 211(b) (failure to hold annual meetings)
+        \ Annual Stockholders Meetings \
+        The <Board> decides the dates and times of any annual stockholders meetings.
 
-        \ Annual Meeting \
-        The annual meeting of stockholders shall be held on such date, time and place, either within or without the state of Delaware, as may be designated by resolution of the Board of Directors each year. At the meeting, directors shall be elected and any other proper business may be transacted.
+        # See DGCL 222(a) (content of notice)
+        # See DGCL 222(b) (10-60 days' advance notice; when notice effective; affidavits)
+        \ Special Stockholders Meetings \
 
-        \ Special Meeting \
+            # See DGCL 211(d)
+            \ Who Can Call Special Stockholders Meetings \
+            In addition to the <Board>, any of the following may also call special stockholders meetings:
+                \\ the chair of the <Board>
+                \\ the chief executive officer
+                \\ the president
+                \\ subject to {Notice of Special Stockholders Meeting Called by Stockholders} one or more stockholders whose combined shares represent at least 50% of the votes at the meeting
 
-            \\
-            A special meeting of the stockholders may be called at any time by the Board of Directors, the chairman of the board, the chief executive officer, the president or by one or more stockholders holding shares in the aggregate entitled to cast not less than 10% of the votes at that meeting.
+            \ Notice of Special Stockholders Meeting Called by Stockholders \
+            To call a special stockholders meeting, stockholders must give <Notice> to at least one of:
+                \\ the chair of the <Board>
+                \\ the chief executive officer
+                \\ the president
+                \\ the secretary
+            The <Notice> must describe the business stockholders will do at the special stockholder meeting. The <Board> decides the place, time, and other details of special stockholders meetings called by stockholders, which will happen from 35 to 60 days after receipt of <Notice>.
 
-            \\
-            If a special meeting is called by any person or persons other than the Board of Directors, the chairman of the board, the chief executive officer or the president, the request shall be in writing, specifying the time of such meeting and the general nature of the business proposed to be transacted, and shall be delivered personally or sent by registered mail or by email, fax, telegraphic or other facsimile or electronic transmission to the chairman of the board, the chief executive officer, the president or the secretary of the corporation. No business may be transacted at such special meeting otherwise than specified in such notice. The officer receiving the request shall cause notice to be promptly given to the stockholders entitled to vote, in accordance with the provisions of {Notice Of Stockholders' Meetings} and {Manner Of Giving Notice; Affidavit Of Notice}, that a meeting will be held at the time requested by the person or persons calling the meeting, not less than 35 nor more than 60 days after the receipt of the request. If the notice is not given within 20 days after the receipt of the request, the person or persons requesting the meeting may give the notice. Nothing contained in this paragraph of {Special Meeting} shall be construed as limiting, fixing, or affecting the time when a meeting of stockholders called by action of the Board of Directors may be held.
-
-        \ Notice Of Stockholders' Meetings \
-        All notices of meetings with stockholders shall be in writing and shall be sent or otherwise given in accordance with {Manner Of Giving Notice; Affidavit Of Notice} of these bylaws not less than 10 nor more than 60 days before the date of the meeting to each stockholder entitled to vote at such meeting. The notice shall specify the place (if any), date and hour of the meeting, and in the case of a special meeting, the purpose or purposes for which the meeting is called.
-
-        \ Manner Of Giving Notice; Affidavit Of Notice \
-        Written notice of any meeting of stockholders, if mailed, is given when deposited in the United States mail, postage prepaid, directed to the stockholder at his address as it appears on the records of the corporation. Without limiting the manner by which notice otherwise may be given effectively to stockholders, any notice to stockholders may be given by electronic mail or other electronic transmission, in the manner provided in Section 232 of the Delaware General Corporation Law. An affidavit of the secretary or an assistant secretary or of the transfer agent of the corporation that the notice has been given shall, in the absence of fraud, be prima facie evidence of the facts stated in that affidavit.
+        \ Notice to Stockholders \
+        The <Company> will give <Notice> to stockholders in accordance with the <Default Rules> of the <Corporation Law>.
 
         \ Stockholders Quorum \
         When present in person or represented by proxy, the holders of a majority of the shares of stock issued and outstanding and entitled to vote at all meetings of the stockholders for the transaction of business, except as otherwise provided by statute or by the certificate of incorporation, shall constitute a quorum. If, however, such quorum is not present or represented at any meeting of the stockholders, then either:
