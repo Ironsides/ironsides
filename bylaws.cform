@@ -74,15 +74,15 @@
         # See DGCL 160(c) (shares held by corporation)
         # See DGCL 160(d) (shares called for redemption)
         # See DGCL 212(a) (1 vote per share by default)
-        # See DGCL 212(b) (proxies)
-        # See DGCL 212(c) (means of giving proxy)
-        # See DGCL 212(d) (evidence of proxy)
-        # See DGCL 212(e) (irrevocable proxies)
         # See DGCL 214 (opt-in cumulative voting)
         # See DGCL 216 (certificate and bylaws can set voting)
         \ Stockholder Voting \
         Subject to the <Mandatory Rules> of the <Corporations Code>, stockholders elect directors by plurality vote and take other action by majority vote of all shares entitled to vote.
 
+        # See DGCL 212(b) (proxies)
+        # See DGCL 212(c) (means of giving proxy)
+        # See DGCL 212(d) (evidence of proxy)
+        # See DGCL 212(e) (irrevocable proxies)
         \ Stockholder Proxies \
         Stockholders may authorize others to vote their shares by proxy according to the <Mandatory Rules> and <Default Rules> of the <Corporations Code>.
 
