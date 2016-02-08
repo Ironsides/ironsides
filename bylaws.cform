@@ -33,9 +33,9 @@
 
             # See DGCL 211(d)
             \ Who Can Call Special Stockholders Meetings \
-            In addition to the <Board>, the chair of the <Board>, the chief executive officer, the president, or, subject to {Notice of Special Stockholders Meeting Called by Stockholders}, one or more stockholders whose combined shares represent at least 50% of the votes at the meeting, may also also call special stockholders meetings.
+            In addition to the <Board>, the chair of the <Board>, the chief executive officer, the president, or, subject to {Notice of Special Meeting Called by Stockholders}, one or more stockholders whose combined shares represent at least 50% of the votes at the meeting, may also also call special stockholders meetings.
 
-            \ Notice of Special Stockholders Meeting Called by Stockholders \
+            \ Notice of Special Meeting Called by Stockholders \
             To call a special stockholders meeting, stockholders must give <Notice> to the chair of the <Board>, the chief executive officer, the president, or the secretary. The <Notice> must describe the business stockholders will do at the special stockholders meeting. The <Board> will decide the place, time, and other details of special stockholders meetings called by stockholders, which will happen from 35 to 60 days after receipt of <Notice>.
 
         # See DGCL 222
