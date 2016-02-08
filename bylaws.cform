@@ -33,11 +33,11 @@
 
             # See DGCL 211(d)
             \ Who Can Call Special Stockholders Meetings \
-            In addition to the <Board>, any of the following may also call special stockholders meetings:
-                \\ the chair of the <Board>
-                \\ the chief executive officer
-                \\ the president
-                \\ subject to {Notice of Special Stockholders Meeting Called by Stockholders} one or more stockholders whose combined shares represent at least 50% of the votes at the meeting
+            In addition to the <Board>, 
+            the chair of the <Board>, 
+            the chief executive officer, 
+            the president, 
+            or, subject to {Notice of Special Stockholders Meeting Called by Stockholders}, one or more stockholders whose combined shares represent at least 50% of the votes at the meeting, may also also call special stockholders meetings.
 
             \ Notice of Special Stockholders Meeting Called by Stockholders \
             To call a special stockholders meeting, stockholders must give <Notice> to at least one of:
