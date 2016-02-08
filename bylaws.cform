@@ -33,19 +33,10 @@
 
             # See DGCL 211(d)
             \ Who Can Call Special Stockholders Meetings \
-            In addition to the <Board>, 
-            the chair of the <Board>, 
-            the chief executive officer, 
-            the president, 
-            or, subject to {Notice of Special Stockholders Meeting Called by Stockholders}, one or more stockholders whose combined shares represent at least 50% of the votes at the meeting, may also also call special stockholders meetings.
+            In addition to the <Board>, the chair of the <Board>, the chief executive officer, the president, or, subject to {Notice of Special Stockholders Meeting Called by Stockholders}, one or more stockholders whose combined shares represent at least 50% of the votes at the meeting, may also also call special stockholders meetings.
 
             \ Notice of Special Stockholders Meeting Called by Stockholders \
-            To call a special stockholders meeting, stockholders must give <Notice> to 
-            the chair of the <Board>, 
-            the chief executive officer, 
-            the president, or 
-            the secretary. 
-            The <Notice> must describe the business stockholders will do at the special stockholders meeting. The <Board> will decide the place, time, and other details of special stockholders meetings called by stockholders, which will happen from 35 to 60 days after receipt of <Notice>.
+            To call a special stockholders meeting, stockholders must give <Notice> to the chair of the <Board>, the chief executive officer, the president, or the secretary. The <Notice> must describe the business stockholders will do at the special stockholders meeting. The <Board> will decide the place, time, and other details of special stockholders meetings called by stockholders, which will happen from 35 to 60 days after receipt of <Notice>.
 
         # See DGCL 222
         # See DGCL 230
@@ -62,16 +53,10 @@
 
         # DGCL 231(c)
         \ Chair of Stockholders Meeting \
-        The <Board> may designate the chair of each stockholders meeting. If the <Board> does not designate a chair, the chair will be the first of the following who is available to serve as chair:
-        the chief executive officer, 
-        the president, 
-        or the person chosen by a majority of shares voting at the stockholders meeting. 
-        The chair of a stockholders meeting will determine the order of business and rules of procedure for the stockholders meeting and announce when the polls open and close. 
-        The chair of a stockholders meeting can also adjourn the stockholders meeting.
+        The <Board> may designate the chair of each stockholders meeting. If the <Board> does not designate a chair, the chair will be the first of the following who is available to serve as chair: the chief executive officer, the president, or the person chosen by a majority of shares voting at the stockholders meeting. The chair of a stockholders meeting will determine the order of business and rules of procedure for the stockholders meeting and announce when the polls open and close. The chair of a stockholders meeting can also adjourn the stockholders meeting.
 
         \ Secretary of Stockholders Meeting \
-        The secretary of the <Company> will be the secretary of each stockholders meeting. 
-        If the secretary of the <Company> is not available, the chair of the stockholders meeting will appoint the secretary of the stockholders meeting.
+        The secretary of the <Company> will be the secretary of each stockholders meeting. If the secretary of the <Company> is not available, the chair of the stockholders meeting will appoint the secretary of the stockholders meeting.
 
         # See DGCL 160(c) (shares held by corporation)
         # See DGCL 160(d) (shares called for redemption)
