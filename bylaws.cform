@@ -59,6 +59,16 @@
         \ Adjourned Meeting; Notice \
         When a meeting is adjourned to another place (if any), date or time, unless these bylaws otherwise require, notice need not be given of the adjourned meeting if the time and place (if any) of such adjourned meeting and the means of remote communications (if any) by which stockholders and proxyholders may be deemed to be present and vote at such adjourned meeting, are announced at the meeting at which the adjournment is taken. At the adjourned meeting the corporation may transact any business that might have been transacted at the original meeting. If the adjournment is for more than 30 days, or if after the adjournment a new record date is fixed for the adjourned meeting, notice of the place (if any), date and time of the adjourned meeting and the means of remote communications (if any) by which stockholders and proxy holders may be deemed to be present in person and vote at such adjourned meeting shall be given to each stockholder of record entitled to vote at the meeting.
 
+        \ Chair of Stockholders Meetings \
+        The <Board> designates a chair of each stockholders meeting. If the <Board> does not designate a chair, the chair will be the first of these who is available:
+            \\ the chief executive officer
+            \\ the president
+            \\ the person chosen by a majority of shares voting at the stockholders meeting
+
+        \ Secretary of Stockholders Meetings \
+        The secretary of the <Company> will be the secretary of each stockholders meeting. 
+        If the secretary of the <Company> is not available, the chair of the stockholders meeting will appoint the secretary of the stockholders meeting.
+
         \ Organization; Conduct of Business \
 
             \\
