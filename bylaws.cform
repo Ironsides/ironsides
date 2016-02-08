@@ -10,7 +10,7 @@
         The most important Delaware law governing Delaware corporations is the Delaware General Corporation Law, or ""Corporation Law"" for short. Under the <Corporation Law>, the most important document setting out rules for the <Company> is its ""Certificate of Incorporation"". The <Certificate of Incorporation> was filed with the Secretary of State of Delaware to form the <Company>. Changes to the <Certificate of Incorporation> require stockholder votes and additional filings with the Secretary of State.
 
         \\
-        The <Company> can put any rules that do not contradict its <Certificate of Incorporation> or the <Corporation Law> in these <Bylaws>. If there is ever a dispute about the <Company>'s rules, courts will try to read the <Certificate of Incorporation> and <Bylaws> so they make sense together. If that is not possible, the <Certificate of Incorporation> will trump <Bylaws>. As described in {Changing Bylaws}, the <Company>'s board of directors, the ""Board"", has authority to change <Bylaws> without a stockholder vote, and no filing with the Secretary of State is needed for changes. That makes <Bylaws> a flexible way to set rules on topics the <Certificate of Incorporation> does not address.
+        The <Company> may put any rules that do not contradict its <Certificate of Incorporation> or the <Corporation Law> in these <Bylaws>. If there is ever a dispute about the <Company>'s rules, courts will try to read the <Certificate of Incorporation> and <Bylaws> so they make sense together. If that is not possible, the <Certificate of Incorporation> will trump <Bylaws>. As described in {Changing Bylaws}, the <Company>'s board of directors, the ""Board"", has authority to change <Bylaws> without a stockholder vote, and no filing with the Secretary of State is needed for changes. That makes <Bylaws> a flexible way to set rules on topics the <Certificate of Incorporation> does not address.
 
         \\
         In addition to the <Certificate of Incorporation> and <Bylaws>, the <Corporation Law> provides a number of rules that apply when neither the <Certificate of Incorporation> nor <Bylaws> address a topic. These are called ""Default Rules"". Still other rules in the <Corporation Law>, and possibly in other states' laws, apply to the <Internal Affairs> of the <Company> no matter what. These are ""Mandatory Rules"". The <Certificate of Incorporation> and <Bylaws>, as well as <Default Rules> and <Mandatory Rules> as they change over time, all add up to the rules for the <Internal Affairs> of the <Company>.
@@ -32,7 +32,7 @@
         \ Special Stockholders Meetings \
 
             # See DGCL 211(d)
-            \ Who Can Call Special Stockholders Meetings \
+            \ Who May Call Special Stockholders Meetings \
             In addition to the <Board>, the chair of the <Board>, the chief executive officer, the president, or, subject to {Notice of Special Meeting Called by Stockholders}, one or more stockholders whose combined shares represent at least 50% of the votes at the meeting, may also also call special stockholders meetings.
 
             \ Notice of Special Meeting Called by Stockholders \
@@ -53,7 +53,7 @@
 
         # DGCL 231(c)
         \ Chair of Stockholders Meeting \
-        The <Board> may designate the chair of each stockholders meeting. If the <Board> does not designate a chair, the chair will be the first of the following who is available to serve as chair: the chief executive officer, the president, or the person chosen by a majority of shares voting at the stockholders meeting. The chair of a stockholders meeting will determine the order of business and rules of procedure for the stockholders meeting and announce when the polls open and close. The chair of a stockholders meeting can also adjourn the stockholders meeting.
+        The <Board> may designate the chair of each stockholders meeting. If the <Board> does not designate a chair, the chair will be the first of the following who is available to serve as chair: the chief executive officer, the president, or the person chosen by a majority of shares voting at the stockholders meeting. The chair of a stockholders meeting will determine the order of business and rules of procedure for the stockholders meeting and announce when the polls open and close. The chair of a stockholders meeting may also adjourn the stockholders meeting.
 
         \ Secretary of Stockholders Meeting \
         The secretary of the <Company> will be the secretary of each stockholders meeting. If the secretary of the <Company> is not available, the chair of the stockholders meeting will appoint the secretary of the stockholders meeting.
@@ -62,7 +62,7 @@
         # See DGCL 160(d) (shares called for redemption)
         # See DGCL 212(a) (1 vote per share by default)
         # See DGCL 214 (opt-in cumulative voting)
-        # See DGCL 216 (certificate and bylaws can set voting)
+        # See DGCL 216 (certificate and bylaws may set voting)
         \ Stockholder Voting \
         Subject to the <Mandatory Rules> of the <Corporations Code>, stockholders will elect directors by plurality vote and take other action by majority vote of all shares entitled to vote.
 
