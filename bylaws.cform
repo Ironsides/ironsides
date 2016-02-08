@@ -52,16 +52,9 @@
         \ Notice to Stockholders \
         The <Company> will give <Notice> to stockholders in accordance with the <Default Rules> of the <Corporation Law>.
 
+        # See DGCL 216
         \ Stockholders Quorum \
-        When present in person or represented by proxy, the holders of a majority of the shares of stock issued and outstanding and entitled to vote at all meetings of the stockholders for the transaction of business, except as otherwise provided by statute or by the certificate of incorporation, shall constitute a quorum. If, however, such quorum is not present or represented at any meeting of the stockholders, then either:
-
-            \\
-            the chairman of the meeting or
-
-            \\
-            holders of a majority of the shares of stock entitled to vote who are present, in person or by proxy,
-
-        shall have power to adjourn the meeting to another place (if any), date or time.
+        The number of stockholders needed for quorum will be per the <Default Rules> of the <Corporation Law>.
 
         \ Adjourned Meeting; Notice \
         When a meeting is adjourned to another place (if any), date or time, unless these bylaws otherwise require, notice need not be given of the adjourned meeting if the time and place (if any) of such adjourned meeting and the means of remote communications (if any) by which stockholders and proxyholders may be deemed to be present and vote at such adjourned meeting, are announced at the meeting at which the adjournment is taken. At the adjourned meeting the corporation may transact any business that might have been transacted at the original meeting. If the adjournment is for more than 30 days, or if after the adjournment a new record date is fixed for the adjourned meeting, notice of the place (if any), date and time of the adjourned meeting and the means of remote communications (if any) by which stockholders and proxy holders may be deemed to be present in person and vote at such adjourned meeting shall be given to each stockholder of record entitled to vote at the meeting.
