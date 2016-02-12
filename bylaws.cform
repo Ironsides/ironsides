@@ -125,8 +125,9 @@
             To call a special directors meeting, the one calling the meeting must give <Notice> to each director at least 7 calendar days before the meeting will happen. 
             The <Notice> must describe the business directors will do at the special directors meeting, as well as the place, time, and other details of the meeting.
 
-        \ Fees And Compensation Of Directors \
-        Unless otherwise restricted by the certificate of incorporation or these bylaws, the Board of Directors shall have the authority to fix the compensation of directors. No such compensation shall preclude any director from serving the corporation in any other capacity and receiving compensation for serving in that capacity.
+        # See DGCL 141(h)
+        \ Director Compensation \
+        None of these <Bylaws> restricts directors from fixing director compensation per the <Corporation Law>.
 
         \ Approval Of Loans To Officers \
         The corporation may lend money to, or guarantee any obligation of, or otherwise assist any officer or other employee of the corporation or of its subsidiary, including any officer or employee who is a director of the corporation or its subsidiary, whenever, in the judgment of the directors, such loan, guaranty or assistance may reasonably be expected to benefit the corporation. The loan, guaranty or other assistance may be with or without interest and may be unsecured, or secured in such manner as the Board of Directors shall approve, including, without limitation, a pledge of shares of stock of the corporation. Nothing in this section shall be deemed to deny, limit or restrict the powers of guaranty or warranty of the corporation at common law or under any statute.
