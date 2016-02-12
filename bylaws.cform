@@ -45,11 +45,11 @@
         # See DGCL 251(c)
         # See DGCL 242(b)(1)
         \ Notice to Stockholders \
-        The <Company> will give <Notice> to stockholders in accordance with the <Default Rules> of the <Corporation Law>.
+        The <Company> will give <Notice> to stockholders per the <Corporation Law>.
 
         # See DGCL 216
         \ Stockholders Quorum \
-        The number of stockholders needed for quorum will be per the <Default Rules> of the <Corporation Law>.
+        The number of stockholders needed for quorum will be per the <Corporation Law>.
 
         # DGCL 231(c)
         \ Chair of Stockholders Meeting \
@@ -71,7 +71,7 @@
         # See DGCL 212(d) (evidence of proxy)
         # See DGCL 212(e) (irrevocable proxies)
         \ Stockholder Proxies \
-        Stockholders may authorize others to vote their shares by proxy according to the <Mandatory Rules> and <Default Rules> of the <Corporations Code>.
+        Stockholders may authorize others to vote their shares by proxy per the <Corporations Code>.
 
         # See DGCL 231(a) (appointment of inspectors)
         # See DGCL 231(b) (inspectors' duties)
@@ -393,4 +393,4 @@
     # See DGCL 109(a) (power)
     # See DGCL 216 (bylaws can set vote for amending bylaws)
     \ Changing Bylaws \
-    Stockholders may change <Bylaws> according to the <Default Rules> of the <Corporations Code>. The <Board> may change <Bylaws> if the <Certificate of Incorporation> gives it that power.
+    Stockholders may change <Bylaws> per the <Corporations Code>. The <Board> may change <Bylaws> if the <Certificate of Incorporation> gives it that power.
