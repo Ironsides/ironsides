@@ -172,13 +172,12 @@
         \ Office Vacancies \
         Vacant offices may be filled per the <Corporation Law>.
 
-        \ President \ The president will be the chief executive officer of the <Company>. The president will supervise, direct, and control the business, officers, and employees of the <Company> generally, will have any other powers given by the <board>, and any other powers presidents and chief executive officers usually have.
+        \ President \ The president will be the chief executive officer of the <Company>. The president will supervise, direct, and control the business, officers, and employees of the <Company> generally, as well as any other powers presidents and chief executive officers usually have.
 
         \ Vice Presidents \
-        Vice presidents will have powers and duties assigned them by the <Board>. 
         The <Board> will designate one vice president to exercise the power of the president in the president's absence or disability.
 
-        \ Secretary \ The secretary will have the powers and duties assigned by the <Board>. In addition:
+        \ Secretary \
 
             \ Minute Book \ The secretary will keep minutes and copies of written actions of stockholders, the <Board>, and any board committees, as directed by the <Board>. The secretary will record the time and place of every meeting or other corporate action, as well as the names of those present at directors meetings and the number of shares represented at stockholders meetings.
 
@@ -211,8 +210,8 @@
         \ Representation Of Shares Of Other Corporations \
         The chairman of the board, the chief executive officer, the president, any vice president, the chief financial officer, the secretary or assistant secretary of this corporation, or any other person authorized by the Board of Directors or the chief executive officer or the president or a vice president, is authorized to vote, represent, and exercise on behalf of this corporation all rights incident to any and all shares of any other corporation or corporations standing in the name of this corporation. This authority may be exercised either by such person directly or by any other person authorized to do so by proxy or power of attorney duly executed by the person having such authority.
 
-        \ Authority And Duties Of Officers \
-        In addition to the other authority and duties under {Officers}, all officers of the corporation shall respectively have such authority and perform such duties in the management of the business of the corporation as may be designated from time to time by the Board of Directors or the stockholders.
+        \ Additional Officer Powers and Responsibilities \
+        Stockholders and the <Board> may give officers powers and responsibilities in addition to those listed in {Officers}.
 
     \ Indemnification Of Directors, Officers, Employees, And Other Agents \
 
