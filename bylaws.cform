@@ -92,6 +92,10 @@
         \ Director Action Without Meeting \
         None of these <Bylaws> prevents directors from taking action without a meeting per the <Corporation Law>.
 
+        # See DGCL 141(i)
+        \ Remote Participation by Directors \
+        None of these <Bylaws> restricts any director from participating remotely by conference call or other technology allowed by the <Corporation Law>.
+
         # See DGCL 141(b)
         \ Number of Directors \
         When these bylaws are first adopted, the number of directors will be [Number of Directors]. After these bylaws are adopted, the either the board or the stockholders can change the number of directors. Neither the stockholders nor the board can remove a director from the board before the end of their term by reducing the number of directors.
@@ -106,10 +110,6 @@
         \ Directors Quorum \
         The number of directors needed for quorum will be per the <Corporation Law>. 
         Quorum is required whenever the board takes action, and not just at the beginning of meetings.
-
-        # See DGCL 141(i)
-        \ Remote Participation by Directors \
-        None of these <Bylaws> restricts any director from participating remotely by conference call or other technology allowed by the <Corporation Law>.
 
         \ Regular Meetings \
         Regular meetings of the Board of Directors may be held without notice at such time and at such place as shall from time to time be determined by the board.
