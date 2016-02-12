@@ -88,8 +88,9 @@
 
     \ Directors \
 
-        \ Number Of Directors \
-        Upon the adoption of these bylaws, the number of directors constituting the entire Board of Directors shall be [Number of Directors]. After the adoption of these bylaws, the number of directors constituting the entire Board of Directors may be changed by a resolution of the Board of Directors or of the stockholders, subject to {Resignation And Vacancies} of these bylaws. No reduction of the authorized number of directors shall have the effect of removing any director before such director's term of office expires.
+        # See DGCL 141(b)
+        \ Number of Directors \
+        When these bylaws are first adopted, the number of directors will be [Number of Directors]. After these bylaws are adopted, the either the board or the stockholders can change the number of directors. Neither the stockholders nor the board can remove a director from the board before the end of their term by reducing the number of directors.
 
         \ Election, Qualification And Term Of Office Of Directors \
 
