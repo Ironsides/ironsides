@@ -64,27 +64,27 @@
         # See DGCL 214 (opt-in cumulative voting)
         # See DGCL 216 (certificate and bylaws may set voting)
         \ Stockholder Voting \
-        Subject to the <Mandatory Rules> of the <Corporations Code>, stockholders will elect directors by plurality vote and take other action by majority vote of all shares entitled to vote.
+        Subject to the <Mandatory Rules> of the <Corporation Law>, stockholders will elect directors by plurality vote and take other action by majority vote of all shares entitled to vote.
 
         # See DGCL 212(b) (proxies)
         # See DGCL 212(c) (means of giving proxy)
         # See DGCL 212(d) (evidence of proxy)
         # See DGCL 212(e) (irrevocable proxies)
         \ Stockholder Proxies \
-        Stockholders may authorize others to vote their shares by proxy per the <Corporations Code>.
+        Stockholders may authorize others to vote their shares by proxy per the <Corporation Law>.
 
         # See DGCL 231(a) (appointment of inspectors)
         # See DGCL 231(b) (inspectors' duties)
         # See DGCL 231(d) (determining validity)
         # See DGCL 231(e) (exemption)
         \ Stockholder Election Inspectors \
-        The <Company> will not appoint inspectors of stockholders meetings while it is exempt from the <Mandatory Rules> of the <Corporations Code> requiring inspectors.
+        The <Company> will not appoint inspectors of stockholders meetings while it is exempt from the <Mandatory Rules> of the <Corporation Law> requiring inspectors.
 
         # See DGCL 213(a) (record dates for meetings)
         # See DGCL 213(b) (record dates for written actions)
         # See DGCL 213(c) (record dates for payments &c.)
         \ Record Dates for Counting Shareholders \
-        The <Board> may set record dates for counting stockholders according to the <Corporations Code>.
+        The <Board> may set record dates for counting stockholders according to the <Corporation Law>.
 
     \ Directors \
 
@@ -387,4 +387,4 @@
     # See DGCL 109(a) (power)
     # See DGCL 216 (bylaws can set vote for amending bylaws)
     \ Changing Bylaws \
-    Stockholders may change <Bylaws> per the <Corporations Code>. The <Board> may change <Bylaws> if the <Certificate of Incorporation> gives it that power.
+    Stockholders may change <Bylaws> per the <Corporation Law>. The <Board> may change <Bylaws> if the <Certificate of Incorporation> gives it that power.
