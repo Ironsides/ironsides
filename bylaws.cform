@@ -96,6 +96,11 @@
         \ Filling New or Vacant Directorships \
         Vacant directorships may be filled by the board or the stockholders per the <Corporation Law>.
 
+        # See DGCL 141 (quorum generally)
+        # See DGCL 223(a) (less than quorum to fill vacancy)
+        \ Directors Quorum \
+        The number of directors needed for quorum will be per the <Corporation Law>. 
+
         \ Resignation And Vacancies \
 
             \\
