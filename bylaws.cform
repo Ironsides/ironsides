@@ -92,6 +92,10 @@
         \ Number of Directors \
         When these bylaws are first adopted, the number of directors will be [Number of Directors]. After these bylaws are adopted, the either the board or the stockholders can change the number of directors. Neither the stockholders nor the board can remove a director from the board before the end of their term by reducing the number of directors.
 
+        # See DGCL 223
+        \ Filling New or Vacant Directorships \
+        Vacant directorships may be filled by the board or the stockholders per the <Corporation Law>.
+
         \ Resignation And Vacancies \
 
             \\
