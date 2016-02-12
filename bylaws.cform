@@ -114,13 +114,14 @@
         \ Regular Meetings \
         Regular meetings of the Board of Directors may be held without notice at such time and at such place as shall from time to time be determined by the board.
 
-        \ Special Meetings; Notice \
+        \ Special Directors Meetings \
 
-            \\
-            Special meetings of the Board of Directors for any purpose or purposes may be called at any time by the chairman of the board, the chief executive officer, the president, the secretary or any two directors.
+            \ Who May Call Special Directors Meetings \
+            Subject to {Notice of Special Directors Meeting}, the chair of the <Board>, the chief executive officer, or the president may call special directors meetings.
 
-            \\
-            Notice of the time and place of special meetings shall be delivered personally or by telephone to each director or sent by first-class mail, facsimile, or electronic transmission, addressed to each director at that director's address as it is shown on the records of the corporation. If the notice is mailed, it shall be deposited in the United States mail at least 4 days before the time of the holding of the meeting. If the notice is delivered personally or by facsimile, electronic transmission, or telephone, it shall be delivered at least 24 hours before the time of the holding of the meeting. Any oral notice given personally or by telephone may be communicated either to the director or to a person at the office of the director who the person giving the notice has reason to believe will promptly communicate it to the director. The notice need not specify the purpose of the meeting. The notice need not specify the place of the meeting, if the meeting is to be held at the principal executive office of the corporation. Unless otherwise indicated in the notice of special meeting, any and all business may be transacted at a special meeting.
+            \ Notice of Special Directors Meeting \
+            To call a special directors meeting, the one calling the meeting must give <Notice> to each director at least 7 calendar days before the meeting will happen. 
+            The <Notice> must describe the business directors will do at the special directors meeting, as well as the place, time, and other details of the meeting.
 
         \ Waiver Of Notice To Director \
         Whenever notice is required to be given under any provision of the General Corporation Law of Delaware or of the certificate of incorporation or these bylaws, a written waiver of notice, signed by the person entitled to notice, or waiver by electronic mail or other electronic transmission by such person, whether before or after the time stated in the waiver, shall be deemed equivalent to notice. Attendance of a person at a meeting shall constitute a waiver of notice of such meeting, except when the person attends a meeting for the express purpose of objecting, at the beginning of the meeting, to the transaction of any business because the meeting is not lawfully called or convened. Neither the business to be transacted at, nor the purpose of, any regular or special meeting of the directors, or members of a committee of directors, need be specified in any written waiver of notice unless so required by the certificate of incorporation or these bylaws.
