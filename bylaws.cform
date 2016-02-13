@@ -184,11 +184,13 @@
 
         \ Treasurer \ The treasurer will be the chief financial officer of the <Company>. The treasurer will keep <Company> financial records, report on the <Company>'s finances, and make authorized disbursements of <Company> funds.
 
-        \ Representation Of Shares Of Other Corporations \
-        The chairman of the board, the chief executive officer, the president, any vice president, the chief financial officer, the secretary or assistant secretary of this corporation, or any other person authorized by the Board of Directors or the chief executive officer or the president or a vice president, is authorized to vote, represent, and exercise on behalf of this corporation all rights incident to any and all shares of any other corporation or corporations standing in the name of this corporation. This authority may be exercised either by such person directly or by any other person authorized to do so by proxy or power of attorney duly executed by the person having such authority.
-
         \ Additional Officer Powers and Responsibilities \
         Stockholders and the <Board> may give officers powers and responsibilities in addition to those listed in {Officers}.
+
+        # See DGCL 123 (general corporate power)
+        \ Voting Securities of Other Legal Entities \
+        Unless otherwise directed by the <Board>, the president will have the power to vote and otherwise act on behalf of the <Company> in its capacity as holder of securities of other legal entities. 
+        The president may delegate this power to other officers as the president chooses.
 
     \ Indemnification Of Directors, Officers, Employees, And Other Agents \
 
