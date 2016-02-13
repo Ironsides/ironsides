@@ -245,7 +245,7 @@
         The <Board> will decide when fiscal year of the <Company> ends.
 
         \ Transfer Of Stock \
-        Upon receipt by the corporation or the transfer agent of the corporation of proper transfer instructions from the record holder of uncertificated shares or upon surrender to the corporation or the transfer agent of the corporation of a certificate for shares duly endorsed or accompanied by proper evidence of succession, assignation or authority to transfer, it shall be the duty of the corporation to issue a new certificate or, in the case of uncertificated securities and upon request, a notice of issuance of shares, to the person entitled to the shares, cancel the old certificate (if any) and record the transaction in its books.
+        The <Company> will issue a new certificate or notice of issuance of shares, cancel any old certificate, and record the transfer of ownership of shares when it receives transfer instructions from the record holder of shares and good evidence that the owner of the shares has changed.
 
         # CCC 2115(b) (application to foreign corporations)
         # CCC 1501 (waivable annual report requirement)
