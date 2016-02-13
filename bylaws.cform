@@ -156,7 +156,7 @@
 
         \ Types of Officers \
         The <Company> will have a president and a secretary. 
-        If the <Board> decides, they <Company> may also have a chief financial officer, treasurer, and one or more vice presidents, assistant secretaries, and assistant treasurers.
+        If the <Board> decides, they <Company> may also have a treasurer, any number of vice presidents, assistant secretaries, and assistant treasurers, or both. 
         In addition, the <Board> may empower the chief executive officer or president to appoint other officers and agents. 
         The chief executive officer and president will set the terms of office and authorities of officers they appoint.
 
@@ -185,27 +185,7 @@
 
             \ Meeting Notices \ The secretary will give all required notices of stockholders meetings and directors meetings.
 
-        \ Chief Financial Officer \
-
-            \\
-            The chief financial officer shall keep and maintain, or cause to be kept and maintained, adequate and correct books and records of accounts of the properties and business transactions of the corporation, including accounts of its assets, liabilities, receipts, disbursements, gains, losses, capital, retained earnings and shares. The books of account shall at all reasonable times be open to inspection by any member of the Board of Directors.
-
-            \\
-            The chief financial officer shall render to the chief executive officer, the president, or the Board of Directors, upon request, an account of all his or her transactions as chief financial officer and of the financial condition of the corporation. He or she shall have the general powers and duties usually vested in the office of chief financial officer of a corporation and shall have such other powers and perform such other duties as may be prescribed by the Board of Directors or these bylaws.
-
-            \\
-            The person serving as the chief financial officer shall also be the acting treasurer of the corporation whenever no other person is then serving in such capacity. Subject to such supervisory powers (if any) as may be given by the Board of Directors to another officer of the corporation, the chief financial officer shall supervise and direct the responsibilities of the treasurer whenever someone other than the chief financial officer is serving as treasurer of the corporation.
-
-        \ Treasurer \
-
-            \\
-            The treasurer shall keep and maintain, or cause to be kept and maintained, adequate and correct books and records with respect to all bank accounts, deposit accounts, cash management accounts and other investment accounts of the corporation. The books of account shall at all reasonable times be open to inspection by any member of the Board of Directors.
-
-            \\
-            The treasurer shall deposit, or cause to be deposited, all moneys and other valuables in the name and to the credit of the corporation with such depositories as may be designated by the Board of Directors. He or she shall disburse the funds of the corporation as may be ordered by the Board of Directors and shall render to the chief financial officer, the chief executive officer, the president or the Board of Directors, upon request, an account of all his or her transactions as treasurer. He or she shall have the general powers and duties usually vested in the office of treasurer of a corporation and shall have such other powers and perform such other duties as may be prescribed by the Board of Directors or these bylaws.
-
-            \\
-            The person serving as the treasurer shall also be the acting chief financial officer of the corporation whenever no other person is then serving in such capacity.
+        \ Treasurer \ The treasurer will be the chief financial officer of the <Company>. The treasurer will keep <Company> financial records, report on the <Company>'s finances, and make authorized disbursements of <Company> funds.
 
         \ Representation Of Shares Of Other Corporations \
         The chairman of the board, the chief executive officer, the president, any vice president, the chief financial officer, the secretary or assistant secretary of this corporation, or any other person authorized by the Board of Directors or the chief executive officer or the president or a vice president, is authorized to vote, represent, and exercise on behalf of this corporation all rights incident to any and all shares of any other corporation or corporations standing in the name of this corporation. This authority may be exercised either by such person directly or by any other person authorized to do so by proxy or power of attorney duly executed by the person having such authority.
