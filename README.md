@@ -4,11 +4,11 @@ the open legal operating system for start-up companies
 
 <http://ironsides.github.io>
 
-**Ironsides is under active development toward its first stable public release.**
+**Ironsides is under active development toward a stable release.**
 
-Download the most recent release of Ironsides [from GitHub](https://github.com/ironsides/ironsides/releases).
+Download the most recent release of Ironsides from [GitHub][Releases].
 
-Make comments and suggest changes via GitHub or [on Google Drive](https://drive.google.com/folderview?id=0B4WQgvqBs9InbmxhVGVCSm9xeFE&usp=sharing).
+Make comments and suggest changes on [Google Drive][Drive].
 
 ## Be Warned!
 
@@ -20,4 +20,11 @@ A good lawyer will know whether Ironsides fits your need.
 
 ## Thanks
 
-Ironclad is made possible with the generous material, intellectual, and moral support of [Ironclad, Inc.](https://www.ironclad.ai).
+Ironclad is made possible with the generous material, intellectual, and
+moral support of [Ironclad][Ironclad].
+
+[Drive]: https://drive.google.com/folderview?id=0B4WQgvqBs9InbmxhVGVCSm9xeFE&usp=sharing
+
+[Ironclad]: https://www.ironclad.ai
+
+[Releases]: https://github.com/ironsides/ironsides/releases
