@@ -4,7 +4,7 @@
         \ Indemnification Agreements \
 
             \\
-            (( includei indem-agreements ))
+            (( require includes/indem-agreements ))
 
             \\
             Entering into such indemnification agreements is in the best interests of the <Company> and its stockholders.

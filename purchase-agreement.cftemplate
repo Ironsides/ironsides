@@ -9,19 +9,19 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
             \\
             This agreement covers <Your> purchase of shares of common stock in the <Company>. The <Company> agrees to sell <You> stock in {Shares}, and <You> agree to buy the stock 
 
-            # (( if allIP start ))
+            # (( if allIP begin ))
 
             with property you assign to the <Company> 
 
             # (( end ))
 
-            # (( if allCash start ))
+            # (( if allCash begin ))
 
             with cash 
 
             # (( end ))
 
-            # (( if cashAndIP start ))
+            # (( if cashAndIP begin ))
 
             with cash and property you assign to the <Company> 
 
@@ -29,7 +29,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             in {Purchase Price}.
 
-            # (( unless allCash start ))
+            # (( unless allCash begin ))
 
             <You> assign the property to the <Company> in {Property Assignment}.
 
@@ -66,19 +66,19 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
             \ Purchase Price \
             On the <Purchase Date>, <You> shall pay [Purchase Price] per share for <Your Shares> (the ""Original Price per Share""), for a total purchase price of [Total Purchase Price] (the ""Total Purchase Price""). 
 
-            # (( if allIP start ))
+            # (( if allIP begin ))
 
             <You> pay the <Total Purchase Price> by assigning property to the <Company> under {Property Assignment}. 
 
             # (( end ))
 
-            # (( if allCash start ))
+            # (( if allCash begin ))
 
             <You> shall pay the <Total Purchase Price> by check made out to the <Company>. 
 
             # (( end ))
 
-            # (( if cashAndIP start ))
+            # (( if cashAndIP begin ))
 
             <You> pay half the <Total Purchase Price> by assigning property to the <Company> under {Property Assignment}, and <You> shall pay the other half of the <Total Purchase Price> by check made out to the <Company>. 
 
@@ -87,7 +87,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
             \ Record of Ownership \
             On the <Purchase Date>, <Company> shall list <Your Shares> in <Your> name as of the <Purchase Date> in the <Company>'s stock ledger and list of stockholders, or with the authorized transfer of the <Company> if it has one. On <Your> request, the <Company> shall give <You> <Notice> of issuance for <Your Shares>.
 
-        # (( unless allCash start ))
+        # (( unless allCash begin ))
 
         \ Property Assignment \
 
@@ -203,14 +203,14 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             \ Acceleration \
 
-                # (( if singleTrigger start ))
+                # (( if singleTrigger begin ))
 
                 \ Single-Trigger Acceleration \
                 [Acceleration Percentage] of then <Unvested Shares> (""Accelerated Shares""), rounded up to the nearest whole share, will <Vest> immediately before any <Change of Control>.
 
                 # (( end ))
 
-                # (( unless singleTrigger start ))
+                # (( unless singleTrigger begin ))
 
                 \\
                 ""Acceleration Trigger"" means any of these that happens in connection with or following a <Change of Control>:
@@ -462,7 +462,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
         \ Defined Terms \
 
-            # (( unless allCash start ))
+            # (( unless allCash begin ))
 
             \\
             ""Assigned Assets"" means the <Company-Related Intellectual Property> and <Company-Related Equipment> assigned by the <Assignments>.
@@ -484,7 +484,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
             \\
             (( require includes/business-entity ))
 
-            # (( unless allCash start ))
+            # (( unless allCash begin ))
 
             \\
             ""Business Assets"" means all business and marketing plans, worldwide marketing rights, third-party software, customer and supplier lists, price lists, mailing lists, customer and supplier records, and other confidential or proprietary information.
@@ -509,7 +509,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
             \\
             (( require includes/change-of-control ))
 
-            # (( unless allCash start ))
+            # (( unless allCash begin ))
 
             \\
             ""Company Business"" means the business of the <Company>, which involves [Description of Business].
@@ -519,7 +519,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
             \\
             ""Company Corporate Family"" means the <Company> or any <Parent>, <Affiliate>, <Subsidiary>, or their successors.
 
-            # (( unless allCash start ))
+            # (( unless allCash begin ))
 
             \\
             ""Company-Related Equipment"" means <Equipment> that meets all these criteria immediately before this agreement:
@@ -584,7 +584,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
 
             <Continuous Service Status> as an <Employee> or <Consultant> will not be considered interrupted or terminated in the case of a transfer between places of work of or members of the <Company Corporate Family>, or a transition from <Employee> to <Consultant> or from <Consultant> to <Employee>.
 
-            # (( unless allCash start ))
+            # (( unless allCash begin ))
 
             \\
             ""Copyright Derivative"" means the same as "derivative work" under the United States' Copyright Act of 1976.
@@ -615,7 +615,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
             \\
             ""Disability"" means a condition causing a person to considered to be "permanently and totally disabled" under Section 22(e)(3) of the <Tax Code>.
 
-            # (( unless allCash start ))
+            # (( unless allCash begin ))
 
             \\
             ""Embodiment"" means
@@ -634,7 +634,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
             \\
             ""Employer"" means the member of the <Company Corporate Family> an <Employee> or <Consultant> is serving.
 
-            # (( unless allCash start ))
+            # (( unless allCash begin ))
 
             \\
             ""Equipment"" means computers, office equipment, and other property, but not real estate.
@@ -653,7 +653,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
             \\
             ""Family Transfer"" means a transfer of <Covered Securities> during <Your> lifetime, or on <Your> death by will or intestacy, either to <Your> <Immediate Family>, or to a trust for the benefit of <You> or <Your> <Immediate Family>.
 
-            # (( unless singleTrigger start ))
+            # (( unless singleTrigger begin ))
 
             \\
             ""Good Reason to Resign"" means any of these that happen without <Your> written consent:
@@ -702,7 +702,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
             \\
             ""Immediate Family"" means lineal descendants and antecedents, spouses (and spouses' antecedents), fathers, mothers, brothers and sisters (and their descendants), stepchildren (and their antecedents and descendants), aunts and uncles (and their antecedents and descendants), brothers-in-law and sisters-in-law (and their antecedents and descendants), and includes adoptive relations, and any person sharing <Your> household (other than tenants and employees).
 
-            # (( unless allCash start ))
+            # (( unless allCash begin ))
 
             \\
             ""Infringement"" means infringement of <Intellectual Property Rights>, before or after the date of this agreement.
@@ -715,7 +715,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
             \\
             ""Involuntary Transfer"" means a transfer of <Covered Securities> by operation of law or other involuntary transfer. A transfer due to divorce or intestate transfer on death is an <Involuntary Transfer>. No <Family Transfer> is an <Involuntary Transfer>.
 
-            # (( unless allCash start ))
+            # (( unless allCash begin ))
 
             \\
             ""Intellectual Property Rights"" means
@@ -731,7 +731,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
             \\
             ""IRS"" means the Internal Revenue Service.
 
-            # (( unless allCash start ))
+            # (( unless allCash begin ))
 
             \\
             ""Legal Action"" means any legal action or claim, ignoring the historical distinction between actions "in law" and "in equity".
@@ -766,7 +766,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
             \\
             ""Subsidiary"" means any corporation (other than the <Company>) in an unbroken chain of corporations beginning with the <Company> if each of the corporations other than the last corporation in the unbroken chain owns stock possessing 50% or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
 
-            # (( unless allCash start ))
+            # (( unless allCash begin ))
 
             \\
             ""Technology"" means all inventions, technology, ideas, concepts, processes, business plans, documentation, financial projections, models, and any other items authored, conceived, invented, developed, or designed by <You> and not already owned by <Company>.

@@ -2,7 +2,7 @@
   "private": true,
   "devDependencies": {
     "async-each-series": "^1.1.0",
-    "cftemplate": "^0.3.1",
+    "cftemplate": "^0.6.0",
     "commonform-cli": "^0.13.1",
     "update-google-drive-document": "^0.1.0"
   },
