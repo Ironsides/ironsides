@@ -1,2 +1,3 @@
 * text eol=lf
 *.docx binary
+AUTHORS merge=union
