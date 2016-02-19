@@ -1,10 +1,19 @@
 #!/usr/bin/env node
-var exec = require('child_process').execSync
 var mv = require('fs').renameSync
 var basenames = require('./files.json')
+var path = require('path')
 
-process.stdout.write('Running `make`\n')
-exec('make', { stdio: [ 0, 1, 2 ] })
 basenames.forEach(function(basename) {
   process.stdout.write('Moving ' + basename.build + '\n')
-  mv(( basename.build + '.docx' ), ( basename.github + '.docx' )) })
+  try {
+    mv(
+      path.join('build', ( basename.build + '.docx' )),
+      path.join('build', ( basename.github + '.docx' ))) }
+  catch (error) {
+    /* ignore */ }
+  try {
+    mv(
+      path.join('build', ( basename.build + '.pdf' )),
+      path.join('build', ( basename.github + '.pdf' ))) }
+  catch (error) {
+    /* ignore */ } })

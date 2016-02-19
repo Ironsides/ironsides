@@ -3,8 +3,8 @@ PURCHASE_AGREEMENTS = $(addsuffix .cform,$(addprefix purchase-agreement-,single-
 FORMS = $(filter-out purchase-agreement.cform,$(TEMPLATES:.cftemplate=.cform)) $(PURCHASE_AGREEMENTS)
 COMMONFORM = node_modules/.bin/commonform
 CFTEMPLATE = node_modules/.bin/cftemplate
-DOCX = $(FORMS:.cform=.docx)
-PDF = $(FORMS:.cform=.pdf)
+DOCX = $(addprefix build/,$(FORMS:.cform=.docx))
+PDF = $(addprefix build/,$(FORMS:.cform=.pdf))
 EDITION = $(strip $(shell git tag -l --points-at HEAD))
 
 all: $(DOCX)
@@ -17,10 +17,13 @@ $(COMMONFORM) $(CFTEMPLATE):
 %.pdf: %.docx
 	doc2pdf $<
 
-%.docx: %.cform %.options_with_edition %.sigs.json $(COMMONFORM)
+build:
+	mkdir -p build
+
+build/%.docx: %.cform %.options_with_edition %.sigs.json $(COMMONFORM) build
 	$(COMMONFORM) render --format docx --signatures $*.sigs.json $(shell cat $*.options_with_edition) < $< > $@
 
-%.docx: %.cform %.options_with_edition $(COMMONFORM)
+build/%.docx: %.cform %.options_with_edition $(COMMONFORM) build
 	$(COMMONFORM) render --format docx $(shell cat $*.options_with_edition) < $< > $@
 
 %.cform: $(CFTEMPLATE) %.cftemplate %.options.json
@@ -48,7 +51,7 @@ endif
 %.options.json:
 	echo "{}" > $@
 
-.PHONY: lint critique clean
+.PHONY: lint critique clean docker
 
 lint: $(FORMS) $(COMMONFORM)
 	for form in $(FORMS); do \
@@ -66,3 +69,8 @@ critique: $(FORMS) $(COMMONFORM)
 
 clean:
 	rm -rf $(DOCX) $(PDF) $(FORMS)
+
+docker:
+	docker build -t ironsides .
+	docker run -v $(shell pwd)/build:/app/build ironsides
+	sudo chown -R `whoami`:`whoami` build
