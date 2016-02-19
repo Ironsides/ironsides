@@ -5,7 +5,7 @@ COMMONFORM = node_modules/.bin/commonform
 CFTEMPLATE = node_modules/.bin/cftemplate
 DOCX = $(FORMS:.cform=.docx)
 PDF = $(FORMS:.cform=.pdf)
-VERSION = $(strip $(shell git tag -l --points-at HEAD))
+EDITION = $(strip $(shell git tag -l --points-at HEAD))
 
 all: $(DOCX)
 
@@ -17,11 +17,11 @@ $(COMMONFORM) $(CFTEMPLATE):
 %.pdf: %.docx
 	doc2pdf $<
 
-%.docx: %.cform %.options_with_version %.sigs.json $(COMMONFORM)
-	$(COMMONFORM) render --format docx --signatures $*.sigs.json $(shell cat $*.options_with_version) < $< > $@
+%.docx: %.cform %.options_with_edition %.sigs.json $(COMMONFORM)
+	$(COMMONFORM) render --format docx --signatures $*.sigs.json $(shell cat $*.options_with_edition) < $< > $@
 
-%.docx: %.cform %.options_with_version $(COMMONFORM)
-	$(COMMONFORM) render --format docx $(shell cat $*.options_with_version) < $< > $@
+%.docx: %.cform %.options_with_edition $(COMMONFORM)
+	$(COMMONFORM) render --format docx $(shell cat $*.options_with_edition) < $< > $@
 
 %.cform: $(CFTEMPLATE) %.cftemplate %.options.json
 	$^ > $@
@@ -38,11 +38,11 @@ purchase-agreement-%.cftemplate: purchase-agreement.cftemplate
 purchase-agreement-%.options: purchase-agreement.options
 	cp $< $@
 
-%.options_with_version: %.options
-ifeq ($(VERSION),)
-	cat $< | sed 's/VERSION/Ironsides Development Draft/' > $@
+%.options_with_edition: %.options
+ifeq ($(EDITION),)
+	cat $< | sed 's/EDITION/Ironsides Development Draft/' > $@
 else
-	cat $< | sed 's/VERSION/Ironsides $(VERSION)/' > $@
+	cat $< | sed 's/EDITION/Ironsides $(EDITION)/' > $@
 endif
 
 %.options.json:
