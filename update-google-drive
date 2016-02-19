@@ -2,6 +2,7 @@
 var child_process = require('child_process')
 var series = require('async-each-series')
 var fs = require('fs')
+var path = require('path')
 var update = require('update-google-drive-document')
 
 child_process.execSync('make', { stdio: [ 0, 1, 2 ] })
@@ -17,7 +18,8 @@ series(
         process.env.GOOGLE_CLIENT_SECRET,
         process.env.GOOGLE_CLIENT_REFRESH_TOKEN,
         basename.drive,
-        fs.createReadStream(basename.build + '.docx'),
+        fs.createReadStream(
+          path.join('build', basename.build + '.docx')),
         function(error) {
           if (error) {
             process.stderr.write('Failed!\n')
