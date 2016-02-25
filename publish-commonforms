@@ -10,6 +10,8 @@ child_process.execSync('make', [ 'json' ], { stdio: [ 0, 1, 2 ] })
 child_process.execSync('make', [ 'build/edition' ], { stdio: [ 0, 1, 2 ] })
 
 var edition = fs.readFileSync(path.join(process.cwd(), 'build', 'edition'))
+  .toString()
+  .trim()
 
 series(
   require('./files.json'),
@@ -25,17 +27,18 @@ series(
       else {
         process.stdout.write('Done.\n')
         process.stdout.write('Publishing ' + logMessage + ' ... ')
-        var digest = /[0-9a-f]{64}$/.exec(location)[1]
+        var digest = /[0-9a-f]{64}$/.exec(location)[0]
         // Publish the project to projects.commonform.org.
         publish(
           process.env.COMMONFORM_PUBLISHER,
           process.env.COMMONFORM_PASSWORD,
+          basename.commonform,
           edition,
           digest,
-          basename.commonform,
           function(error) {
             if (error) {
               process.stdout.write('Failed!\n')
+              process.stdout.write(('' + error.statusCode))
               done(error) }
             else {
               process.stdout.write('Done.\n')
