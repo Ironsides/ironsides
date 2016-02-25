@@ -11,6 +11,13 @@ deploy:
     branch: master
     repo: Ironsides/ironsides
     tags: true
+- provider: script
+  script: "./publish-commonforms"
+  skip_cleanup: true
+  on:
+    branch: master
+    repo: Ironsides/ironsides
+    tags: true
 - provider: releases
   api_key:
     secure: sXG/5AXZxqIZGSbWYYt8lPZbGS9yHD16tWb7Mp/iTscworKNptfOaNtYBoOe2HCCQk1fX8YCU53i1okcv178EJeadzOXLm2bkmy886fpo/9fTi4pPuV6EGdUdGdK8Tb3M7MbKxmqc9xpoSLP8Gssr6+2jMAMDSMG2mU19VFy4iJtaN7s++xF0u66+bQJPdXf845kUJT+rJghLHWTDHO6hUKXT918Ph9mBTrVY8KviP3Dey5Rl4j5xdtQURCEtoLINJnwnD8biRAhn3IEEqSK921ErdyBTjcodtDSaHvnh4fx8PnC9XBvAbuDH+EwKf0AD1cr66SCSz5nMd6KN+9GUBTDQQecVhjqCu1iIDI4FwOGFcaVjVk1a5DPl4mGbuLbuBRYMHfKhzml33PS8MNWoex7+chYyJKLEBa4CoAjE7Bo2rN99ZdSJRjdb1R3WzojNhjXzxzhDCjWRkSXfOo/wxHopIXgI88THwn292fPxkupcrAdDHhllvAMphSbqvfHSVuvRXqJUsvb906sUOmaCZhOWmOrX2XCl4SO290X8TJIqdHboUykrNWsykAa+igwFOsEeWNeCgfZsl+f45htzMSSIhHttH99+UaVS8kFiCc6hazXc/zTwdJWim6AsH/KVn+TzKBmbDF7fx1wYgItCz3BxcJ0d4XNMOSfXfRG5EA=
