@@ -4,6 +4,8 @@
     "async-each-series": "^1.1.0",
     "cftemplate": "^0.6.0",
     "commonform-cli": "^0.13.1",
+    "commonform-publish": "^1.0.3",
+    "commonform-share": "^1.0.0",
     "update-google-drive-document": "^0.1.0"
   },
   "dependencies": {

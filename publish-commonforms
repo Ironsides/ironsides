@@ -1,0 +1,45 @@
+#!/usr/bin/env node
+var child_process = require('child_process')
+var series = require('async-each-series')
+var path = require('path')
+var fs = require('fs')
+var publish = require('commonform-publish')
+var share = require('commonform-share')
+
+child_process.execSync('make', [ 'json' ], { stdio: [ 0, 1, 2 ] })
+
+var edition = fs.readFileSync(path.join(process.cwd(), 'build', 'edition'))
+
+series(
+  require('./files.json'),
+  function(basename, done) {
+    var logMessage = ( basename.build + ' (' + basename.commonform + ')' )
+    var form = require(path.join(process.cwd(), 'build', basename.build + '.json'))
+    process.stdout.write('Sharing ' + logMessage + ' ... ')
+    // Share the form to api.commonform.org.
+    share(form, function(error, location) {
+      if (error) {
+        process.stdout.write('Failed!\n')
+        done(error) }
+      else {
+        process.stdout.write('Done.\n')
+        process.stdout.write('Publishing ' + logMessage + ' ... ')
+        var digest = /[0-9a-f]{64}$/.exec(location)[1]
+        // Publish the project to projects.commonform.org.
+        publish(
+          process.env.COMMONFORM_PUBLISHER,
+          process.env.COMMONFORM_PASSWORD,
+          edition,
+          digest,
+          basename.commonform,
+          function(error) {
+            if (error) {
+              process.stdout.write('Failed!\n')
+              done(error) }
+            else {
+              process.stdout.write('Done.\n')
+              done(null) } }) } }) },
+  function(error) {
+    if (error) {
+      process.stdout.write(error.toString() + '\n') }
+    process.exit(error ? 1 : 0) })
