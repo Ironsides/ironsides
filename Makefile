@@ -24,6 +24,9 @@ $(COMMONFORM) $(CFTEMPLATE):
 build:
 	mkdir -p build
 
+build/edition:
+	echo -n "$(EDITION)" > $@
+
 build/%.docx: build/%.cform %.options_with_edition %.sigs.json $(COMMONFORM) build
 	$(COMMONFORM) render --format docx --signatures $*.sigs.json $(shell cat $*.options_with_edition) < $< > $@
 
