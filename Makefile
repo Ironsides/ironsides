@@ -5,9 +5,10 @@ COMMONFORM = node_modules/.bin/commonform
 CFTEMPLATE = node_modules/.bin/cftemplate
 DOCX = $(addprefix build/,$(FORMS:.cform=.docx))
 PDF = $(addprefix build/,$(FORMS:.cform=.pdf))
+CFORM = $(addprefix build/,$(FORMS))
 EDITION = $(strip $(shell git tag -l --points-at HEAD))
 
-all: $(DOCX)
+all: $(DOCX) $(CFORM)
 
 pdf: $(PDF)
 
@@ -20,13 +21,13 @@ $(COMMONFORM) $(CFTEMPLATE):
 build:
 	mkdir -p build
 
-build/%.docx: %.cform %.options_with_edition %.sigs.json $(COMMONFORM) build
+build/%.docx: build/%.cform %.options_with_edition %.sigs.json $(COMMONFORM) build
 	$(COMMONFORM) render --format docx --signatures $*.sigs.json $(shell cat $*.options_with_edition) < $< > $@
 
-build/%.docx: %.cform %.options_with_edition $(COMMONFORM) build
+build/%.docx: build/%.cform %.options_with_edition $(COMMONFORM) build
 	$(COMMONFORM) render --format docx $(shell cat $*.options_with_edition) < $< > $@
 
-%.cform: $(CFTEMPLATE) %.cftemplate %.options.json
+build/%.cform: $(CFTEMPLATE) %.cftemplate %.options.json
 	$^ > $@
 
 purchase-agreement-%.sigs.json: purchase-agreement.sigs.json
