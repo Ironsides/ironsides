@@ -6,9 +6,12 @@ CFTEMPLATE = node_modules/.bin/cftemplate
 DOCX = $(addprefix build/,$(FORMS:.cform=.docx))
 PDF = $(addprefix build/,$(FORMS:.cform=.pdf))
 CFORM = $(addprefix build/,$(FORMS))
+JSON = $(addprefix build/,$(FORMS:.cform=.json))
 EDITION = $(strip $(shell git tag -l --points-at HEAD))
 
 all: $(DOCX) $(CFORM)
+
+json: $(JSON)
 
 pdf: $(PDF)
 
@@ -29,6 +32,9 @@ build/%.docx: build/%.cform %.options_with_edition $(COMMONFORM) build
 
 build/%.cform: $(CFTEMPLATE) %.cftemplate %.options.json
 	$^ > $@
+
+build/%.json: build/%.cform $(COMMONFORM)
+	$(COMMONFORM) render --format native < $< > $@
 
 purchase-agreement-%.sigs.json: purchase-agreement.sigs.json
 	cp $< $@
