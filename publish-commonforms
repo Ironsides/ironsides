@@ -7,6 +7,7 @@ var publish = require('commonform-publish')
 var share = require('commonform-share')
 
 child_process.execSync('make', [ 'json' ], { stdio: [ 0, 1, 2 ] })
+child_process.execSync('make', [ 'build/edition' ], { stdio: [ 0, 1, 2 ] })
 
 var edition = fs.readFileSync(path.join(process.cwd(), 'build', 'edition'))
 

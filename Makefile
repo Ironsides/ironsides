@@ -25,7 +25,11 @@ build:
 	mkdir -p build
 
 build/edition:
+ifeq ($(EDITION),)
+	echo -n "Ironsides Development Draft" > $@
+else
 	echo -n "$(EDITION)" > $@
+endif
 
 build/%.docx: build/%.cform %.options_with_edition %.sigs.json $(COMMONFORM) build
 	$(COMMONFORM) render --format docx --signatures $*.sigs.json $(shell cat $*.options_with_edition) < $< > $@
