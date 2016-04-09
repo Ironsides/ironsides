@@ -11,7 +11,7 @@ all: $(DOCX)
 
 pdf: $(PDF)
 
-$(COMMONFORM) $(CFTEMPLATE):
+$(COMMONFORM) $(CFTEMPLATE): package.json
 	npm i
 
 %.pdf: %.docx
