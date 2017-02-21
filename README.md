@@ -58,7 +58,7 @@ A good lawyer will know whether Ironsides fits your need.
 
 ## Thanks
 
-Ironclad is made possible with the generous material, intellectual, and
+Ironsides is made possible with the generous material, intellectual, and
 moral support of [Ironclad][Ironclad].
 
 [Drive]: https://drive.google.com/folderview?id=0B4WQgvqBs9InbmxhVGVCSm9xeFE&usp=sharing
