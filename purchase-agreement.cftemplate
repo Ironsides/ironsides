@@ -61,10 +61,10 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
         \ Stock Purchase \
 
             \ Shares \
-            Subject to this agreement, on the date of this agreement or on another date agreed on by the parties (the ""Purchase Date""), the <Company> shall issue and sell to <You>, and <You> shall purchase from the <Company>, [Number of Shares] shares of the <Company>'s common stock (""Your Shares"").
+            Subject to this agreement, on the date of this agreement or on another date agreed on by the parties, the <Company> shall issue and sell to <You>, and <You> shall purchase from the <Company>, [Number of Shares] shares of the <Company>'s common stock (""Your Shares"").
 
             \ Purchase Price \
-            On the <Purchase Date>, <You> shall pay [Purchase Price] per share for <Your Shares> (the ""Original Price per Share""), for a total purchase price of [Total Purchase Price] (the ""Total Purchase Price""). 
+            On the date of this agreement, <You> shall pay [Purchase Price] per share for <Your Shares> (the ""Original Price per Share""), for a total purchase price of [Total Purchase Price] (the ""Total Purchase Price""). 
 
             # (( if allIP begin ))
 
@@ -85,7 +85,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
             #(( end ))
 
             \ Record of Ownership \
-            On the <Purchase Date>, <Company> shall list <Your Shares> in <Your> name as of the <Purchase Date> in the <Company>'s stock ledger and list of stockholders, or with the authorized transfer of the <Company> if it has one. On <Your> request, the <Company> shall give <You> <Notice> of issuance for <Your Shares>.
+            On the date of this agreement, <Company> shall list <Your Shares> in <Your> name as of the date of this agreement in the <Company>'s stock ledger and list of stockholders, or with the authorized transfer of the <Company> if it has one. On <Your> request, the <Company> shall give <You> <Notice> of issuance for <Your Shares>.
 
         # (( unless allCash begin ))
 
@@ -434,13 +434,13 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
                 <You> understand that <You> may elect to be taxed when <Your Shares> are purchased, rather than when they <Vest>, by filing an election under Section 83(b) of the <Tax Code> (an ""83(b) Election"") with the <IRS> within 30 days from the date of purchase.
 
                 \\
-                <You> understands that even if the fair market value of <Your Shares> on the <Purchase Date> equals the <Total Purchase Price>, an <83(b) Election> must be made to avoid income under Section 83(a) in the future.
+                <You> understands that even if the fair market value of <Your Shares> on the date of this agreement equals the <Total Purchase Price>, an <83(b) Election> must be made to avoid income under Section 83(a) in the future.
 
                 \\
                 <You> understands that failure to file an <83(b) Election> on time may have severe tax consequences for <You>.
 
                 \\
-                <You> understand that an additional copy of any <83(b) Election> should be filed with <Your> federal income tax return for the calendar year encompassing the <Purchase Date>.
+                <You> understand that an additional copy of any <83(b) Election> should be filed with <Your> federal income tax return for the calendar year encompassing the date of this agreement.
 
                 \\
                 <You> acknowledge that this is only a summary of the effect of United States federal income taxation on purchase of <Your Shares>. The summary is incomplete, and will not help <You> avoid any tax penalties.
