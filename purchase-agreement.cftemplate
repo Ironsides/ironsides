@@ -85,7 +85,7 @@ This common stock purchase agreement of [Date] is between [Company Name], a Dela
             #(( end ))
 
             \ Record of Ownership \
-            On the date of this agreement, <Company> shall list <Your Shares> in <Your> name as of the date of this agreement in the <Company>'s stock ledger and list of stockholders, or with the authorized transfer of the <Company> if it has one. On <Your> request, the <Company> shall give <You> <Notice> of issuance for <Your Shares>.
+            On the date of this agreement, <Company> shall list <Your Shares> in <Your> name as of the date of this agreement in the <Company>'s stock ledger and list of stockholders, or with the authorized transfer agent of the <Company> if it has one. On <Your> request, the <Company> shall give <You> <Notice> of issuance for <Your Shares>.
 
         # (( unless allCash begin ))
 
